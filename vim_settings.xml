@@ -170,10 +170,10 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" timestamp="1519404120596">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" timestamp="1519406566232">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
@@ -390,12 +390,12 @@
         <mark key="^" line="60" column="10" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" timestamp="1519404159270">
-        <mark key="'" line="48" column="28" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="48" column="78" />
-        <mark key="^" line="48" column="78" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" timestamp="1519406598658">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/BPlusTree.java" timestamp="1475787964000">
         <mark key="'" line="76" column="29" />
@@ -537,12 +537,11 @@
         <mark key="." line="105" column="82" />
         <mark key="^" line="105" column="82" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1519405604221">
-        <mark key="'" line="13" column="61" />
-        <mark key="[" line="13" column="83" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1519406245709">
+        <mark key="'" line="14" column="61" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh_accelerator.rs" timestamp="1512606147887">
         <mark key="'" line="81" column="0" />
@@ -633,7 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/transformable.rs" />
       <jump line="40" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/transformable.rs" />
       <jump line="4" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/meshutils.rs" />
       <jump line="56" column="3" filename="$USER_HOME$/code/apps/xsray/src/engine/meshutils.rs" />
@@ -733,10 +731,11 @@
       <jump line="23" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
       <jump line="48" column="28" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
       <jump line="7" column="61" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" />
+      <jump line="44" column="12" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -745,16 +744,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+        <text encoding="base64">Ym9vbCA=</text>
       </register>
       <register name="/" type="4">
         <text>usage2</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VGltZUluZm9ybWF0aW9uJiB0aW1lX2luZm8sIHNpemVfdCBudW1fc2FtcGxlcw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFNvdW5kU2V0JiBnZXRfaW5wdXQoc2l6ZV90IGlkeCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9UT0RPIGNoYW5nZSB0byB0eXBlc2FmZSBjaHJvbm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -824,28 +823,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RlZmluZSBUV09fUEkgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFJhZGlhbiB0d29fcGk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZmxvYXQgaW5jcmVhc2VfcGhhc2UoZG91YmxlIHByZXZpb3VzX3BoYXNlKQoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgSHogPSBkb3VibGU7Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNsYXBpLXBsdWdpbi5oPgo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
