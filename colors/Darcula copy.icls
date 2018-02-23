@@ -1,0 +1,18 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="2b2b38" />
+    <option name="TEARLINE_COLOR" value="4b4b55" />
+  </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="cee0f1" />
+        <option name="BACKGROUND" value="131429" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
