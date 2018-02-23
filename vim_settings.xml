@@ -59,6 +59,9 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
+      <file name="/LLDB" timestamp="1519414053969">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/a1_mesh/src/meshgen/OBJMesh.java" timestamp="1486136072440">
         <mark key="'" line="459" column="0" />
         <mark key="[" line="31" column="6" />
@@ -113,11 +116,10 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="152" column="47" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.hpp" timestamp="1519408585244">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
-        <mark key="^" line="29" column="48" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.hpp" timestamp="1519410052123">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1519095188494">
         <mark key="'" line="86" column="1" />
@@ -174,11 +176,11 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" timestamp="1519408506747">
-        <mark key="[" line="71" column="28" />
-        <mark key="]" line="71" column="28" />
-        <mark key="." line="71" column="28" />
-        <mark key="^" line="71" column="28" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" timestamp="1519414320401">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
@@ -413,12 +415,12 @@
         <mark key="^" line="60" column="10" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" timestamp="1519408482049">
-        <mark key="'" line="52" column="28" />
-        <mark key="[" line="47" column="55" />
-        <mark key="]" line="47" column="53" />
-        <mark key="." line="47" column="53" />
-        <mark key="^" line="47" column="53" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" timestamp="1519414119807">
+        <mark key="'" line="53" column="28" />
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/BPlusTree.java" timestamp="1475787964000">
         <mark key="'" line="76" column="29" />
@@ -603,6 +605,12 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" timestamp="1519410226569">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/LinkedHash.java" timestamp="1518544354305">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="75" column="7" />
@@ -761,8 +769,8 @@
       <jump line="44" column="12" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>shared_ptr</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -771,16 +779,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>shared_ptr</text>
       </register>
       <register name="/" type="4">
         <text>usage2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNvdW5kU2V0JiBnZXRfaW5wdXQoc2l6ZV90IGlkeCk7Cg==</text>
+        <text encoding="base64">ICAgIG1faW5wdXRzID0gc3RkOjp2ZWN0b3IobnVtYmVyX29mX2lucHV0cygpLCBudWxscHRyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1fb3V0cHV0cy5yZXNpemUobnVtYmVyX29mX291dHB1dHMoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -850,28 +858,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpemUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvaWQgKCkK</text>
+        <text encoding="base64">ICAgIG1faW5wdXRzID0gc3RkOjp2ZWN0b3I6OjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnNoYXJlZF9wdHI8T3V0cHV0PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChpZHggPCBtX2lucHV0cy5zaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1faW5wdXRzLmF0KCkK</text>
+      <register name="6" type="4">
+        <text>{
+            .from_node = osc_handle,
+            .to_node = 1,
+            .from_output = 0,
+            .to_input = 0
+                                   }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1fbm9kZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
