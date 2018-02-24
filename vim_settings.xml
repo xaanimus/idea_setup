@@ -561,12 +561,12 @@
         <mark key="." line="105" column="82" />
         <mark key="^" line="105" column="82" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1519445517740">
-        <mark key="'" line="17" column="61" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1519503418600">
+        <mark key="'" line="18" column="61" />
+        <mark key="[" line="9" column="91" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh_accelerator.rs" timestamp="1512606147887">
         <mark key="'" line="81" column="0" />
