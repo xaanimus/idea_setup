@@ -147,7 +147,7 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" timestamp="1519504784726">
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" timestamp="1519402628848">
         <mark key="'" line="397" column="19" />
         <mark key="[" line="496" column="54" />
         <mark key="]" line="496" column="54" />
@@ -324,6 +324,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/.gitignore" timestamp="1520013954507">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="24" column="11" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray1_a2/src/ray1/shader/Phong.java" timestamp="1487336664670">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="72" column="32" />
@@ -462,7 +468,6 @@
         <mark key="." line="63" column="66" />
         <mark key="^" line="63" column="66" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3/src/main/Main.java" timestamp="1519934838608" />
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/surface/Triangle.java" timestamp="1513574504979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="150" column="24" />
