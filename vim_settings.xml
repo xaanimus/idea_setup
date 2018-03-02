@@ -114,6 +114,16 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="27" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/src/warp.cpp" timestamp="1520016180862">
+        <mark key="'" line="47" column="12" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/include/nori/common.h" timestamp="1520015349461">
+        <mark key="'" line="71" column="52" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1518992964322">
         <mark key="'" line="118" column="0" />
         <mark key="[" line="149" column="0" />
@@ -708,9 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="99" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="89" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="86" column="40" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="3" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
@@ -808,10 +815,13 @@
       <jump line="8" column="48" filename="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
       <jump line="9" column="27" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
+      <jump line="43" column="12" filename="$USER_HOME$/code/apps/nori/src/warp.cpp" />
+      <jump line="92" column="12" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
+      <jump line="71" column="52" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -820,7 +830,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bunny</text>
@@ -828,9 +838,8 @@
       <register name="0" type="2">
         <text encoding="base64">Tk9SSV9OQU1FU1BBQ0VfQkVHSU4K</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKDEuZiAtIGZhYnNmKHAueCgpKSkgKiA7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -900,28 +909,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sb3IzZigxLjApOwo=</text>
+        <text encoding="base64">ICAgIGlmIChwLngoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVGVudFBkZigpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sb3IzZigwLjUpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0Zm06Ogo=</text>
+        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVGVudCgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
+        <text encoding="base64">ICAgICAgICBqawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
+        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVGVudCgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="8">
+        <text>//
+//</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
