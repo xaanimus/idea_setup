@@ -108,6 +108,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/src/normals.cpp" timestamp="1520013465168">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1518992964322">
         <mark key="'" line="118" column="0" />
         <mark key="[" line="149" column="0" />
@@ -242,8 +248,12 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/OBJMesh.java" timestamp="1519326739638">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" timestamp="1520013743661">
+        <mark key="'" line="9" column="27" />
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/egl/math/Matrix3.java" timestamp="1492640514734">
         <mark key="[" line="812" column="9" />
@@ -326,9 +336,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/codable.rs" timestamp="1519070631991">
-        <mark key="'" line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1519097422947">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="25" />
@@ -393,6 +400,12 @@
         <mark key="]" line="53" column="7" />
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/.gitignore" timestamp="1519666667909">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Work/sp18/コンピュータ４２６０/a1/src/meshgen/Main.java" timestamp="1517342800235">
         <mark key="'" line="12" column="0" />
@@ -502,6 +515,11 @@
         <mark key="." line="58" column="48" />
         <mark key="^" line="58" column="48" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/GraphSynthWidget.h" timestamp="1519667133758">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/a1_mesh/src/meshgen/geometry/TorusBuilder.java" timestamp="1486323024529">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="66" column="8" />
@@ -521,6 +539,10 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="28" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1519667113791">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="57" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/Utils.java" timestamp="1475786715291">
         <mark key="'" line="10" column="7" />
@@ -605,13 +627,15 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" timestamp="1519442507717">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" timestamp="1519666848761">
+        <mark key="'" line="8" column="48" />
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="55" />
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1519445499106">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1519666775526">
+        <mark key="'" line="5" column="2" />
         <mark key="[" line="8" column="52" />
         <mark key="]" line="8" column="58" />
         <mark key="^" line="8" column="58" />
@@ -671,12 +695,13 @@
       <file name="/fragment.java" timestamp="1519389995869">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/GraphSynthWidget.cpp" timestamp="1519667237993">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="77" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="83" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="99" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
@@ -773,10 +798,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
       <jump line="1" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
+      <jump line="5" column="2" filename="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" />
+      <jump line="8" column="48" filename="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
+      <jump line="9" column="27" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>res</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -785,16 +814,17 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
-        <text>usage2</text>
+        <text>bunny</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9IC1zdGQ9YysrMTQiKQo=</text>
+        <text encoding="base64">Tk9SSV9OQU1FU1BBQ0VfQkVHSU4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXdfdmFsID49IHR3b19waSA/IG5ld192YWwgLSB0d29fcGkgOiBuZXdfdmFsOwo=</text>
+      <register name="1" type="8">
+        <text>//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -864,37 +894,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sb3IzZigxLjApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBudW1iZXJfb2Zfc2FtcGxlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2l6ZV90IFNvdW5kU2V0OjpudW1iZXJfb2Zfc2FtcGxlcygpIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sb3IzZigwLjUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICB0Zm06Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldF9zYW1wbGVzX3Blcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>usage2</last-search>
+      <last-search>bunny</last-search>
       <last-offset />
-      <last-pattern>usage2</last-pattern>
+      <last-pattern>bunny</last-pattern>
       <last-replace>wi</last-replace>
       <last-substitute>w_o</last-substitute>
       <last-dir>1</last-dir>
@@ -902,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Sampler</entry>
         <entry>TSpl</entry>
         <entry>sample</entry>
         <entry>SceneError</entry>
@@ -922,6 +951,7 @@
         <entry>normal</entry>
         <entry>-e</entry>
         <entry>usage2</entry>
+        <entry>bunny</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
