@@ -114,11 +114,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/warp.cpp" timestamp="1520026667481">
-        <mark key="'" line="47" column="12" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/code/apps/nori/src/warp.cpp" timestamp="1520030286397">
+        <mark key="'" line="124" column="13" />
+        <mark key="[" line="130" column="21" />
+        <mark key="]" line="130" column="21" />
+        <mark key="." line="130" column="21" />
+        <mark key="^" line="130" column="21" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/include/nori/common.h" timestamp="1520015349461">
         <mark key="'" line="71" column="52" />
@@ -473,6 +474,9 @@
       <file name="$USER_HOME$/code/apps/nori/CMakeLists.txt" timestamp="1520020194962">
         <mark key="'" line="98" column="15" />
       </file>
+      <file name="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" timestamp="1520030140665">
+        <mark key="'" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/scene_a3/src/gl/RenderCamera.java" timestamp="1489170466522">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="63" column="0" />
@@ -720,10 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="40" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="87" column="20" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
       <jump line="20" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
       <jump line="39" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
       <jump line="42" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
@@ -820,10 +820,14 @@
       <jump line="92" column="12" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
       <jump line="71" column="52" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
       <jump line="98" column="15" filename="$USER_HOME$/code/apps/nori/CMakeLists.txt" />
+      <jump line="124" column="13" filename="$USER_HOME$/code/apps/nori/src/warp.cpp" />
+      <jump line="1" column="35" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
+      <jump line="10" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
+      <jump line="11" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -832,16 +836,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>flags</text>
+        <text>min</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHRoZXRhID0gYWNvc2Yoeik7CiAgICByZXR1cm4gVmVjdG9yM2YgewogICAgICAgICAgICBzaW5mKHRoZXRhKSAqIGNvc2YocGhpKSwKICAgICAgICAgICAgc2luZih0aGV0YSkgKiBzaW5mKHBoaSksCiAgICAgICAgICAgIHoKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IHRoZXRhID0gYWNvc2Yoeik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IHRoZXRhID0gYWNvc2Yodi56KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -911,37 +915,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvQ29zaW5lSGVtaXNwaGVyZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvQ29zaW5lSGVtaXNwaGVyZVBkZigpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVW5pZm9ybUhlbWlzcGhlcmVQZGYoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgego=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVW5pZm9ybUhlbWlzcGhlcmUoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkISIpOwo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IHogPSBzYW1wbGUueCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVW5pZm9ybVNwaGVyZVBkZigpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2luZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVW5pZm9ybVNwaGVyZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvQ29zaW5lSGVtaXNwaGVyZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVW5pZm9ybUhlbWlzcGhlcmVQZGYoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkISIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flags</last-search>
+      <last-search>min</last-search>
       <last-offset />
-      <last-pattern>flags</last-pattern>
+      <last-pattern>min</last-pattern>
       <last-replace>wi</last-replace>
       <last-substitute>w_o</last-substitute>
       <last-dir>1</last-dir>
@@ -949,8 +953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sample</entry>
-        <entry>SceneError</entry>
         <entry>distribution</entry>
         <entry>epsilon</entry>
         <entry>w_o</entry>
@@ -969,6 +971,8 @@
         <entry>usage2</entry>
         <entry>bunny</entry>
         <entry>flags</entry>
+        <entry>math</entry>
+        <entry>min</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
