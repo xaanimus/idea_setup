@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <DartCodeStyleSettings>
+    <option name="DELEGATE_TO_DARTFMT" value="true" />
+  </DartCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
