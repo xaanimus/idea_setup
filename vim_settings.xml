@@ -48,6 +48,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="54" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/src/accel.cpp" timestamp="1520114313727">
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="0" />
+        <mark key="." line="405" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1518998820131">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="244" column="0" />
@@ -60,6 +65,9 @@
         <mark key="]" line="34" column="35" />
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
+      </file>
+      <file name="/LLDB" timestamp="1520114351515">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
@@ -100,6 +108,12 @@
         <mark key="]" line="269" column="31" />
         <mark key="^" line="269" column="31" />
         <mark key="." line="269" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/include/nori/accel.h" timestamp="1520114671850">
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="10" />
+        <mark key="^" line="46" column="10" />
+        <mark key="." line="46" column="10" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw11/prob3/FrameworkKnapsack.java" timestamp="1495499101124">
         <mark key="'" line="180" column="12" />
@@ -371,11 +385,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/scenes/pa3/ajax-simple.xml" timestamp="1520113469336">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="50" />
+      <file name="$USER_HOME$/code/apps/nori/scenes/pa3/ajax-simple.xml" timestamp="1520114722832">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw3/src/main/java/Test.java" timestamp="1477666592890">
         <mark key="'" line="70" column="0" />
@@ -840,7 +854,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiaW50IiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -858,7 +872,7 @@
         <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiaW50IiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -928,28 +942,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTwhLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS0tPgo=</text>
+        <text encoding="base64">CTwhLS0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">CS0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
+        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
