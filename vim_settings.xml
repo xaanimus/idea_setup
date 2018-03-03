@@ -81,12 +81,12 @@
         <mark key="." line="35" column="84" />
         <mark key="^" line="35" column="84" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1518994431762">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1520111045559">
         <mark key="'" line="129" column="21" />
-        <mark key="[" line="181" column="98" />
-        <mark key="]" line="181" column="48" />
-        <mark key="." line="181" column="48" />
-        <mark key="^" line="181" column="48" />
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="96" column="33" />
+        <mark key="." line="96" column="33" />
+        <mark key="^" line="96" column="33" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/RayTracer.java" timestamp="1507557144299">
         <mark key="[" line="269" column="31" />
@@ -208,12 +208,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1519098611483">
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1520110945050">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" timestamp="1495727265313">
         <mark key="'" line="0" column="0" />
@@ -462,7 +462,6 @@
         <mark key="." line="63" column="66" />
         <mark key="^" line="63" column="66" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3/src/main/Main.java" timestamp="1519934838608" />
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/surface/Triangle.java" timestamp="1513574504979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="150" column="24" />
@@ -470,11 +469,11 @@
         <mark key="." line="150" column="7" />
         <mark key="^" line="150" column="7" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1519096201967">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1520110874554">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/.gitignore" timestamp="1518912667122">
         <mark key="[" line="2" column="10" />
