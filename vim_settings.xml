@@ -17,9 +17,6 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1518323838005">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene_spec.rs" timestamp="1505846407783">
         <mark key="'" line="12" column="25" />
         <mark key="[" line="25" column="4" />
@@ -64,15 +61,12 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1519445225440">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520108468210">
+      <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/a1_mesh/src/meshgen/OBJMesh.java" timestamp="1486136072440">
         <mark key="'" line="459" column="0" />
@@ -284,6 +278,12 @@
         <mark key="^" line="538" column="16" />
         <mark key="." line="812" column="10" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/scenes/pa3/ajax-ao.xml" timestamp="1520111614779">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/Ray.java" timestamp="1513884713359">
         <mark key="[" line="103" column="20" />
         <mark key="]" line="103" column="18" />
@@ -370,6 +370,12 @@
         <mark key="]" line="6" column="25" />
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/scenes/pa3/ajax-simple.xml" timestamp="1520112513354">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw3/src/main/java/Test.java" timestamp="1477666592890">
         <mark key="'" line="70" column="0" />
@@ -643,9 +649,6 @@
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519444305862">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw1/prob_2/Framework.java" timestamp="1485718421367">
         <mark key="'" line="164" column="0" />
         <mark key="[" line="151" column="91" />
@@ -700,9 +703,6 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/fragment.mm" timestamp="1519444318162">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1519058980675">
         <mark key="'" line="40" column="20" />
         <mark key="[" line="32" column="45" />
@@ -729,9 +729,6 @@
         <mark key="]" line="16" column="33" />
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1519389995869">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/GraphSynthWidget.cpp" timestamp="1519667237993">
         <mark key="[" line="0" column="0" />
@@ -843,7 +840,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -852,7 +849,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>dot(</text>
@@ -861,7 +858,7 @@
         <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -931,28 +928,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
+        <text encoding="base64">CTwhLS0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
+        <text encoding="base64">CS0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
+        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBWZWN0b3IzZiAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlcnNlY3Rpb24gc2hhZG93SXRzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjZW5lLT5iCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
