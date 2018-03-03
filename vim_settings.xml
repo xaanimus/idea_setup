@@ -45,6 +45,12 @@
         <mark key="." line="241" column="33" />
         <mark key="^" line="241" column="33" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/scenes/pa1/bunnyDiffuse.xml" timestamp="1520108457443">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="54" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1518998820131">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="244" column="0" />
@@ -60,6 +66,13 @@
       </file>
       <file name="/LLDB" timestamp="1519445225440">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520108468210">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/a1_mesh/src/meshgen/OBJMesh.java" timestamp="1486136072440">
         <mark key="'" line="459" column="0" />
@@ -108,20 +121,20 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/normals.cpp" timestamp="1520020004017">
+      <file name="$USER_HOME$/code/apps/nori/src/normals.cpp" timestamp="1520106893474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/warp.cpp" timestamp="1520030286397">
+      <file name="$USER_HOME$/code/apps/nori/src/warp.cpp" timestamp="1520106741926">
         <mark key="'" line="124" column="13" />
-        <mark key="[" line="130" column="21" />
-        <mark key="]" line="130" column="21" />
-        <mark key="." line="130" column="21" />
-        <mark key="^" line="130" column="21" />
+        <mark key="[" line="120" column="38" />
+        <mark key="]" line="120" column="37" />
+        <mark key="." line="120" column="37" />
+        <mark key="^" line="120" column="37" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/include/nori/common.h" timestamp="1520015349461">
+      <file name="$USER_HOME$/code/apps/nori/include/nori/common.h" timestamp="1520107600541">
         <mark key="'" line="71" column="52" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1518992964322">
@@ -491,6 +504,9 @@
         <mark key="." line="150" column="7" />
         <mark key="^" line="150" column="7" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" timestamp="1520107952206">
+        <mark key="'" line="16" column="105" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1519096201967">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="21" column="17" />
@@ -724,29 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="49" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" />
-      <jump line="37" column="21" filename="$USER_HOME$/code/apps/xsray/assets/scenes/cornell_box1.yaml" />
-      <jump line="27" column="24" filename="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" />
-      <jump line="8" column="19" filename="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" />
-      <jump line="7" column="6" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGenSoln.java" />
-      <jump line="170" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGenSoln.java" />
-      <jump line="171" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGenSoln.java" />
-      <jump line="172" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGenSoln.java" />
-      <jump line="173" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGenSoln.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/OBJMesh.java" />
-      <jump line="64" column="61" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="12" column="37" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="67" column="73" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="479" column="31" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="73" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="74" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="75" column="55" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
@@ -824,10 +817,33 @@
       <jump line="1" column="35" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
       <jump line="10" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
       <jump line="11" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
+      <jump line="146" column="4" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="153" column="33" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="238" column="78" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="240" column="15" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="134" column="16" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="138" column="21" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="143" column="15" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="150" column="8" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="155" column="11" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="26" column="34" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="1" column="15" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="187" column="13" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="231" column="29" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="254" column="52" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="262" column="16" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="9" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="10" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="16" column="105" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -836,16 +852,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>dot(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHRoZXRhID0gYWNvc2Yoeik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHRoZXRhID0gYWNvc2Yodi56KCkpOwo=</text>
+        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -915,37 +931,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvQ29zaW5lSGVtaXNwaGVyZVBkZigpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgego=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHogPSBzYW1wbGUueCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWN0b3IzZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvQ29zaW5lSGVtaXNwaGVyZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlcnNlY3Rpb24gc2hhZG93SXRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocm93IE5vcmlFeGNlcHRpb24oIldhcnA6OnNxdWFyZVRvVW5pZm9ybUhlbWlzcGhlcmVQZGYoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjZW5lLT5iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>dot(</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>dot(</last-pattern>
       <last-replace>wi</last-replace>
       <last-substitute>w_o</last-substitute>
       <last-dir>1</last-dir>
@@ -953,11 +969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>distribution</entry>
-        <entry>epsilon</entry>
-        <entry>w_o</entry>
-        <entry>MeshObject</entry>
-        <entry>mesh</entry>
         <entry>impl Triangle</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>MeshSpec</entry>
@@ -966,13 +977,18 @@
         <entry>compare</entry>
         <entry>NORM_REFERENCE_OBJ</entry>
         <entry>reference</entry>
-        <entry>normal</entry>
         <entry>-e</entry>
         <entry>usage2</entry>
         <entry>bunny</entry>
         <entry>flags</entry>
         <entry>math</entry>
         <entry>min</entry>
+        <entry>shadow</entry>
+        <entry>normal</entry>
+        <entry>norm</entry>
+        <entry>norm(</entry>
+        <entry>dot</entry>
+        <entry>dot(</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
