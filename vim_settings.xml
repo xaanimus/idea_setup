@@ -69,15 +69,15 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1520114351515">
+      <file name="/LLDB" timestamp="1520366442163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/whitted.cpp" timestamp="1520365532183">
+      <file name="$USER_HOME$/code/apps/nori/src/whitted.cpp" timestamp="1520367477687">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
@@ -93,12 +93,12 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/mesh.cpp" timestamp="1520363598881">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="55" column="25" />
-        <mark key="." line="55" column="25" />
-        <mark key="^" line="55" column="25" />
+      <file name="$USER_HOME$/code/apps/nori/src/mesh.cpp" timestamp="1520366392677">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="175" column="35" />
+        <mark key="]" line="175" column="45" />
+        <mark key="." line="175" column="45" />
+        <mark key="^" line="175" column="45" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a2/src/ray1/shader/Lambertian.java" timestamp="1518832886264">
         <mark key="[" line="41" column="51" />
@@ -207,6 +207,12 @@
         <mark key="]" line="496" column="54" />
         <mark key="." line="496" column="54" />
         <mark key="^" line="496" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/scenes/pa4/cbox.xml" timestamp="1520367495195">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
       </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/intersectable.rs" timestamp="1508110459636">
         <mark key="'" line="8" column="30" />
@@ -321,12 +327,12 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/include/nori/mesh.h" timestamp="1520363654950">
+      <file name="$USER_HOME$/code/apps/nori/include/nori/mesh.h" timestamp="1520366223040">
         <mark key="'" line="149" column="12" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="94" column="49" />
-        <mark key="." line="94" column="49" />
-        <mark key="^" line="94" column="49" />
+        <mark key="[" line="190" column="64" />
+        <mark key="]" line="190" column="68" />
+        <mark key="." line="190" column="68" />
+        <mark key="^" line="190" column="68" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/Ray.java" timestamp="1513884713359">
         <mark key="[" line="103" column="20" />
@@ -534,8 +540,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/CMakeLists.txt" timestamp="1520020194962">
-        <mark key="'" line="98" column="15" />
+      <file name="$USER_HOME$/code/apps/nori/CMakeLists.txt" timestamp="1520367054009">
+        <mark key="'" line="84" column="13" />
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="103" column="41" />
+        <mark key="^" line="103" column="41" />
+        <mark key="." line="103" column="41" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Matrix.h" timestamp="1520360622158">
         <mark key="'" line="34" column="109" />
@@ -803,10 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="46" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="61" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="58" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
@@ -839,7 +845,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="188" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="175" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="169" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="161" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="154" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="47" column="19" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
@@ -903,10 +908,15 @@
       <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
       <jump line="11" column="0" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
       <jump line="17" column="0" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
+      <jump line="169" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="152" column="8" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="173" column="68" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="185" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="84" column="13" filename="$USER_HOME$/code/apps/nori/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvcjNmIHJlc3VsdCgxLmYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbnN0IFBvaW50M2Ygbl9hID0gbV9OLmNvbChpX2EpLCBuX2IgPSBtX04uY29sKGlfYiksIG5fZyA9IG1fTi5jb2woaV9nKTsK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -915,16 +925,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>surfacearea</text>
+        <text>i_sampled_face</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvaWQgcmVjYWxjdWxhdGVfZW1pdHRlcl9wZGYoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBQb2ludDNmIHBfYSA9IG1fVi5jb2woaV9hKSwgcF9iID0gbV9WLmNvbChpX2IpLCBwX2cgPSBtX1YuY29sKGlfZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvcjNmIHJlc3VsdCgxLmYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbnN0IFBvaW50M2Ygbl9hID0gbV9OLmNvbChpX2EpLCBuX2IgPSBtX04uY29sKGlfYiksIG5fZyA9IG1fTi5jb2woaV9nKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -994,46 +1004,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwX2EgKiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1aW50MzJfdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBsaWdodF92aXNpYmlsaXR5ID0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBzYW1wbGVfcHJvYmFiaWxpdHlfaW52ZXJzZSA9IHNjZW5lLT50b3RhbEVtaXR0ZXJBcmVhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtX04uY29scygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvcjNmIGJzZGYK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFBvaW50MmYgdW5pZm9ybVNhbXBsZSA9IGdldFNhbXBsZXIoKS0+bmV4dDJEKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBOb3JtYWwzZigpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>surfacearea</last-search>
+      <last-search>i_sampled_face</last-search>
       <last-offset />
-      <last-pattern>surfacearea</last-pattern>
-      <last-replace>m_face_area_pdf</last-replace>
-      <last-substitute>dpdf</last-substitute>
+      <last-pattern>i_sampled_face</last-pattern>
+      <last-replace>i_face</last-replace>
+      <last-substitute>i_sampled_face</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>flags</entry>
-        <entry>math</entry>
         <entry>min</entry>
         <entry>shadow</entry>
         <entry>normal</entry>
@@ -1052,9 +1060,10 @@
         <entry>activate</entry>
         <entry>m_sampler</entry>
         <entry>surfacearea</entry>
+        <entry>m_N</entry>
+        <entry>i_sampled_face</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
         <entry>q</entry>
@@ -1073,6 +1082,7 @@
         <entry>s/p_/n_</entry>
         <entry>s/p_/n_/g</entry>
         <entry encoding="base64">JzwsJz5zL2RwZGYvbV9mYWNlX2FyZWFfcGRmL2c=</entry>
+        <entry>s/i_sampled_face/i_face/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
