@@ -17,6 +17,9 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" timestamp="1520360216819">
+        <mark key="'" line="113" column="36" />
+      </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene_spec.rs" timestamp="1505846407783">
         <mark key="'" line="12" column="25" />
         <mark key="[" line="25" column="4" />
@@ -82,6 +85,13 @@
         <mark key="]" line="31" column="5" />
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/src/mesh.cpp" timestamp="1520361304630">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="153" column="27" />
+        <mark key="]" line="153" column="42" />
+        <mark key="." line="153" column="42" />
+        <mark key="^" line="153" column="42" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a2/src/ray1/shader/Lambertian.java" timestamp="1518832886264">
         <mark key="[" line="41" column="51" />
@@ -298,6 +308,13 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="11" column="50" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/include/nori/mesh.h" timestamp="1520361045463">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="184" column="70" />
+        <mark key="]" line="185" column="31" />
+        <mark key="." line="185" column="31" />
+        <mark key="^" line="185" column="31" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/Ray.java" timestamp="1513884713359">
         <mark key="[" line="103" column="20" />
         <mark key="]" line="103" column="18" />
@@ -507,6 +524,12 @@
       <file name="$USER_HOME$/code/apps/nori/CMakeLists.txt" timestamp="1520020194962">
         <mark key="'" line="98" column="15" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Matrix.h" timestamp="1520360622158">
+        <mark key="'" line="34" column="109" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/include/nori/vector.h" timestamp="1520360609734">
+        <mark key="'" line="88" column="0" />
+      </file>
       <file name="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" timestamp="1520030140665">
         <mark key="'" line="11" column="17" />
       </file>
@@ -598,10 +621,6 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1519667113791">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="57" />
-      </file>
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/Utils.java" timestamp="1475786715291">
         <mark key="'" line="10" column="7" />
         <mark key="[" line="26" column="2" />
@@ -634,6 +653,12 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/src/area.cpp" timestamp="1520360852927">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="17" column="9" />
+        <mark key="^" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene.rs" timestamp="1508111083341">
         <mark key="'" line="93" column="0" />
@@ -751,99 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="74" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="75" column="55" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="76" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="77" column="59" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="78" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="79" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="81" column="26" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="92" column="95" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="99" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="100" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="101" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="103" column="45" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="112" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="113" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="114" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="120" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="121" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="122" column="57" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="123" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="124" column="57" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="125" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="126" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="127" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="149" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="150" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="151" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="157" column="85" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="161" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="162" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="163" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="182" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="185" column="60" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="204" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="200" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="190" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="189" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="186" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="476" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="397" column="19" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="23" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="48" column="28" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="7" column="61" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" />
-      <jump line="44" column="12" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" />
-      <jump line="29" column="7" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="21" column="17" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="49" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="32" column="50" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.hpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="30" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="5" column="2" filename="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" />
-      <jump line="8" column="48" filename="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
-      <jump line="9" column="27" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
-      <jump line="43" column="12" filename="$USER_HOME$/code/apps/nori/src/warp.cpp" />
-      <jump line="92" column="12" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
-      <jump line="71" column="52" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
-      <jump line="98" column="15" filename="$USER_HOME$/code/apps/nori/CMakeLists.txt" />
-      <jump line="124" column="13" filename="$USER_HOME$/code/apps/nori/src/warp.cpp" />
-      <jump line="1" column="35" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
-      <jump line="10" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
-      <jump line="11" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
-      <jump line="146" column="4" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="153" column="33" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="238" column="78" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="240" column="15" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="134" column="16" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="138" column="21" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="143" column="15" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="150" column="8" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="155" column="11" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="26" column="34" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="1" column="15" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="187" column="13" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="231" column="29" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="254" column="52" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="262" column="16" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
@@ -851,10 +783,103 @@
       <jump line="10" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="16" column="105" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="36" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
+      <jump line="68" column="6" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="134" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="131" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="98" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="2" column="27" filename="$USER_HOME$/code/apps/nori/src/area.cpp" />
+      <jump line="134" column="18" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="139" column="8" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="44" column="18" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="32" column="7" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
+      <jump line="23" column="21" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="184" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="183" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
+      <jump line="29" column="2" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
+      <jump line="110" column="49" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
+      <jump line="112" column="18" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
+      <jump line="113" column="36" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
+      <jump line="153" column="30" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="87" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="97" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="122" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="145" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="179" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="155" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="173" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="157" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="159" column="3" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="178" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="163" column="24" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="111" column="69" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="136" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="127" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="115" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="102" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="99" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/vector.h" />
+      <jump line="132" column="8" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Matrix.h" />
+      <jump line="35" column="109" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Matrix.h" />
+      <jump line="34" column="109" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Matrix.h" />
+      <jump line="165" column="13" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="167" column="8" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="147" column="8" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="185" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="188" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="175" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="171" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="169" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="161" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="154" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
+      <jump line="47" column="19" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiaW50IiA8PCBzdGQ6OmVuZGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRwZGY=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -863,16 +888,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text encoding="base64">IGRwZGY=</text>
       </register>
       <register name="/" type="4">
-        <text>dot(</text>
+        <text>dpdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICBwID0gYmFyeV9hbHBoYSAqIHBfYSArIGJhcnlfYmV0YSAqIHBfYiArIGJhcnlfZ2FtbWEgKiBwX2c7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiaW50IiA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIHNpemVfdCBpX3NhbXBsZWRfZmFjZSA9IGRwZGYuc2FtcGxlKHNhbXBsZS54KCkpOwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -942,52 +967,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vc2FtcGxlIGEgZmFjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTwhLS0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS0tPgo=</text>
+        <text encoding="base64">ICAgIC8vc2FtcGxlIGEgZmFjZQogICAgRGlzY3JldGVQREYgZHBkZiA9IERpc2NyZXRlUERGKChzaXplX3QpIG1fRi5jb2xzKCkpOwogICAgZm9yICh1aW50MzJfdCBpX2ZhY2UgPSAwOyBpX2ZhY2UgPCBtX0YuY29scygpOyBpX2ZhY2UrKykgewogICAgICAgIGRwZGYuYXBwZW5kKHN1cmZhY2VBcmVhKGlfZmFjZSkpOwogICAgfQogICAgZHBkZi5ub3JtYWxpemUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">ICAgIGpmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPG5vcmkvZHBkZi5oPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3hhYW5pbXVzL3hzcmF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dot(</last-search>
+      <last-search>dpdf</last-search>
       <last-offset />
-      <last-pattern>dot(</last-pattern>
-      <last-replace>wi</last-replace>
-      <last-substitute>w_o</last-substitute>
+      <last-pattern>dpdf</last-pattern>
+      <last-replace>m_face_area_pdf</last-replace>
+      <last-substitute>dpdf</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>impl Triangle</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>MeshSpec</entry>
-        <entry>main</entry>
-        <entry>MeshGen</entry>
-        <entry>compare</entry>
-        <entry>NORM_REFERENCE_OBJ</entry>
-        <entry>reference</entry>
         <entry>-e</entry>
         <entry>usage2</entry>
         <entry>bunny</entry>
@@ -1000,15 +1017,16 @@
         <entry>norm(</entry>
         <entry>dot</entry>
         <entry>dot(</entry>
+        <entry>m_F</entry>
+        <entry>surfaceAreas</entry>
+        <entry>sample</entry>
+        <entry>index</entry>
+        <entry>mul</entry>
+        <entry>m_V</entry>
+        <entry>p_</entry>
+        <entry>dpdf</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>s/x/y/g</entry>
-        <entry>s/iDensities/iV/g</entry>
-        <entry encoding="base64">JzwsJz5zL2N1bW11bGF0aXZlL3N1bS9n</entry>
-        <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
-        <entry>e scene_spec.rs</entry>
-        <entry encoding="base64">JzwsJz5zL3NwZWMvYnVpbGRlci9n</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
@@ -1021,6 +1039,13 @@
         <entry encoding="base64">JzwsJz5zL2Vwc2lsb24veGkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3dfby93aS9n</entry>
         <entry>e transformable.rs</entry>
+        <entry encoding="base64">JzwsJz5zL3N1cmZhY2VBcmVhcy9wZGZzL2c=</entry>
+        <entry>s/index/i_sampled_face/g</entry>
+        <entry>s/m_V/m_N/g</entry>
+        <entry>/p_/n_</entry>
+        <entry>s/p_/n_</entry>
+        <entry>s/p_/n_/g</entry>
+        <entry encoding="base64">JzwsJz5zL2RwZGYvbV9mYWNlX2FyZWFfcGRmL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
