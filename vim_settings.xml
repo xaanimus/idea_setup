@@ -72,6 +72,11 @@
       <file name="/LLDB" timestamp="1520114351515">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/nori/src/whitted.cpp" timestamp="1520363031195">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="17" column="30" />
@@ -878,8 +883,8 @@
       <jump line="47" column="19" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRwZGY=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzY2VuZS0+Z2V0U2FtcGxlcigpCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -897,7 +902,7 @@
         <text encoding="base64">ICAgICAgICBwID0gYmFyeV9hbHBoYSAqIHBfYSArIGJhcnlfYmV0YSAqIHBfYiArIGJhcnlfZ2FtbWEgKiBwX2c7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBpX3NhbXBsZWRfZmFjZSA9IGRwZGYuc2FtcGxlKHNhbXBsZS54KCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICBzY2VuZS0+Z2V0U2FtcGxlcigpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -967,28 +972,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vc2FtcGxlIGEgZmFjZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcnNlY3Rpb24ubWVzaC0+c2FtcGxlUG9zaXRpb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vc2FtcGxlIGEgZmFjZQogICAgRGlzY3JldGVQREYgZHBkZiA9IERpc2NyZXRlUERGKChzaXplX3QpIG1fRi5jb2xzKCkpOwogICAgZm9yICh1aW50MzJfdCBpX2ZhY2UgPSAwOyBpX2ZhY2UgPCBtX0YuY29scygpOyBpX2ZhY2UrKykgewogICAgICAgIGRwZGYuYXBwZW5kKHN1cmZhY2VBcmVhKGlfZmFjZSkpOwogICAgfQogICAgZHBkZi5ub3JtYWxpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBCU0RGICpic2RmID0gaW50ZXJzZWN0aW9uLm1lc2gtPmdldEJTREYoKTsKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJzZWN0aW9uLmluKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5vcmkvZHBkZi5oPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3hhYW5pbXVzL3hzcmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
