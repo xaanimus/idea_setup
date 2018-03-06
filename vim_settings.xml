@@ -72,10 +72,12 @@
       <file name="/LLDB" timestamp="1520114351515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/whitted.cpp" timestamp="1520363031195">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/apps/nori/src/whitted.cpp" timestamp="1520365532183">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
@@ -180,6 +182,12 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/apps/nori/include/nori/emitter.h" timestamp="1520364391727">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="39" />
       </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/outputsoundnode.hpp" timestamp="1519443582484">
         <mark key="[" line="7" column="0" />
@@ -538,12 +546,12 @@
       <file name="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" timestamp="1520030140665">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/include/nori/scene.h" timestamp="1520363664138">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="35" />
-        <mark key="." line="129" column="34" />
-        <mark key="^" line="129" column="34" />
+      <file name="$USER_HOME$/code/apps/nori/include/nori/scene.h" timestamp="1520365199007">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="67" column="89" />
+        <mark key="]" line="70" column="35" />
+        <mark key="." line="70" column="35" />
+        <mark key="^" line="70" column="35" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/scene_a3/src/gl/RenderCamera.java" timestamp="1489170466522">
         <mark key="'" line="67" column="0" />
@@ -666,11 +674,11 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/area.cpp" timestamp="1520360852927">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/code/apps/nori/src/area.cpp" timestamp="1520364667857">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene.rs" timestamp="1508111083341">
         <mark key="'" line="93" column="0" />
@@ -707,12 +715,12 @@
         <mark key="." line="152" column="116" />
         <mark key="^" line="152" column="116" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/scene.cpp" timestamp="1520363676584">
+      <file name="$USER_HOME$/code/apps/nori/src/scene.cpp" timestamp="1520365207624">
         <mark key="'" line="130" column="22" />
-        <mark key="[" line="134" column="5" />
-        <mark key="]" line="135" column="30" />
-        <mark key="." line="135" column="30" />
-        <mark key="^" line="135" column="30" />
+        <mark key="[" line="135" column="4" />
+        <mark key="]" line="135" column="26" />
+        <mark key="." line="135" column="26" />
+        <mark key="^" line="135" column="26" />
       </file>
       <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/BinaryTree.java" timestamp="1516068472663">
         <mark key="[" line="6" column="14" />
@@ -795,40 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="183" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
-      <jump line="29" column="2" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
-      <jump line="110" column="49" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
-      <jump line="112" column="18" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
-      <jump line="113" column="36" filename="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" />
-      <jump line="153" column="30" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="87" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="97" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="104" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="113" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="122" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="128" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="145" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="180" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="155" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="173" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="157" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="159" column="3" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="30" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
@@ -869,7 +843,6 @@
       <jump line="161" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="154" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="47" column="19" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
-      <jump line="121" column="3" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
       <jump line="21" column="21" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
       <jump line="62" column="0" filename="$USER_HOME$/code/apps/nori/src/scene.cpp" />
       <jump line="53" column="4" filename="$USER_HOME$/code/apps/nori/src/scene.cpp" />
@@ -895,10 +868,45 @@
       <jump line="171" column="0" filename="$USER_HOME$/code/apps/nori/src/mesh.cpp" />
       <jump line="149" column="12" filename="$USER_HOME$/code/apps/nori/include/nori/mesh.h" />
       <jump line="130" column="22" filename="$USER_HOME$/code/apps/nori/src/scene.cpp" />
+      <jump line="53" column="31" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="35" column="20" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="138" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="135" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="133" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="126" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="124" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="121" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/apps/nori/include/nori/scene.h" />
+      <jump line="18" column="51" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
+      <jump line="6" column="19" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/nori/src/whitted.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xvcjNmIHJlc3VsdCgxLmYpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -907,7 +915,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>surfacearea</text>
@@ -916,7 +924,7 @@
         <text encoding="base64">ICAgIHZvaWQgcmVjYWxjdWxhdGVfZW1pdHRlcl9wZGYoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xvcjNmIHJlc3VsdCgxLmYpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -985,29 +993,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmZsb2F0IE1lc2g6OnRvdGFsU3VyZmFjZUFyZWEoKSBjb25zdCB7Cn0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmxvYXQgTWVzaDo6dG90YWxTdXJmYWNlQXJlYSgpIGNvbnN0IHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBsaWdodF92aXNpYmlsaXR5ID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLT5zdXJmYWNlQXJlYSgKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBzYW1wbGVfcHJvYmFiaWxpdHlfaW52ZXJzZSA9IHNjZW5lLT50b3RhbEVtaXR0ZXJBcmVhKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1fZW1pdHRlcl9wZGYuCg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xvcjNmIGJzZGYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBvaW50MmYgdW5pZm9ybVNhbXBsZSA9IGdldFNhbXBsZXIoKS0+bmV4dDJEKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICBtX2VtaXR0ZXJfcGRmID0gc3RkOjptYWtlX3VuaXF1ZTxEaXNjcmV0ZVBERj4obV9tZXNoZXMuc2l6ZSgpKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbHB0cjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
