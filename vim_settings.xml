@@ -20,7 +20,6 @@
       <file name="$USER_HOME$/code/apps/nori/include/nori/dpdf.h" timestamp="1520360216819">
         <mark key="'" line="113" column="36" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/src/diffuse.cpp" timestamp="1520567342234" />
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene_spec.rs" timestamp="1505846407783">
         <mark key="'" line="12" column="25" />
         <mark key="[" line="25" column="4" />
@@ -652,6 +651,7 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1520713696577" />
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/Utils.java" timestamp="1475786715291">
         <mark key="'" line="10" column="7" />
         <mark key="[" line="26" column="2" />
