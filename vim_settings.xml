@@ -651,6 +651,11 @@
         <mark key="." line="52" column="11" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/ccc_modular_synth/src/CMakeLists.txt" timestamp="1521316839219">
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="30" column="69" />
+        <mark key="." line="30" column="69" />
+      </file>
       <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/BuildBinTree.java" timestamp="1516071268779">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="32" />
@@ -733,7 +738,7 @@
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521246815923">
+      <file name="/Dummy.txt" timestamp="1521316396711">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw1/prob_2/Framework.java" timestamp="1485718421367">
@@ -932,8 +937,8 @@
       <jump line="1076" column="29" filename="$USER_HOME$/code/creativecc/modular_synth/lib/concurrentqueue/concurrentqueue.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -942,7 +947,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>try_dequeue</text>
@@ -1082,7 +1087,6 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>x</entry>
         <entry>q</entry>
         <entry>e .</entry>
         <entry>e ./src</entry>
@@ -1100,6 +1104,7 @@
         <entry>s/p_/n_/g</entry>
         <entry encoding="base64">JzwsJz5zL2RwZGYvbV9mYWNlX2FyZWFfcGRmL2c=</entry>
         <entry>s/i_sampled_face/i_face/g</entry>
+        <entry>x</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
