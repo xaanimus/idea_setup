@@ -79,7 +79,7 @@
         <mark key="." line="39" column="70" />
         <mark key="^" line="39" column="70" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/main.cpp" timestamp="1521243974207">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/main.cpp" timestamp="1521246104975">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -758,12 +758,12 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1521243930060">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1521245900049">
         <mark key="'" line="5" column="2" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="62" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="62" />
       </file>
       <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/LinkedHash.java" timestamp="1518544354305">
         <mark key="'" line="111" column="0" />
@@ -923,7 +923,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFJ0TWlkaS5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNvbmN1cnJlbnRxdWV1ZS5oPgo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -932,7 +932,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEVVbmtub3duTWVhc3VyZQ==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>lightSample</text>
@@ -941,7 +941,7 @@
         <text encoding="base64">ICAgICAgICBsaWdodFNhbXBsZVRyYW5zZm9ybWVkLmxvY2F0aW9uID0gdHJhbnNmb3JtU2hJbnYgKiBsaWdodFNhbXBsZS5sb2NhdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFJ0TWlkaS5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNvbmN1cnJlbnRxdWV1ZS5oPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1011,28 +1011,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTwhLS0K</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNvbmN1cnJlbnRxdWV1ZS5oPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaWdodFNhbXBsZVJlc3VsdCBsaWdodFNhbXBsZVRyYW5zZm9ybWVkID0gbGlnaHRTYW1wbGU7CiAgICAgICAgbGlnaHRTYW1wbGVUcmFuc2Zvcm1lZC5ub3JtYWwgPSB0cmFuc2Zvcm1TaEludiAqIGxpZ2h0U2FtcGxlLmxvY2F0aW9uOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPFJ0TWlkaS5oPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaWdodFNhbXBsZVRyYW5zZm9ybWVkLmxvY2F0aW9uID0gdHJhbnNmb3JtU2hJbnYgKiBsaWdodFNhbXBsZS5sb2NhdGlvbjsK</text>
+        <text encoding="base64">CTwhLS0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">ICAgICAgICBMaWdodFNhbXBsZVJlc3VsdCBsaWdodFNhbXBsZVRyYW5zZm9ybWVkID0gbGlnaHRTYW1wbGU7CiAgICAgICAgbGlnaHRTYW1wbGVUcmFuc2Zvcm1lZC5ub3JtYWwgPSB0cmFuc2Zvcm1TaEludiAqIGxpZ2h0U2FtcGxlLmxvY2F0aW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsaWdodFNhbXBsZVRyYW5zZm9ybWVkLmxvY2F0aW9uID0gdHJhbnNmb3JtU2hJbnYgKiBsaWdodFNhbXBsZS5sb2NhdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlnaHRTYW1wbGVUcmFuc2Zvcm1lZC5yYWRpYW5jZSA9IHJhCg==</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGo+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlnaHRTYW1wbGVUcmFuc2Zvcm1lZC5yYWRpYW5jZSA9IHJhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
