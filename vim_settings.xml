@@ -85,10 +85,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modules/module_spec.h" timestamp="1521854620119">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modules/module_spec.h" timestamp="1521921904878">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
@@ -200,7 +201,6 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/ccc_modular_synth/src/modular_synth_application.cpp" timestamp="1521852015096" />
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/outputsoundnode.hpp" timestamp="1519443582484">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -260,6 +260,11 @@
         <mark key="]" line="62" column="41" />
         <mark key="." line="62" column="41" />
         <mark key="^" line="62" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" timestamp="1521921684692">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
@@ -669,7 +674,7 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1521853637725">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1521922537544">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="32" column="41" />
@@ -738,6 +743,12 @@
         <mark key="^" line="84" column="35" />
         <mark key="." line="84" column="35" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.h" timestamp="1521921670532">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="61" />
+        <mark key="." line="12" column="61" />
+        <mark key="^" line="12" column="61" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw6/prob1/FrameworkFlow.java" timestamp="1489514086918">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="182" column="53" />
@@ -745,7 +756,7 @@
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521852805380">
+      <file name="/Dummy.txt" timestamp="1521922202989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw1/prob_2/Framework.java" timestamp="1485718421367">
@@ -939,7 +950,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8vIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -948,7 +959,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>try_dequeue</text>
@@ -957,7 +968,7 @@
         <text encoding="base64">ICAgICAgICBsaWdodFNhbXBsZVRyYW5zZm9ybWVkLmxvY2F0aW9uID0gdHJhbnNmb3JtU2hJbnYgKiBsaWdodFNhbXBsZS5sb2NhdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1030,25 +1041,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5hbm9ndWk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgc3RkOjoK</text>
+        <text encoding="base64">Ly8vIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9zY2lsbGF0bwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPG5hbm9ndWk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgc3RkOjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1fbWVzc2FnZXNfbXV0ZXgubG9jaygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIE9zY2lsbGF0bwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
