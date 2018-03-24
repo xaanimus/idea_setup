@@ -33,7 +33,7 @@
         <mark key="^" line="499" column="8" />
         <mark key="." line="499" column="8" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.hpp" timestamp="1521299683093">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.hpp" timestamp="1521924542704">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -85,7 +85,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modules/module_spec.h" timestamp="1521921904878">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/modules/module_spec.h" timestamp="1521923850192">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="44" />
         <mark key="." line="19" column="44" />
@@ -195,6 +195,7 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthScreen.cpp" timestamp="1521924324049" />
       <file name="$USER_HOME$/code/apps/nori/include/nori/emitter.h" timestamp="1520364391727">
         <mark key="[" line="36" column="36" />
         <mark key="]" line="36" column="39" />
@@ -674,7 +675,7 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1521922537544">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1521924130913">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="32" column="41" />
@@ -729,7 +730,7 @@
         <mark key="." line="105" column="82" />
         <mark key="^" line="105" column="82" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1521299688903">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1521924560711">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
