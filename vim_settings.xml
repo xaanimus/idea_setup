@@ -630,6 +630,13 @@
         <mark key="^" line="84" column="35" />
         <mark key="." line="84" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" timestamp="1522447077244">
+        <mark key="'" line="308" column="57" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="2" />
+        <mark key="." line="256" column="2" />
+        <mark key="^" line="256" column="2" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw6/prob1/FrameworkFlow.java" timestamp="1489514086918">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="182" column="53" />
@@ -726,19 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="95" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="99" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="100" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="101" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="103" column="45" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="112" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="113" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="114" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="120" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="121" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="122" column="57" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="123" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="124" column="57" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="125" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="126" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="127" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
@@ -826,10 +820,23 @@
       <jump line="43" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" />
       <jump line="79" column="17" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/CubicBezier.java" />
       <jump line="64" column="12" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/CubicBezier.java" />
+      <jump line="286" column="40" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="280" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="261" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="256" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="253" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="254" column="39" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="251" column="87" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="275" column="29" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="309" column="62" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
+      <jump line="308" column="57" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5jb3JuZWxsLmNzLmNzNDEyMC54aWMuaXIuSVJDb21wVW5pdDsK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -838,10 +845,10 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>scale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
@@ -945,9 +952,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>scale</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>scale</last-pattern>
       <last-replace>wi</last-replace>
       <last-substitute>w_o</last-substitute>
       <last-dir>1</last-dir>
@@ -955,7 +962,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MeshSpec</entry>
         <entry>main</entry>
         <entry>MeshGen</entry>
         <entry>compare</entry>
@@ -975,6 +981,7 @@
         <entry>dot(</entry>
         <entry>set</entry>
         <entry>TODO</entry>
+        <entry>scale</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
