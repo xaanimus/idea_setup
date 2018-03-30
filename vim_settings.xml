@@ -373,8 +373,8 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/CubicBezier.java" timestamp="1491689827633">
-        <mark key="'" line="152" column="0" />
+      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/CubicBezier.java" timestamp="1522443685879">
+        <mark key="'" line="64" column="12" />
         <mark key="[" line="12" column="79" />
         <mark key="]" line="12" column="79" />
         <mark key="." line="12" column="79" />
@@ -489,7 +489,6 @@
       <file name="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" timestamp="1520030140665">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/CubicBezier.java" timestamp="1522352541319" />
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/scene_a3/src/gl/RenderCamera.java" timestamp="1489170466522">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="63" column="0" />
@@ -597,7 +596,6 @@
         <mark key="." line="62" column="57" />
         <mark key="^" line="62" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/CatmullRom.java" timestamp="1522351587911" />
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/a1_mesh/src/meshgen/Normalizer.java" timestamp="1486320931972">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="32" />
@@ -639,7 +637,7 @@
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522352544181">
+      <file name="/Dummy.txt" timestamp="1522443656773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw1/prob_2/Framework.java" timestamp="1485718421367">
@@ -682,7 +680,6 @@
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5/src/blister/MainGame.java" timestamp="1522352006902" />
       <file name="$USER_HOME$/code/graphics/xsray/src/bvh/bvh_accelerator.rs" timestamp="1507605406923">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="167" column="0" />
@@ -729,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="81" column="26" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="92" column="95" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="99" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="100" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
@@ -829,6 +824,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" />
       <jump line="43" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" />
+      <jump line="79" column="17" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/CubicBezier.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/CubicBezier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -844,7 +841,7 @@
         <text>~</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
@@ -948,9 +945,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>wi</last-replace>
       <last-substitute>w_o</last-substitute>
       <last-dir>1</last-dir>
@@ -958,7 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry>MeshSpec</entry>
         <entry>main</entry>
         <entry>MeshGen</entry>
@@ -978,6 +974,7 @@
         <entry>dot</entry>
         <entry>dot(</entry>
         <entry>set</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
