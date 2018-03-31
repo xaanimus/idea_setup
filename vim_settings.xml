@@ -340,6 +340,9 @@
         <mark key="^" line="29" column="55" />
         <mark key="." line="29" column="55" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" timestamp="1522513329500">
+        <mark key="'" line="120" column="20" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/コンピュータ４２６０/a1/src/meshgen/MainJ.java" timestamp="1517519930840">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -551,7 +554,7 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" timestamp="1522510781961">
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" timestamp="1522513027684">
         <mark key="'" line="68" column="8" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="112" />
@@ -677,6 +680,7 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/ScaleManipulator.java" timestamp="1522513268828" />
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/utilities.hpp" timestamp="1519405489685">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="21" />
@@ -690,6 +694,7 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/ScaleManipulator.java" timestamp="1522513336542" />
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1519666775526">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="8" column="52" />
@@ -753,18 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="12" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" />
-      <jump line="29" column="7" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="21" column="17" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="49" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="32" column="50" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.hpp" />
       <jump line="42" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
       <jump line="30" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
@@ -853,6 +846,18 @@
       <jump line="67" column="4" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
       <jump line="68" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
       <jump line="53" column="22" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_sc2233_sk2676/a3code/a3/src/manip/RotationManipulator.java" />
+      <jump line="47" column="34" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="48" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="49" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="52" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="53" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="54" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="55" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="58" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="59" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="66" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="71" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="120" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -868,7 +873,7 @@
         <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>intersec</text>
+        <text>\/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
@@ -976,9 +981,9 @@
       </register>
     </registers>
     <search>
-      <last-search>intersec</last-search>
+      <last-search>\/</last-search>
       <last-offset />
-      <last-pattern>intersec</last-pattern>
+      <last-pattern>\/</last-pattern>
       <last-replace>planeOrigin</last-replace>
       <last-substitute>planeNormal</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>norm</entry>
         <entry>norm(</entry>
         <entry>dot</entry>
         <entry>dot(</entry>
@@ -1006,6 +1010,7 @@
         <entry>curRayOrigin</entry>
         <entry>planeNormal</entry>
         <entry>intersec</entry>
+        <entry>\/</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
