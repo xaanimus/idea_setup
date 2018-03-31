@@ -97,7 +97,7 @@
         <mark key="^" line="269" column="31" />
         <mark key="." line="269" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/interactive/InputHandler.java" timestamp="1522508990421" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/interactive/InputHandler.java" timestamp="1522509532532" />
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw11/prob3/FrameworkKnapsack.java" timestamp="1495499101124">
         <mark key="'" line="180" column="12" />
         <mark key="[" line="297" column="38" />
@@ -550,6 +550,13 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" timestamp="1522510781961">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="112" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/meshutils.rs" timestamp="1519095294703">
         <mark key="'" line="3" column="34" />
         <mark key="[" line="58" column="38" />
@@ -737,14 +744,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1522508870942">
+      <file name="/fragment.java" timestamp="1522509390853">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="397" column="19" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="23" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
-      <jump line="48" column="28" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
       <jump line="7" column="61" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" />
       <jump line="44" column="12" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" />
       <jump line="29" column="7" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
@@ -842,10 +846,13 @@
       <jump line="821" column="34" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
       <jump line="114" column="45" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
       <jump line="127" column="37" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="76" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
+      <jump line="67" column="4" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
+      <jump line="68" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -854,16 +861,20 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>-X</text>
+        <text>planeNormal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>os, viewProjection, lastRayOrigin, lastRayDirection);
+		getRay(curMousePos, viewProjection, curRayOrigin, curRayDirection);
+		Vector3 lastPlaneIntersection = rayPlaneIntersection(lastRayOrigin, lastRayDirection, planeOrigin, planeNormal);
+		Vector3 curPlaneIntersection = rayPlaneIntersection(curRayOrigin, curRayDirection, planeOrigin, planeNormal);
+		System.out.printl</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -933,48 +944,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTwhLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS0tPgo=</text>
+        <text encoding="base64">CTwhLS0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">CS0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
+        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-X</last-search>
+      <last-search>planeNormal</last-search>
       <last-offset />
-      <last-pattern>-X</last-pattern>
-      <last-replace>wi</last-replace>
-      <last-substitute>w_o</last-substitute>
+      <last-pattern>planeNormal</last-pattern>
+      <last-replace>planeOrigin</last-replace>
+      <last-substitute>planeNormal</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>flags</entry>
-        <entry>math</entry>
-        <entry>min</entry>
-        <entry>shadow</entry>
         <entry>normal</entry>
         <entry>norm</entry>
         <entry>norm(</entry>
@@ -991,12 +998,12 @@
         <entry encoding="base64">UnVuIA==</entry>
         <entry>configu</entry>
         <entry>-X</entry>
+        <entry>curPlaneIntersection</entry>
+        <entry>curRayDirection</entry>
+        <entry>curRayOrigin</entry>
+        <entry>planeNormal</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>s/x/y/g</entry>
-        <entry>s/iDensities/iV/g</entry>
-        <entry encoding="base64">JzwsJz5zL2N1bW11bGF0aXZlL3N1bS9n</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
         <entry>e scene_spec.rs</entry>
         <entry encoding="base64">JzwsJz5zL3NwZWMvYnVpbGRlci9n</entry>
@@ -1012,6 +1019,10 @@
         <entry encoding="base64">JzwsJz5zL2Vwc2lsb24veGkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3dfby93aS9n</entry>
         <entry>e transformable.rs</entry>
+        <entry>s/curPlaneIntersection/curRayDirection/g</entry>
+        <entry>s/curRayDirection/curRayOrigin/g</entry>
+        <entry>s/curRayOrigin/planeNormal/g</entry>
+        <entry>s/planeNormal/planeOrigin/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
