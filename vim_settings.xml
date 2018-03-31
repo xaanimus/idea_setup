@@ -651,6 +651,9 @@
         <mark key="." line="256" column="2" />
         <mark key="^" line="256" column="2" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_sc2233_sk2676/a3code/a3/src/manip/RotationManipulator.java" timestamp="1522512050199">
+        <mark key="'" line="53" column="22" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw6/prob1/FrameworkFlow.java" timestamp="1489514086918">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="182" column="53" />
@@ -750,7 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="61" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" />
       <jump line="44" column="12" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" />
       <jump line="29" column="7" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
       <jump line="21" column="17" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
@@ -850,6 +852,7 @@
       <jump line="76" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
       <jump line="67" column="4" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
       <jump line="68" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" />
+      <jump line="53" column="22" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_sc2233_sk2676/a3code/a3/src/manip/RotationManipulator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -865,7 +868,7 @@
         <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>planeNormal</text>
+        <text>intersec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
@@ -973,9 +976,9 @@
       </register>
     </registers>
     <search>
-      <last-search>planeNormal</last-search>
+      <last-search>intersec</last-search>
       <last-offset />
-      <last-pattern>planeNormal</last-pattern>
+      <last-pattern>intersec</last-pattern>
       <last-replace>planeOrigin</last-replace>
       <last-substitute>planeNormal</last-substitute>
       <last-dir>1</last-dir>
@@ -983,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>normal</entry>
         <entry>norm</entry>
         <entry>norm(</entry>
         <entry>dot</entry>
@@ -1003,6 +1005,7 @@
         <entry>curRayDirection</entry>
         <entry>curRayOrigin</entry>
         <entry>planeNormal</entry>
+        <entry>intersec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
