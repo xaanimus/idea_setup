@@ -691,6 +691,9 @@
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" timestamp="1522508327759">
+        <mark key="'" line="127" column="37" />
+      </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/bvh/bvh_accelerator.rs" timestamp="1507605406923">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="167" column="0" />
@@ -732,22 +735,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1522352944275">
+      <file name="/fragment.java" timestamp="1522507925161">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="162" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="163" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="182" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="185" column="60" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="204" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="200" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="190" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="189" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="186" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="476" column="14" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="397" column="19" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="23" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
       <jump line="48" column="28" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
@@ -837,6 +829,17 @@
       <jump line="301" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/egl/math/Matrix3.java" />
       <jump line="229" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/egl/math/Matrix3.java" />
       <jump line="279" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/egl/math/Matrix3.java" />
+      <jump line="7" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="302" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="750" column="36" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="762" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="764" column="37" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="774" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="785" column="25" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="797" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="821" column="34" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="114" column="45" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
+      <jump line="127" column="37" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_pl557_rx65/CS4620A3/.idea/workspace.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -852,7 +855,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>mul(</text>
+        <text>-X</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtX2xpZ2h0X3BvcyA9IHByb3BzLmdldFZlY3RvcigicG9zaXRpb24iKTsK</text>
@@ -956,9 +959,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mul(</last-search>
+      <last-search>-X</last-search>
       <last-offset />
-      <last-pattern>mul(</last-pattern>
+      <last-pattern>-X</last-pattern>
       <last-replace>wi</last-replace>
       <last-substitute>w_o</last-substitute>
       <last-dir>1</last-dir>
@@ -966,11 +969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NORM_REFERENCE_OBJ</entry>
-        <entry>reference</entry>
-        <entry>-e</entry>
-        <entry>usage2</entry>
-        <entry>bunny</entry>
         <entry>flags</entry>
         <entry>math</entry>
         <entry>min</entry>
@@ -986,6 +984,11 @@
         <entry>mul;</entry>
         <entry>mul</entry>
         <entry>mul(</entry>
+        <entry>config</entry>
+        <entry>Config</entry>
+        <entry encoding="base64">UnVuIA==</entry>
+        <entry>configu</entry>
+        <entry>-X</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
