@@ -90,14 +90,12 @@
         <mark key="." line="96" column="33" />
         <mark key="^" line="96" column="33" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_sc2233_sk2676/a3code/a3/src/gl/ShaderProgram.java" timestamp="1522509141370" />
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/RayTracer.java" timestamp="1507557144299">
         <mark key="[" line="269" column="31" />
         <mark key="]" line="269" column="31" />
         <mark key="^" line="269" column="31" />
         <mark key="." line="269" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/interactive/InputHandler.java" timestamp="1522509532532" />
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw11/prob3/FrameworkKnapsack.java" timestamp="1495499101124">
         <mark key="'" line="180" column="12" />
         <mark key="[" line="297" column="38" />
@@ -446,7 +444,6 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/sh2435/a3/src/gl/ShaderProgram.java" timestamp="1522511646995" />
       <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/guitest/GuiTest.java" timestamp="1516212402782">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="31" column="60" />
@@ -680,7 +677,6 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/ScaleManipulator.java" timestamp="1522513268828" />
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/utilities.hpp" timestamp="1519405489685">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="21" />
@@ -694,7 +690,6 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/ScaleManipulator.java" timestamp="1522513336542" />
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1519666775526">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="8" column="52" />
@@ -873,7 +868,7 @@
         <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>\/</text>
+        <text>Vector3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
@@ -981,9 +976,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/</last-search>
+      <last-search>Vector3</last-search>
       <last-offset />
-      <last-pattern>\/</last-pattern>
+      <last-pattern>Vector3</last-pattern>
       <last-replace>planeOrigin</last-replace>
       <last-substitute>planeNormal</last-substitute>
       <last-dir>1</last-dir>
@@ -991,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>norm(</entry>
         <entry>dot</entry>
         <entry>dot(</entry>
         <entry>set</entry>
@@ -1011,6 +1005,7 @@
         <entry>planeNormal</entry>
         <entry>intersec</entry>
         <entry>\/</entry>
+        <entry>Vector3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
