@@ -62,6 +62,9 @@
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="35" />
       </file>
+      <file name="/LLDB" timestamp="1523731903644">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="17" column="30" />
@@ -150,11 +153,11 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthScreen.cpp" timestamp="1523728092715">
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-        <mark key="^" line="13" column="51" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthScreen.cpp" timestamp="1523732048957">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/outputsoundnode.hpp" timestamp="1523728625986">
         <mark key="[" line="9" column="51" />
@@ -208,6 +211,12 @@
         <mark key="]" line="59" column="38" />
         <mark key="^" line="59" column="38" />
         <mark key="." line="59" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" timestamp="1523732010891">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
@@ -373,6 +382,12 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthScreen.hpp" timestamp="1523731328011">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1519097422947">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="25" />
@@ -471,12 +486,11 @@
         <mark key="^" line="60" column="10" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" timestamp="1523728378205">
-        <mark key="'" line="65" column="13" />
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="65" column="28" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" timestamp="1523730022118">
+        <mark key="'" line="67" column="13" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/BPlusTree.java" timestamp="1475787964000">
         <mark key="'" line="76" column="29" />
@@ -626,12 +640,12 @@
         <mark key="." line="105" column="82" />
         <mark key="^" line="105" column="82" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1523728730007">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1523731008922">
         <mark key="'" line="18" column="61" />
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="63" />
-        <mark key="." line="19" column="63" />
-        <mark key="^" line="19" column="63" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh_accelerator.rs" timestamp="1512606147887">
         <mark key="'" line="81" column="0" />
@@ -639,6 +653,12 @@
         <mark key="]" line="84" column="35" />
         <mark key="^" line="84" column="35" />
         <mark key="." line="84" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.h" timestamp="1523731192429">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw6/prob1/FrameworkFlow.java" timestamp="1489514086918">
         <mark key="'" line="141" column="0" />
@@ -838,8 +858,8 @@
       <jump line="64" column="13" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlubmVyX3dpZGdldC0+c2V0UGFyZW50KHRoaXMpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -848,16 +868,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgbmFub2d1aTo6V2lkZ2V0KG51bGxwdHIpOwo=</text>
+        <text encoding="base64">ICAgIFdpZGdldCAqbGVmdF93aWRnZXQgPSBtYWtlX2xlZnRfd2lkZ2V0KHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxscHRyOwo=</text>
+        <text encoding="base64">ICAgIGlubmVyX3dpZGdldC0+c2V0UGFyZW50KHRoaXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -927,28 +947,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG9zY19ndWktPnNldFBhcmVudCh0aGlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxscHRyOwo=</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5hbm9ndWkvbmFub2d1aS5oPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgbmFub2d1aTo6V2lkZ2V0KG51bGxwdHIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgbmFub2d1aTo6V2lkZ2V0Owo=</text>
+        <text encoding="base64">ICAgIGF1dG8gKmxhYmVsMSA9IG5ldyBuYW5vZ3VpOjpMYWJlbCh0aGlzLCAid2hhdCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZGdldC0+c2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIG5hbm9ndWk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIG5hbm9ndWk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
