@@ -151,7 +151,7 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimTimeline.java" timestamp="1524164473353" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimTimeline.java" timestamp="1524166849853" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/cornell_box1.yaml" timestamp="1519097469891">
         <mark key="'" line="37" column="21" />
         <mark key="[" line="39" column="0" />
@@ -230,8 +230,8 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" timestamp="1524163827556">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" timestamp="1524166556743">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="251" column="1" />
         <mark key="^" line="34" column="0" />
@@ -627,7 +627,7 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/common/texture/TexCubeMap.java" timestamp="1524166016323" />
+      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/common/texture/TexCubeMap.java" timestamp="1524166366129" />
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene.rs" timestamp="1508111083341">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="105" column="66" />
@@ -667,7 +667,7 @@
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524166059977">
+      <file name="/Dummy.txt" timestamp="1524166449494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw1/prob_2/Framework.java" timestamp="1485718421367">
@@ -741,6 +741,9 @@
         <mark key="^" line="91" column="19" />
         <mark key="." line="91" column="19" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/egl/math/Matrix4.java" timestamp="1524166899574">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/viz-app/build.gradle" timestamp="1512150711969">
         <mark key="[" line="21" column="69" />
         <mark key="]" line="22" column="40" />
@@ -759,15 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="2" filename="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" />
-      <jump line="8" column="48" filename="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
-      <jump line="9" column="27" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
-      <jump line="43" column="12" filename="$USER_HOME$/code/apps/nori/src/warp.cpp" />
-      <jump line="92" column="12" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
-      <jump line="71" column="52" filename="$USER_HOME$/code/apps/nori/include/nori/common.h" />
-      <jump line="98" column="15" filename="$USER_HOME$/code/apps/nori/CMakeLists.txt" />
-      <jump line="124" column="13" filename="$USER_HOME$/code/apps/nori/src/warp.cpp" />
       <jump line="1" column="35" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
       <jump line="10" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
       <jump line="11" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
@@ -859,10 +853,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
       <jump line="10" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="218" column="35" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="227" column="18" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="182" column="18" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimTimeline.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/egl/math/Matrix4.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
+        <text encoding="base64">CQkobmV3IE1hdHJpeDQoKSkuaW4K</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -874,17 +877,13 @@
         <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>interpola</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>os, viewProjection, lastRayOrigin, lastRayDirection);
-		getRay(curMousePos, viewProjection, curRayOrigin, curRayDirection);
-		Vector3 lastPlaneIntersection = rayPlaneIntersection(lastRayOrigin, lastRayDirection, planeOrigin, planeNormal);
-		Vector3 curPlaneIntersection = rayPlaneIntersection(curRayOrigin, curRayDirection, planeOrigin, planeNormal);
-		System.out.printl</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkobmV3IE1hdHJpeDQoKSkuaW4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -954,37 +953,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTwhLS0K</text>
+        <text encoding="base64">CQlvYmplY3QudHJhbnNmb3JtYXRpb24K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS0tPgo=</text>
+      <register name="4" type="4">
+        <text>os, viewProjection, lastRayOrigin, lastRayDirection);
+		getRay(curMousePos, viewProjection, curRayOrigin, curRayDirection);
+		Vector3 lastPlaneIntersection = rayPlaneIntersection(lastRayOrigin, lastRayDirection, planeOrigin, planeNormal);
+		Vector3 curPlaneIntersection = rayPlaneIntersection(curRayOrigin, curRayDirection, planeOrigin, planeNormal);
+		System.out.printl</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
+        <text encoding="base64">CTwhLS0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gNC5mICogTV9QSSAqIE1fUEk7Cg==</text>
+        <text encoding="base64">CS0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgLz0gcG93ZigoaXRzLnAgLSBtX2xpZ2h0X3Bvcykubm9ybSgpLCAyKTsK</text>
+        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKj0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>interpola</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>interpola</last-pattern>
       <last-replace>planeOrigin</last-replace>
       <last-substitute>planeNormal</last-substitute>
       <last-dir>1</last-dir>
@@ -992,8 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dot(</entry>
-        <entry>set</entry>
         <entry>TODO</entry>
         <entry>scale</entry>
         <entry>mul;</entry>
@@ -1012,6 +1013,8 @@
         <entry>\/</entry>
         <entry>Vector3</entry>
         <entry>main</entry>
+        <entry>object.tra</entry>
+        <entry>interpola</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
