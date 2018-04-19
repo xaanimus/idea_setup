@@ -30,6 +30,9 @@
         <mark key="^" line="499" column="8" />
         <mark key="." line="499" column="8" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" timestamp="1524087324992">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray1_a2/src/ray1/RayTracer.java" timestamp="1487259805764">
         <mark key="'" line="223" column="0" />
         <mark key="[" line="240" column="43" />
@@ -753,16 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.hpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="30" column="31" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" />
       <jump line="5" column="2" filename="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" />
       <jump line="8" column="48" filename="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" />
@@ -853,6 +846,16 @@
       <jump line="66" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
       <jump line="71" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
       <jump line="120" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" />
+      <jump line="23" column="5" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="203" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -868,7 +871,7 @@
         <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>Vector3</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
@@ -976,9 +979,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Vector3</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>Vector3</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>planeOrigin</last-replace>
       <last-substitute>planeNormal</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +989,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dot</entry>
         <entry>dot(</entry>
         <entry>set</entry>
         <entry>TODO</entry>
@@ -1006,6 +1008,7 @@
         <entry>intersec</entry>
         <entry>\/</entry>
         <entry>Vector3</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
