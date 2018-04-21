@@ -218,12 +218,12 @@
         <mark key="^" line="59" column="38" />
         <mark key="." line="59" column="38" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" timestamp="1524330547135">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" timestamp="1524337821587">
         <mark key="'" line="17" column="22" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="34" />
-        <mark key="^" line="31" column="34" />
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
       </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
@@ -873,8 +873,8 @@
       <jump line="1943" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/ext/nanovg/src/nanovg.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -883,7 +883,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>nvgClosePath</text>
@@ -892,7 +892,7 @@
         <text encoding="base64">ICAgIFdpZGdldCAqbGVmdF93aWRnZXQgPSBtYWtlX2xlZnRfd2lkZ2V0KHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -962,28 +962,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBudmdCZWdpblBhdGgoY3R4KTsKICAgICAgICBudmdSZWN0KGN0eCwgbVBvcy54KCksIG1Qb3MueSgpLCBtU2l6ZS54KCksIG1TaXplLnkoKSk7CiAgICAgICAgbnZnRmlsbENvbG9yKGN0eCwgbV9jb2xvcik7CiAgICAgICAgbnZnRmlsbChjdHgpOwo=</text>
+        <text encoding="base64">Ly8gICAgdGhpcy0+c2V0TGF5b3V0KAovLyAgICAgICAgICAgIG5ldyBCb3hMYXlvdXQoT3JpZW50YXRpb246Okhvcml6b250YWwsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICBBbGlnbm1lbnQ6Ok1pZGRsZSwgMjAsIDIwKSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpdmF0ZToK</text>
+        <text encoding="base64">ICAgICAgICBudmdCZWdpblBhdGgoY3R4KTsKICAgICAgICBudmdSZWN0KGN0eCwgbVBvcy54KCksIG1Qb3MueSgpLCBtU2l6ZS54KCksIG1TaXplLnkoKSk7CiAgICAgICAgbnZnRmlsbENvbG9yKGN0eCwgbV9jb2xvcik7CiAgICAgICAgbnZnRmlsbChjdHgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YWNrV2lkZ2V0LT5zZXRUaGVtZSgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBuYW5vZ3VpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImd1aV9jb2xvci5oIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpdmF0ZToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0YWNrV2lkZ2V0LT5zZXRUaGVtZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBuYW5vZ3VpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIG5hbm9ndWk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImd1aV9jb2xvci5oIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
