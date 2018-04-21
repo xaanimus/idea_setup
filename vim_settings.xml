@@ -149,8 +149,8 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/ext/nanovg/src/nanovg.c" timestamp="1524328163810">
-        <mark key="'" line="2165" column="5" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/ext/nanovg/src/nanovg.c" timestamp="1524330297065">
+        <mark key="'" line="1943" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1519095188494">
         <mark key="'" line="86" column="1" />
@@ -218,12 +218,12 @@
         <mark key="^" line="59" column="38" />
         <mark key="." line="59" column="38" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" timestamp="1524329798442">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="42" column="69" />
-        <mark key="]" line="42" column="76" />
-        <mark key="." line="42" column="76" />
-        <mark key="^" line="42" column="76" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" timestamp="1524330547135">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
@@ -509,10 +509,6 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" timestamp="1522354357485">
-        <mark key="'" line="43" column="16" />
-        <mark key="[" line="234" column="95" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1519060454283">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="16" />
@@ -525,6 +521,9 @@
         <mark key="]" line="63" column="66" />
         <mark key="." line="63" column="66" />
         <mark key="^" line="63" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" timestamp="1524330148888">
+        <mark key="'" line="196" column="73" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/surface/Triangle.java" timestamp="1513574504979">
         <mark key="'" line="0" column="0" />
@@ -545,7 +544,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/gui_helpers.h" timestamp="1524329832559" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/gui_helpers.h" timestamp="1524330633293">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene_builder.rs" timestamp="1507600387033">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="35" column="16" />
@@ -644,12 +648,12 @@
         <mark key="." line="105" column="82" />
         <mark key="^" line="105" column="82" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1523731008922">
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/oscillatorsoundnode.cpp" timestamp="1524330026512">
         <mark key="'" line="18" column="61" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="45" />
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh_accelerator.rs" timestamp="1512606147887">
         <mark key="'" line="81" column="0" />
@@ -687,10 +691,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/gui_color.h" timestamp="1524328893660">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/gui_color.h" timestamp="1524330438661">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/utilities.hpp" timestamp="1519405489685">
         <mark key="[" line="6" column="0" />
@@ -766,14 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="114" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="120" column="66" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="121" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="122" column="57" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="123" column="10" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="124" column="57" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
-      <jump line="125" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="126" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="127" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
       <jump line="149" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a1/src/meshgen/MeshGen.java" />
@@ -866,11 +863,18 @@
       <jump line="19" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/widget.h" />
       <jump line="19" column="16" filename="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" />
       <jump line="34" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" />
+      <jump line="17" column="22" filename="$USER_HOME$/code/creativecc/modular_synth/src/gui/ModuleWrapperWidget.cpp" />
+      <jump line="189" column="6" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" />
+      <jump line="190" column="24" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" />
+      <jump line="191" column="75" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" />
+      <jump line="193" column="4" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" />
+      <jump line="195" column="36" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" />
+      <jump line="196" column="73" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/include/nanogui/theme.h" />
+      <jump line="1943" column="0" filename="$USER_HOME$/code/creativecc/modular_synth/lib/nanogui/ext/nanovg/src/nanovg.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new BoxLayout(Orientation::Vertical,
-                                         Alignment::Middle, 0, 0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -879,17 +883,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>make_left</text>
+        <text>nvgClosePath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFdpZGdldCAqbGVmdF93aWRnZXQgPSBtYWtlX2xlZnRfd2lkZ2V0KHRoaXMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>new BoxLayout(Orientation::Vertical,
-                                         Alignment::Middle, 0, 0)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -959,37 +962,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudmdCZWdpblBhdGgoY3R4KTsKICAgICAgICBudmdSZWN0KGN0eCwgbVBvcy54KCksIG1Qb3MueSgpLCBtU2l6ZS54KCksIG1TaXplLnkoKSk7CiAgICAgICAgbnZnRmlsbENvbG9yKGN0eCwgbV9jb2xvcik7CiAgICAgICAgbnZnRmlsbChjdHgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YWNrV2lkZ2V0LT5zZXRMYXlvdXQoIEJveCB7CiAgICAgICAgICAgIC5hbGlnbm1lbnQgPSBBbGlnbm1lbnQ6OkZpbGwKICAgIH0uYWxsb2MoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEJveExheW91dCB7Lm1NYXJnaW4gPSAwfTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpdmF0ZToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YWNrV2lkZ2V0LT5zZXRUaGVtZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBuYW5vZ3VpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImd1aV9jb2xvci5oIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIG5hbm9ndWk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>make_left</last-search>
+      <last-search>nvgClosePath</last-search>
       <last-offset />
-      <last-pattern>make_left</last-pattern>
+      <last-pattern>nvgClosePath</last-pattern>
       <last-replace>radius</last-replace>
       <last-substitute>size</last-substitute>
       <last-dir>1</last-dir>
@@ -997,9 +1000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NORM_REFERENCE_OBJ</entry>
-        <entry>reference</entry>
-        <entry>-e</entry>
         <entry>usage2</entry>
         <entry>bunny</entry>
         <entry>flags</entry>
@@ -1017,6 +1017,9 @@
         <entry>draw</entry>
         <entry>size</entry>
         <entry>make_left</entry>
+        <entry>background</entry>
+        <entry>color</entry>
+        <entry>nvgClosePath</entry>
       </history-search>
       <history-cmd>
         <entry>s/x/y/g</entry>
