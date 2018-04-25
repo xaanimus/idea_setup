@@ -24,13 +24,6 @@
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/mesh/OBJParser.java" timestamp="1524163832392" />
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/scene_a3/src/egl/math/Matrix3.java" timestamp="1489169249930">
-        <mark key="[" line="499" column="21" />
-        <mark key="]" line="499" column="8" />
-        <mark key="^" line="499" column="8" />
-        <mark key="." line="499" column="8" />
-      </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimationEngine.java" timestamp="1524087324992">
         <mark key="'" line="10" column="0" />
       </file>
@@ -41,24 +34,12 @@
         <mark key="." line="241" column="33" />
         <mark key="^" line="241" column="33" />
       </file>
-      <file name="$USER_HOME$/code/apps/nori/scenes/pa1/bunnyDiffuse.xml" timestamp="1520108457443">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="54" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1518998820131">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="244" column="0" />
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
         <mark key="^" line="253" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/camera.rs" timestamp="1512674435788">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="35" />
-        <mark key="^" line="34" column="35" />
-        <mark key="." line="34" column="35" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" timestamp="1520112185623">
         <mark key="'" line="36" column="0" />
@@ -74,12 +55,6 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a2/src/ray1/shader/Lambertian.java" timestamp="1518832886264">
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/shader/Metal.java" timestamp="1513555380951">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="35" column="78" />
@@ -94,11 +69,12 @@
         <mark key="." line="96" column="33" />
         <mark key="^" line="96" column="33" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/RayTracer.java" timestamp="1507557144299">
-        <mark key="[" line="269" column="31" />
-        <mark key="]" line="269" column="31" />
-        <mark key="^" line="269" column="31" />
-        <mark key="." line="269" column="31" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" timestamp="1524674901063">
+        <mark key="'" line="25" column="33" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw11/prob3/FrameworkKnapsack.java" timestamp="1495499101124">
         <mark key="'" line="180" column="12" />
@@ -113,12 +89,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/nori/src/normals.cpp" timestamp="1520106893474">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/src/warp.cpp" timestamp="1520110654968">
         <mark key="'" line="125" column="13" />
@@ -151,7 +121,6 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimTimeline.java" timestamp="1524166849853" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/cornell_box1.yaml" timestamp="1519097469891">
         <mark key="'" line="37" column="21" />
         <mark key="[" line="39" column="0" />
@@ -187,6 +156,10 @@
         <mark key="^" line="132" column="35" />
         <mark key="." line="132" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/teapot-rectlight.xml" timestamp="1524667348872">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="11" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/BSpline.java" timestamp="1522450074613">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="16" column="24" />
@@ -194,24 +167,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundnode.cpp" timestamp="1519444873213">
-        <mark key="[" line="59" column="24" />
-        <mark key="]" line="59" column="38" />
-        <mark key="^" line="59" column="38" />
-        <mark key="." line="59" column="38" />
-      </file>
       <file name="$USER_HOME$/Work/misc/src/com/company/Main.java" timestamp="1475167406987">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/graphics/xsray/src/engine/renderer.rs" timestamp="1507600418686">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/egl/math/Matrix3.java" timestamp="1522448206871">
         <mark key="'" line="279" column="0" />
@@ -237,12 +198,6 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/viz-app/src/main/java/Main.kt" timestamp="1512150818187">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/shader/Glass.java" timestamp="1513278869405">
         <mark key="'" line="52" column="44" />
         <mark key="[" line="87" column="35" />
@@ -257,12 +212,6 @@
         <mark key="." line="291" column="48" />
         <mark key="^" line="291" column="48" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/コンピュータ４２６０/a1/src/meshgen/Main.kt" timestamp="1517520018137">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-      </file>
       <file name="$USER_HOME$/code/apps/nori/scenes/pa1/bunny.xml" timestamp="1520013743661">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="11" column="48" />
@@ -270,27 +219,16 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/egl/math/Matrix3.java" timestamp="1492640514734">
-        <mark key="[" line="812" column="9" />
-        <mark key="]" line="812" column="10" />
-        <mark key="^" line="538" column="16" />
-        <mark key="." line="812" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/apps/nori/scenes/pa3/ajax-ao.xml" timestamp="1520111614779">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="50" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="50" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/sphere-unif.xml" timestamp="1524668350957">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/src/iak/horseIR/Main.java" timestamp="1520960150069">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/Ray.java" timestamp="1513884713359">
-        <mark key="[" line="103" column="20" />
-        <mark key="]" line="103" column="18" />
-        <mark key="^" line="103" column="18" />
-        <mark key="." line="103" column="18" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/surface/Surface.java" timestamp="1524667509582">
+        <mark key="'" line="12" column="62" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" timestamp="1519095722029">
         <mark key="'" line="67" column="0" />
@@ -299,24 +237,6 @@
         <mark key="." line="88" column="40" />
         <mark key="^" line="88" column="40" />
       </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/soundprocessor.hpp" timestamp="1519407772952">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
-        <mark key="^" line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/code/web_apps/benchmarks/kotlin-web-bench/build.gradle" timestamp="1507481182946">
-        <mark key="[" line="25" column="56" />
-        <mark key="]" line="26" column="56" />
-        <mark key="." line="26" column="56" />
-        <mark key="^" line="26" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/TODO.md" timestamp="1519097574695">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-      </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/graphsoundprocessor.cpp" timestamp="1519444717417">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="10" column="56" />
@@ -324,11 +244,8 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/Hello.java" timestamp="1517441779963">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" timestamp="1524668365783">
+        <mark key="'" line="91" column="12" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1519096530865">
         <mark key="'" line="88" column="40" />
@@ -337,26 +254,8 @@
         <mark key="." line="85" column="68" />
         <mark key="^" line="85" column="68" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray1_a2/src/ray1/shader/ClampTexture.java" timestamp="1487336843342">
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="29" column="55" />
-        <mark key="^" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-      </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/ofx2/cs4620-project3-master/a3/src/manip/RotationManipulator.java" timestamp="1522513329500">
         <mark key="'" line="120" column="20" />
-      </file>
-      <file name="$USER_HOME$/Work/sp18/コンピュータ４２６０/a1/src/meshgen/MainJ.java" timestamp="1517519930840">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/apps/nori/.gitignore" timestamp="1520013954507">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="24" column="11" />
-        <mark key="^" line="24" column="11" />
-        <mark key="." line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray1_a2/src/ray1/shader/Phong.java" timestamp="1487336664670">
         <mark key="'" line="85" column="0" />
@@ -364,18 +263,6 @@
         <mark key="]" line="75" column="43" />
         <mark key="." line="75" column="43" />
         <mark key="^" line="75" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1519097422947">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/apps/nori/scenes/pa3/ajax-simple.xml" timestamp="1520113469336">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Work/CS4320/hw3/src/main/java/Test.java" timestamp="1477666592890">
         <mark key="'" line="70" column="0" />
@@ -391,36 +278,12 @@
         <mark key="." line="12" column="79" />
         <mark key="^" line="12" column="79" />
       </file>
-      <file name="$USER_HOME$/code/graphics/xsray/src/engine/camera.rs" timestamp="1505844017957">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="41" column="30" />
-        <mark key="^" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/graphics/xsray/src/engine/bvh_accelerator.rs" timestamp="1508110726719">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/soundtest/SoundTest.java" timestamp="1516122896123">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="67" column="31" />
         <mark key="]" line="67" column="36" />
         <mark key="." line="67" column="36" />
         <mark key="^" line="67" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1518299167572">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/graphics/xsray/src/engine/mod.rs" timestamp="1508110094691">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/sampler.rs" timestamp="1518998871757">
         <mark key="'" line="149" column="0" />
@@ -435,12 +298,6 @@
         <mark key="]" line="53" column="7" />
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/.gitignore" timestamp="1519666667909">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Work/sp18/コンピュータ４２６０/a1/src/meshgen/Main.java" timestamp="1517342800235">
         <mark key="'" line="12" column="0" />
@@ -484,15 +341,8 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" timestamp="1522354357485">
-        <mark key="'" line="43" column="16" />
-        <mark key="[" line="234" column="95" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1519060454283">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" timestamp="1524668103909">
+        <mark key="'" line="33" column="37" />
       </file>
       <file name="$USER_HOME$/code/apps/nori/CMakeLists.txt" timestamp="1520020194962">
         <mark key="'" line="98" column="15" />
@@ -517,24 +367,18 @@
       <file name="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" timestamp="1520107952206">
         <mark key="'" line="16" column="105" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1520110874554">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/.gitignore" timestamp="1518912667122">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1524675096704" />
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene_builder.rs" timestamp="1507600387033">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="35" column="16" />
         <mark key="]" line="35" column="18" />
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/two-materials-square.xml" timestamp="1524666934309">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="60" column="8" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray1_a2/src/ray1/surface/Sphere.java" timestamp="1487311258934">
         <mark key="'" line="46" column="0" />
@@ -549,12 +393,6 @@
         <mark key="]" line="66" column="8" />
         <mark key="." line="66" column="8" />
         <mark key="^" line="66" column="8" />
-      </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/surface/Surface.java" timestamp="1513570362257">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a3/src/manip/RotationManipulator.java" timestamp="1522514001643">
         <mark key="'" line="68" column="8" />
@@ -577,18 +415,16 @@
         <mark key="." line="99" column="40" />
         <mark key="^" line="99" column="40" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/ray2slow/tableau.xml" timestamp="1524667394454">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="45" column="9" />
+      </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray1_a2/src/ray1/camera/PerspectiveCamera.java" timestamp="1487026170556">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="11" />
         <mark key="." line="52" column="11" />
         <mark key="^" line="24" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/BuildBinTree.java" timestamp="1516071268779">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/gui/MSynthWidget.hpp" timestamp="1519667113791">
         <mark key="[" line="15" column="0" />
@@ -600,12 +436,6 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
-      </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/Scene.java" timestamp="1493840854130">
-        <mark key="[" line="86" column="47" />
-        <mark key="]" line="86" column="46" />
-        <mark key="^" line="86" column="46" />
-        <mark key="." line="86" column="46" />
       </file>
       <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/ray2_a7/src/ray2/shader/BRDFShader.java" timestamp="1512684118822">
         <mark key="'" line="40" column="34" />
@@ -621,13 +451,6 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/code/graphics/xsray/test_scene.json" timestamp="1505879108154">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/common/texture/TexCubeMap.java" timestamp="1524166366129" />
       <file name="$USER_HOME$/code/graphics/xsray/src/engine/scene.rs" timestamp="1508111083341">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="105" column="66" />
@@ -649,14 +472,6 @@
         <mark key="^" line="84" column="35" />
         <mark key="." line="84" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/sp17/graphics_cs_4620/splines_a5/src/splines/SplineCurve.java" timestamp="1522448182445">
-        <mark key="'" line="308" column="57" />
-        <mark key="j" line="269" column="44" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="2" />
-        <mark key="." line="256" column="2" />
-        <mark key="^" line="256" column="2" />
-      </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a3grading/group_of_sc2233_sk2676/a3code/a3/src/manip/RotationManipulator.java" timestamp="1522512050199">
         <mark key="'" line="53" column="22" />
       </file>
@@ -667,7 +482,7 @@
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524166449494">
+      <file name="/Dummy.txt" timestamp="1524668356134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw1/prob_2/Framework.java" timestamp="1485718421367">
@@ -677,18 +492,6 @@
         <mark key="." line="152" column="116" />
         <mark key="^" line="152" column="116" />
       </file>
-      <file name="$USER_HOME$/code/scratch/java_project_sc/src/com/company/BinaryTree.java" timestamp="1516068472663">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/creativecc/modular_synth/src/audio/utilities.hpp" timestamp="1519405489685">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/modular_synth_application.cpp" timestamp="1519666848761">
         <mark key="'" line="8" column="48" />
         <mark key="[" line="12" column="37" />
@@ -696,6 +499,7 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" timestamp="1524666655607" />
       <file name="$USER_HOME$/code/creativecc/modular_synth/src/CMakeLists.txt" timestamp="1519666775526">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="8" column="52" />
@@ -744,12 +548,6 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a6/src/egl/math/Matrix4.java" timestamp="1524166899574">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/viz-app/build.gradle" timestamp="1512150711969">
-        <mark key="[" line="21" column="69" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-      </file>
       <file name="$USER_HOME$/Work/CS4320/hw2/src/main/java/Node.java" timestamp="1475603952260">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="15" column="65" />
@@ -757,33 +555,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1522511562399">
+      <file name="/fragment.java" timestamp="1524667102225">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="35" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
-      <jump line="10" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
-      <jump line="11" column="17" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cmath" />
-      <jump line="146" column="4" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="153" column="33" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="238" column="78" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="240" column="15" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="134" column="16" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="138" column="21" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="143" column="15" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="150" column="8" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="155" column="11" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="26" column="34" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="1" column="15" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
-      <jump line="187" column="13" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="231" column="29" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="254" column="52" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="262" column="16" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="9" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="10" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="16" column="105" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
@@ -862,10 +638,32 @@
       <jump line="9" column="0" filename="$USER_HOME$/Work/sp17/graphics_cs_4620/animation_a6/src/anim/AnimationEngine.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/anim/AnimTimeline.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6/src/egl/math/Matrix4.java" />
+      <jump line="46" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/two-materials-square.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/two-materials-square.xml" />
+      <jump line="36" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
+      <jump line="17" column="22" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/surface/Surface.java" />
+      <jump line="39" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/surface/Surface.java" />
+      <jump line="9" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/surface/Surface.java" />
+      <jump line="12" column="62" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/surface/Surface.java" />
+      <jump line="21" column="19" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
+      <jump line="37" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
+      <jump line="20" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" />
+      <jump line="26" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" />
+      <jump line="27" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" />
+      <jump line="35" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" />
+      <jump line="31" column="82" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" />
+      <jump line="33" column="37" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/shader/MicrofacetBSDF.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
+      <jump line="66" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
+      <jump line="67" column="52" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
+      <jump line="68" column="38" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
+      <jump line="25" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkobmV3IE1hdHJpeDQoKSkuaW4K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -874,16 +672,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VyckludGVyc2VjdGlvbiA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>interpola</text>
+        <text>0.0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oInBsYW5lTm9ybWFsIFsiICsgcGxhbmVOb3JtYWwueCArICIsICIgKyBwbGFuZU5vcm1hbC55ICsgIiwgIiArIHBsYW5lTm9ybWFsLnogKyAiXSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8c3VyZmFjZSB0eXBlPSJCb3giPgogICAgICAgICAgICA8bWlucHQ+LTMgLTEwIC0zPC9taW5wdD4KICAgICAgICAgICAgPG1heHB0PjMgMCAzPC9tYXhwdD4KICAgICAgICAgICAgPGJzZGYgcmVmPSJkaWZmdXNlIiAvPgogICAgICAgIDwvc3VyZmFjZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkobmV3IE1hdHJpeDQoKSkuaW4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,57 +751,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIDEyOCAxMjggLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlvYmplY3QudHJhbnNmb3JtYXRpb24K</text>
-      </register>
-      <register name="4" type="4">
-        <text>os, viewProjection, lastRayOrigin, lastRayDirection);
-		getRay(curMousePos, viewProjection, curRayOrigin, curRayDirection);
-		Vector3 lastPlaneIntersection = rayPlaneIntersection(lastRayOrigin, lastRayDirection, planeOrigin, planeNormal);
-		Vector3 curPlaneIntersection = rayPlaneIntersection(curRayOrigin, curRayDirection, planeOrigin, planeNormal);
-		System.out.printl</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxpbnRlZ3JhdG9yIHR5cGU9IkJTREZTYW1wbGluZ0ludGVncmF0b3IiIC8+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CTwhLS0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS0tPgo=</text>
+        <text encoding="base64">ICAgIDxtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8cG9pbnQgbmFtZT0icG9zaXRpb24iIHZhbHVlPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGlzdD4KICAgICAgICA8L2Rpc3Q+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5nZXRDbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>interpola</last-search>
+      <last-search>0.0</last-search>
       <last-offset />
-      <last-pattern>interpola</last-pattern>
-      <last-replace>planeOrigin</last-replace>
-      <last-substitute>planeNormal</last-substitute>
+      <last-pattern>0.0</last-pattern>
+      <last-replace>1.0</last-replace>
+      <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
-        <entry>scale</entry>
-        <entry>mul;</entry>
-        <entry>mul</entry>
-        <entry>mul(</entry>
-        <entry>config</entry>
-        <entry>Config</entry>
-        <entry encoding="base64">UnVuIA==</entry>
-        <entry>configu</entry>
         <entry>-X</entry>
         <entry>curPlaneIntersection</entry>
         <entry>curRayDirection</entry>
@@ -1015,12 +800,17 @@
         <entry>main</entry>
         <entry>object.tra</entry>
         <entry>interpola</entry>
+        <entry>ground2</entry>
+        <entry>shader</entry>
+        <entry>glaze0</entry>
+        <entry>1.0</entry>
+        <entry>dist</entry>
+        <entry>rough</entry>
+        <entry>bsdf</entry>
+        <entry>integrator</entry>
+        <entry>0.0</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ZhbHVlc0xlc3NUaGFuV2VpZ2h0L3ZhbHVlc0xlc3NUaGFuV2VpZ2h0TGlzdA==</entry>
-        <entry>e scene_spec.rs</entry>
-        <entry encoding="base64">JzwsJz5zL3NwZWMvYnVpbGRlci9n</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
         <entry>q</entry>
@@ -1036,6 +826,10 @@
         <entry>s/curRayDirection/curRayOrigin/g</entry>
         <entry>s/curRayOrigin/planeNormal/g</entry>
         <entry>s/planeNormal/planeOrigin/g</entry>
+        <entry encoding="base64">JzwsJz5zL2dyb3VuZDIvZ2xhemUw</entry>
+        <entry encoding="base64">JzwsJz5zL2dsYXplMC9yZWZsZWN0MC9n</entry>
+        <entry>s/1.0/0.7/g</entry>
+        <entry>s/0.0/1.0/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
