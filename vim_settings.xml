@@ -69,12 +69,12 @@
         <mark key="." line="96" column="33" />
         <mark key="^" line="96" column="33" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" timestamp="1524674901063">
-        <mark key="'" line="25" column="33" />
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" timestamp="1524689154618">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Work/sp17/algo_cs_4820/hw11/prob3/FrameworkKnapsack.java" timestamp="1495499101124">
         <mark key="'" line="180" column="12" />
@@ -401,6 +401,12 @@
         <mark key="^" line="66" column="4" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-2.xml" timestamp="1524680980119">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/meshutils.rs" timestamp="1519095294703">
         <mark key="'" line="3" column="34" />
         <mark key="[" line="58" column="38" />
@@ -555,13 +561,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1524667102225">
+      <file name="/fragment.java" timestamp="1524688906926">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
-      <jump line="10" column="14" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="16" column="105" filename="$USER_HOME$/code/apps/nori/ext/nanogui/ext/eigen/Eigen/src/Core/Dot.h" />
       <jump line="36" column="0" filename="$USER_HOME$/code/apps/nori/src/simpleIntegrator.cpp" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5/src/splines/SplineCurve.java" />
@@ -660,10 +664,12 @@
       <jump line="68" column="38" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
       <jump line="91" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/Scene.java" />
       <jump line="25" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
+      <jump line="15" column="11" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-1.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8c3VyZmFjZSB0eXBlPSJCb3giPgogICAgICAgICAgICA8bWlucHQ+LTMgMCAwPC9taW5wdD4KICAgICAgICAgICAgPG1heHB0PjMgMTAgMTwvbWF4cHQ+CiAgICAgICAgICAgIDxic2RmIHJlZj0iZGlmZnVzZSIgLz4KICAgICAgICA8L3N1cmZhY2U+Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -678,10 +684,10 @@
         <text>0.0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3VyZmFjZSB0eXBlPSJCb3giPgogICAgICAgICAgICA8bWlucHQ+LTMgLTEwIC0zPC9taW5wdD4KICAgICAgICAgICAgPG1heHB0PjMgMCAzPC9tYXhwdD4KICAgICAgICAgICAgPGJzZGYgcmVmPSJkaWZmdXNlIiAvPgogICAgICAgIDwvc3VyZmFjZT4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+Cgo8c2NlbmU+CiAgICA8c2FtcGxlcz4zMjwvc2FtcGxlcz4KICAgIDxleHBvc3VyZT4xPC9leHBvc3VyZT4KICAgIDxjYW1lcmEgdHlwZT0iUGVyc3BlY3RpdmVDYW1lcmEiPgogICAgICAgIDx2aWV3UG9pbnQ+MCA1IDM8L3ZpZXdQb2ludD4KICAgICAgICA8dmlld0Rpcj4wIC0wLjUgLTE8L3ZpZXdEaXI+CiAgICAgICAgPHZpZXdVcD4wIDEgMDwvdmlld1VwPgogICAgICAgIDxwcm9qRGlzdGFuY2U+MC4zPC9wcm9qRGlzdGFuY2U+CiAgICAgICAgPHZpZXdXaWR0aD4wLjU8L3ZpZXdXaWR0aD4KICAgICAgICA8dmlld0hlaWdodD4wLjU8L3ZpZXdIZWlnaHQ+CiAgICA8L2NhbWVyYT4KICAgIDxpbWFnZT4KICAgICAgICA1MTIgNTEyCiAgICA8L2ltYWdlPgoKICAgIDxic2RmIG5hbWU9ImdsYXplMCIgdHlwZT0iR2xhemVkQlNERiI+CiAgICAgICAgPHJlZnJhY3RpdmVJbmRleD4xLjU8L3JlZnJhY3RpdmVJbmRleD4KICAgICAgICA8c3Vic3RyYXRlIHR5cGU9IkxhbWJlcnRpYW5CU0RGIj4KICAgICAgICAgICAgPGRpZmZ1c2VDb2xvcj4wLjAgMC4wIDAuMCA8L2RpZmZ1c2VDb2xvcj4KICAgICAgICA8L3N1YnN0cmF0ZT4KICAgIDwvYnNkZj4KCiAgICA8YnNkZiBuYW1lPSJkaWZmdXNlIiB0eXBlPSJMYW1iZXJ0aWFuQlNERiI+CiAgICAgICAgPGRpZmZ1c2VDb2xvcj4xLjAgMS4wIDEuMDwvZGlmZnVzZUNvbG9yPgogICAgPC9ic2RmPgoKICAgIDxzdXJmYWNlIHR5cGU9Ikdyb3VwIj4KICAgICAgICA8dHJhbnNsYXRlPjAgMiAtNTwvdHJhbnNsYXRlPgogICAgICAgIDxzdXJmYWNlIHR5cGU9Ik1lc2giPgogICAgICAgICAgICA8ZGF0YT4uLi8uLi9tZXNoZXMvdGVhcG90Lm9iajwvZGF0YT4KICAgICAgICAgICAgPGJzZGYgcmVmPSJnbGF6ZTAiIC8+CiAgICAgICAgPC9zdXJmYWNlPgogICAgICAgIDxzdXJmYWNlIHR5cGU9IkJveCI+CiAgICAgICAgICAgIDxtaW5wdD4tMyAtMTAgLTM8L21pbnB0PgogICAgICAgICAgICA8bWF4cHQ+MyAwLjIgMzwvbWF4cHQ+CiAgICAgICAgICAgIDxic2RmIHJlZj0iZGlmZnVzZSIgLz4KICAgICAgICA8L3N1cmZhY2U+CiAgICAgICAgPHN1cmZhY2UgdHlwZT0iQm94Ij4KICAgICAgICAgICAgPG1pbnB0Pi0zIDAgMDwvbWlucHQ+CiAgICAgICAgICAgIDxtYXhwdD4zIDEwIDE8L21heHB0PgogICAgICAgICAgICA8YnNkZiByZWY9ImRpZmZ1c2UiIC8+CiAgICAgICAgPC9zdXJmYWNlPgogICAgPC9zdXJmYWNlPgoKICAgIDxzdXJmYWNlIHR5cGU9IkJveCI+CiAgICAgICAgPG1pbnB0Pi0zMCAtMSAtMTAwPC9taW5wdD4KICAgICAgICA8bWF4cHQ+MzAgMCAxNjwvbWF4cHQ+CiAgICAgICAgPGJzZGYgcmVmPSJnbGF6ZTAiIC8+CiAgICA8L3N1cmZhY2U+CgogICAgPGN1YmVtYXA+CiAgICAgICAgPGZpbGVuYW1lPmRhdGEvdGV4dHVyZXMvY3ViZW1hcHMva2l0Y2hlbl9jcm9zcy5wZm08L2ZpbGVuYW1lPgogICAgICAgIDxzY2FsZUZhY3Rvcj4xLjA8L3NjYWxlRmFjdG9yPgogICAgPC9jdWJlbWFwPgoKCjwvc2NlbmU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8c3VyZmFjZSB0eXBlPSJCb3giPgogICAgICAgICAgICA8bWlucHQ+LTMgMCAwPC9taW5wdD4KICAgICAgICAgICAgPG1heHB0PjMgMTAgMTwvbWF4cHQ+CiAgICAgICAgICAgIDxic2RmIHJlZj0iZGlmZnVzZSIgLz4KICAgICAgICA8L3N1cmZhY2U+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -751,28 +757,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDEyOCAxMjggLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxzdXJmYWNlIHR5cGU9Ikdyb3VwIj4KICAgICAgICA8dHJhbnNsYXRlPjAgMiAtNTwvdHJhbnNsYXRlPgogICAgICAgIDxzdXJmYWNlIHR5cGU9Ik1lc2giPgogICAgICAgICAgICA8ZGF0YT4uLi8uLi9tZXNoZXMvdGVhcG90Lm9iajwvZGF0YT4KICAgICAgICAgICAgPGJzZGYgcmVmPSJnbGF6ZTAiIC8+CiAgICAgICAgPC9zdXJmYWNlPgogICAgICAgIDxzdXJmYWNlIHR5cGU9IkJveCI+CiAgICAgICAgICAgIDxtaW5wdD4tMyAtMTAgLTM8L21pbnB0PgogICAgICAgICAgICA8bWF4cHQ+MyAwLjIgMzwvbWF4cHQ+CiAgICAgICAgICAgIDxic2RmIHJlZj0iZGlmZnVzZSIgLz4KICAgICAgICA8L3N1cmZhY2U+CiAgICAgICAgPHN1cmZhY2UgdHlwZT0iQm94Ij4KICAgICAgICAgICAgPG1pbnB0Pi0zIDAgMDwvbWlucHQ+CiAgICAgICAgICAgIDxtYXhwdD4zIDEwIDE8L21heHB0PgogICAgICAgICAgICA8YnNkZiByZWY9ImRpZmZ1c2UiIC8+CiAgICAgICAgPC9zdXJmYWNlPgogICAgPC9zdXJmYWNlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ3JhdG9yIHR5cGU9IkJTREZTYW1wbGluZ0ludGVncmF0b3IiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxic2RmIG5hbWU9ImdsYXplMCIgdHlwZT0iR2xhemVkQlNERiI+CiAgICAgICAgPHJlZnJhY3RpdmVJbmRleD4xLjU8L3JlZnJhY3RpdmVJbmRleD4KICAgICAgICA8c3Vic3RyYXRlIHR5cGU9IkxhbWJlcnRpYW5CU0RGIj4KICAgICAgICAgICAgPGRpZmZ1c2VDb2xvcj4wLjAgMC4wIDAuMCA8L2RpZmZ1c2VDb2xvcj4KICAgICAgICA8L3N1YnN0cmF0ZT4KICAgIDwvYnNkZj4KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxtCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIDEyOCAxMjggLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGlzdD4KICAgICAgICA8L2Rpc3Q+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
