@@ -32,13 +32,27 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/gtk-0.4.1/src/lib.rs" timestamp="1525545382329">
+        <mark key="'" line="61" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/scratch/rust_gtk_sc/Cargo.toml" timestamp="1525546417017">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/IRNodeFactory_c.java" timestamp="1525205799015">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/Ray.java" timestamp="1525468184832" />
+      <file name="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" timestamp="1525546811992">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.flex" timestamp="1525222371044">
         <mark key="'" line="70" column="28" />
       </file>
@@ -63,7 +77,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525220603011">
+      <file name="/Dummy.txt" timestamp="1525546227271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
@@ -78,7 +92,6 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/RayTracer.java" timestamp="1525374295959" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataPutString.java" timestamp="1525220791339">
         <mark key="[" line="7" column="55" />
         <mark key="]" line="8" column="26" />
@@ -115,28 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="263" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="260" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="256" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="254" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="247" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="240" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="243" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" />
-      <jump line="135" column="28" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="144" column="21" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="147" column="22" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="149" column="38" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="386" column="35" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="420" column="17" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="422" column="40" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="566" column="10" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="588" column="44" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="612" column="22" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="30" column="17" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="31" column="53" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="32" column="21" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="65" column="15" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="66" column="8" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="69" column="12" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="75" column="12" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
@@ -215,10 +206,32 @@
       <jump line="48" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
       <jump line="51" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/gtk-0.4.1/src/lib.rs" />
+      <jump line="28" column="68" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/gtk-0.4.1/src/lib.rs" />
+      <jump line="35" column="35" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/gtk-0.4.1/src/lib.rs" />
+      <jump line="57" column="24" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/gtk-0.4.1/src/lib.rs" />
+      <jump line="61" column="33" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/gtk-0.4.1/src/lib.rs" />
+      <jump line="47" column="13" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="87" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy9hc3N1bWluZyBhbGwgbGlnaHRzIGFyZSBwb2ludCBsaWdodHMKCQkJTGlnaHRTYW1wbGluZ1JlY29yZCBsaWdodFNhbXBsaW5nUmVjb3JkID0gbmV3IExpZ2h0U2FtcGxpbmdSZWNvcmQoKTsKCQkJbGlnaHQuc2FtcGxlKGxpZ2h0U2FtcGxpbmdSZWNvcmQsIGlSZWMubG9jYXRpb24pOwoKCQkJVmVjdG9yM2QgbGlnaHREaXIgPSBsaWdodFNhbXBsaW5nUmVjb3JkLmRpcmVjdGlvbi5ub3JtYWxpemUoKTsKCQkJVmVjdG9yM2Qgdmlld0RpciA9IHJheS5kaXJlY3Rpb24uY2xvbmUoKS5uZWdhdGUoKS5ub3JtYWxpemUoKTsKCgkJCUNvbG9yZCBpbmNvbWluZ1JhZGlhbmNlID0gbmV3IENvbG9yZCgwLjAsIDAuMCwgMC4wKTsKCQkJUmF5IGxpZ2h0UmF5ID0gbmV3IFJheShpUmVjLmxvY2F0aW9uLCBsaWdodERpcik7CgkJCWxpZ2h0UmF5Lm1ha2VPZmZzZXRSYXkoKTsKCQkJaWYgKHNjZW5lLmdldEFueUludGVyc2VjdGlvbihsaWdodFJheSkpIHsKCQkJCWNvbnRpbnVlOwoJCQl9CgkJCWxpZ2h0LmV2YWwobGlnaHRSYXksIGluY29taW5nUmFkaWFuY2UpOwoJCQlpbmNvbWluZ1JhZGlhbmNlLm11bChsaWdodFNhbXBsaW5nUmVjb3JkLmF0dGVudWF0aW9uKTsKCgkJCUNvbG9yZCBic2RmID0gbmV3IENvbG9yZCgpOwoJCQlpUmVjLnN1cmZhY2UuZ2V0QlNERigpLmV2YWwodmlld0RpciwgbGlnaHREaXIsIGlSZWMubm9ybWFsLCBic2RmKTsKCgkJCWRvdWJsZSBjb3NUZXJtID0gTWF0aC5tYXgoMC4wLCBsaWdodERpci5kb3QoaVJlYy5ub3JtYWwpKTsKCgkJCVZlY3RvcjNkIG91dENvbG9yID0gaW5jb21pbmdSYWRpYW5jZS5jbG9uZSgpCgkJCQkJLm11bChjb3NUZXJtKQoJCQkJCS5tdWwoYnNkZik7CgoJCQlvdXRSYWRpYW5jZS5hZGQob3V0Q29sb3IpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -227,16 +240,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29sb3JkIA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>attenuation</text>
+        <text>Window</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7CiAgICAgICAgZm9yIChMaWdodCBsaWdodCA6IHNjZW5lLmdldExpZ2h0cygpKSB7CiAgICAgICAgICAgIC8vYXNzdW1pbmcgYWxsIGxpZ2h0cyBhcmUgcG9pbnQgbGlnaHRzCgkJCUxpZ2h0U2FtcGxpbmdSZWNvcmQgbGlnaHRTYW1wbGluZ1JlY29yZCA9IG5ldyBMaWdodFNhbXBsaW5nUmVjb3JkKCk7CgkJCWxpZ2h0LnNhbXBsZShsaWdodFNhbXBsaW5nUmVjb3JkLCBpUmVjLmxvY2F0aW9uKTsKCgkJCVZlY3RvcjNkIGxpZ2h0RGlyID0gbGlnaHRTYW1wbGluZ1JlY29yZC5kaXJlY3Rpb24ubm9ybWFsaXplKCk7CgkJCVZlY3RvcjNkIHZpZXdEaXIgPSByYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnYXRlKCkubm9ybWFsaXplKCk7CgoJCQlDb2xvcmQgaW5jb21pbmdSYWRpYW5jZSA9IG5ldyBDb2xvcmQoMC4wLCAwLjAsIDAuMCk7CgkJCVJheSBsaWdodFJheSA9IG5ldyBSYXkoaVJlYy5sb2NhdGlvbiwgbGlnaHREaXIpOwoJCQlsaWdodFJheS5tYWtlT2Zmc2V0UmF5KCk7CgkJCWlmIChzY2VuZS5nZXRBbnlJbnRlcnNlY3Rpb24obGlnaHRSYXkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlsaWdodC5ldmFsKGxpZ2h0UmF5LCBpbmNvbWluZ1JhZGlhbmNlKTsKCQkJaW5jb21pbmdSYWRpYW5jZS5tdWwobGlnaHRTYW1wbGluZ1JlY29yZC5hdHRlbnVhdGlvbik7CgoJCQlDb2xvcmQgYnNkZiA9IG5ldyBDb2xvcmQoKTsKCQkJaVJlYy5zdXJmYWNlLmdldEJTREYoKS5ldmFsKHZpZXdEaXIsIGxpZ2h0RGlyLCBpUmVjLm5vcm1hbCwgYnNkZik7CgoJCQlkb3VibGUgY29zVGVybSA9IE1hdGgubWF4KDAuMCwgbGlnaHREaXIuZG90KGlSZWMubm9ybWFsKSk7CgoJCQlWZWN0b3IzZCBvdXRDb2xvciA9IGluY29taW5nUmFkaWFuY2UuY2xvbmUoKQoJCQkJCS5tdWwoY29zVGVybSkKCQkJCQkubXVsKGJzZGYpOwoKCQkJb3V0UmFkaWFuY2UuYWRkKG91dENvbG9yKTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy9hc3N1bWluZyBhbGwgbGlnaHRzIGFyZSBwb2ludCBsaWdodHMKCQkJTGlnaHRTYW1wbGluZ1JlY29yZCBsaWdodFNhbXBsaW5nUmVjb3JkID0gbmV3IExpZ2h0U2FtcGxpbmdSZWNvcmQoKTsKCQkJbGlnaHQuc2FtcGxlKGxpZ2h0U2FtcGxpbmdSZWNvcmQsIGlSZWMubG9jYXRpb24pOwoKCQkJVmVjdG9yM2QgbGlnaHREaXIgPSBsaWdodFNhbXBsaW5nUmVjb3JkLmRpcmVjdGlvbi5ub3JtYWxpemUoKTsKCQkJVmVjdG9yM2Qgdmlld0RpciA9IHJheS5kaXJlY3Rpb24uY2xvbmUoKS5uZWdhdGUoKS5ub3JtYWxpemUoKTsKCgkJCUNvbG9yZCBpbmNvbWluZ1JhZGlhbmNlID0gbmV3IENvbG9yZCgwLjAsIDAuMCwgMC4wKTsKCQkJUmF5IGxpZ2h0UmF5ID0gbmV3IFJheShpUmVjLmxvY2F0aW9uLCBsaWdodERpcik7CgkJCWxpZ2h0UmF5Lm1ha2VPZmZzZXRSYXkoKTsKCQkJaWYgKHNjZW5lLmdldEFueUludGVyc2VjdGlvbihsaWdodFJheSkpIHsKCQkJCWNvbnRpbnVlOwoJCQl9CgkJCWxpZ2h0LmV2YWwobGlnaHRSYXksIGluY29taW5nUmFkaWFuY2UpOwoJCQlpbmNvbWluZ1JhZGlhbmNlLm11bChsaWdodFNhbXBsaW5nUmVjb3JkLmF0dGVudWF0aW9uKTsKCgkJCUNvbG9yZCBic2RmID0gbmV3IENvbG9yZCgpOwoJCQlpUmVjLnN1cmZhY2UuZ2V0QlNERigpLmV2YWwodmlld0RpciwgbGlnaHREaXIsIGlSZWMubm9ybWFsLCBic2RmKTsKCgkJCWRvdWJsZSBjb3NUZXJtID0gTWF0aC5tYXgoMC4wLCBsaWdodERpci5kb3QoaVJlYy5ub3JtYWwpKTsKCgkJCVZlY3RvcjNkIG91dENvbG9yID0gaW5jb21pbmdSYWRpYW5jZS5jbG9uZSgpCgkJCQkJLm11bChjb3NUZXJtKQoJCQkJCS5tdWwoYnNkZik7CgoJCQlvdXRSYWRpYW5jZS5hZGQob3V0Q29sb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0X2xhYmVsKCJoaSIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -306,37 +319,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7Cg==</text>
+        <text encoding="base64">I1ttYWNyb191c2VdCmV4dGVybiBjcmF0ZSByZWxtOwojW21hY3JvX3VzZV0KZXh0ZXJuIGNyYXRlIHJlbG1fZGVyaXZlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnVzZSBndGs6OntXaW5kb3csIFdpbmRvd1R5cGV9Owp1c2UgcmVsbTo6e1VwZGF0ZSwgUmVsbX07CgpzdHJ1Y3QgTW9kZWwgewogICAgLy8g4oCmCn0KCiNbZGVyaXZlKE1zZyldCmVudW0gTXNnIHsKICAgIC8vIOKApgogICAgUXVpdCwKfQoKc3RydWN0IFdpbiB7CiAgICAvLyDigKYKICAgIG1vZGVsOiBNb2RlbCwKICAgIHdpbmRvdzogV2luZG93LAp9CgppbXBsIFVwZGF0ZSBmb3IgV2luIHsKICAgIC8vIFNwZWNpZnkgdGhlIG1vZGVsIHVzZWQgZm9yIHRoaXMgd2lkZ2V0LgogICAgdHlwZSBNb2RlbCA9IE1vZGVsOwogICAgLy8gU3BlY2lmeSB0aGUgbW9kZWwgcGFyYW1ldGVyIHVzZWQgdG8gaW5pdCB0aGUgbW9kZWwuCiAgICB0eXBlIE1vZGVsUGFyYW0gPSAoKTsKICAgIC8vIFNwZWNpZnkgdGhlIHR5cGUgb2YgdGhlIG1lc3NhZ2VzIHNlbnQgdG8gdGhlIHVwZGF0ZSBmdW5jdGlvbi4KICAgIHR5cGUgTXNnID0gTXNnOwoKICAgIC8vIFJldHVybiB0aGUgaW5pdGlhbCBtb2RlbC4KICAgIGZuIG1vZGVsKF86ICZSZWxtPFNlbGY+LCBfOiAoKSkgLT4gTW9kZWwgewogICAgICAgIE1vZGVsIHsKICAgICAgICB9CiAgICB9CgogICAgLy8gVGhlIG1vZGVsIG1heSBiZSB1cGRhdGVkIHdoZW4gYSBtZXNzYWdlIGlzIHJlY2VpdmVkLgogICAgLy8gV2lkZ2V0cyBtYXkgYWxzbyBiZSB1cGRhdGVkIGluIHRoaXMgZnVuY3Rpb24uCiAgICAvLyBGdXR1cmVzIGFuZCBzdHJlYW1zIGNhbiBiZSBjb25uZWN0ZWQgdG8gc2VuZCBhIG1lc3NhZ2Ugd2hlbiBhIHZhbHVlIGlzIHJlYWR5LgogICAgZm4gdXBkYXRlKCZtdXQgc2VsZiwgZXZlbnQ6IE1zZykgewogICAgICAgIG1hdGNoIGV2ZW50IHsKICAgICAgICAgICAgTXNnOjpTb21lRXZlbnQgPT4gewogICAgICAgICAgICAgICAgbGV0IGZ1dHVyZSA9IGNyZWF0ZV9mdXR1cmUoKTsKICAgICAgICAgICAgICAgIHJlbG0uY29ubmVjdF9leGVjX2lnbm9yZV9lcnIoZnV0dXJlLCBTb21lRXZlbnQpOwogICAgICAgICAgICB9LAogICAgICAgICAgICBNc2c6OlF1aXQgPT4gZ3RrOjptYWluX3F1aXQoKSwKICAgICAgICB9CiAgICB9CgogICAgLy8gVGhlIG5leHQgbWV0aG9kIGlzIG9wdGlvbmFsLgogICAgLy8gRnV0dXJlcyBhbmQgc3RyZWFtcyBjYW4gYmUgY29ubmVjdGVkIHdoZW4gdGhlIGBXaWRnZXRgIGlzIGNyZWF0ZWQgaW4gdGhlCiAgICAvLyBgc3Vic2NyaXB0aW9ucygpYCBtZXRob2QuCiAgICAvLyBmbiBzdWJzY3JpcHRpb25zKCZtdXQgc2VsZiwgcmVsbTogJlJlbG08U2VsZj4pIHsKICAgIC8vICAgICBsZXQgc3RyZWFtID0gSW50ZXJ2YWw6Om5ldyhEdXJhdGlvbjo6ZnJvbV9zZWNzKDEpKTsKICAgIC8vICAgICByZWxtLmNvbm5lY3RfZXhlY19pZ25vcmVfZXJyKHN0cmVhbSwgVGljayk7CiAgICAvLyB9Cn0KCmltcGwgV2lkZ2V0IGZvciBXaW4gewogICAgLy8gU3BlY2lmeSB0aGUgdHlwZSBvZiB0aGUgcm9vdCB3aWRnZXQuCiAgICB0eXBlIFJvb3QgPSBXaW5kb3c7CgogICAgLy8gUmV0dXJuIHRoZSByb290IHdpZGdldC4KICAgIGZuIHJvb3QoJnNlbGYpIC0+IFNlbGY6OlJvb3QgewogICAgICAgIHNlbGYud2luZG93LmNsb25lKCkKICAgIH0KCiAgICAvLyBDcmVhdGUgdGhlIHdpZGdldHMuCiAgICBmbiB2aWV3KHJlbG06ICZSZWxtPFNlbGY+LCBtb2RlbDogU2VsZjo6TW9kZWwpIC0+IFNlbGYgewogICAgICAgIC8vIEdUSysgd2lkZ2V0cyBhcmUgdXNlZCBub3JtYWxseSB3aXRoaW4gYSBgV2lkZ2V0YC4KICAgICAgICBsZXQgd2luZG93ID0gV2luZG93OjpuZXcoV2luZG93VHlwZTo6VG9wbGV2ZWwpOwoKICAgICAgICAvLyBDb25uZWN0IHRoZSBzaWduYWwgYGRlbGV0ZV9ldmVudGAgdG8gc2VuZCB0aGUgYFF1aXRgIG1lc3NhZ2UuCiAgICAgICAgY29ubmVjdCEocmVsbSwgd2luZG93LCBjb25uZWN0X2RlbGV0ZV9ldmVudChfLCBfKSwgcmV0dXJuIChTb21lKE1zZzo6UXVpdCksIEluaGliaXQoZmFsc2UpKSk7CiAgICAgICAgLy8gVGhlcmUgaXMgYWxzbyBhIGBjb25uZWN0ISgpYCBtYWNybyBmb3IgR1RLKyBldmVudHMgdGhhdCBkbyBub3QgbmVlZCBhCiAgICAgICAgLy8gdmFsdWUgdG8gYmUgcmV0dXJuZWQgaW4gdGhlIGNhbGxiYWNrLgoKICAgICAgICB3aW5kb3cuc2hvd19hbGwoKTsKCiAgICAgICAgV2luIHsKICAgICAgICAgICAgbW9kZWwsCiAgICAgICAgICAgIHdpbmRvdzogd2luZG93LAogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Zm4gbWFpbigpIHsKICAgIFdpbjo6cnVuKCgpKS51bndyYXAoKTsKfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">cmVsbSA9ICJeMC4xMS4wIgpyZWxtLWRlcml2ZSA9ICJeMC4xMS4wIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGxvbmcgaSA9IHJldHZhbDsgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7CgogICAgZ3RrOjppbml0KCkuZXhwZWN0KCJndGsgZmFpbGVkIHRvIGluaXQhIik7CgogICAgbGV0IHdpbmRvdyA9IFdpbmRvdzo6bmV3KFdpbmRvd1R5cGU6OlRvcExldmVsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">dXNlIHJlbG06OntSZWxtLCBXaWRnZXR9OwoKdXNlIGd0azo6cHJlbHVkZTo6KjsKdXNlIGd0azo6e0J1dHRvbiwgV2luZG93LCBXaW5kb3dUeXBlfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKCFpUmVjLnN1cmZhY2UuZ2V0QlNERigpLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>attenuation</last-search>
+      <last-search>Window</last-search>
       <last-offset />
-      <last-pattern>attenuation</last-pattern>
+      <last-pattern>Window</last-pattern>
       <last-replace>1.0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>nameToIndex</entry>
         <entry>findLabel</entry>
         <entry>DATA_SECTION</entry>
@@ -364,6 +376,7 @@
         <entry>0.0</entry>
         <entry>eval</entry>
         <entry>attenuation</entry>
+        <entry>Window</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
