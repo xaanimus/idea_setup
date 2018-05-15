@@ -76,6 +76,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/CubicBezier.java" timestamp="1526427282905" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1525798368232">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="34" column="0" />
@@ -131,6 +132,9 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/gjs59/a5/src/splines/CubicBezier.java" timestamp="1526427038563">
+        <mark key="'" line="60" column="28" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" timestamp="1525376497032">
         <mark key="'" line="110" column="15" />
       </file>
@@ -165,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="19" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="189" column="28" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="190" column="44" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="200" column="14" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="501" column="15" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
@@ -265,6 +267,8 @@
       <jump line="1381" column="16" filename="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/liballoc/rc.rs" />
       <jump line="1372" column="16" filename="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/liballoc/rc.rs" />
       <jump line="1347" column="21" filename="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/liballoc/rc.rs" />
+      <jump line="60" column="28" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/gjs59/a5/src/splines/CubicBezier.java" />
+      <jump line="238" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/SplineCurve.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -280,7 +284,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>RcBoxPtr</text>
+        <text>tess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7CiAgICAgICAgZm9yIChMaWdodCBsaWdodCA6IHNjZW5lLmdldExpZ2h0cygpKSB7CiAgICAgICAgICAgIC8vYXNzdW1pbmcgYWxsIGxpZ2h0cyBhcmUgcG9pbnQgbGlnaHRzCgkJCUxpZ2h0U2FtcGxpbmdSZWNvcmQgbGlnaHRTYW1wbGluZ1JlY29yZCA9IG5ldyBMaWdodFNhbXBsaW5nUmVjb3JkKCk7CgkJCWxpZ2h0LnNhbXBsZShsaWdodFNhbXBsaW5nUmVjb3JkLCBpUmVjLmxvY2F0aW9uKTsKCgkJCVZlY3RvcjNkIGxpZ2h0RGlyID0gbGlnaHRTYW1wbGluZ1JlY29yZC5kaXJlY3Rpb24ubm9ybWFsaXplKCk7CgkJCVZlY3RvcjNkIHZpZXdEaXIgPSByYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnYXRlKCkubm9ybWFsaXplKCk7CgoJCQlDb2xvcmQgaW5jb21pbmdSYWRpYW5jZSA9IG5ldyBDb2xvcmQoMC4wLCAwLjAsIDAuMCk7CgkJCVJheSBsaWdodFJheSA9IG5ldyBSYXkoaVJlYy5sb2NhdGlvbiwgbGlnaHREaXIpOwoJCQlsaWdodFJheS5tYWtlT2Zmc2V0UmF5KCk7CgkJCWlmIChzY2VuZS5nZXRBbnlJbnRlcnNlY3Rpb24obGlnaHRSYXkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlsaWdodC5ldmFsKGxpZ2h0UmF5LCBpbmNvbWluZ1JhZGlhbmNlKTsKCQkJaW5jb21pbmdSYWRpYW5jZS5tdWwobGlnaHRTYW1wbGluZ1JlY29yZC5hdHRlbnVhdGlvbik7CgoJCQlDb2xvcmQgYnNkZiA9IG5ldyBDb2xvcmQoKTsKCQkJaVJlYy5zdXJmYWNlLmdldEJTREYoKS5ldmFsKHZpZXdEaXIsIGxpZ2h0RGlyLCBpUmVjLm5vcm1hbCwgYnNkZik7CgoJCQlkb3VibGUgY29zVGVybSA9IE1hdGgubWF4KDAuMCwgbGlnaHREaXIuZG90KGlSZWMubm9ybWFsKSk7CgoJCQlWZWN0b3IzZCBvdXRDb2xvciA9IGluY29taW5nUmFkaWFuY2UuY2xvbmUoKQoJCQkJCS5tdWwoY29zVGVybSkKCQkJCQkubXVsKGJzZGYpOwoKCQkJb3V0UmFkaWFuY2UuYWRkKG91dENvbG9yKTsKCQl9Cg==</text>
@@ -384,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>RcBoxPtr</last-search>
+      <last-search>tess</last-search>
       <last-offset />
-      <last-pattern>RcBoxPtr</last-pattern>
+      <last-pattern>tess</last-pattern>
       <last-replace>1.0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DATA_SECTION</entry>
         <entry>NAME</entry>
         <entry>DATASECTION</entry>
         <entry>CUP$IR</entry>
@@ -414,6 +417,7 @@
         <entry>Window</entry>
         <entry>font</entry>
         <entry>RcBoxPtr</entry>
+        <entry>tess</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
