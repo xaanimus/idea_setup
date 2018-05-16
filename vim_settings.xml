@@ -51,6 +51,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/RevolutionApp.java" timestamp="1526428634826" />
       <file name="$USER_HOME$/code/scratch/rust_gtk_sc/src/main.rs" timestamp="1525546811992">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="24" column="29" />
@@ -60,6 +61,13 @@
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.flex" timestamp="1525222371044">
         <mark key="'" line="70" column="28" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" timestamp="1526429297614">
+        <mark key="'" line="276" column="20" />
+        <mark key="[" line="338" column="16" />
+        <mark key="]" line="338" column="17" />
+        <mark key="^" line="338" column="17" />
+        <mark key="." line="338" column="17" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" timestamp="1525374066984">
         <mark key="[" line="131" column="24" />
@@ -76,7 +84,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/CubicBezier.java" timestamp="1526427282905" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/CubicBezier.java" timestamp="1526428827079" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1525798368232">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="34" column="0" />
@@ -89,7 +97,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525548035511">
+      <file name="/Dummy.txt" timestamp="1526428424851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
@@ -132,11 +140,15 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/CubicBezier.java" timestamp="1526428640186" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/gjs59/a5/src/splines/CubicBezier.java" timestamp="1526427038563">
         <mark key="'" line="60" column="28" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" timestamp="1525376497032">
         <mark key="'" line="110" column="15" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/BSpline.java" timestamp="1526429316851">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/data/scenes/pointLight/bbox-test.xml" timestamp="1525798329274">
         <mark key="[" line="22" column="8" />
@@ -167,29 +179,9 @@
       <file name="/fragment.java" timestamp="1525282334773">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/SplineCurve.java" timestamp="1526428920518" />
     </filemarks>
     <jumps>
-      <jump line="190" column="44" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="200" column="14" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="501" column="15" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="24" column="30" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="499" column="13" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="217" column="22" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
-      <jump line="65" column="3" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="59" column="0" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="49" column="0" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="41" column="0" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="39" column="0" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="29" column="0" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="20" column="0" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="237" column="26" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="24" column="33" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.cup" />
-      <jump line="366" column="17" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/IRParser.java" />
-      <jump line="311" column="42" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/IRParser.java" />
-      <jump line="267" column="39" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/IRParser.java" />
-      <jump line="269" column="36" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/IRParser.java" />
-      <jump line="272" column="16" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/IRParser.java" />
-      <jump line="277" column="36" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/IRParser.java" />
       <jump line="116" column="31" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="78" column="36" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
       <jump line="344" column="56" filename="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" />
@@ -269,6 +261,27 @@
       <jump line="1347" column="21" filename="$USER_HOME$/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src/liballoc/rc.rs" />
       <jump line="60" column="28" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/gjs59/a5/src/splines/CubicBezier.java" />
       <jump line="238" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/SplineCurve.java" />
+      <jump line="336" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="250" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="293" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="342" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="289" column="27" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="305" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="315" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="327" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="53" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="338" column="29" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="44" column="9" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="272" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="281" column="61" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="280" column="44" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="271" column="37" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="274" column="28" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="276" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
+      <jump line="739" column="27" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/egl/math/Matrix4d.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/BSpline.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/BSpline.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/BSpline.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +297,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>tess</text>
+        <text>crossSection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7CiAgICAgICAgZm9yIChMaWdodCBsaWdodCA6IHNjZW5lLmdldExpZ2h0cygpKSB7CiAgICAgICAgICAgIC8vYXNzdW1pbmcgYWxsIGxpZ2h0cyBhcmUgcG9pbnQgbGlnaHRzCgkJCUxpZ2h0U2FtcGxpbmdSZWNvcmQgbGlnaHRTYW1wbGluZ1JlY29yZCA9IG5ldyBMaWdodFNhbXBsaW5nUmVjb3JkKCk7CgkJCWxpZ2h0LnNhbXBsZShsaWdodFNhbXBsaW5nUmVjb3JkLCBpUmVjLmxvY2F0aW9uKTsKCgkJCVZlY3RvcjNkIGxpZ2h0RGlyID0gbGlnaHRTYW1wbGluZ1JlY29yZC5kaXJlY3Rpb24ubm9ybWFsaXplKCk7CgkJCVZlY3RvcjNkIHZpZXdEaXIgPSByYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnYXRlKCkubm9ybWFsaXplKCk7CgoJCQlDb2xvcmQgaW5jb21pbmdSYWRpYW5jZSA9IG5ldyBDb2xvcmQoMC4wLCAwLjAsIDAuMCk7CgkJCVJheSBsaWdodFJheSA9IG5ldyBSYXkoaVJlYy5sb2NhdGlvbiwgbGlnaHREaXIpOwoJCQlsaWdodFJheS5tYWtlT2Zmc2V0UmF5KCk7CgkJCWlmIChzY2VuZS5nZXRBbnlJbnRlcnNlY3Rpb24obGlnaHRSYXkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlsaWdodC5ldmFsKGxpZ2h0UmF5LCBpbmNvbWluZ1JhZGlhbmNlKTsKCQkJaW5jb21pbmdSYWRpYW5jZS5tdWwobGlnaHRTYW1wbGluZ1JlY29yZC5hdHRlbnVhdGlvbik7CgoJCQlDb2xvcmQgYnNkZiA9IG5ldyBDb2xvcmQoKTsKCQkJaVJlYy5zdXJmYWNlLmdldEJTREYoKS5ldmFsKHZpZXdEaXIsIGxpZ2h0RGlyLCBpUmVjLm5vcm1hbCwgYnNkZik7CgoJCQlkb3VibGUgY29zVGVybSA9IE1hdGgubWF4KDAuMCwgbGlnaHREaXIuZG90KGlSZWMubm9ybWFsKSk7CgoJCQlWZWN0b3IzZCBvdXRDb2xvciA9IGluY29taW5nUmFkaWFuY2UuY2xvbmUoKQoJCQkJCS5tdWwoY29zVGVybSkKCQkJCQkubXVsKGJzZGYpOwoKCQkJb3V0UmFkaWFuY2UuYWRkKG91dENvbG9yKTsKCQl9Cg==</text>
@@ -388,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tess</last-search>
+      <last-search>crossSection</last-search>
       <last-offset />
-      <last-pattern>tess</last-pattern>
+      <last-pattern>crossSection</last-pattern>
       <last-replace>1.0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -398,10 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NAME</entry>
-        <entry>DATASECTION</entry>
-        <entry>CUP$IR</entry>
-        <entry>store</entry>
         <entry>Name</entry>
         <entry>IRName</entry>
         <entry>IRData</entry>
@@ -418,6 +427,10 @@
         <entry>font</entry>
         <entry>RcBoxPtr</entry>
         <entry>tess</entry>
+        <entry>println</entry>
+        <entry>setBeziers</entry>
+        <entry>angle</entry>
+        <entry>crossSection</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
