@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/BSpline.java" timestamp="1526431508855" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/CubicBezier.java" timestamp="1526430632088">
         <mark key="'" line="78" column="17" />
       </file>
@@ -32,6 +33,13 @@
         <mark key="]" line="306" column="9" />
         <mark key="." line="306" column="9" />
         <mark key="^" line="306" column="9" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" timestamp="1526431354572">
+        <mark key="'" line="291" column="8" />
+        <mark key="[" line="294" column="8" />
+        <mark key="]" line="294" column="13" />
+        <mark key="." line="294" column="13" />
+        <mark key="^" line="294" column="13" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataPutLong.java" timestamp="1525203926123">
         <mark key="[" line="6" column="34" />
@@ -133,6 +141,9 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/CubicBezier.java" timestamp="1526431089604">
+        <mark key="'" line="99" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/hjl74/a5/src/splines/CubicBezier.java" timestamp="1526430057692">
         <mark key="[" line="87" column="15" />
         <mark key="]" line="87" column="16" />
@@ -187,20 +198,9 @@
       <file name="/fragment.java" timestamp="1525282334773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/SplineCurve.java" timestamp="1526428920518" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/SplineCurve.java" timestamp="1526430920366" />
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="20" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="21" column="4" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
       <jump line="22" column="22" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/material/BSDF.java" />
       <jump line="59" column="26" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" />
@@ -290,10 +290,21 @@
       <jump line="33" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/BSpline.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/BSpline.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/BSpline.java" />
+      <jump line="65" column="64" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/CubicBezier.java" />
+      <jump line="79" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/CubicBezier.java" />
+      <jump line="89" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/CubicBezier.java" />
+      <jump line="99" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/CubicBezier.java" />
+      <jump line="247" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
+      <jump line="257" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
+      <jump line="258" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
+      <jump line="281" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
+      <jump line="284" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
+      <jump line="288" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
+      <jump line="291" column="8" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jhg279/a5/src/splines/SplineCurve.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -302,10 +313,10 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>tessellate</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7CiAgICAgICAgZm9yIChMaWdodCBsaWdodCA6IHNjZW5lLmdldExpZ2h0cygpKSB7CiAgICAgICAgICAgIC8vYXNzdW1pbmcgYWxsIGxpZ2h0cyBhcmUgcG9pbnQgbGlnaHRzCgkJCUxpZ2h0U2FtcGxpbmdSZWNvcmQgbGlnaHRTYW1wbGluZ1JlY29yZCA9IG5ldyBMaWdodFNhbXBsaW5nUmVjb3JkKCk7CgkJCWxpZ2h0LnNhbXBsZShsaWdodFNhbXBsaW5nUmVjb3JkLCBpUmVjLmxvY2F0aW9uKTsKCgkJCVZlY3RvcjNkIGxpZ2h0RGlyID0gbGlnaHRTYW1wbGluZ1JlY29yZC5kaXJlY3Rpb24ubm9ybWFsaXplKCk7CgkJCVZlY3RvcjNkIHZpZXdEaXIgPSByYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnYXRlKCkubm9ybWFsaXplKCk7CgoJCQlDb2xvcmQgaW5jb21pbmdSYWRpYW5jZSA9IG5ldyBDb2xvcmQoMC4wLCAwLjAsIDAuMCk7CgkJCVJheSBsaWdodFJheSA9IG5ldyBSYXkoaVJlYy5sb2NhdGlvbiwgbGlnaHREaXIpOwoJCQlsaWdodFJheS5tYWtlT2Zmc2V0UmF5KCk7CgkJCWlmIChzY2VuZS5nZXRBbnlJbnRlcnNlY3Rpb24obGlnaHRSYXkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlsaWdodC5ldmFsKGxpZ2h0UmF5LCBpbmNvbWluZ1JhZGlhbmNlKTsKCQkJaW5jb21pbmdSYWRpYW5jZS5tdWwobGlnaHRTYW1wbGluZ1JlY29yZC5hdHRlbnVhdGlvbik7CgoJCQlDb2xvcmQgYnNkZiA9IG5ldyBDb2xvcmQoKTsKCQkJaVJlYy5zdXJmYWNlLmdldEJTREYoKS5ldmFsKHZpZXdEaXIsIGxpZ2h0RGlyLCBpUmVjLm5vcm1hbCwgYnNkZik7CgoJCQlkb3VibGUgY29zVGVybSA9IE1hdGgubWF4KDAuMCwgbGlnaHREaXIuZG90KGlSZWMubm9ybWFsKSk7CgoJCQlWZWN0b3IzZCBvdXRDb2xvciA9IGluY29taW5nUmFkaWFuY2UuY2xvbmUoKQoJCQkJCS5tdWwoY29zVGVybSkKCQkJCQkubXVsKGJzZGYpOwoKCQkJb3V0UmFkaWFuY2UuYWRkKG91dENvbG9yKTsKCQl9Cg==</text>
@@ -409,9 +420,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tessellate</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>tessellate</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>1.0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -419,9 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DataPut</entry>
-        <entry>ATMO</entry>
-        <entry>ATOM</entry>
         <entry>light</entry>
         <entry>sample</entry>
         <entry>0.0</entry>
@@ -439,6 +447,9 @@
         <entry>level</entry>
         <entry>dep</entry>
         <entry>tessellate</entry>
+        <entry>subdi</entry>
+        <entry>subdiv</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
