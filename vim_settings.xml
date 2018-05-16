@@ -113,6 +113,7 @@
         <mark key="." line="1331" column="25" />
         <mark key="^" line="1331" column="25" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/hjl74/a5/src/splines/SplineCurve.java" timestamp="1526430127734" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="7" column="34" />
@@ -133,6 +134,12 @@
         <mark key="]" line="7" column="9" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/hjl74/a5/src/splines/CubicBezier.java" timestamp="1526430057692">
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="87" column="16" />
+        <mark key="^" line="87" column="16" />
+        <mark key="." line="87" column="16" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/newray2/shadow-reflection-2.xml" timestamp="1524680980119">
         <mark key="[" line="7" column="20" />
@@ -285,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>u</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -294,7 +301,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>crossSection</text>
