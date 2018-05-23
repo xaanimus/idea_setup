@@ -18,7 +18,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/RayTracer.java" timestamp="1527104491911" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jbm325/a5/src/splines/SplineCurve.java" timestamp="1526430241295">
         <mark key="'" line="198" column="8" />
         <mark key="[" line="210" column="0" />
@@ -126,7 +125,12 @@
         <mark key="." line="1331" column="25" />
         <mark key="^" line="1331" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1527109153130" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1527111134429">
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="12" />
+        <mark key="^" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="7" column="34" />
@@ -188,7 +192,6 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" timestamp="1526849980389">
         <mark key="'" line="139" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/MISIntegrator.java" timestamp="1527107938373" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/IRCompUnit.java" timestamp="1525204695752">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -205,15 +208,15 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/BSpline.java" timestamp="1526430841964">
         <mark key="'" line="44" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527109036198">
+      <file name="/fragment.java" timestamp="1527110476750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1527109745947">
-        <mark key="'" line="110" column="16" />
-        <mark key="[" line="108" column="16" />
-        <mark key="]" line="108" column="20" />
-        <mark key="." line="108" column="20" />
-        <mark key="^" line="108" column="20" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1527110303443">
+        <mark key="'" line="119" column="12" />
+        <mark key="[" line="124" column="8" />
+        <mark key="]" line="124" column="9" />
+        <mark key="." line="124" column="9" />
+        <mark key="^" line="124" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -316,11 +319,11 @@
       <jump line="76" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
       <jump line="97" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
-      <jump line="115" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="115" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -329,7 +332,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>outRadiance</text>
@@ -338,7 +341,7 @@
         <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7CiAgICAgICAgZm9yIChMaWdodCBsaWdodCA6IHNjZW5lLmdldExpZ2h0cygpKSB7CiAgICAgICAgICAgIC8vYXNzdW1pbmcgYWxsIGxpZ2h0cyBhcmUgcG9pbnQgbGlnaHRzCgkJCUxpZ2h0U2FtcGxpbmdSZWNvcmQgbGlnaHRTYW1wbGluZ1JlY29yZCA9IG5ldyBMaWdodFNhbXBsaW5nUmVjb3JkKCk7CgkJCWxpZ2h0LnNhbXBsZShsaWdodFNhbXBsaW5nUmVjb3JkLCBpUmVjLmxvY2F0aW9uKTsKCgkJCVZlY3RvcjNkIGxpZ2h0RGlyID0gbGlnaHRTYW1wbGluZ1JlY29yZC5kaXJlY3Rpb24ubm9ybWFsaXplKCk7CgkJCVZlY3RvcjNkIHZpZXdEaXIgPSByYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnYXRlKCkubm9ybWFsaXplKCk7CgoJCQlDb2xvcmQgaW5jb21pbmdSYWRpYW5jZSA9IG5ldyBDb2xvcmQoMC4wLCAwLjAsIDAuMCk7CgkJCVJheSBsaWdodFJheSA9IG5ldyBSYXkoaVJlYy5sb2NhdGlvbiwgbGlnaHREaXIpOwoJCQlsaWdodFJheS5tYWtlT2Zmc2V0UmF5KCk7CgkJCWlmIChzY2VuZS5nZXRBbnlJbnRlcnNlY3Rpb24obGlnaHRSYXkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlsaWdodC5ldmFsKGxpZ2h0UmF5LCBpbmNvbWluZ1JhZGlhbmNlKTsKCQkJaW5jb21pbmdSYWRpYW5jZS5tdWwobGlnaHRTYW1wbGluZ1JlY29yZC5hdHRlbnVhdGlvbik7CgoJCQlDb2xvcmQgYnNkZiA9IG5ldyBDb2xvcmQoKTsKCQkJaVJlYy5zdXJmYWNlLmdldEJTREYoKS5ldmFsKHZpZXdEaXIsIGxpZ2h0RGlyLCBpUmVjLm5vcm1hbCwgYnNkZik7CgoJCQlkb3VibGUgY29zVGVybSA9IE1hdGgubWF4KDAuMCwgbGlnaHREaXIuZG90KGlSZWMubm9ybWFsKSk7CgoJCQlWZWN0b3IzZCBvdXRDb2xvciA9IGluY29taW5nUmFkaWFuY2UuY2xvbmUoKQoJCQkJCS5tdWwoY29zVGVybSkKCQkJCQkubXVsKGJzZGYpOwoKCQkJb3V0UmFkaWFuY2UuYWRkKG91dENvbG9yKTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKmNsb3NlIHRoZSBzZWFtIAo=</text>
+        <text encoding="base64">CgkJCWJyZGYubXVsKGFuZ2xlIC8gKGxpZ2h0UmVjLmF0dGVudWF0aW9uKSkubXVsKHRlbXBMaWdodCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -408,28 +411,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiaGhoaGhoaGhoaGlyZWpvZ2ZpZWZ2bmVhaWZ2Ym5hIik7Cg==</text>
+        <text encoding="base64">CQkvKmNsb3NlIHRoZSBzZWFtIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiaGhoaGhoaGhoaGlyZWpvZ2ZpZWZ2bmVhaWZ2Ym5hIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiaGhoaGhoaGhoaGlyZWpvZ2ZpZWZ2bmVhaWZ2Ym5hIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihjdXJyZW50SW5kZXgpOwoJCQkJU3lzdGVtLm91dC5wcmludGxuKG1lc2gucG9zaXRpb25zLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiaGVsbG8iKTsK</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihjdXJyZW50SW5kZXgpOwoJCQkJU3lzdGVtLm91dC5wcmludGxuKG1lc2gucG9zaXRpb25zLnNpemUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiNbY2ZnKG5vdChhbGwoZmVhdHVyZT0id2luaXQiLCBmZWF0dXJlPSJnbGl1bSIpKSldCm1vZCBmZWF0dXJlIHsKICAgIHB1YiBmbiBtYWluKCkgewogICAgICAgIHByaW50bG4hKCJUaGlzIGV4YW1wbGUgcmVxdWlyZXMgdGhlIGB3aW5pdGAgYW5kIGBnbGl1bWAgZmVhdHVyZXMuIFwKICAgICAgICAgICAgICAgICBUcnkgcnVubmluZyBgY2FyZ28gcnVuIC0tcmVsZWFzZSAtLWZlYXR1cmVzPVwid2luaXQgZ2xpdW1cIiAtLWV4YW1wbGUgPGV4YW1wbGVfbmFtZT5gIik7CiAgICB9Cn0K</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiaGVsbG8iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I1tjZmcoYWxsKGZlYXR1cmU9Indpbml0IiwgZmVhdHVyZT0iZ2xpdW0iKSldCg==</text>
+        <text encoding="base64">CiNbY2ZnKG5vdChhbGwoZmVhdHVyZT0id2luaXQiLCBmZWF0dXJlPSJnbGl1bSIpKSldCm1vZCBmZWF0dXJlIHsKICAgIHB1YiBmbiBtYWluKCkgewogICAgICAgIHByaW50bG4hKCJUaGlzIGV4YW1wbGUgcmVxdWlyZXMgdGhlIGB3aW5pdGAgYW5kIGBnbGl1bWAgZmVhdHVyZXMuIFwKICAgICAgICAgICAgICAgICBUcnkgcnVubmluZyBgY2FyZ28gcnVuIC0tcmVsZWFzZSAtLWZlYXR1cmVzPVwid2luaXQgZ2xpdW1cIiAtLWV4YW1wbGUgPGV4YW1wbGVfbmFtZT5gIik7CiAgICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1tjZmcoYWxsKGZlYXR1cmU9Indpbml0IiwgZmVhdHVyZT0iZ2xpdW0iKSldCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -468,7 +471,6 @@
         <entry>outRadiance</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
         <entry>q</entry>
         <entry>e .</entry>
         <entry>e ./src</entry>
@@ -487,6 +489,7 @@
         <entry>s/1.0/0.7/g</entry>
         <entry>s/0.0/1.0/g</entry>
         <entry>s</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
