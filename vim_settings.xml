@@ -18,6 +18,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/RayTracer.java" timestamp="1527104491911" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jbm325/a5/src/splines/SplineCurve.java" timestamp="1526430241295">
         <mark key="'" line="198" column="8" />
         <mark key="[" line="210" column="0" />
@@ -109,10 +110,10 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526430233505">
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1527105014417" />
+      <file name="/Dummy.txt" timestamp="1527103504442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/surface/Mesh.java" timestamp="1526849959551" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="39" column="8" />
@@ -126,6 +127,7 @@
         <mark key="." line="1331" column="25" />
         <mark key="^" line="1331" column="25" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1527106363024" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="7" column="34" />
@@ -187,6 +189,7 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" timestamp="1526849980389">
         <mark key="'" line="139" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/MISIntegrator.java" timestamp="1527106464696" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/IRCompUnit.java" timestamp="1525204695752">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -203,7 +206,7 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/BSpline.java" timestamp="1526430841964">
         <mark key="'" line="44" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1525282334773">
+      <file name="/fragment.java" timestamp="1527106471185">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
