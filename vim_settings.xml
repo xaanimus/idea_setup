@@ -110,7 +110,6 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1527105014417" />
       <file name="/Dummy.txt" timestamp="1527103504442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,7 +126,7 @@
         <mark key="." line="1331" column="25" />
         <mark key="^" line="1331" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1527106363024" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1527109153130" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="7" column="34" />
@@ -189,7 +188,7 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" timestamp="1526849980389">
         <mark key="'" line="139" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/MISIntegrator.java" timestamp="1527106464696" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/MISIntegrator.java" timestamp="1527107938373" />
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/IRCompUnit.java" timestamp="1525204695752">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -206,17 +205,18 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/BSpline.java" timestamp="1526430841964">
         <mark key="'" line="44" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527106471185">
+      <file name="/fragment.java" timestamp="1527109036198">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1527109745947">
+        <mark key="'" line="110" column="16" />
+        <mark key="[" line="108" column="16" />
+        <mark key="]" line="108" column="20" />
+        <mark key="." line="108" column="20" />
+        <mark key="^" line="108" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="28" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/gjs59/a5/src/splines/CubicBezier.java" />
-      <jump line="238" column="32" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a5/src/splines/SplineCurve.java" />
-      <jump line="336" column="17" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
-      <jump line="250" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
-      <jump line="293" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
-      <jump line="342" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
       <jump line="289" column="27" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
       <jump line="305" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
       <jump line="315" column="33" filename="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" />
@@ -311,10 +311,16 @@
       <jump line="57" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a6code_grading/jc2922/Animation/src/anim/AnimTimeline.java" />
       <jump line="82" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6code_grading/jc2922/Animation/src/anim/AnimTimeline.java" />
       <jump line="149" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a6code_grading/jc2922/Animation/src/anim/AnimTimeline.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="136" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="76" column="12" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="97" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="115" column="16" filename="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/LightSamplingIntegrator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -323,10 +329,10 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>mul</text>
+        <text>outRadiance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlvdXRSYWRpYW5jZS5zZXQoMC4wZCk7CiAgICAgICAgZm9yIChMaWdodCBsaWdodCA6IHNjZW5lLmdldExpZ2h0cygpKSB7CiAgICAgICAgICAgIC8vYXNzdW1pbmcgYWxsIGxpZ2h0cyBhcmUgcG9pbnQgbGlnaHRzCgkJCUxpZ2h0U2FtcGxpbmdSZWNvcmQgbGlnaHRTYW1wbGluZ1JlY29yZCA9IG5ldyBMaWdodFNhbXBsaW5nUmVjb3JkKCk7CgkJCWxpZ2h0LnNhbXBsZShsaWdodFNhbXBsaW5nUmVjb3JkLCBpUmVjLmxvY2F0aW9uKTsKCgkJCVZlY3RvcjNkIGxpZ2h0RGlyID0gbGlnaHRTYW1wbGluZ1JlY29yZC5kaXJlY3Rpb24ubm9ybWFsaXplKCk7CgkJCVZlY3RvcjNkIHZpZXdEaXIgPSByYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnYXRlKCkubm9ybWFsaXplKCk7CgoJCQlDb2xvcmQgaW5jb21pbmdSYWRpYW5jZSA9IG5ldyBDb2xvcmQoMC4wLCAwLjAsIDAuMCk7CgkJCVJheSBsaWdodFJheSA9IG5ldyBSYXkoaVJlYy5sb2NhdGlvbiwgbGlnaHREaXIpOwoJCQlsaWdodFJheS5tYWtlT2Zmc2V0UmF5KCk7CgkJCWlmIChzY2VuZS5nZXRBbnlJbnRlcnNlY3Rpb24obGlnaHRSYXkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlsaWdodC5ldmFsKGxpZ2h0UmF5LCBpbmNvbWluZ1JhZGlhbmNlKTsKCQkJaW5jb21pbmdSYWRpYW5jZS5tdWwobGlnaHRTYW1wbGluZ1JlY29yZC5hdHRlbnVhdGlvbik7CgoJCQlDb2xvcmQgYnNkZiA9IG5ldyBDb2xvcmQoKTsKCQkJaVJlYy5zdXJmYWNlLmdldEJTREYoKS5ldmFsKHZpZXdEaXIsIGxpZ2h0RGlyLCBpUmVjLm5vcm1hbCwgYnNkZik7CgoJCQlkb3VibGUgY29zVGVybSA9IE1hdGgubWF4KDAuMCwgbGlnaHREaXIuZG90KGlSZWMubm9ybWFsKSk7CgoJCQlWZWN0b3IzZCBvdXRDb2xvciA9IGluY29taW5nUmFkaWFuY2UuY2xvbmUoKQoJCQkJCS5tdWwoY29zVGVybSkKCQkJCQkubXVsKGJzZGYpOwoKCQkJb3V0UmFkaWFuY2UuYWRkKG91dENvbG9yKTsKCQl9Cg==</text>
@@ -430,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mul</last-search>
+      <last-search>outRadiance</last-search>
       <last-offset />
-      <last-pattern>mul</last-pattern>
+      <last-pattern>outRadiance</last-pattern>
       <last-replace>1.0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -440,7 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eval</entry>
         <entry>attenuation</entry>
         <entry>Window</entry>
         <entry>font</entry>
@@ -460,6 +465,7 @@
         <entry>Matrix</entry>
         <entry>Vector</entry>
         <entry>mul</entry>
+        <entry>outRadiance</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
