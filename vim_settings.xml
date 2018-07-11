@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" timestamp="1526850033628">
         <mark key="'" line="498" column="19" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/object.rs" timestamp="1531323319618">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/object.rs" timestamp="1531324087301">
         <mark key="'" line="90" column="6" />
-        <mark key="[" line="61" column="51" />
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="53" />
+        <mark key="[" line="61" column="56" />
+        <mark key="]" line="61" column="58" />
+        <mark key="^" line="61" column="58" />
+        <mark key="." line="61" column="58" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.flex" timestamp="1525222371044">
         <mark key="'" line="70" column="28" />
@@ -204,9 +204,9 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" timestamp="1525376497032">
         <mark key="'" line="110" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531323478388">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531324077368">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="36" column="45" />
+        <mark key="[" line="36" column="43" />
         <mark key="]" line="36" column="43" />
         <mark key="." line="36" column="43" />
         <mark key="^" line="36" column="43" />
@@ -361,7 +361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -370,7 +370,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
