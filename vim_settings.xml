@@ -205,8 +205,8 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" timestamp="1525376497032">
         <mark key="'" line="110" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531207545504">
-        <mark key="'" line="12" column="27" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531288929538">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="36" column="48" />
         <mark key="]" line="36" column="48" />
         <mark key="." line="36" column="48" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="18" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
       <jump line="271" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
       <jump line="287" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
       <jump line="288" column="18" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
@@ -338,7 +337,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="3" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="6" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
-      <jump line="7" column="52" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="82" column="56" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="31" column="44" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="54" column="47" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
@@ -359,6 +357,8 @@
       <jump line="12" column="27" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="31" column="11" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="87" column="6" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
+      <jump line="38" column="14" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
