@@ -100,12 +100,11 @@
         <mark key="^" line="338" column="17" />
         <mark key="." line="338" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/math.rs" timestamp="1531207030315">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="47" column="36" />
-        <mark key="^" line="47" column="36" />
-        <mark key="." line="47" column="36" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/math.rs" timestamp="1531319334891">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" timestamp="1525374066984">
         <mark key="[" line="131" column="24" />
@@ -156,12 +155,12 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531206088929">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="64" column="7" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="52" column="7" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531291237521">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="57" column="16" />
+        <mark key="]" line="57" column="21" />
+        <mark key="." line="57" column="21" />
+        <mark key="^" line="57" column="21" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -259,17 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="287" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="288" column="18" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="290" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="291" column="18" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="295" column="30" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="304" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="312" column="30" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="319" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="320" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="322" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
       <jump line="323" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
       <jump line="326" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
       <jump line="333" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
@@ -352,17 +340,28 @@
       <jump line="33" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="27" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
       <jump line="65" column="47" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="12" column="27" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="31" column="11" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="87" column="6" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="38" column="14" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="7" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
+      <jump line="34" column="31" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="15" column="8" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8geWVhaCBraW5kYSByZWR1bmRhbnQgZ2l2ZW4gdmVjMyBhbmQgdmVjNCBidXQgY3VycmVudGx5Ci8vIHJ1c3QgaWRlJ3MgZG9uJ3QgcmVhbGx5IGxpa2UgbWFjcm9zIHNvIHllYWgK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -371,107 +370,57 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Float3::new</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi54LmNvbnZlcnRfaW50bygpLAo=</text>
+        <text encoding="base64">cHViIGZuIGZsb2F0Myh4OiBmMzIsIHk6IGYzMiwgejogZjMyKSAtPiBGbG9hdDMgeyBGbG9hdDMge3gsIHksIHp9IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">Ly8geWVhaCBraW5kYSByZWR1bmRhbnQgZ2l2ZW4gdmVjMyBhbmQgdmVjNCBidXQgY3VycmVudGx5Ci8vIHJ1c3QgaWRlJ3MgZG9uJ3QgcmVhbGx5IGxpa2UgbWFjcm9zIHNvIHllYWgK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="38" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="38" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="84" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="84" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="43" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="63" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="122" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHViIHR5cGUgRmxvYXQ0ID0gY2dtYXRoOjpWZWN0b3I0PGYzMj47Cg==</text>
+      <register name="2" type="8">
+        <text>::new
+::new
+::new</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZuIGNvbnZlcnRfaW50bwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHViIHVzZSBjZ21hdGg6OnZlYzM7CnB1YiB1c2UgY2dtYXRoOjp2ZWM0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGbG9hdDM6Om5ldygpCg==</text>
+        <text encoding="base64">cHViIHR5cGUgRmxvYXQ0ID0gY2dtYXRoOjpWZWN0b3I0PGYzMj47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
