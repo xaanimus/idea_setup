@@ -155,12 +155,12 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531291237521">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="21" />
-        <mark key="." line="57" column="21" />
-        <mark key="^" line="57" column="21" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531321763527">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="37" column="43" />
+        <mark key="." line="37" column="43" />
+        <mark key="^" line="37" column="43" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -204,12 +204,12 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" timestamp="1525376497032">
         <mark key="'" line="110" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531288929538">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531321192843">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="36" column="48" />
-        <mark key="^" line="36" column="48" />
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="36" column="45" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/BSpline.java" timestamp="1526429316851">
         <mark key="'" line="0" column="0" />
@@ -258,23 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="326" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="333" column="20" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="334" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="377" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="630" column="15" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="643" column="29" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="646" column="29" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="112" column="29" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="122" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="138" column="23" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="139" column="18" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
-      <jump line="93" column="25" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
-      <jump line="94" column="25" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
-      <jump line="95" column="25" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
-      <jump line="97" column="55" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
       <jump line="107" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
       <jump line="108" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
       <jump line="109" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" />
@@ -358,10 +341,27 @@
       <jump line="25" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
       <jump line="19" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
       <jump line="14" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
+      <jump line="68" column="21" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8geWVhaCBraW5kYSByZWR1bmRhbnQgZ2l2ZW4gdmVjMyBhbmQgdmVjNCBidXQgY3VycmVudGx5Ci8vIHJ1c3QgaWRlJ3MgZG9uJ3QgcmVhbGx5IGxpa2UgbWFjcm9zIHNvIHllYWgK</text>
+      <register name="&quot;" type="4">
+        <text>view_matrix</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -370,16 +370,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Float3::new</text>
+        <text>view_matrix</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHViIGZuIGZsb2F0Myh4OiBmMzIsIHk6IGYzMiwgejogZjMyKSAtPiBGbG9hdDMgeyBGbG9hdDMge3gsIHksIHp9IH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgidHJhbnNmb3JtOiB7Oj99IiwgdHJhbnNmb3JtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8geWVhaCBraW5kYSByZWR1bmRhbnQgZ2l2ZW4gdmVjMyBhbmQgdmVjNCBidXQgY3VycmVudGx5Ci8vIHJ1c3QgaWRlJ3MgZG9uJ3QgcmVhbGx5IGxpa2UgbWFjcm9zIHNvIHllYWgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -396,31 +396,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YiAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8geWVhaCBraW5kYSByZWR1bmRhbnQgZ2l2ZW4gdmVjMyBhbmQgdmVjNCBidXQgY3VycmVudGx5Ci8vIHJ1c3QgaWRlJ3MgZG9uJ3QgcmVhbGx5IGxpa2UgbWFjcm9zIHNvIHllYWgK</text>
+      </register>
+      <register name="7" type="8">
         <text>::new
 ::new
 ::new</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHViIHVzZSBjZ21hdGg6OnZlYzM7CnB1YiB1c2UgY2dtYXRoOjp2ZWM0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHViIHR5cGUgRmxvYXQ0ID0gY2dtYXRoOjpWZWN0b3I0PGYzMj47Cg==</text>
+        <text encoding="base64">cHViIHVzZSBjZ21hdGg6OnZlYzM7CnB1YiB1c2UgY2dtYXRoOjp2ZWM0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
