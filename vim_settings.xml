@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" timestamp="1526850033628">
         <mark key="'" line="498" column="19" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/object.rs" timestamp="1531207393683">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/object.rs" timestamp="1531323319618">
         <mark key="'" line="90" column="6" />
-        <mark key="[" line="104" column="44" />
-        <mark key="]" line="104" column="47" />
-        <mark key="^" line="104" column="47" />
-        <mark key="." line="104" column="47" />
+        <mark key="[" line="61" column="51" />
+        <mark key="]" line="61" column="53" />
+        <mark key="^" line="61" column="53" />
+        <mark key="." line="61" column="53" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.flex" timestamp="1525222371044">
         <mark key="'" line="70" column="28" />
@@ -155,12 +155,12 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531321763527">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531323200047">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="43" />
-        <mark key="." line="37" column="43" />
-        <mark key="^" line="37" column="43" />
+        <mark key="[" line="96" column="36" />
+        <mark key="]" line="96" column="42" />
+        <mark key="." line="96" column="42" />
+        <mark key="^" line="96" column="42" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -204,12 +204,12 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/RectangleLight.java" timestamp="1525376497032">
         <mark key="'" line="110" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531321192843">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531323478388">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="36" column="45" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="36" column="45" />
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/BSpline.java" timestamp="1526429316851">
         <mark key="'" line="0" column="0" />
@@ -361,7 +361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>view_matrix</text>
+        <text>-</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -370,7 +370,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>view_matrix</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -378,8 +378,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuISgidHJhbnNmb3JtOiB7Oj99IiwgdHJhbnNmb3JtKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>-1
+-1
+-1</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,30 +399,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIG1hdGg6OkZsb2F0MzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YiAK</text>
+        <text encoding="base64">dXNlIG1hdGg6OkZsb2F0MzsKdXNlIHN0ZDo6c3luYzo6QXJjOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="8">
+        <text>F
+F</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8geWVhaCBraW5kYSByZWR1bmRhbnQgZ2l2ZW4gdmVjMyBhbmQgdmVjNCBidXQgY3VycmVudGx5Ci8vIHJ1c3QgaWRlJ3MgZG9uJ3QgcmVhbGx5IGxpa2UgbWFjcm9zIHNvIHllYWgK</text>
-      </register>
-      <register name="7" type="8">
+      <register name="5" type="8">
         <text>::new
 ::new
 ::new</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHViIHVzZSBjZ21hdGg6OnZlYzM7CnB1YiB1c2UgY2dtYXRoOjp2ZWM0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
