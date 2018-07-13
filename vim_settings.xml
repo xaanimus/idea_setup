@@ -100,11 +100,12 @@
         <mark key="^" line="338" column="17" />
         <mark key="." line="338" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/math.rs" timestamp="1531319334891">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/math.rs" timestamp="1531461829366">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/interpret/IRSimulator.java" timestamp="1525374066984">
         <mark key="[" line="131" column="24" />
@@ -155,12 +156,12 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531323200047">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531462495063">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="96" column="36" />
-        <mark key="]" line="96" column="42" />
-        <mark key="." line="96" column="42" />
-        <mark key="^" line="96" column="42" />
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="51" />
+        <mark key="." line="45" column="51" />
+        <mark key="^" line="45" column="51" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -361,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IGZhcg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -370,7 +371,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IGZhcg==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -378,10 +379,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuISgidHJhbnNmb3JtOiB7Oj99IiwgdHJhbnNmb3JtKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>-1
--1
--1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -399,31 +398,33 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+      </register>
+      <register name="3" type="8">
+        <text>-1
+-1
+-1</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIG1hdGg6OkZsb2F0MzsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIG1hdGg6OkZsb2F0MzsKdXNlIHN0ZDo6c3luYzo6QXJjOwo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>F
 F</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>::new
 ::new
 ::new</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YiAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
