@@ -156,12 +156,12 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531464999733">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531533085812">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="51" column="39" />
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+        <mark key="^" line="68" column="50" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -362,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">Lyog</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -371,7 +371,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Lyog</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
