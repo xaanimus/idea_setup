@@ -108,18 +108,18 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531632776636">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="102" column="7" />
-        <mark key="." line="102" column="7" />
-        <mark key="^" line="102" column="7" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" timestamp="1531679037669">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="79" column="19" />
+        <mark key="]" line="79" column="50" />
+        <mark key="." line="79" column="50" />
+        <mark key="^" line="79" column="50" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/util.rs" timestamp="1531632714396">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/util.rs" timestamp="1531678807209">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -221,7 +221,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527103504442">
+      <file name="/Dummy.txt" timestamp="1531678970941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
@@ -240,18 +240,18 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/gjs59/a5/src/splines/CubicBezier.java" timestamp="1526427038563">
         <mark key="'" line="60" column="28" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/main.rs" timestamp="1531632813778">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="10" />
-        <mark key="^" line="14" column="10" />
-        <mark key="." line="14" column="10" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/main.rs" timestamp="1531678752528">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="363" column="13" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531632792920">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" timestamp="1531679440177">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="46" />
+        <mark key="." line="37" column="46" />
+        <mark key="^" line="37" column="46" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Vector3d.java" timestamp="1526849980389">
         <mark key="'" line="139" column="18" />
@@ -362,7 +362,6 @@
       <jump line="80" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="71" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="3" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="13" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
@@ -371,10 +370,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="47" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="51" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIHV0aWxzOjoqOwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -386,13 +386,13 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuISgicGVyc3AgKiB2ID0gezo/fSIsIG0gKiB2KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIHV0aWxzOjoqOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -410,42 +410,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbiEoInZpZXcgOiB7Oj99Iiwgdmlld19tYXRyaXgpOwogICAgICAgIHByaW50bG4hKCJ2a19wZXJzcDogezo/fSIsIHZ1bGthbl9wZXJzcGVjdGl2ZV9wcm9qKTsK</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBjb21wdXRlX3Z1bGthbl9wZXJzcGVjdGl2ZV9wcm9qZWN0aW9uKCZzZWxmKSAtPiBGbG9hdDR4NCB7CiAgICAgICAgc2VsZi5jb21wdXRlX3BlcnNwZWN0aXZlX3Byb2plY3Rpb24oKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwdWIgZm4gdHJhbnNmb3JtX3RvX3Z1bGthbl9wZXJzcGVjdGl2ZSgmc2VsZikgLT4gRmxvYXQ0eDQgewogICAgICAgIEZsb2F0NHg0IHsKICAgICAgICAgICAgeDogZmxvYXQ0KDEuMCwgMC4wLCAwLjAsIDAuMCksCiAgICAgICAgICAgIHk6IGZsb2F0NCgwLjAsIC0xLjAsIDAuMCwgMC4wKSwKICAgICAgICAgICAgejogZmxvYXQ0KDAuMCwgMC4wLCAtMS4wLCAwLjApLAogICAgICAgICAgICB3OiBmbG9hdDQoMC4wLCAwLjAsIDAuMCwgMS4wKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>-1
--1
--1</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIG1hdGg6OkZsb2F0MzsK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnRsbiEoIm5lYXI6IHs6P30sIGZhcjogezo/fSIsIG5lYXIsIGZhcik7CiAgICAgICAgbGV0IHYgPSBmbG9hdDQoMC4wLCAwLjAsIC0xLjAsIDEuMCk7CiAgICAgICAgcHJpbnRsbiEoInBlcnNwICogdiA9IHs6P30iLCBwZXJzcGVjdGl2ZSAqIHYpOwogICAgICAgIHByaW50bG4hKCJNICogdiA9IHs6P30iLCBtICogdik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIG1hdGg6OkZsb2F0MzsKdXNlIHN0ZDo6c3luYzo6QXJjOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>F
-F</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1ZyEodHJhbnNmb3JtKTsKICAgICAgICBkZWJ1ZyEodmlld19tYXRyaXgpOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>::new
-::new
-::new</text>
+      <register name="9" type="2">
+        <text encoding="base64">I1ttYWNyb191c2VdCm1vZCB1dGlsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace>1.0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -453,10 +448,8 @@ F</text>
     </search>
     <history>
       <history-search>
-        <entry>font</entry>
         <entry>RcBoxPtr</entry>
         <entry>tess</entry>
-        <entry>println</entry>
         <entry>setBeziers</entry>
         <entry>angle</entry>
         <entry>crossSection</entry>
@@ -473,6 +466,8 @@ F</text>
         <entry>outRadiance</entry>
         <entry>UniformBuffer</entry>
         <entry>set</entry>
+        <entry>debug</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
