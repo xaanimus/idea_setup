@@ -19,12 +19,12 @@
         <mark key="." line="210" column="0" />
         <mark key="^" line="311" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/obj_object.rs" timestamp="1531703560419">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-        <mark key="^" line="17" column="58" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/obj_object.rs" timestamp="1531753547980">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="42" column="15" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/jc2922/a5/src/splines/SplineCurve.java" timestamp="1526430766789">
         <mark key="'" line="310" column="0" />
@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/parse/ir.flex" timestamp="1525222371044">
         <mark key="'" line="70" column="28" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/math.rs" timestamp="1531693536786">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/math.rs" timestamp="1531724811406">
         <mark key="'" line="33" column="8" />
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="44" />
@@ -123,11 +123,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="38" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/util.rs" timestamp="1531703084919">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/util.rs" timestamp="1531752931006">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/dataSection/DataDecl.java" timestamp="1525203906960">
         <mark key="[" line="6" column="39" />
@@ -215,12 +215,12 @@
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/egl/math/Matrix4.java" timestamp="1526850033628">
         <mark key="'" line="498" column="19" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_example/src/object.rs" timestamp="1531702819162">
+      <file name="$USER_HOME$/code/apps/vulkan_example/src/object.rs" timestamp="1531723637002">
         <mark key="'" line="116" column="4" />
-        <mark key="[" line="152" column="48" />
-        <mark key="]" line="152" column="66" />
-        <mark key="." line="152" column="66" />
-        <mark key="^" line="152" column="66" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a5grading/group_of_hy384_qx39/a5/src/splines/SplineCurve.java" timestamp="1526429297614">
         <mark key="'" line="276" column="20" />
@@ -235,7 +235,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531678970941">
+      <file name="/Dummy.txt" timestamp="1531724785476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
@@ -394,7 +394,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>?</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -403,55 +403,53 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>x()</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29tcHV0ZV90cmFuc2Zvcm0oJnBhcmFtcy5wb3NpdGlvbiwgJnBhcmFtcy5yb3RhdGlvbl9ldWxlciwgJnBhcmFtcy5zY2FsZSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
-          <key char="51" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0cmkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnMK</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgdHJpYW5nbGVzOiBWZWM8VHJpYW5nbGU+ID0gdmVjIVtdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIG9iajo6cmF3OjpvYmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dHJhaXQgUmVzdWx0TWFwcGFibGUgewogICAgZm4gcmVzdWx0X21hcChzZWxmLCBmOiBGKQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBvYmpfcmVzdWx0Cg==</text>
+        <text encoding="base64">aW1wbCBGcm9tPChmMzIsIGYzMiwgZjMyLCBmMzIpPiBmb3IgV3JhcHBlZDxGbG9hdDM+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wbCBGcm9tPChmMzIsIGYzMiwgZjMyLCBmMzIpPiBmb3IgV3JhcHBlZDxGbG9hdDM+IHsKICAgIGZuIGZyb20ocG9zX3R1cGxlOiAoZjMyLCBmMzIsIGYzMiwgZjMyKSkgLT4gV3JhcHBlZDxGbG9hdDM+IHsKICAgICAgICAvLyBUT0RPIHNob3VsZCB3ZSBkaXZpZGUgYnkgaG9tb2dlbmVvdXMgY29vcmQgaGVyZT8KICAgICAgICBXcmFwcGVkKGZsb2F0Myhwb3NfdHVwbGUuMCwgcG9zX3R1cGxlLjEsIHBvc190dXBsZS4yKSkKICAgIH0KfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
