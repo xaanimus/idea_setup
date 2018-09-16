@@ -244,6 +244,11 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2/src/ray1/RayTracer.java" timestamp="1537104444498">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/light/Light.java" timestamp="1525468216196">
         <mark key="'" line="14" column="28" />
         <mark key="[" line="21" column="24" />
@@ -366,7 +371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -378,13 +383,13 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>shader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -406,31 +411,31 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB0cmkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgdHJpYW5nbGVzOiBWZWM8VHJpYW5nbGU+ID0gdmVjIVtdOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxldCB0cmkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCBtdXQgdHJpYW5nbGVzOiBWZWM8VHJpYW5nbGU+ID0gdmVjIVtdOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJhaXQgUmVzdWx0TWFwcGFibGUgewogICAgZm4gcmVzdWx0X21hcChzZWxmLCBmOiBGKQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>shader</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>shader</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
         <entry>dep</entry>
         <entry>tessellate</entry>
         <entry>subdi</entry>
@@ -458,6 +462,7 @@
         <entry>x()</entry>
         <entry>scene</entry>
         <entry>main</entry>
+        <entry>shader</entry>
       </history-search>
       <history-cmd>
         <entry>e transformable.rs</entry>
