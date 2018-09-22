@@ -147,6 +147,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2/data/scenes/ray1/fast_scenes/four-spheres.xml" timestamp="1537578279400" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="39" column="8" />
@@ -432,7 +433,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -468,7 +469,6 @@
         <entry>shader</entry>
       </history-search>
       <history-cmd>
-        <entry>e transformable.rs</entry>
         <entry>s/curPlaneIntersection/curRayDirection/g</entry>
         <entry>s/curRayDirection/curRayOrigin/g</entry>
         <entry>s/curRayOrigin/planeNormal/g</entry>
@@ -488,6 +488,7 @@
         <entry>s/c0/c3/g</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
