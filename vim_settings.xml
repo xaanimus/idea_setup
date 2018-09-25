@@ -140,7 +140,7 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531724785476">
+      <file name="/Dummy.txt" timestamp="1537905341274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_example/build.rs" timestamp="1529793313655">
@@ -241,6 +241,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/bitbucket_cs4620fa18/code/solution/a2/src/ray1/shader/ReflectionShader.java" timestamp="1537905657336">
+        <mark key="[" line="46" column="61" />
+        <mark key="]" line="48" column="42" />
+        <mark key="^" line="48" column="42" />
+        <mark key="." line="48" column="42" />
       </file>
       <file name="$USER_HOME$/Work/sp18/compilers_cs/compiler/tools/horse-ir/vendor/edu/cornell/cs/cs4120/xic/ir/IRCompUnit.java" timestamp="1525204695752">
         <mark key="[" line="27" column="0" />
@@ -387,7 +393,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>latDiv</text>
+        <text>Reflection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
@@ -437,9 +443,9 @@
       </register>
     </registers>
     <search>
-      <last-search>latDiv</last-search>
+      <last-search>Reflection</last-search>
       <last-offset />
-      <last-pattern>latDiv</last-pattern>
+      <last-pattern>Reflection</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -447,8 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tessellate</entry>
-        <entry>subdi</entry>
         <entry>subdiv</entry>
         <entry>}</entry>
         <entry>Matrix</entry>
@@ -467,6 +471,8 @@
         <entry>main</entry>
         <entry>shader</entry>
         <entry>latDiv</entry>
+        <entry>reflection</entry>
+        <entry>Reflection</entry>
       </history-search>
       <history-cmd>
         <entry>s/curPlaneIntersection/curRayDirection/g</entry>
