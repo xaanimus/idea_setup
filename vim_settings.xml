@@ -98,7 +98,6 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2/src/ray1/shader/LambertianBRDF.java" timestamp="1539201978377" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7code_grading/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1527111134429">
         <mark key="[" line="78" column="12" />
         <mark key="]" line="78" column="12" />
@@ -148,7 +147,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2/src/ray1/shader/BRDF.java" timestamp="1539201985544" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/data/scenes/pointLight/bbox-test.xml" timestamp="1525798329274">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="9" />
@@ -211,6 +209,7 @@
         <mark key="^" line="338" column="17" />
         <mark key="." line="338" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" timestamp="1539206367460" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3/src/manip/TranslationManipulator.java" timestamp="1538511335329">
         <mark key="[" line="31" column="84" />
         <mark key="]" line="32" column="15" />
@@ -226,7 +225,6 @@
       <file name="/Dummy.txt" timestamp="1538508901574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2/src/ray1/surface/Triangle.java" timestamp="1539201761061" />
       <file name="$USER_HOME$/Work/sp18/graphics_cs/a7/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1525536926688">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="39" column="8" />
