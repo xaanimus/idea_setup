@@ -209,7 +209,9 @@
         <mark key="^" line="338" column="17" />
         <mark key="." line="338" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" timestamp="1539206367460" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" timestamp="1539207258640">
+        <mark key="'" line="38" column="43" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3/src/manip/TranslationManipulator.java" timestamp="1538511335329">
         <mark key="[" line="31" column="84" />
         <mark key="]" line="32" column="15" />
@@ -280,10 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
-      <jump line="82" column="56" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
-      <jump line="31" column="44" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
-      <jump line="54" column="47" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="32" column="14" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
       <jump line="14" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/scene.rs" />
@@ -380,6 +378,10 @@
       <jump line="126" column="22" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
       <jump line="391" column="1" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
+      <jump line="56" column="14" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
+      <jump line="54" column="47" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
+      <jump line="37" column="43" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
+      <jump line="38" column="43" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -395,7 +397,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Reflection</text>
+        <text>shadow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
@@ -445,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Reflection</last-search>
+      <last-search>shadow</last-search>
       <last-offset />
-      <last-pattern>Reflection</last-pattern>
+      <last-pattern>shadow</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subdiv</entry>
         <entry>}</entry>
         <entry>Matrix</entry>
         <entry>Vector</entry>
@@ -475,6 +476,7 @@
         <entry>latDiv</entry>
         <entry>reflection</entry>
         <entry>Reflection</entry>
+        <entry>shadow</entry>
       </history-search>
       <history-cmd>
         <entry>s/curPlaneIntersection/curRayDirection/g</entry>
