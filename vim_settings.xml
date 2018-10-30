@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1540926246562">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/Helper.java" timestamp="1540144903914">
         <mark key="[" line="101" column="35" />
         <mark key="]" line="102" column="36" />
@@ -23,12 +20,6 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_rmh286_tbs47/src/manip/RotationManipulator.java" timestamp="1540145702323">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="35" />
-        <mark key="^" line="54" column="35" />
-        <mark key="." line="54" column="35" />
-      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="16" />
@@ -40,6 +31,20 @@
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540926246562">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_rmh286_tbs47/src/manip/RotationManipulator.java" timestamp="1540145702323">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="35" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1540145585342">
         <mark key="[" line="0" column="0" />
@@ -149,7 +154,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJlemllckN1cnZlcwo=</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -167,7 +172,7 @@
         <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJlemllckN1cnZlcwo=</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -183,28 +188,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQllcHNpbG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJlemllckN1cnZlcwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJlemllckN1cnZlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChGbG9hdC5pc05hTihyZWZlcmVuY2Uucm90YXRpb25aLmdldCgwLDApKSkgewoJCQkJCVN5c3RlbS5vdXQucHJpbnRsbigiaXMgbmFuIik7CgkJCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJlemllckN1cnZlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCW5ldyBWZWN0b3IyKCkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
