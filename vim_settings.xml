@@ -9,7 +9,7 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542142316754">
+      <file name="/Dummy.txt" timestamp="1542147652658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix3.java" timestamp="1542141641817">
@@ -37,6 +37,11 @@
         <mark key="]" line="54" column="35" />
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/gl/CameraController.java" timestamp="1542148064097">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix4.java" timestamp="1542142261185">
         <mark key="'" line="8" column="13" />
@@ -165,8 +170,8 @@
       <jump line="8" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix4.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -175,7 +180,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Matrix3</text>
