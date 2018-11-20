@@ -31,8 +31,12 @@
         <mark key="^" line="102" column="36" />
         <mark key="." line="102" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542676749636">
-        <mark key="'" line="126" column="16" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542677886541">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="122" column="18" />
+        <mark key="]" line="123" column="44" />
+        <mark key="." line="123" column="44" />
+        <mark key="^" line="123" column="44" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/scene/SceneApp.java" timestamp="1542660731646" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/SplineCurve.java" timestamp="1542663288470" />
@@ -69,14 +73,17 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542663556879">
+      <file name="/Dummy.txt" timestamp="1542677946300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix3.java" timestamp="1542141641817">
         <mark key="'" line="68" column="19" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/tests/CatmullromTests.java" timestamp="1542662436430" />
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/sab376/a5/src/splines/CubicBezier.java" timestamp="1542676845080" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/sab376/a5/src/splines/CubicBezier.java" timestamp="1542677860458">
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="88" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" timestamp="1542664336939">
         <mark key="'" line="378" column="35" />
       </file>
@@ -102,10 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="27" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="44" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
@@ -192,9 +195,7 @@
       <jump line="120" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="121" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="122" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="123" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="125" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="162" column="19" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="158" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="138" column="31" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="137" column="31" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
@@ -202,10 +203,16 @@
       <jump line="131" column="21" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="129" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="126" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="162" column="17" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="124" column="4" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="140" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="226" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -214,16 +221,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>points</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
+      <register name="0" type="4">
+        <text>Vector2 p0, Vector2 p1, Vector2 p2, Vector2 p3, int depth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -239,28 +246,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFjcm9fcnVsZXMhIGJydWggewogICAgKCkgPT4ge307Cn0K</text>
+        <text encoding="base64">CQlWZWN0b3IyIHYwMSA9IHAxLmNsb25lKCkuc3ViKHAwKS5ub3JtYWxpemUoKTsKCQlWZWN0b3IyIHYxMiA9IHAyLmNsb25lKCkuc3ViKHAxKS5ub3JtYWxpemUoKTsKCQlWZWN0b3IyIHYyMyA9IHAzLmNsb25lKCkuc3ViKHAyKS5ub3JtYWxpemUoKTsKCQlmbG9hdCBhbmdsZTAgPSB2MDEuYW5nbGUodjEyKSwKCQkJCWFuZ2xlMSA9IHYxMi5hbmdsZSh2MjMpOwoJCWlmIChNYXRoLm1heChhbmdsZTAsIGFuZ2xlMSkgPiBlcHNpbG9uKSB7CgkJCS8vc3ViZGl2aWRlCgkJfSBlbHNlIHsKCQkJLy9kb250IHN1YmRpdmlkZQoJCQljdXJ2ZVBvaW50cy5hZGQocDApOwoJCX0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHYuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIEE1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkvLyBUT0RPIEE1CiAgICAgICAgVmVjdG9yMiB2MDEgPSBwMS5jbG9uZSgpLnN1YihwMCkubm9ybWFsaXplKCk7CgkJVmVjdG9yMiB2MTIgPSBwMi5jbG9uZSgpLnN1YihwMSkubm9ybWFsaXplKCk7CgkJVmVjdG9yMiB2MjMgPSBwMy5jbG9uZSgpLnN1YihwMikubm9ybWFsaXplKCk7CgkJZmxvYXQgYW5nbGUwID0gdjAxLmFuZ2xlKHYxMiksCgkJCQlhbmdsZTEgPSB2MTIuYW5nbGUodjIzKTsKCQlpZiAoTWF0aC5tYXgoYW5nbGUwLCBhbmdsZTEpID4gZXBzaWxvbikgewoJCQkvL3N1YmRpdmlkZQoJCX0gZWxzZSB7CgkJCS8vZG9udCBzdWJkaXZpZGUKICAgICAgICAgICAgY3VydmVQb2ludHMuYWRkKHAwKTsKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZWQtYXJlbmEgPSAiMS4zLjAiCnJheW9uID0gIjEuMC4wIgo=</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVGhlIENvbXB1dGVyIExhbmd1YWdlIEJlbmNobWFya3MgR2FtZQovLyBodHRwOi8vYmVuY2htYXJrc2dhbWUuYWxpb3RoLmRlYmlhbi5vcmcvCi8vCi8vIGNvbnRyaWJ1dGVkIGJ5IHRoZSBSdXN0IFByb2plY3QgRGV2ZWxvcGVycwovLyBjb250cmlidXRlZCBieSBUZVhpdG9pCi8vIGNvbnRyaWJ1dGVkIGJ5IENyaXN0aSBDb2J6YXJlbmNvCi8vIGNvbnRyaWJ1dGVkIGJ5IE1hdHQgQnJ1YmVjawoKZXh0ZXJuIGNyYXRlIHR5cGVkX2FyZW5hOwpleHRlcm4gY3JhdGUgcmF5b247Cgp1c2UgdHlwZWRfYXJlbmE6OkFyZW5hOwp1c2UgcmF5b246OnByZWx1ZGU6Oio7CgpzdHJ1Y3QgVHJlZTwnYT4gewogICAgY2hpbGRyZW46IE9wdGlvbjwoJidhIFRyZWU8J2E+LCAmJ2EgVHJlZTwnYT4pPiwKfQoKZm4gaXRlbV9jaGVjayh0cmVlOiAmVHJlZSkgLT4gaTMyIHsKICAgIGlmIGxldCBTb21lKChsZWZ0LCByaWdodCkpID0gdHJlZS5jaGlsZHJlbiB7CiAgICAgICAgMSArIGl0ZW1fY2hlY2socmlnaHQpICsgaXRlbV9jaGVjayhsZWZ0KQogICAgfSBlbHNlIHsKICAgICAgICAxCiAgICB9Cn0KCmZuIGJvdHRvbV91cF90cmVlPCdyPihhcmVuYTogJidyIEFyZW5hPFRyZWU8J3I+PiwgZGVwdGg6IGkzMikKICAgICAgICAgICAgICAgICAgLT4gJidyIFRyZWU8J3I+IHsKICAgIGxldCBtdXQgdHJlZSA9IGFyZW5hLmFsbG9jKFRyZWUgeyBjaGlsZHJlbjogTm9uZSB9KTsKICAgIGlmIGRlcHRoID4gMCB7CiAgICAgICAgbGV0IHJpZ2h0ID0gYm90dG9tX3VwX3RyZWUoYXJlbmEsIGRlcHRoIC0gMSk7CiAgICAgICAgbGV0IGxlZnQgPSBib3R0b21fdXBfdHJlZShhcmVuYSwgZGVwdGggLSAxKTsKICAgICAgICB0cmVlLmNoaWxkcmVuID0gU29tZSgobGVmdCwgcmlnaHQpKQogICAgfQogICAgdHJlZQp9CgpmbiBpbm5lcihkZXB0aDogaTMyLCBpdGVyYXRpb25zOiBpMzIpIC0+IFN0cmluZyB7CiAgICBsZXQgY2hrOiBpMzIgPSAoMCAuLiBpdGVyYXRpb25zKS5pbnRvX3Bhcl9pdGVyKCkubWFwKHxffCB7CiAgICAgICAgbGV0IGFyZW5hID0gQXJlbmE6Om5ldygpOwogICAgICAgIGxldCBhID0gYm90dG9tX3VwX3RyZWUoJmFyZW5hLCBkZXB0aCk7CiAgICAgICAgaXRlbV9jaGVjayhhKQogICAgfSkuc3VtKCk7CiAgICBmb3JtYXQhKCJ7fVx0IHRyZWVzIG9mIGRlcHRoIHt9XHQgY2hlY2s6IHt9IiwgaXRlcmF0aW9ucywgZGVwdGgsIGNoaykKfQoKZm4gbWFpbigpIHsKICAgIGxldCBuID0gc3RkOjplbnY6OmFyZ3MoKS5udGgoMSkKICAgICAgICAuYW5kX3RoZW4ofG58IG4ucGFyc2UoKS5vaygpKQogICAgICAgIC51bndyYXBfb3IoMTApOwogICAgbGV0IG1pbl9kZXB0aCA9IDQ7CiAgICBsZXQgbWF4X2RlcHRoID0gaWYgbWluX2RlcHRoICsgMiA+IG4geyBtaW5fZGVwdGggKyAyIH0gZWxzZSB7IG4gfTsKCiAgICB7CiAgICAgICAgbGV0IGFyZW5hID0gQXJlbmE6Om5ldygpOwogICAgICAgIGxldCBkZXB0aCA9IG1heF9kZXB0aCArIDE7CiAgICAgICAgbGV0IHRyZWUgPSBib3R0b21fdXBfdHJlZSgmYXJlbmEsIGRlcHRoKTsKICAgICAgICBwcmludGxuISgic3RyZXRjaCB0cmVlIG9mIGRlcHRoIHt9XHQgY2hlY2s6IHt9IiwgZGVwdGgsIGl0ZW1fY2hlY2sodHJlZSkpOwogICAgfQoKICAgIGxldCBsb25nX2xpdmVkX2FyZW5hID0gQXJlbmE6Om5ldygpOwogICAgbGV0IGxvbmdfbGl2ZWRfdHJlZSA9IGJvdHRvbV91cF90cmVlKCZsb25nX2xpdmVkX2FyZW5hLCBtYXhfZGVwdGgpOwoKICAgIGxldCBtZXNzYWdlcyA9IChtaW5fZGVwdGgvMi4ubWF4X2RlcHRoLzIgKyAxKS5pbnRvX3Bhcl9pdGVyKCkubWFwKHxoYWxmX2RlcHRofCB7CiAgICAgICAgICAgIGxldCBkZXB0aCA9IGhhbGZfZGVwdGggKiAyOwogICAgICAgICAgICBsZXQgaXRlcmF0aW9ucyA9IDEgPDwgKChtYXhfZGVwdGggLSBkZXB0aCArIG1pbl9kZXB0aCkgYXMgdTMyKTsKICAgICAgICAgICAgaW5uZXIoZGVwdGgsIGl0ZXJhdGlvbnMpCiAgICAgICAgfSkuY29sbGVjdDo6PFZlYzxfPj4oKTsKCiAgICBmb3IgbWVzc2FnZSBpbiBtZXNzYWdlcyB7CiAgICAgICAgcHJpbnRsbiEoInt9IiwgbWVzc2FnZSk7CiAgICB9CgogICAgcHJpbnRsbiEoImxvbmcgbGl2ZWQgdHJlZSBvZiBkZXB0aCB7fVx0IGNoZWNrOiB7fSIsIG1heF9kZXB0aCwgaXRlbV9jaGVjayhsb25nX2xpdmVkX3RyZWUpKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">CiAgICAJQXJyYXlMaXN0PFZlY3RvcjI+IHBvaW50cyA9IG5ldyBBcnJheUxpc3Q8VmVjdG9yMj4oKTsKICAgIAlwb2ludHMuYWRkKHAwKTsKICAgIAlwb2ludHMuYWRkKHAxKTsKICAgIAlwb2ludHMuYWRkKHAyKTsKICAgIAlwb2ludHMuYWRkKHAzKTsKICAgIAkKICAgIAljdXJ2ZVBvaW50cy5hZGQocDApOwogICAgCWJlemhlbHAocG9pbnRzLCAzLCAwLCAwKTsKICAgIAogICAgCS8vIHRlbXBvcmFyaWx5IGFkZGluZwogICAgCWN1cnZlUG9pbnRzLmFkZChwMyk7CiAgICAJCiAgICAJLy8gdXNpbmcgdGhlIHBvaW50cyBpbiBjdXJ2ZVBvaW50cywgZmluZCB0YW5nZW50cyB3aXRoIAogICAgCS8vICh4MSx5MSktKHgseSkgd2hlcmUgKHgsIHkpIGlzIHRoZSBjdXJyZW50IHBvaW50IGFuZCAoeDEsIHkxKSBpcyB0aGUgbmV4dCBwb2ludAogICAgCUFycmF5TGlzdDxWZWN0b3IyPiB0YW5nZW50cyA9IG5ldyBBcnJheUxpc3Q8VmVjdG9yMj4oKTsKCQlpbnQgc2l6ZSA9IGN1cnZlUG9pbnRzLnNpemUoKTsKCiAgICAJZm9yIChpbnQgaSA9IDA7IGkgPCAoc2l6ZSAtIDEpOyBpKyspIHsKICAgIAkJVmVjdG9yMiBwdDEgPSBjdXJ2ZVBvaW50cy5nZXQoaSk7CgkJCVZlY3RvcjIgcHQyID0gY3VydmVQb2ludHMuZ2V0KGkrMSk7CgkJCVZlY3RvcjIgdGFuZ2VudCA9IHB0Mi5jbG9uZSgpLnN1YihwdDEuY2xvbmUoKSk7CgkgICAgCXRhbmdlbnRzLmFkZCh0YW5nZW50Lm5vcm1hbGl6ZSgpKTsKICAgIAl9CiAgICAJY3VydmVUYW5nZW50cy5jbGVhcigpOwogICAgCWZvciAoVmVjdG9yMiBwdCA6IHRhbmdlbnRzKSB7CiAgICAJCWN1cnZlVGFuZ2VudHMuYWRkKHB0KTsKICAgIAl9CiAgICAJCiAgICAJLy8gdXNpbmcgdGhlIHRhbmdlbnRzLCByb3RhdGUgYW5kIG5vcm1hbGl6ZSB0byBmaW5kIG5vcm1hbHMKICAgIAlBcnJheUxpc3Q8VmVjdG9yMj4gbm9ybWFscyA9IG5ldyBBcnJheUxpc3Q8VmVjdG9yMj4oKTsKICAgIAlmb3IgKFZlY3RvcjIgdCA6IGN1cnZlVGFuZ2VudHMpIHsKICAgIAkJbm9ybWFscy5hZGQobmV3IFZlY3RvcjIoLXQueSwgdC54KS5ub3JtYWxpemUoKSk7CiAgICAJfQogICAgCWN1cnZlTm9ybWFscy5jbGVhcigpOwogICAgCWZvciAoVmVjdG9yMiBwdCA6IG5vcm1hbHMpIHsKICAgIAkJY3VydmVOb3JtYWxzLmFkZChwdCk7CiAgICAJfQogICAgCQogICAgCS8vIHJlbW92aW5nIHAzCiAgICAJY3VydmVQb2ludHMucmVtb3ZlKHAzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
