@@ -31,6 +31,9 @@
         <mark key="^" line="102" column="36" />
         <mark key="." line="102" column="36" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542675849837">
+        <mark key="'" line="126" column="16" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/scene/SceneApp.java" timestamp="1542660731646" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/SplineCurve.java" timestamp="1542663288470" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a2/src/ray1/camera/PerspectiveCamera.java" timestamp="1537299501635">
@@ -88,7 +91,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CubicBezier.java" timestamp="1542664545930" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CubicBezier.java" timestamp="1542675750697" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -99,25 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="47" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/camera.rs" />
-      <jump line="18" column="21" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="26" column="29" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="19" column="11" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="20" column="20" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
-      <jump line="19" column="8" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/math.rs" />
-      <jump line="46" column="15" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="2" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="17" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
       <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_example/src/object.rs" />
@@ -199,6 +183,25 @@
       <jump line="358" column="35" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
       <jump line="367" column="37" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
       <jump line="378" column="35" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
+      <jump line="117" column="17" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="52" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="116" column="17" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="119" column="27" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="120" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="121" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="122" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="123" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="125" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="162" column="19" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="158" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="138" column="31" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="137" column="31" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="134" column="24" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="131" column="21" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="129" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
+      <jump line="126" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -214,7 +217,7 @@
         <text>C</text>
       </register>
       <register name="/" type="4">
-        <text>getPoints</text>
+        <text>points</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB0cmlhbmdsZXM6IFZlYzxUcmlhbmdsZT4gPSByYXdfb2JqZWN0LnBvbHlnb25zLml0ZXIoKS5tYXAofHBvbHlnb258IHsKICAgICAgICBsZXQgdmVydGljZXMgPSB0b192ZXJ0aWNlcyhwb2x5Z29uLCAmcmF3X29iamVjdCk7CiAgICAgICAgbGV0IHZlcnRleF90cmlwbGUgPSB0cmlhbmd1bGl6ZSh2ZXJ0aWNlcy5hc19yZWYoKSk/OwogICAgICAgIFRyaWFuZ2xlIHsgdmVydGljZXM6IHZlcnRleF90cmlwbGUgfQogICAgfSkuY29sbGVjdCgpOwoK</text>
@@ -264,9 +267,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getPoints</last-search>
+      <last-search>points</last-search>
       <last-offset />
-      <last-pattern>getPoints</last-pattern>
+      <last-pattern>points</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -274,8 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
-        <entry>shader</entry>
         <entry>latDiv</entry>
         <entry>reflection</entry>
         <entry>Reflection</entry>
@@ -294,6 +295,8 @@
         <entry>Matrix3</entry>
         <entry>toBezier</entry>
         <entry>getPoints</entry>
+        <entry>tessellate</entry>
+        <entry>points</entry>
       </history-search>
       <history-cmd>
         <entry>s/curPlaneIntersection/curRayDirection/g</entry>
