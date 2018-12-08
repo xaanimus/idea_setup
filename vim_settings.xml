@@ -125,6 +125,7 @@
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6_orig/src/scene/SceneApp.java" timestamp="1544291668989" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/gl/CameraController.java" timestamp="1542148064097">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -255,7 +256,7 @@
         <text encoding="base64">cmVhZGluZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>incoming</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhcnNlZF9hZGRpdGlvbiA9IHN0ZDo6c3RyOjpmcm9tX3V0ZjgoaW5jb21pbmdfZGF0YVswLi5pX3BhdHRlcm5dKS51bndyYXAoKTsK</text>
@@ -305,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>incoming</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>incoming</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shadow</entry>
         <entry>shade</entry>
         <entry>mirror</entry>
         <entry>texCoords</entry>
@@ -335,6 +335,7 @@
         <entry>discrete</entry>
         <entry>size_re</entry>
         <entry>incoming</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>s/curRayDirection/curRayOrigin/g</entry>
