@@ -79,6 +79,8 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545020360246" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/RayTracer.java" timestamp="1545019719147" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/anim/AnimTimeline.java" timestamp="1542143138658">
         <mark key="[" line="101" column="8" />
         <mark key="]" line="101" column="9" />
@@ -108,9 +110,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" timestamp="1542664336939">
-        <mark key="'" line="378" column="35" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_release/src/ray2/tests/TestUtils.java" timestamp="1545016632239" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1543348532601">
@@ -148,7 +147,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545016965865">
+      <file name="/fragment.java" timestamp="1545019929938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
