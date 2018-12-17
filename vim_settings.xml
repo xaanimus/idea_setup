@@ -15,7 +15,13 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545024623877" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
+        <mark key="'" line="52" column="39" />
+        <mark key="[" line="111" column="82" />
+        <mark key="]" line="111" column="84" />
+        <mark key="." line="111" column="84" />
+        <mark key="^" line="111" column="84" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="14" />
@@ -27,6 +33,7 @@
         <mark key="]" line="130" column="36" />
         <mark key="." line="130" column="36" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/material/MicrofacetDistribution.java" timestamp="1545069864613" />
       <file name="$USER_HOME$/code/scratch/rust_sc/Cargo.toml" timestamp="1542166822923">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="15" />
@@ -170,7 +177,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545021998080">
+      <file name="/fragment.java" timestamp="1545068558838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
@@ -180,10 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="28" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="80" column="47" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="81" column="20" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="82" column="26" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
       <jump line="85" column="26" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
       <jump line="86" column="24" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
       <jump line="60" column="27" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
@@ -280,10 +283,14 @@
       <jump line="102" column="4" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
       <jump line="108" column="33" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
       <jump line="88" column="49" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
+      <jump line="57" column="23" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
+      <jump line="55" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
+      <jump line="36" column="39" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
+      <jump line="52" column="39" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pdf</text>
+        <text>lRec.probability</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -292,10 +299,10 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>pdf</text>
+        <text>lRec.probability</text>
       </register>
       <register name="/" type="4">
-        <text>outDirection</text>
+        <text>shade</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhcnNlZF9hZGRpdGlvbiA9IHN0ZDo6c3RyOjpmcm9tX3V0ZjgoaW5jb21pbmdfZGF0YVswLi5pX3BhdHRlcm5dKS51bndyYXAoKTsK</text>
@@ -317,37 +324,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJUmVjdGFuZ2xlTGlnaHQgcmVjdExpZ2h0ID0gKFJlY3RhbmdsZUxpZ2h0KSBsOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy9pZiByZWN0YW5nbGUgbGlnaHQgc291cmNlCg==</text>
+        <text encoding="base64">CQkJUmVjdGFuZ2xlTGlnaHQgcmVjdExpZ2h0ID0gKFJlY3RhbmdsZUxpZ2h0KSBsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaWYobC5nZXRDbGFzcygpLmVxdWFscyhSZWN0YW5nbGVMaWdodC5jbGFzcykpIHsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJLy9pZiByZWN0YW5nbGUgbGlnaHQgc291cmNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy9pZiBwb2ludCBzb3VyY2UKCQkJZWxzZSB7CgkJCQlQb2ludExpZ2h0IHBMaWdodCA9IChQb2ludExpZ2h0KSBsOwoJCQkJVmVjdG9yM2QgciA9IChpUmVjLmxvY2F0aW9uLmNsb25lKCkuc3ViKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpKSk7CgkJCQlkb3VibGUgdGhldGFSID0gaVJlYy5ub3JtYWwuY2xvbmUoKS5kb3QocExpZ2h0LnBvc2l0aW9uLmNsb25lKCkuc3ViKGlSZWMubG9jYXRpb24uY2xvbmUoKSkpOwoJCQkJVmVjdG9yM2QgSSA9IHBMaWdodC5nZXRJbnRlbnNpdHkoKTsKCQkJCUNvbG9yZCBMZCA9IG5ldyBDb2xvcmQoKTsKCQkJCUNvbG9yZCBSID0gbmV3IENvbG9yZCgpOwoJCQkJYnNkZi5ldmFsKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpLnN1YihpUmVjLmxvY2F0aW9uLmNsb25lKCkpLCAKCQkJCQkJdmlld0RpciwgaVJlYy5ub3JtYWwsIFIpOwoKCQkJCUxkLnNldE11bHRpcGxlKChNYXRoLm1heCgwLCB0aGV0YVIpIC8gKE1hdGguUEkgKiByLmNsb25lKCkubGVuU3EoKSkpLCBJKTsKCQkJCUxkLmRvdChSKTsKCQkJCQoJCQkJb3V0UmFkaWFuY2UgPSAoQ29sb3JkKSBvdXRSYWRpYW5jZS5hZGQoTGQpOwoJCQl9Cg==</text>
+        <text encoding="base64">CQkJaWYobC5nZXRDbGFzcygpLmVxdWFscyhSZWN0YW5nbGVMaWdodC5jbGFzcykpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlvdXRSYWRpYW5jZSA9IChDb2xvcmQpIG91dFJhZGlhbmNlLmFkZChMZCk7Cg==</text>
+        <text encoding="base64">CQkJLy9pZiBwb2ludCBzb3VyY2UKCQkJZWxzZSB7CgkJCQlQb2ludExpZ2h0IHBMaWdodCA9IChQb2ludExpZ2h0KSBsOwoJCQkJVmVjdG9yM2QgciA9IChpUmVjLmxvY2F0aW9uLmNsb25lKCkuc3ViKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpKSk7CgkJCQlkb3VibGUgdGhldGFSID0gaVJlYy5ub3JtYWwuY2xvbmUoKS5kb3QocExpZ2h0LnBvc2l0aW9uLmNsb25lKCkuc3ViKGlSZWMubG9jYXRpb24uY2xvbmUoKSkpOwoJCQkJVmVjdG9yM2QgSSA9IHBMaWdodC5nZXRJbnRlbnNpdHkoKTsKCQkJCUNvbG9yZCBMZCA9IG5ldyBDb2xvcmQoKTsKCQkJCUNvbG9yZCBSID0gbmV3IENvbG9yZCgpOwoJCQkJYnNkZi5ldmFsKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpLnN1YihpUmVjLmxvY2F0aW9uLmNsb25lKCkpLCAKCQkJCQkJdmlld0RpciwgaVJlYy5ub3JtYWwsIFIpOwoKCQkJCUxkLnNldE11bHRpcGxlKChNYXRoLm1heCgwLCB0aGV0YVIpIC8gKE1hdGguUEkgKiByLmNsb25lKCkubGVuU3EoKSkpLCBJKTsKCQkJCUxkLmRvdChSKTsKCQkJCQoJCQkJb3V0UmFkaWFuY2UgPSAoQ29sb3JkKSBvdXRSYWRpYW5jZS5hZGQoTGQpOwoJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>outDirection</last-search>
+      <last-search>shade</last-search>
       <last-offset />
-      <last-pattern>outDirection</last-pattern>
+      <last-pattern>shade</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -370,11 +377,11 @@
         <entry>main</entry>
         <entry>assertAll</entry>
         <entry>dir</entry>
-        <entry>shade</entry>
         <entry>eval</entry>
         <entry>sampl</entry>
         <entry>sample</entry>
         <entry>outDirection</entry>
+        <entry>shade</entry>
       </history-search>
       <history-cmd>
         <entry>s/curRayDirection/curRayOrigin/g</entry>
