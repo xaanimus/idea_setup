@@ -111,6 +111,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545020591083">
+        <mark key="'" line="38" column="87" />
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="65" />
+        <mark key="^" line="38" column="65" />
+        <mark key="." line="38" column="65" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_release/src/ray2/tests/TestUtils.java" timestamp="1545016632239" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1543348532601">
         <mark key="[" line="32" column="0" />
@@ -147,7 +154,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545019929938">
+      <file name="/fragment.java" timestamp="1545020476094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
@@ -157,12 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="22" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="11" column="28" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="77" column="34" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="75" column="61" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="62" column="89" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="9" column="14" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
       <jump line="24" column="20" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
       <jump line="126" column="22" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
@@ -257,6 +258,12 @@
       <jump line="110" column="11" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_release/src/ray2/RayTracer.java" />
       <jump line="15" column="2" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
       <jump line="2" column="47" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="35" column="60" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="37" column="51" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="40" column="43" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="39" column="65" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="63" column="18" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="38" column="87" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -272,7 +279,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>assertAll</text>
+        <text>dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhcnNlZF9hZGRpdGlvbiA9IHN0ZDo6c3RyOjpmcm9tX3V0ZjgoaW5jb21pbmdfZGF0YVswLi5pX3BhdHRlcm5dKS51bndyYXAoKTsK</text>
@@ -322,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assertAll</last-search>
+      <last-search>dir</last-search>
       <last-offset />
-      <last-pattern>assertAll</last-pattern>
+      <last-pattern>dir</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mirror</entry>
         <entry>texCoords</entry>
         <entry>text</entry>
         <entry>texCoo</entry>
@@ -352,6 +358,7 @@
         <entry>incoming</entry>
         <entry>main</entry>
         <entry>assertAll</entry>
+        <entry>dir</entry>
       </history-search>
       <history-cmd>
         <entry>s/curRayDirection/curRayOrigin/g</entry>
