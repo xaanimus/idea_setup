@@ -15,6 +15,7 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545024623877" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="14" />
@@ -44,10 +45,6 @@
         <mark key="]" line="123" column="44" />
         <mark key="." line="123" column="44" />
         <mark key="^" line="123" column="44" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/SplineCurve.java" timestamp="1542678199445">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="201" column="8" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/RotationManipulator.java" timestamp="1540144712731">
         <mark key="[" line="99" column="0" />
@@ -80,7 +77,7 @@
         <mark key="." line="19" column="16" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545020360246" />
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/RayTracer.java" timestamp="1545019719147" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/RayTracer.java" timestamp="1545021809545" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/anim/AnimTimeline.java" timestamp="1542143138658">
         <mark key="[" line="101" column="8" />
         <mark key="]" line="101" column="9" />
@@ -89,10 +86,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1543616782163">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/sab376/a5/src/splines/CubicBezier.java" timestamp="1542677860458">
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="64" column="88" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
         <mark key="[" line="7" column="0" />
@@ -118,11 +111,31 @@
         <mark key="^" line="38" column="65" />
         <mark key="." line="38" column="65" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Environment.java" timestamp="1545023965530" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" timestamp="1542664336939">
+        <mark key="'" line="378" column="35" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_release/src/ray2/tests/TestUtils.java" timestamp="1545016632239" />
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545021664299">
+        <mark key="[" line="52" column="63" />
+        <mark key="]" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="52" column="54" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1543348532601">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/RectangleLight.java" timestamp="1545022591950">
+        <mark key="'" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1545024504936">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="120" column="72" />
+        <mark key="]" line="120" column="87" />
+        <mark key="." line="120" column="87" />
+        <mark key="^" line="120" column="87" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util.rs" timestamp="1543613111904">
         <mark key="[" line="2" column="0" />
@@ -149,12 +162,15 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" timestamp="1545024004544">
+        <mark key="'" line="88" column="49" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545020476094">
+      <file name="/fragment.java" timestamp="1545021998080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
@@ -164,22 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="20" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="126" column="22" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="391" column="1" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a1/src/meshgen/MeshGen.java" />
-      <jump line="54" column="47" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="37" column="43" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="38" column="43" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="90" column="41" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="64" column="41" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="62" column="12" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="61" column="12" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="59" column="12" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="58" column="12" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="57" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="56" column="21" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="76" column="48" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
       <jump line="78" column="28" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
       <jump line="80" column="47" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
       <jump line="81" column="20" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
@@ -264,10 +264,26 @@
       <jump line="39" column="65" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
       <jump line="63" column="18" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
       <jump line="38" column="87" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" />
+      <jump line="71" column="35" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="65" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="62" column="39" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/RectangleLight.java" />
+      <jump line="74" column="25" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" />
+      <jump line="14" column="32" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
+      <jump line="73" column="9" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
+      <jump line="81" column="35" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
+      <jump line="102" column="4" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
+      <jump line="108" column="33" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
+      <jump line="88" column="49" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pdf</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -276,16 +292,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pdf</text>
       </register>
       <register name="/" type="4">
-        <text>dir</text>
+        <text>outDirection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhcnNlZF9hZGRpdGlvbiA9IHN0ZDo6c3RyOjpmcm9tX3V0ZjgoaW5jb21pbmdfZGF0YVswLi5pX3BhdHRlcm5dKS51bndyYXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -301,37 +317,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy5hc3NlcnRBbGw7Cg==</text>
+        <text encoding="base64">CQkJUmVjdGFuZ2xlTGlnaHQgcmVjdExpZ2h0ID0gKFJlY3RhbmdsZUxpZ2h0KSBsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3dGYK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">CQkJLy9pZiByZWN0YW5nbGUgbGlnaHQgc291cmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJaWYobC5nZXRDbGFzcygpLmVxdWFscyhSZWN0YW5nbGVMaWdodC5jbGFzcykpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJLy9pZiBwb2ludCBzb3VyY2UKCQkJZWxzZSB7CgkJCQlQb2ludExpZ2h0IHBMaWdodCA9IChQb2ludExpZ2h0KSBsOwoJCQkJVmVjdG9yM2QgciA9IChpUmVjLmxvY2F0aW9uLmNsb25lKCkuc3ViKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpKSk7CgkJCQlkb3VibGUgdGhldGFSID0gaVJlYy5ub3JtYWwuY2xvbmUoKS5kb3QocExpZ2h0LnBvc2l0aW9uLmNsb25lKCkuc3ViKGlSZWMubG9jYXRpb24uY2xvbmUoKSkpOwoJCQkJVmVjdG9yM2QgSSA9IHBMaWdodC5nZXRJbnRlbnNpdHkoKTsKCQkJCUNvbG9yZCBMZCA9IG5ldyBDb2xvcmQoKTsKCQkJCUNvbG9yZCBSID0gbmV3IENvbG9yZCgpOwoJCQkJYnNkZi5ldmFsKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpLnN1YihpUmVjLmxvY2F0aW9uLmNsb25lKCkpLCAKCQkJCQkJdmlld0RpciwgaVJlYy5ub3JtYWwsIFIpOwoKCQkJCUxkLnNldE11bHRpcGxlKChNYXRoLm1heCgwLCB0aGV0YVIpIC8gKE1hdGguUEkgKiByLmNsb25lKCkubGVuU3EoKSkpLCBJKTsKCQkJCUxkLmRvdChSKTsKCQkJCQoJCQkJb3V0UmFkaWFuY2UgPSAoQ29sb3JkKSBvdXRSYWRpYW5jZS5hZGQoTGQpOwoJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJCQlvdXRSYWRpYW5jZSA9IChDb2xvcmQpIG91dFJhZGlhbmNlLmFkZChMZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dir</last-search>
+      <last-search>outDirection</last-search>
       <last-offset />
-      <last-pattern>dir</last-pattern>
+      <last-pattern>outDirection</last-pattern>
       <last-replace>c3</last-replace>
       <last-substitute>c0</last-substitute>
       <last-dir>1</last-dir>
@@ -339,11 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>texCoords</entry>
-        <entry>text</entry>
-        <entry>texCoo</entry>
-        <entry>texture</entry>
-        <entry>tex</entry>
         <entry>r</entry>
         <entry>manipPlaneNorm</entry>
         <entry>setBezi</entry>
@@ -359,6 +370,11 @@
         <entry>main</entry>
         <entry>assertAll</entry>
         <entry>dir</entry>
+        <entry>shade</entry>
+        <entry>eval</entry>
+        <entry>sampl</entry>
+        <entry>sample</entry>
+        <entry>outDirection</entry>
       </history-search>
       <history-cmd>
         <entry>s/curRayDirection/curRayOrigin/g</entry>
