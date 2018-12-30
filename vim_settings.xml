@@ -33,7 +33,6 @@
         <mark key="]" line="130" column="36" />
         <mark key="." line="130" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/material/MicrofacetDistribution.java" timestamp="1545069864613" />
       <file name="$USER_HOME$/code/scratch/rust_sc/Cargo.toml" timestamp="1542166822923">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="15" />
@@ -83,8 +82,12 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545020360246" />
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/RayTracer.java" timestamp="1545021809545" />
+      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546145617959">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/anim/AnimTimeline.java" timestamp="1542143138658">
         <mark key="[" line="101" column="8" />
         <mark key="]" line="101" column="9" />
@@ -94,6 +97,7 @@
       <file name="/Dummy.txt" timestamp="1543616782163">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1546145421533" />
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -118,16 +122,21 @@
         <mark key="^" line="38" column="65" />
         <mark key="." line="38" column="65" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Environment.java" timestamp="1545023965530" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" timestamp="1542664336939">
         <mark key="'" line="378" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_release/src/ray2/tests/TestUtils.java" timestamp="1545016632239" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545021664299">
         <mark key="[" line="52" column="63" />
         <mark key="]" line="52" column="54" />
         <mark key="." line="52" column="54" />
         <mark key="^" line="52" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546146996191">
+        <mark key="'" line="248" column="13" />
+        <mark key="[" line="248" column="8" />
+        <mark key="]" line="248" column="13" />
+        <mark key="." line="248" column="13" />
+        <mark key="^" line="248" column="13" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1543348532601">
         <mark key="[" line="32" column="0" />
@@ -136,6 +145,24 @@
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/RectangleLight.java" timestamp="1545022591950">
         <mark key="'" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1546147009288">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1546149104494">
+        <mark key="'" line="53" column="7" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/main.rs" timestamp="1546147423346">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1545024504936">
         <mark key="'" line="96" column="0" />
@@ -164,6 +191,13 @@
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_release/src/ray2/RayTracer.java" timestamp="1545017060577">
         <mark key="'" line="110" column="11" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1546147188191">
+        <mark key="'" line="89" column="46" />
+        <mark key="[" line="89" column="41" />
+        <mark key="]" line="89" column="46" />
+        <mark key="." line="89" column="46" />
+        <mark key="^" line="89" column="46" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545017753420">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -187,54 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="26" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="86" column="24" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="60" column="27" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="74" column="60" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="35" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/shader/PhongBRDF.java" />
-      <jump line="105" column="11" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/surface/Triangle.java" />
-      <jump line="121" column="24" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/surface/Triangle.java" />
-      <jump line="18" column="48" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/rwr238/a2_live/src/ray1/surface/Triangle.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a2_code_grading/sb838/a2_live/src/ray1/shader/ReflectionShader.java" />
-      <jump line="44" column="42" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/ScaleManipulator.java" />
-      <jump line="21" column="37" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/SplineCurve.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/SplineCurve.java" />
-      <jump line="552" column="4" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix3.java" />
-      <jump line="68" column="19" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix3.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/egl/math/Matrix4.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/scratch/rust_sc/src/main.rs" />
-      <jump line="10" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" />
-      <jump line="276" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="263" column="38" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="271" column="41" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="280" column="37" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="291" column="39" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="350" column="36" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="358" column="35" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="367" column="37" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="378" column="35" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/SplineCurve.java" />
-      <jump line="117" column="17" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="52" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="116" column="17" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="119" column="27" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="120" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="121" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="122" column="8" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="125" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="158" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="138" column="31" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="137" column="31" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="134" column="24" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="131" column="21" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="129" column="13" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="126" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="162" column="17" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="124" column="4" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
-      <jump line="140" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="226" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" />
       <jump line="48" column="4" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" />
@@ -287,10 +273,58 @@
       <jump line="55" column="16" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
       <jump line="36" column="39" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
       <jump line="52" column="39" filename="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" />
+      <jump line="15" column="30" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="140" column="16" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="13" column="10" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="12" column="20" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="232" column="13" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="231" column="15" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="3" column="44" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="3" column="25" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
+      <jump line="14" column="28" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="238" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="235" column="4" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="242" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="244" column="20" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="245" column="25" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="247" column="9" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="248" column="13" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="107" column="18" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="58" column="37" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="6" column="28" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="67" column="36" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="68" column="37" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="69" column="26" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="70" column="26" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="74" column="35" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="75" column="34" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="79" column="26" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="80" column="26" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="81" column="46" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="87" column="26" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="88" column="26" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="89" column="46" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="109" column="48" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="53" column="7" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lRec.probability</text>
+        <text>x</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -299,75 +333,71 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>lRec.probability</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>shade</text>
+        <text>to_array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhcnNlZF9hZGRpdGlvbiA9IHN0ZDo6c3RyOjpmcm9tX3V0ZjgoaW5jb21pbmdfZGF0YVswLi5pX3BhdHRlcm5dKS51bndyYXAoKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcSEoYV9mMzJ4NF9hcnJbMF0sIGEueCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
+          <key char="100" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHg4Nl82NDo6X21tX2V4dHJhY3RfcHMoc2VsZiwgMCksCiAgICAgICAgICAgICAgICB4ODZfNjQ6Ol9tbV9leHRyYWN0X3BzKHNlbGYsIDEpLAogICAgICAgICAgICAgICAgeDg2XzY0OjpfbW1fZXh0cmFjdF9wcyhzZWxmLCAyKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJUmVjdGFuZ2xlTGlnaHQgcmVjdExpZ2h0ID0gKFJlY3RhbmdsZUxpZ2h0KSBsOwo=</text>
+        <text encoding="base64">ICAgIGZuIHRvX2FycmF5KCZzZWxmKSAtPiAmW2YzMjsgNF07Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy9pZiByZWN0YW5nbGUgbGlnaHQgc291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYobC5nZXRDbGFzcygpLmVxdWFscyhSZWN0YW5nbGVMaWdodC5jbGFzcykpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy9pZiBwb2ludCBzb3VyY2UKCQkJZWxzZSB7CgkJCQlQb2ludExpZ2h0IHBMaWdodCA9IChQb2ludExpZ2h0KSBsOwoJCQkJVmVjdG9yM2QgciA9IChpUmVjLmxvY2F0aW9uLmNsb25lKCkuc3ViKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpKSk7CgkJCQlkb3VibGUgdGhldGFSID0gaVJlYy5ub3JtYWwuY2xvbmUoKS5kb3QocExpZ2h0LnBvc2l0aW9uLmNsb25lKCkuc3ViKGlSZWMubG9jYXRpb24uY2xvbmUoKSkpOwoJCQkJVmVjdG9yM2QgSSA9IHBMaWdodC5nZXRJbnRlbnNpdHkoKTsKCQkJCUNvbG9yZCBMZCA9IG5ldyBDb2xvcmQoKTsKCQkJCUNvbG9yZCBSID0gbmV3IENvbG9yZCgpOwoJCQkJYnNkZi5ldmFsKHBMaWdodC5wb3NpdGlvbi5jbG9uZSgpLnN1YihpUmVjLmxvY2F0aW9uLmNsb25lKCkpLCAKCQkJCQkJdmlld0RpciwgaVJlYy5ub3JtYWwsIFIpOwoKCQkJCUxkLnNldE11bHRpcGxlKChNYXRoLm1heCgwLCB0aGV0YVIpIC8gKE1hdGguUEkgKiByLmNsb25lKCkubGVuU3EoKSkpLCBJKTsKCQkJCUxkLmRvdChSKTsKCQkJCQoJCQkJb3V0UmFkaWFuY2UgPSAoQ29sb3JkKSBvdXRSYWRpYW5jZS5hZGQoTGQpOwoJCQl9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shade</last-search>
+      <last-search>to_array</last-search>
       <last-offset />
-      <last-pattern>shade</last-pattern>
-      <last-replace>c3</last-replace>
-      <last-substitute>c0</last-substitute>
+      <last-pattern>to_array</last-pattern>
+      <last-replace>x86_64</last-replace>
+      <last-substitute>vendor</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>r</entry>
-        <entry>manipPlaneNorm</entry>
-        <entry>setBezi</entry>
-        <entry>Matrix4</entry>
-        <entry>Matrix3</entry>
-        <entry>toBezier</entry>
         <entry>getPoints</entry>
         <entry>tessellate</entry>
         <entry>points</entry>
@@ -382,9 +412,14 @@
         <entry>sample</entry>
         <entry>outDirection</entry>
         <entry>shade</entry>
+        <entry>f32x4</entry>
+        <entry>stdsimd</entry>
+        <entry>f32x</entry>
+        <entry>f32x8</entry>
+        <entry>vendor</entry>
+        <entry>to_array</entry>
       </history-search>
       <history-cmd>
-        <entry>s/curRayDirection/curRayOrigin/g</entry>
         <entry>s/curRayOrigin/planeNormal/g</entry>
         <entry>s/planeNormal/planeOrigin/g</entry>
         <entry encoding="base64">JzwsJz5zL2dyb3VuZDIvZ2xhemUw</entry>
@@ -403,6 +438,7 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zL3ZlbmRvci94ODZfNjQ=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
