@@ -22,12 +22,12 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546226288354">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546227131987">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="228" column="19" />
-        <mark key="]" line="228" column="20" />
-        <mark key="." line="228" column="20" />
-        <mark key="^" line="228" column="20" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
@@ -348,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXEhKCp0ZXN0X2FyciwgJmV4cGVjdGVkX2Fycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -366,7 +366,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHNpbWRfeG06IFNpbWRGbG9hdDQgPSB4bS5pbnRvKCk7CiAgICAgICAgICAgIHNpbWRfeG0uYXNfYXJyYXkoKVswXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXEhKCp0ZXN0X2FyciwgJmV4cGVjdGVkX2Fycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -384,28 +384,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiAwLi40IHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXEhKCp0ZXN0X2FyciwgJmV4cGVjdGVkX2Fycik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0X2VxISh0ZXN0X2FycikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiAwLi40IHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXJyX3JlZiA9IHNpbWR2ZWMuYXNfYXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0X2VxISh0ZXN0X2FycikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXEhKCphcnJfcmVmLCBbMS4wLCAyLjAsIDMuMCwgNC4wXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXJyX3JlZiA9IHNpbWR2ZWMuYXNfYXJyYXkoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaW1kdmVjLgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXEhKCphcnJfcmVmLCBbMS4wLCAyLjAsIDMuMCwgNC4wXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzaW1kdmVjLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQhKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgidGVzdCBpcyBmaW5pc2hlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQhKGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
