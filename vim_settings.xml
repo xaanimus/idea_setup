@@ -10,106 +10,6 @@
         <mark key="." line="111" column="84" />
         <mark key="^" line="111" column="84" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545017874752">
-        <mark key="[" line="130" column="36" />
-        <mark key="]" line="130" column="36" />
-        <mark key="." line="130" column="36" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542677886541">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="122" column="18" />
-        <mark key="]" line="123" column="44" />
-        <mark key="." line="123" column="44" />
-        <mark key="^" line="123" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny1.yaml" timestamp="1546310536184">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="25" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CatmullRom.java" timestamp="1542678636348">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/rock_diffuse.yaml" timestamp="1546302277466">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util/math.rs" timestamp="1543613085047">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545020591083">
-        <mark key="'" line="38" column="87" />
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="38" column="65" />
-        <mark key="^" line="38" column="65" />
-        <mark key="." line="38" column="65" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1546305754087">
-        <mark key="'" line="44" column="11" />
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="15" column="63" />
-        <mark key="." line="15" column="63" />
-        <mark key="^" line="15" column="63" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/main.rs" timestamp="1546310625514">
-        <mark key="[" line="66" column="38" />
-        <mark key="]" line="66" column="16" />
-        <mark key="." line="66" column="16" />
-        <mark key="^" line="66" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util.rs" timestamp="1543613111904">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_rmh286_tbs47/src/manip/RotationManipulator.java" timestamp="1540145702323">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="35" />
-        <mark key="^" line="54" column="35" />
-        <mark key="." line="54" column="35" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/gl/CameraController.java" timestamp="1542148064097">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1546301543451">
-        <mark key="'" line="246" column="11" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="245" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/cornell_box1.yaml" timestamp="1546302184700">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/scratch/rust_sc/src/main.rs" timestamp="1542167067387">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -135,17 +35,35 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545017874752">
+        <mark key="[" line="130" column="36" />
+        <mark key="]" line="130" column="36" />
+        <mark key="." line="130" column="36" />
+      </file>
       <file name="$USER_HOME$/code/scratch/rust_sc/Cargo.toml" timestamp="1542166822923">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542677886541">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="122" column="18" />
+        <mark key="]" line="123" column="44" />
+        <mark key="." line="123" column="44" />
+        <mark key="^" line="123" column="44" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/Helper.java" timestamp="1540144903914">
         <mark key="[" line="101" column="35" />
         <mark key="]" line="102" column="36" />
         <mark key="^" line="102" column="36" />
         <mark key="." line="102" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny1.yaml" timestamp="1546310536184">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="25" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/RotationManipulator.java" timestamp="1540144712731">
         <mark key="[" line="99" column="0" />
@@ -157,6 +75,12 @@
         <mark key="]" line="97" column="13" />
         <mark key="^" line="97" column="13" />
         <mark key="." line="109" column="14" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CatmullRom.java" timestamp="1542678636348">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/main.rs" timestamp="1544296028581">
         <mark key="'" line="48" column="12" />
@@ -171,6 +95,12 @@
         <mark key="]" line="34" column="59" />
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -193,6 +123,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/rock_diffuse.yaml" timestamp="1546302277466">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/TODO.md" timestamp="1546311135798">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="3" />
@@ -205,18 +141,38 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
+      <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util/math.rs" timestamp="1543613085047">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545020591083">
+        <mark key="'" line="38" column="87" />
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="65" />
+        <mark key="^" line="38" column="65" />
+        <mark key="." line="38" column="65" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545021664299">
         <mark key="[" line="52" column="63" />
         <mark key="]" line="52" column="54" />
         <mark key="." line="52" column="54" />
         <mark key="^" line="52" column="54" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546309738316">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546384019316">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="187" column="72" />
-        <mark key="]" line="187" column="75" />
-        <mark key="^" line="187" column="75" />
-        <mark key="." line="187" column="75" />
+        <mark key="[" line="267" column="21" />
+        <mark key="]" line="267" column="52" />
+        <mark key="^" line="267" column="52" />
+        <mark key="." line="267" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546384160091">
+        <mark key="'" line="172" column="8" />
+        <mark key="j" line="243" column="44" />
+        <mark key="[" line="261" column="94" />
+        <mark key="]" line="261" column="93" />
+        <mark key="." line="261" column="93" />
+        <mark key="^" line="261" column="93" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1543348532601">
         <mark key="[" line="32" column="0" />
@@ -229,6 +185,19 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1546384056534">
+        <mark key="'" line="72" column="20" />
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="63" />
+        <mark key="." line="15" column="63" />
+        <mark key="^" line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/main.rs" timestamp="1546310625514">
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="16" />
+        <mark key="^" line="66" column="16" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1545024504936">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="120" column="72" />
@@ -236,7 +205,18 @@
         <mark key="." line="120" column="87" />
         <mark key="^" line="120" column="87" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1546302143206" />
+      <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util.rs" timestamp="1543613111904">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_rmh286_tbs47/src/manip/RotationManipulator.java" timestamp="1540145702323">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="35" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1546309483518">
         <mark key="'" line="78" column="46" />
         <mark key="[" line="97" column="0" />
@@ -244,10 +224,27 @@
         <mark key="^" line="100" column="58" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/gl/CameraController.java" timestamp="1542148064097">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1546301543451">
+        <mark key="'" line="246" column="11" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="245" column="11" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545017753420">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/cornell_box1.yaml" timestamp="1546302184700">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
@@ -261,26 +258,21 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1545068558838">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="273" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="264" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="259" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="251" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="248" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="245" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="240" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="233" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="231" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="226" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="215" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="205" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="111" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
       <jump line="127" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
       <jump line="146" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
       <jump line="159" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
@@ -329,8 +321,6 @@
       <jump line="193" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="24" column="9" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="12" column="27" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="39" column="2" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="44" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="251" column="25" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="259" column="24" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="265" column="24" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
@@ -366,10 +356,27 @@
       <jump line="97" column="19" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
       <jump line="112" column="25" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
       <jump line="78" column="46" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
+      <jump line="234" column="9" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="236" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="108" column="23" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="172" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="31" column="7" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="39" column="2" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="44" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="48" column="5" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="49" column="32" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="50" column="8" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="59" column="44" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="60" column="40" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="63" column="27" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="64" column="8" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="70" column="13" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="71" column="18" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="72" column="20" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBbIF0gbWFrZSBzb21lIHNjZW5lIHNwZWMgZmllbGRzIG9wdGlvbmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -378,16 +385,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>have platform specific code that supports nosimd and avx</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>obstruct</text>
+        <text>fn unit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjW2NmZyh0YXJnZXRfZmVhdHVyZSA9ICJhdngiKV0K</text>
+        <text encoding="base64">ICAgIC8vZm4gc2hhZGVfcmF5KCZzZWxmLCByYXk6ICZSYXlVbml0LCBzY2VuZTogJlNjZW5lLCBzYW1wbGVyOiAmbXV0IE51bWJlclNlcXVlbmNlU2FtcGxlcikgLT4gQ29sb3IzIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBbIF0gbWFrZSBzb21lIHNjZW5lIHNwZWMgZmllbGRzIG9wdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -398,37 +405,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICNzaGFkZXI6ICdibHVlX2RpZmZ1c2UnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaWdodF9jb250cmlidXRpb24gKz0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vI1tjZmcobm90KHRhcmdldF9mZWF0dXJlID0gImF2eCIpKV0KICAgICAgICAgICAgICAgIC8vbGV0IGludGVyc2VjdGVkID0gb2JqLmludGVyc2VjdChyYXksICZtdXQgcmVjb3JkKTsKCiAgICAgICAgICAgICAgICAvLyNbY2ZnKHRhcmdldF9mZWF0dXJlID0gImF2eCIpXQogICAgICAgICAgICAgICAgLy9sZXQgaW50ZXJzZWN0ZWQgPSB1bnNhZmUgewogICAgICAgICAgICAgICAgLy8gICAgb2JqLmludGVyc2VjdF9vYnN0cnVjdF9zaW1kKCZzaW1kX3JheSwgJm11dCByZWNvcmQsIGZhbHNlKQogICAgICAgICAgICAgICAgLy99OwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVjb3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjW2NmZyh0YXJnZXRfZmVhdHVyZSA9ICJhdngiKV0KICAgICAgICBsZXQgc2ltZF9yYXkgPSBTaW1kUmF5OjpuZXcocmF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW50ZXJzZWN0aW9uX3JheSA9IHJheTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICBhZGQgZW1pc3NpdmUgbGlnaHQgY29udHJpYnV0aW9uIGluIG91dGdvaW5nX2RpcmVjdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9hdnggPSByYXkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGVtaXNzaXZlIHN1cmZhY2Ugbm90IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>obstruct</last-search>
+      <last-search>fn unit</last-search>
       <last-offset />
-      <last-pattern>obstruct</last-pattern>
+      <last-pattern>fn unit</last-pattern>
       <last-replace>intrin</last-replace>
       <last-substitute>vendor</last-substitute>
       <last-dir>1</last-dir>
@@ -436,8 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>f32x</entry>
-        <entry>SimdRay</entry>
         <entry>RHS</entry>
         <entry>cross_product</entry>
         <entry>dot</entry>
@@ -456,6 +461,8 @@
         <entry>direction</entry>
         <entry>intersect_obstruct</entry>
         <entry>obstruct</entry>
+        <entry>unit</entry>
+        <entry>fn unit</entry>
       </history-search>
       <history-cmd>
         <entry>s/planeNormal/planeOrigin/g</entry>
