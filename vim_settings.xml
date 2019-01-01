@@ -22,12 +22,12 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546299195491">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546304971329">
         <mark key="'" line="231" column="0" />
-        <mark key="[" line="122" column="14" />
-        <mark key="]" line="122" column="15" />
-        <mark key="." line="122" column="15" />
-        <mark key="^" line="122" column="15" />
+        <mark key="[" line="225" column="41" />
+        <mark key="]" line="225" column="45" />
+        <mark key="." line="225" column="45" />
+        <mark key="^" line="225" column="45" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
@@ -155,12 +155,12 @@
         <mark key="." line="52" column="54" />
         <mark key="^" line="52" column="54" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546304602991">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="216" column="37" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546305359229">
+        <mark key="'" line="253" column="30" />
+        <mark key="[" line="313" column="68" />
+        <mark key="]" line="313" column="68" />
+        <mark key="^" line="313" column="68" />
+        <mark key="." line="313" column="68" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/RectangleLight.java" timestamp="1545022591950">
         <mark key="'" line="21" column="13" />
@@ -271,26 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="26" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="30" column="38" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="109" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="100" column="4" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="93" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="47" column="47" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="102" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="124" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="120" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="115" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
@@ -371,10 +351,30 @@
       <jump line="234" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
       <jump line="125" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="246" column="11" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
+      <jump line="180" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="184" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="187" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="191" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="199" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="207" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="216" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="232" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="238" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="241" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="245" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="252" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="258" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="259" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="285" column="7" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="33" column="13" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="293" column="17" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="179" column="18" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="282" column="15" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
+      <jump line="253" column="30" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICoqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAgICogIFhTUkFZIEVYRUNVVEFCTEUgSU5GTyAgKgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JlNpbWRSYXk6Om5ldyhyYXkpLCByZWNvcmQsIG9ic3RydWN0aW9uX29ubHk=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -383,16 +383,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">JlNpbWRSYXk6Om5ldyhyYXkpLCByZWNvcmQsIG9ic3RydWN0aW9uX29ubHk=</text>
       </register>
       <register name="/" type="4">
-        <text>cond</text>
+        <text>ray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQhKAogICAgICAgICAgICB0ZXN0X2VuY2xvc2luZ19iYi5sb3dlcgogICAgICAgICAgICAgICAgLnJlbGF0aXZlX2VxKGV4cGVjdGVkX2VuY2xvc2luZ19iYiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWZWMzOjpkZWZhdWx0X2Vwc2lsb24oKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWZWMzOjpkZWZhdWx0X21heF9yZWxhdGl2ZSgpCiAgICAgICAgICAgICAgICApKTsK</text>
+        <text encoding="base64">ICAgIC8vZm4gaW50ZXJzZWN0X29ic3RydWN0KAogICAgLy8gICAgJnNlbGYsCiAgICAvLyAgICByYXk6ICZSYXlVbml0LAogICAgLy8gICAgcmVjb3JkOiAmbXV0IEludGVyc2VjdGlvblJlY29yZCwKICAgIC8vICAgIG9ic3RydWN0aW9uX29ubHk6IGJvb2wKICAgIC8vKSAtPiBib29sIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICoqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAgICogIFhTUkFZIEVYRUNVVEFCTEUgSU5GTyAgKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,37 +403,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYXk6ICZSYXlVbml0LAogICAgICAgIHJlY29yZDogJm11dCBJbnRlcnNlY3Rpb25SZWNvcmQsCiAgICAgICAgb2JzdHJ1Y3Rpb25fb25seTogYm9vbAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxldCBoID0gY3Jvc3NfcHJvZHVjdF9zaW1kX3ZlYzMocmF5LmRpcmVjdGlvbi5pbnRvKCksIGVkZ2UyLmludG8oKSk7Ci8vICAgICAgICBsZXQgYSA9IGRvdF9wcm9kdWN0X3NpbWRfdmVjMyhlZGdlMSwgaCkuZXh0cmFjdCgwKTsK</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBbIF0gcmVwbGFjZSBtYWNyb191c2UK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSBbIF0gdGVzdCB3YXJwaW5nIGNvZGUK</text>
+      <register name="5" type="4">
+        <text encoding="base64">cmF5OiAmUmF5VW5pdCwKICAgICAgICByZWNvcmQ6ICZtdXQgSW50ZXJzZWN0aW9uUmVjb3JkLAogICAgICAgIG9ic3RydWN0aW9uX29ubHk6IGJvb2w=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LSBbIF0gCg==</text>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNraW5kOiBIYWx0b24KICAgICNiYXNlX3g6IDIKICAgICNiYXNlX3k6IDMK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLnJheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJyZW5kZXJpbmcgIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vbGV0IHJlbmRlcl9jb25maWcgPSBjb25maWdfbG9hZGVyOjpsb2FkX2NvbmZpZ19mcm9tX3N0cmluZyhzLmFzX3N0cigpKS51bndyYXAoKTsK</text>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cond</last-search>
+      <last-search>ray</last-search>
       <last-offset />
-      <last-pattern>cond</last-pattern>
+      <last-pattern>ray</last-pattern>
       <last-replace>intrin</last-replace>
       <last-substitute>vendor</last-substitute>
       <last-dir>1</last-dir>
@@ -441,9 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to_array</entry>
-        <entry>Vec3Convertible</entry>
-        <entry>f32x8</entry>
         <entry>vendor</entry>
         <entry>vec_f32x8</entry>
         <entry>vec_</entry>
@@ -461,6 +470,9 @@
         <entry>lhs</entry>
         <entry>rhs</entry>
         <entry>cond</entry>
+        <entry>intersect_obstruct</entry>
+        <entry>intersect_obstruct_simd</entry>
+        <entry>ray</entry>
       </history-search>
       <history-cmd>
         <entry>s/planeNormal/planeOrigin/g</entry>
