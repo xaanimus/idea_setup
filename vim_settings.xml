@@ -22,12 +22,12 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546304971329">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546308208410">
         <mark key="'" line="231" column="0" />
-        <mark key="[" line="225" column="41" />
-        <mark key="]" line="225" column="45" />
-        <mark key="." line="225" column="45" />
-        <mark key="^" line="225" column="45" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="12" />
+        <mark key="." line="254" column="12" />
+        <mark key="^" line="255" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
@@ -155,11 +155,11 @@
         <mark key="." line="52" column="54" />
         <mark key="^" line="52" column="54" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546307057429">
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="0" />
-        <mark key="." line="311" column="0" />
-        <mark key="^" line="310" column="86" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546308237546">
+        <mark key="[" line="307" column="20" />
+        <mark key="]" line="307" column="20" />
+        <mark key="." line="307" column="20" />
+        <mark key="^" line="307" column="20" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/RectangleLight.java" timestamp="1545022591950">
         <mark key="'" line="21" column="13" />
@@ -243,11 +243,11 @@
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/light/Cubemap.java" timestamp="1545024004544">
         <mark key="'" line="88" column="49" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546302132250">
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_shiny.yaml" timestamp="1546302157191">
         <mark key="[" line="11" column="22" />
@@ -372,8 +372,8 @@
       <jump line="265" column="24" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjW2NmZyhub3QodGFyZ2V0X2ZlYXR1cmUgPSAiYXZ4IikpXQogICAgICAgIGxldCBwb3NpdGlvbiA9IHJheS5wb3NpdGlvbiArIHRfbXVsdGlwbGllciAqIHJheS5kaXJlY3Rpb24udmFsdWUoKTsKICAgICAgICAjW2NmZyh0YXJnZXRfZmVhdHVyZSA9ICJhdngiKV0KICAgICAgICBsZXQgcG9zaXRpb24gPSAocmF5LnBvc2l0aW9uICsgKHRfbXVsdGlwbGllciAqIHJheS5kaXJlY3Rpb24pKS5pbnRvKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SimdFloat4::new(t,t,t,t)</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -382,13 +382,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>cross</text>
+        <text>SimdFloat4::new(t,t,t,t)</text>
       </register>
       <register name="/" type="4">
         <text>direction</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjW2NmZyhub3QodGFyZ2V0X2ZlYXR1cmUgPSAiYXZ4IikpXQogICAgICAgIGxldCBjcm9zcyA9IHxhOiBWZWMzLCBifCBhLmNyb3NzKGIpOwogICAgICAgICNbY2ZnKHRhcmdldF9mZWF0dXJlID0gImF2eCIpXQogICAgICAgIGxldCBjcm9zcyA9IHxhOiBTaW1kRmxvYXQ0LCBifCBhLnZlYzNfY3Jvc3MoYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjW2NmZyh0YXJnZXRfZmVhdHVyZSA9ICJhdngiKV0KICAgICAgICB7CiAgICAgICAgICAgICRhdnhfZXhwcgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjW2NmZyhub3QodGFyZ2V0X2ZlYXR1cmUgPSAiYXZ4IikpXQogICAgICAgIGxldCBwb3NpdGlvbiA9IHJheS5wb3NpdGlvbiArIHRfbXVsdGlwbGllciAqIHJheS5kaXJlY3Rpb24udmFsdWUoKTsKICAgICAgICAjW2NmZyh0YXJnZXRfZmVhdHVyZSA9ICJhdngiKV0KICAgICAgICBsZXQgcG9zaXRpb24gPSAocmF5LnBvc2l0aW9uICsgKHRfbXVsdGlwbGllciAqIHJheS5kaXJlY3Rpb24pKS5pbnRvKCk7Cg==</text>
