@@ -15,6 +15,12 @@
         <mark key="]" line="130" column="36" />
         <mark key="." line="130" column="36" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1546482333322">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542677886541">
         <mark key="'" line="206" column="0" />
         <mark key="[" line="122" column="18" />
@@ -34,10 +40,10 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1546384804749">
-        <mark key="'" line="25" column="11" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="59" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1546482664280">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="45" column="2" />
         <mark key="^" line="52" column="59" />
         <mark key="." line="52" column="59" />
       </file>
@@ -230,11 +236,11 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/material.rs" timestamp="1546482008500">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/material.rs" timestamp="1546483197735">
+        <mark key="'" line="50" column="9" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545021664299">
         <mark key="[" line="52" column="63" />
@@ -299,13 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="39" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="123" column="20" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="200" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
-      <jump line="3" column="23" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
-      <jump line="6" column="23" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
-      <jump line="22" column="42" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
-      <jump line="5" column="6" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
       <jump line="7" column="23" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
       <jump line="12" column="50" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
       <jump line="17" column="48" filename="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" />
@@ -399,10 +398,17 @@
       <jump line="128" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="5" column="8" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="113" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="23" column="18" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
+      <jump line="33" column="34" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
+      <jump line="50" column="9" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZuIHNhbQo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -411,16 +417,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmR3aXVtX2JvdW5jZXMg</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGxldCBtYXhfYm91bmNlcyA9IGlmIHNlbGYubWF4X2JvdW5jZXMgPT0gMCB7CiAgICAvLyAgICAgICAgMAogICAgLy8gICAgfSBlbHNlIHsKICAgIC8vICAgICAgICByYW5kOjpyYW5kb206Ojx1MzI+KCkgJSBzZWxmLm1heF9ib3VuY2VzCiAgICAvLyAgICB9Owo=</text>
+        <text encoding="base64">aW1wbF9kZXNlcmlhbGl6ZSEoQ29kYWJsZVdyYXBwZXI8UmM8U2hhZGVyPj4sIHxkZXNlcmlhbGl6ZXJ8IHsKICAgIHVzZSBzZWxmOjpEZXNlcmlhbGl6YWJsZVNoYWRlclNwZWM6Oio7CiAgICBsZXQgc2hhZGVyX3NwZWMgPSBEZXNlcmlhbGl6YWJsZVNoYWRlclNwZWM6OmRlc2VyaWFsaXplKGRlc2VyaWFsaXplcik/OwogICAgbGV0IHNoYWRlcl9wdHI6IFJjPFNoYWRlcj4gPSBtYXRjaCBzaGFkZXJfc3BlYyB7CiAgICAgICAgRGlmZnVzZSB7Y29sb3J9ID0+IFJjOjpuZXcoRGlmZnVzZVNoYWRlcjo6bmV3KGNvbG9yLmdldCgpKSksCiAgICAgICAgTWljcm9mYWNldCB7IGNvbG9yLCBpb3IsIHJvdWdobmVzc30gPT4KICAgICAgICAgICAgUmM6Om5ldyhNaWNyb2ZhY2V0UmVmbGVjdGl2ZVNoYWRlcjo6bmV3KGlvciwgcm91Z2huZXNzLCBjb2xvci5nZXQoKSkpCiAgICB9OwogICAgT2soQ29kYWJsZVdyYXBwZXIoc2hhZGVyX3B0cikpCn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZuIHNhbQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -431,43 +437,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmluZCBpbnRlcnNlY3Rpb24KICAgICAgICAgICAgLy8gaWYgaW50ZXJzZWN0aW9uIGZvdW5kOgogICAgICAgICAgICAvLyAgIGFkZCBzY2VuZSBsaWdodCBjb250cmlidXRpb24KICAgICAgICAgICAgLy8gICBtdWx0aXBseSB0aGUgcGF0aCBhY2N1bXVsYXRpb24gbXVsdGlwbGllciBzbyB0aGF0IGZ1dHVyZSBpdGVyYXRpb25zIHRha2UgY3VycmVudCBic2RmIGludG8gYWNjb3VudAogICAgICAgICAgICAvLyBpZiBubyBpbnRlcnNlY3Rpb24gZm91bmQ6CiAgICAgICAgICAgIC8vICAgYWRkIHdvcmxkIGNvbG9yCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wbCBEZWJ1ZyBmb3IgQlNERk1hdGVyaWFsCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wbCBEZWJ1ZyBmb3IgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRlcnNlY3RlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2VuZS5pbnRlcnNlY3RfZm9yX29ic3RydWN0aW9uKGludGVyc2VjdGlvbl9yZWNvcmQucG9zaXRpb24sIGxpZ2h0LnBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgIERpZmZ1c2VTaGFkZXIgewogICAgICAgIGNvbG9yOiBDb2xvcjM6Om5ldygxLjAsIDEuMCwgMS4wKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
