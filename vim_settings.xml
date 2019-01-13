@@ -195,6 +195,12 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="109" column="14" />
       </file>
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/CMakeLists.txt" timestamp="1547422183051">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/main.rs" timestamp="1544296028581">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="74" column="44" />
@@ -209,11 +215,11 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547353635118">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="39" column="48" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547422564153">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="45" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -420,8 +426,8 @@
       <jump line="57" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -430,16 +436,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>MicrofacetReflectiveMaterial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm4gZnJlc25lbF9zY2hsaWNrKAogICAgaW5jb21pbmdfbGlnaHRfZGlyZWN0aW9uOiAmVW5pdFZlYzMsCiAgICBoYWxmX3ZlY3RvcjogJlVuaXRWZWMzLAogICAgbm9ybWFsX3JlZmxlY3RhbmNlOiBmMzIKKSAtPiBmMzIgewogICAgbGV0IGYwID0gbm9ybWFsX3JlZmxlY3RhbmNlOwogICAgbGV0IHdpID0gaW5jb21pbmdfbGlnaHRfZGlyZWN0aW9uLnZhbHVlKCk7CiAgICBsZXQgbSA9IGhhbGZfdmVjdG9yLnZhbHVlKCk7CiAgICBmMCArICgxLjAgLSBmMCkgKiAoKDEuMCAtIHdpLmRvdCgqbSkpLnBvd2koNSkpCn0K</text>
+        <text encoding="base64">Y29uc3QgYm9vbCB1c2VfdmFsaWRhdGlvbl9sYXllcnMgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,28 +456,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X2F2YWlsYWJsZV9leHRlbnNpb25zKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHRlbnNpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFZrRXh0ZW5zaW9uUHJvcGVydGllcyBleHRlbnNpb25zW251bV9leHRlbnNpb25zXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZSB2dWxrYW4gaW5zdGFuY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZ2xmd0V4dGVuc2lvbnM6ICI7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IGdsZndFeHRlbnNpb25Db3VudDsgaSsrKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8IGdsZndFeHRlbnNpb25zW2ldIDw8ICIsICI7CiAgICB9CiAgICBzdGQ6OmNvdXQgPDwgc3RkOjplbmRsOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlX3Jlc3VsdC4K</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBnbGZ3RXh0ZW5zaW9uQ291bnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
