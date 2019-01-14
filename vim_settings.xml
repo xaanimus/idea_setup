@@ -47,6 +47,9 @@
         <mark key="^" line="52" column="59" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="/LLDB" timestamp="1547424672321">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -215,11 +218,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547422564153">
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="45" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547425757142">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="151" column="1" />
+        <mark key="]" line="152" column="40" />
+        <mark key="." line="152" column="40" />
+        <mark key="^" line="152" column="40" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -324,30 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="207" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="215" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="222" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="231" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="247" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="257" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="252" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
-      <jump line="88" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
-      <jump line="94" column="34" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
-      <jump line="97" column="19" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
-      <jump line="112" column="25" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
-      <jump line="78" column="46" filename="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" />
-      <jump line="234" column="9" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="236" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="108" column="23" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="172" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="31" column="7" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="39" column="2" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="44" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="48" column="5" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="49" column="32" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="50" column="8" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="59" column="44" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="60" column="40" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="63" column="27" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
@@ -424,10 +404,34 @@
       <jump line="64" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
       <jump line="61" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
       <jump line="57" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
+      <jump line="35" column="11" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="52" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="147" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="144" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="140" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="131" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="186" column="5" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="183" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="179" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="153" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="149" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBleHRlbnNpb25zID0gZ2V0X3JlcXVpcmVkX2V4dGVuc2lvbnMoKTsKCiAgICAvLyB2dWxrYW4gaW5zdGFuY2UgY3JlYXRlIGluZm8KICAgIFZrQXBwbGljYXRpb25JbmZvIGFwcF9pbmZvID0gewogICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0FQUExJQ0FUSU9OX0lORk8sCiAgICAgICAgLnBBcHBsaWNhdGlvbk5hbWUgPSAidnVsa2FuIGNwcCIsCiAgICAgICAgLmFwcGxpY2F0aW9uVmVyc2lvbiA9IFZLX01BS0VfVkVSU0lPTigxLCAwLCAwKSwKICAgICAgICAucEVuZ2luZU5hbWUgPSAiTm8gRW5naW5lIiwKICAgICAgICAuZW5naW5lVmVyc2lvbiA9IFZLX01BS0VfVkVSU0lPTigxLCAwLCAwKSwKICAgICAgICAuYXBpVmVyc2lvbiA9IFZLX0FQSV9WRVJTSU9OXzFfMAogICAgfTsKICAgIFZrSW5zdGFuY2VDcmVhdGVJbmZvIGNyZWF0ZV9pbmZvID0gewogICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0lOU1RBTkNFX0NSRUFURV9JTkZPLAogICAgICAgIC5wQXBwbGljYXRpb25JbmZvID0gJmFwcF9pbmZvLAogICAgICAgIC5lbmFibGVkRXh0ZW5zaW9uQ291bnQgPSBzdGF0aWNfY2FzdDx1aW50MzJfdD4oZXh0ZW5zaW9ucy5zaXplKCkpLAogICAgICAgIC5wcEVuYWJsZWRFeHRlbnNpb25OYW1lcyA9IGV4dGVuc2lvbnMuZGF0YSgpLAogICAgICAgIC5lbmFibGVkTGF5ZXJDb3VudCA9IDAKICAgIH07CgogICAgLy8gdmFsaWRhdGlvbiBsYXllcnMKICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBkZXNpcmVkX3ZhbGlkYXRpb25fbGF5ZXJzID0gewogICAgICAgICAgICAiVktfTEFZRVJfTFVOQVJHX3N0YW5kYXJkX3ZhbGlkYXRpb24iCiAgICB9OwogICAgaWYgKHVzZV92YWxpZGF0aW9uX2xheWVycykgewogICAgICAgIGlmICghY2hlY2tfdmFsaWRhdGlvbl9sYXllcnNfc3VwcG9ydGVkKGRlc2lyZWRfdmFsaWRhdGlvbl9sYXllcnMpKSB7CiAgICAgICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigibm90IGFsbCB2YWxpZGF0aW9uIGxheWVycyBzdXBwb3J0ZWQuIik7CiAgICAgICAgfQoKICAgICAgICBjcmVhdGVfaW5mby5lbmFibGVkTGF5ZXJDb3VudCA9IHN0YXRpY19jYXN0PHVpbnQzMl90PihkZXNpcmVkX3ZhbGlkYXRpb25fbGF5ZXJzLnNpemUoKSk7CiAgICAgICAgY3JlYXRlX2luZm8ucHBFbmFibGVkTGF5ZXJOYW1lcyA9IGRlc2lyZWRfdmFsaWRhdGlvbl9sYXllcnMuZGF0YSgpOwogICAgfQoKICAgIC8vIGNyZWF0ZSB0aGUgdnVsa2FuIGluc3RhbmNlCiAgICBpZiAodmtDcmVhdGVJbnN0YW5jZSgmY3JlYXRlX2luZm8sIG51bGxwdHIsICZtX2ltcGwtPmluc3RhbmNlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJmYWlsZWQgdG8gY3JlYXRlIGEgdnVsa2FuIGluc3RhbmNlIik7CiAgICB9Owo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -436,16 +440,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>MicrofacetReflectiveMaterial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYm9vbCB1c2VfdmFsaWRhdGlvbl9sYXllcnMgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBleHRlbnNpb25zID0gZ2V0X3JlcXVpcmVkX2V4dGVuc2lvbnMoKTsKCiAgICAvLyB2dWxrYW4gaW5zdGFuY2UgY3JlYXRlIGluZm8KICAgIFZrQXBwbGljYXRpb25JbmZvIGFwcF9pbmZvID0gewogICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0FQUExJQ0FUSU9OX0lORk8sCiAgICAgICAgLnBBcHBsaWNhdGlvbk5hbWUgPSAidnVsa2FuIGNwcCIsCiAgICAgICAgLmFwcGxpY2F0aW9uVmVyc2lvbiA9IFZLX01BS0VfVkVSU0lPTigxLCAwLCAwKSwKICAgICAgICAucEVuZ2luZU5hbWUgPSAiTm8gRW5naW5lIiwKICAgICAgICAuZW5naW5lVmVyc2lvbiA9IFZLX01BS0VfVkVSU0lPTigxLCAwLCAwKSwKICAgICAgICAuYXBpVmVyc2lvbiA9IFZLX0FQSV9WRVJTSU9OXzFfMAogICAgfTsKICAgIFZrSW5zdGFuY2VDcmVhdGVJbmZvIGNyZWF0ZV9pbmZvID0gewogICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0lOU1RBTkNFX0NSRUFURV9JTkZPLAogICAgICAgIC5wQXBwbGljYXRpb25JbmZvID0gJmFwcF9pbmZvLAogICAgICAgIC5lbmFibGVkRXh0ZW5zaW9uQ291bnQgPSBzdGF0aWNfY2FzdDx1aW50MzJfdD4oZXh0ZW5zaW9ucy5zaXplKCkpLAogICAgICAgIC5wcEVuYWJsZWRFeHRlbnNpb25OYW1lcyA9IGV4dGVuc2lvbnMuZGF0YSgpLAogICAgICAgIC5lbmFibGVkTGF5ZXJDb3VudCA9IDAKICAgIH07CgogICAgLy8gdmFsaWRhdGlvbiBsYXllcnMKICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBkZXNpcmVkX3ZhbGlkYXRpb25fbGF5ZXJzID0gewogICAgICAgICAgICAiVktfTEFZRVJfTFVOQVJHX3N0YW5kYXJkX3ZhbGlkYXRpb24iCiAgICB9OwogICAgaWYgKHVzZV92YWxpZGF0aW9uX2xheWVycykgewogICAgICAgIGlmICghY2hlY2tfdmFsaWRhdGlvbl9sYXllcnNfc3VwcG9ydGVkKGRlc2lyZWRfdmFsaWRhdGlvbl9sYXllcnMpKSB7CiAgICAgICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigibm90IGFsbCB2YWxpZGF0aW9uIGxheWVycyBzdXBwb3J0ZWQuIik7CiAgICAgICAgfQoKICAgICAgICBjcmVhdGVfaW5mby5lbmFibGVkTGF5ZXJDb3VudCA9IHN0YXRpY19jYXN0PHVpbnQzMl90PihkZXNpcmVkX3ZhbGlkYXRpb25fbGF5ZXJzLnNpemUoKSk7CiAgICAgICAgY3JlYXRlX2luZm8ucHBFbmFibGVkTGF5ZXJOYW1lcyA9IGRlc2lyZWRfdmFsaWRhdGlvbl9sYXllcnMuZGF0YSgpOwogICAgfQoKICAgIC8vIGNyZWF0ZSB0aGUgdnVsa2FuIGluc3RhbmNlCiAgICBpZiAodmtDcmVhdGVJbnN0YW5jZSgmY3JlYXRlX2luZm8sIG51bGxwdHIsICZtX2ltcGwtPmluc3RhbmNlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJmYWlsZWQgdG8gY3JlYXRlIGEgdnVsa2FuIGluc3RhbmNlIik7CiAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBleHRlbnNpb25zID0gZ2V0X3JlcXVpcmVkX2V4dGVuc2lvbnMoKTsKCiAgICAvLyB2dWxrYW4gaW5zdGFuY2UgY3JlYXRlIGluZm8KICAgIFZrQXBwbGljYXRpb25JbmZvIGFwcF9pbmZvID0gewogICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0FQUExJQ0FUSU9OX0lORk8sCiAgICAgICAgLnBBcHBsaWNhdGlvbk5hbWUgPSAidnVsa2FuIGNwcCIsCiAgICAgICAgLmFwcGxpY2F0aW9uVmVyc2lvbiA9IFZLX01BS0VfVkVSU0lPTigxLCAwLCAwKSwKICAgICAgICAucEVuZ2luZU5hbWUgPSAiTm8gRW5naW5lIiwKICAgICAgICAuZW5naW5lVmVyc2lvbiA9IFZLX01BS0VfVkVSU0lPTigxLCAwLCAwKSwKICAgICAgICAuYXBpVmVyc2lvbiA9IFZLX0FQSV9WRVJTSU9OXzFfMAogICAgfTsKICAgIFZrSW5zdGFuY2VDcmVhdGVJbmZvIGNyZWF0ZV9pbmZvID0gewogICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0lOU1RBTkNFX0NSRUFURV9JTkZPLAogICAgICAgIC5wQXBwbGljYXRpb25JbmZvID0gJmFwcF9pbmZvLAogICAgICAgIC5lbmFibGVkRXh0ZW5zaW9uQ291bnQgPSBzdGF0aWNfY2FzdDx1aW50MzJfdD4oZXh0ZW5zaW9ucy5zaXplKCkpLAogICAgICAgIC5wcEVuYWJsZWRFeHRlbnNpb25OYW1lcyA9IGV4dGVuc2lvbnMuZGF0YSgpLAogICAgICAgIC5lbmFibGVkTGF5ZXJDb3VudCA9IDAKICAgIH07CgogICAgLy8gdmFsaWRhdGlvbiBsYXllcnMKICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBkZXNpcmVkX3ZhbGlkYXRpb25fbGF5ZXJzID0gewogICAgICAgICAgICAiVktfTEFZRVJfTFVOQVJHX3N0YW5kYXJkX3ZhbGlkYXRpb24iCiAgICB9OwogICAgaWYgKHVzZV92YWxpZGF0aW9uX2xheWVycykgewogICAgICAgIGlmICghY2hlY2tfdmFsaWRhdGlvbl9sYXllcnNfc3VwcG9ydGVkKGRlc2lyZWRfdmFsaWRhdGlvbl9sYXllcnMpKSB7CiAgICAgICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigibm90IGFsbCB2YWxpZGF0aW9uIGxheWVycyBzdXBwb3J0ZWQuIik7CiAgICAgICAgfQoKICAgICAgICBjcmVhdGVfaW5mby5lbmFibGVkTGF5ZXJDb3VudCA9IHN0YXRpY19jYXN0PHVpbnQzMl90PihkZXNpcmVkX3ZhbGlkYXRpb25fbGF5ZXJzLnNpemUoKSk7CiAgICAgICAgY3JlYXRlX2luZm8ucHBFbmFibGVkTGF5ZXJOYW1lcyA9IGRlc2lyZWRfdmFsaWRhdGlvbl9sYXllcnMuZGF0YSgpOwogICAgfQoKICAgIC8vIGNyZWF0ZSB0aGUgdnVsa2FuIGluc3RhbmNlCiAgICBpZiAodmtDcmVhdGVJbnN0YW5jZSgmY3JlYXRlX2luZm8sIG51bGxwdHIsICZtX2ltcGwtPmluc3RhbmNlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJmYWlsZWQgdG8gY3JlYXRlIGEgdnVsa2FuIGluc3RhbmNlIik7CiAgICB9Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,28 +460,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZSB2dWxrYW4gaW5zdGFuY2UK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vdWludDMyX3QgZ2xmd0V4dGVuc2lvbkNvdW50OwogICAgLy9jb25zdCBjaGFyKiogZ2xmd0V4dGVuc2lvbnM7CiAgICAvL2dsZndFeHRlbnNpb25zID0gZ2xmd0dldFJlcXVpcmVkSW5zdGFuY2VFeHRlbnNpb25zKCZnbGZ3RXh0ZW5zaW9uQ291bnQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZ2xmd0V4dGVuc2lvbnM6ICI7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IGdsZndFeHRlbnNpb25Db3VudDsgaSsrKSB7CiAgICAgICAgc3RkOjpjb3V0IDw8IGdsZndFeHRlbnNpb25zW2ldIDw8ICIsICI7CiAgICB9CiAgICBzdGQ6OmNvdXQgPDwgc3RkOjplbmRsOwoK</text>
+        <text encoding="base64">dm9pZCBBcHA6OmluaXRfdnVsa2FuKCkKewogICAgLy91aW50MzJfdCBnbGZ3RXh0ZW5zaW9uQ291bnQ7CiAgICAvL2NvbnN0IGNoYXIqKiBnbGZ3RXh0ZW5zaW9uczsKICAgIC8vZ2xmd0V4dGVuc2lvbnMgPSBnbGZ3R2V0UmVxdWlyZWRJbnN0YW5jZUV4dGVuc2lvbnMoJmdsZndFeHRlbnNpb25Db3VudCk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBnbGZ3RXh0ZW5zaW9uQ291bnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
