@@ -16,10 +16,7 @@
         <mark key="." line="111" column="84" />
         <mark key="^" line="111" column="84" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Helpers.h" timestamp="1547958099599">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Helpers.h" timestamp="1547966138558">
         <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545017874752">
@@ -103,6 +100,7 @@
         <mark key="." line="247" column="0" />
         <mark key="^" line="246" column="37" />
       </file>
+      <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/Frameworks/vulkan.framework/Headers/vulkan.h" timestamp="1547966173686" />
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1546386418905">
         <mark key="t" line="133" column="26" />
         <mark key="'" line="113" column="0" />
@@ -213,11 +211,10 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="109" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/CMakeLists.txt" timestamp="1547958188958">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="21" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/CMakeLists.txt" timestamp="1547965741911">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/main.rs" timestamp="1544296028581">
         <mark key="'" line="48" column="12" />
@@ -233,11 +230,11 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547963876705">
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547966208202">
         <mark key="'" line="99" column="19" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="157" column="21" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
@@ -457,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
+        <text encoding="base64">I2RlZmluZSBHTEZXX0lOQ0xVREVfVlVMS0FOCiNpbmNsdWRlIDxHTEZXL2dsZnczLmg+Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -472,10 +469,10 @@
         <text>get_required_extensions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBncmFwaGljcyBxdWV1ZQogICAgbV9pbXBsLT5ncmFwaGljcyA9IHN0ZDo6bWFrZV91bmlxdWU8R3JhcGhpY3M+KAogICAgICAgICAgICBtX2ltcGwtPmxvZ2ljYWxfZGV2aWNlLAogICAgICAgICAgICBtX2ltcGwtPnBoeXNpY2FsX2RldmljZS5xdWV1ZV9mYW1pbHlfaW5kaWNlcwogICAgKTsK</text>
+        <text encoding="base64">I2RlZmluZSBHTEZXX0lOQ0xVREVfVlVMS0FOCiNpbmNsdWRlIDxHTEZXL2dsZnczLmg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -486,28 +483,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmVuYWJsZWRFeHRlbnNpb25Db3VudAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZrRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZrRW51bWVyYXRlRXgK</text>
+        <text encoding="base64">ICAgICAgICAke1Z1bGthbl9MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1faW1wbC0+c3VyZmFjZSA9IGNyZWF0ZV9zdXJmYWNlKG1faW1wbC0+aW5zdGFuY2UsIG1faW1wbC0+d2luZG93KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmVuYWJsZWRFeHRlbnNpb25Db3VudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBzdGQ6Om9zdHJlYW1faXRlcmF0b3I8Y29uc3QgY2hhcio+IG9zaShzdGQ6OmNvdXQsICIsICIpOwogICAgc3RkOjpjb3B5KGV4dGVuc2lvbnMuYmVnaW4oKSwgZXh0ZW5zaW9ucy5lbmQoKSwgb3NpKTsKICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIFZrRXh0ZW5zaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZrRW51bWVyYXRlRXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucHBFbmFibGVkRXh0ZW5zaW9uTmFtZXMgPSBleHRlbnNpb25zLmRhdGEoKSwK</text>
+        <text encoding="base64">ICAgIG1faW1wbC0+c3VyZmFjZSA9IGNyZWF0ZV9zdXJmYWNlKG1faW1wbC0+aW5zdGFuY2UsIG1faW1wbC0+d2luZG93KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
