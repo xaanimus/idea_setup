@@ -59,7 +59,7 @@
         <mark key="^" line="52" column="59" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1547961318558">
+      <file name="/LLDB" timestamp="1547963970952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
@@ -133,6 +133,9 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1547964013334">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1546301543451">
         <mark key="'" line="246" column="11" />
@@ -230,12 +233,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547962557252">
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547963876705">
         <mark key="'" line="99" column="19" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="71" />
-        <mark key="." line="317" column="0" />
-        <mark key="^" line="142" column="27" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="157" column="21" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -254,7 +257,7 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546387151335">
+      <file name="/Dummy.txt" timestamp="1547964013323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
@@ -454,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1faW1wbC0+c3VyZmFjZSA9IGNyZWF0ZV9zdXJmYWNlKG1faW1wbC0+aW5zdGFuY2UsIG1faW1wbC0+d2luZG93KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -472,7 +475,7 @@
         <text encoding="base64">ICAgIC8vIGNyZWF0ZSBncmFwaGljcyBxdWV1ZQogICAgbV9pbXBsLT5ncmFwaGljcyA9IHN0ZDo6bWFrZV91bmlxdWU8R3JhcGhpY3M+KAogICAgICAgICAgICBtX2ltcGwtPmxvZ2ljYWxfZGV2aWNlLAogICAgICAgICAgICBtX2ltcGwtPnBoeXNpY2FsX2RldmljZS5xdWV1ZV9mYW1pbHlfaW5kaWNlcwogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1faW1wbC0+c3VyZmFjZSA9IGNyZWF0ZV9zdXJmYWNlKG1faW1wbC0+aW5zdGFuY2UsIG1faW1wbC0+d2luZG93KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -483,28 +486,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmVuYWJsZWRFeHRlbnNpb25Db3VudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBzdGQ6Om9zdHJlYW1faXRlcmF0b3I8Y29uc3QgY2hhcio+IG9zaShzdGQ6OmNvdXQsICIsICIpOwogICAgc3RkOjpjb3B5KGV4dGVuc2lvbnMuYmVnaW4oKSwgZXh0ZW5zaW9ucy5lbmQoKSwgb3NpKTsKICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIFZrRXh0ZW5zaW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZrRW51bWVyYXRlRXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucHBFbmFibGVkRXh0ZW5zaW9uTmFtZXMgPSBleHRlbnNpb25zLmRhdGEoKSwK</text>
+        <text encoding="base64">ICAgIG1faW1wbC0+c3VyZmFjZSA9IGNyZWF0ZV9zdXJmYWNlKG1faW1wbC0+aW5zdGFuY2UsIG1faW1wbC0+d2luZG93KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIqPiBleHRlbnNpb25zID0gewogICAgICAgICAgICAiVktfTVZLX21hY29zX3N1cmZhY2UiCiAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBzdGQ6Om9zdHJlYW1faXRlcmF0b3I8Y29uc3QgY2hhcio+IG9zaShzdGQ6OmNvdXQsICIsICIpOwogICAgc3RkOjpjb3B5KGV4dGVuc2lvbnMuYmVnaW4oKSwgZXh0ZW5zaW9ucy5lbmQoKSwgb3NpKTsKICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgaW5pdF9zdXJmYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucHBFbmFibGVkRXh0ZW5zaW9uTmFtZXMgPSBleHRlbnNpb25zLmRhdGEoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
