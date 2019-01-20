@@ -16,8 +16,11 @@
         <mark key="." line="111" column="84" />
         <mark key="^" line="111" column="84" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Helpers.h" timestamp="1547966138558">
-        <mark key="^" line="30" column="20" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Helpers.h" timestamp="1547999862667">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="41" column="11" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="41" column="11" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545017874752">
         <mark key="[" line="130" column="36" />
@@ -56,7 +59,7 @@
         <mark key="^" line="52" column="59" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1547963970952">
+      <file name="/LLDB" timestamp="1547999627681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
@@ -81,6 +84,9 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1547999823370">
+        <mark key="'" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util/math.rs" timestamp="1543613085047">
         <mark key="[" line="0" column="0" />
@@ -132,7 +138,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1547964013334">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1547998725586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1546301543451">
@@ -211,10 +217,11 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="109" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/CMakeLists.txt" timestamp="1547965741911">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/CMakeLists.txt" timestamp="1547999210166">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/main.rs" timestamp="1544296028581">
         <mark key="'" line="48" column="12" />
@@ -230,12 +237,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547966208202">
-        <mark key="'" line="99" column="19" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="157" column="21" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547999315167">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="280" column="4" />
+        <mark key="]" line="280" column="4" />
+        <mark key="." line="280" column="4" />
+        <mark key="^" line="280" column="4" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -254,7 +261,7 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547964013323">
+      <file name="/Dummy.txt" timestamp="1547998725575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
@@ -351,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="62" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="68" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="71" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -451,10 +456,12 @@
       <jump line="90" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="87" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="99" column="19" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="30" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2RlZmluZSBHTEZXX0lOQ0xVREVfVlVMS0FOCiNpbmNsdWRlIDxHTEZXL2dsZnczLmg+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -463,16 +470,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>extensoins</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>get_required_extensions</text>
+        <text>VK_TRUE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2RlZmluZSBHTEZXX0lOQ0xVREVfVlVMS0FOCiNpbmNsdWRlIDxHTEZXL2dsZnczLmg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
+        <text encoding="base64">ICAgICAgICAke1Z1bGthbl9MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -483,37 +490,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAke1Z1bGthbl9MSUJSQVJJRVN9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmVuYWJsZWRFeHRlbnNpb25Db3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAke1Z1bGthbl9MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFZrRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4dGVuc2lvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZrRW51bWVyYXRlRXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmVuYWJsZWRFeHRlbnNpb25Db3VudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1faW1wbC0+c3VyZmFjZSA9IGNyZWF0ZV9zdXJmYWNlKG1faW1wbC0+aW5zdGFuY2UsIG1faW1wbC0+d2luZG93KTsK</text>
+        <text encoding="base64">ICAgIFZrRXh0ZW5zaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_required_extensions</last-search>
+      <last-search>VK_TRUE</last-search>
       <last-offset />
-      <last-pattern>get_required_extensions</last-pattern>
+      <last-pattern>VK_TRUE</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -521,9 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
-        <entry>LightDirec</entry>
-        <entry>outgoing</entry>
         <entry>}</entry>
         <entry>Vector3</entry>
         <entry>MicrofacetReflectiveMaterial</entry>
@@ -541,6 +545,9 @@
         <entry>macos_surface</entry>
         <entry>macos</entry>
         <entry>get_required_extensions</entry>
+        <entry>glfwInitVulkan</entry>
+        <entry>initVulkan</entry>
+        <entry>VK_TRUE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dyb3VuZDIvZ2xhemUw</entry>
