@@ -3,12 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1547952793498">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
         <mark key="'" line="52" column="39" />
         <mark key="[" line="111" column="82" />
         <mark key="]" line="111" column="84" />
         <mark key="." line="111" column="84" />
         <mark key="^" line="111" column="84" />
+      </file>
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Helpers.h" timestamp="1547950949195">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545017874752">
         <mark key="[" line="130" column="36" />
@@ -218,12 +230,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547430404577">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="204" column="44" />
-        <mark key="]" line="205" column="24" />
-        <mark key="." line="205" column="24" />
-        <mark key="^" line="205" column="24" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1547952056926">
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="283" column="48" />
+        <mark key="]" line="283" column="48" />
+        <mark key="." line="283" column="48" />
+        <mark key="^" line="283" column="48" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -326,37 +338,14 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1547952782402">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+        <mark key="^" line="15" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="20" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="100" column="34" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="260" column="63" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="25" column="11" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="261" column="68" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="278" column="54" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
-      <jump line="111" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="128" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="5" column="8" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="113" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
-      <jump line="23" column="18" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="33" column="34" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="50" column="9" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="83" column="22" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="102" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="97" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="92" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="128" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="133" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="158" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="146" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" />
-      <jump line="126" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
-      <jump line="125" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
       <jump line="93" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
       <jump line="76" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
       <jump line="75" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/material.rs" />
@@ -408,7 +397,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="44" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="38" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="29" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="147" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="144" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -423,15 +411,45 @@
       <jump line="153" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="149" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="211" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="209" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="205" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="197" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="192" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="190" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="314" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="209" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="109" column="7" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="115" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="119" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="137" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="146" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="286" column="23" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="279" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="262" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="255" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="250" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="248" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="244" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="240" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="236" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="233" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="230" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="223" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="220" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="284" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="234" column="29" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="283" column="11" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="281" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="273" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIkhlbHBlcnMuaCIK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -440,16 +458,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>MicrofacetReflectiveMaterial</text>
+        <text>QueueFamily</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gaXRfcmVzdWx0ID0gc3RkOjpmaW5kX2lmKGRldmljZXMuYmVnaW4oKSwgZGV2aWNlcy5lbmQoKSwgW10oVmtQaHlzaWNhbERldmljZSBkZXZpY2UpewogICAgICAgIFZrUGh5c2ljYWxEZXZpY2VQcm9wZXJ0aWVzIHByb3BlcnRpZXM7CiAgICAgICAgVmtQaHlzaWNhbERldmljZUZlYXR1cmVzIGZlYXR1cmVzOwogICAgICAgIHZrR2V0UGh5c2ljYWxEZXZpY2VQcm9wZXJ0aWVzKGRldmljZSwgJnByb3BlcnRpZXMpOwogICAgICAgIHZrR2V0UGh5c2ljYWxEZXZpY2VGZWF0dXJlcyhkZXZpY2UsICZmZWF0dXJlcyk7CgogICAgICAgIHJldHVybiBwcm9wZXJ0aWVzLmRldmljZVR5cGUgPT0gVktfUEhZU0lDQUxfREVWSUNFX1RZUEVfRElTQ1JFVEVfR1BVICYmCiAgICAgICAgICAgICAgICBmZWF0dXJlcy5nZW9tZXRyeVNoYWRlcjsKICAgIH0pOwoKICAgIGlmIChpdF9yZXN1bHQgPT0gZGV2aWNlcy5lbmQoKSkgewogICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigiY291bGQgbm90IGZpbmQgYSBzdWl0YWJsZSBncHUiKTsKICAgIH0K</text>
+        <text encoding="base64">c3RydWN0IFF1ZXVlRmFtaWx5SW5kaWNlcyB7CiAgICB1aW50MzJfdCBpX2dyYXBoaWNzX2ZhbWlseTsKCiAgICBzdGF0aWMgc3RkOjpvcHRpb25hbDxRdWV1ZUZhbWlseUluZGljZXM+IGZpbmQoVmtQaHlzaWNhbERldmljZSBkZXZpY2UpIHsKICAgICAgICBRdWV1ZUZhbWlseUluZGljZXMgaW5kaWNlcyA9IHt9OwoKICAgICAgICBib29sIGZvdW5kX2dyYXBoaWNzX2ZhbWlseSA9IGZhbHNlOwoKICAgICAgICB1aW50MzJfdCBudW1fcXVldWVfZmFtaWxpZXM7CiAgICAgICAgdmtHZXRQaHlzaWNhbERldmljZVF1ZXVlRmFtaWx5UHJvcGVydGllcyhkZXZpY2UsICZudW1fcXVldWVfZmFtaWxpZXMsIG51bGxwdHIpOwogICAgICAgIHN0ZDo6dmVjdG9yPFZrUXVldWVGYW1pbHlQcm9wZXJ0aWVzPiBxdWV1ZV9mYW1pbGllcyhudW1fcXVldWVfZmFtaWxpZXMpOwogICAgICAgIHZrR2V0UGh5c2ljYWxEZXZpY2VRdWV1ZUZhbWlseVByb3BlcnRpZXMoZGV2aWNlLCAmbnVtX3F1ZXVlX2ZhbWlsaWVzLCBxdWV1ZV9mYW1pbGllcy5kYXRhKCkpOwoKICAgICAgICBmb3IgKHNpemVfdCBpID0gMDsgaSA8IHF1ZXVlX2ZhbWlsaWVzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIGF1dG8mIHF1ZXVlX2ZhbWlseSA9IHF1ZXVlX2ZhbWlsaWVzW2ldOwogICAgICAgICAgICBpZiAocXVldWVfZmFtaWx5LnF1ZXVlQ291bnQgPiAwICYmIHF1ZXVlX2ZhbWlseS5xdWV1ZUZsYWdzICYgVktfUVVFVUVfR1JBUEhJQ1NfQklUKSB7CiAgICAgICAgICAgICAgICBpbmRpY2VzLmlfZ3JhcGhpY3NfZmFtaWx5ID0gc3RhdGljX2Nhc3Q8dWludDMyX3Q+KGkpOwogICAgICAgICAgICAgICAgZm91bmRfZ3JhcGhpY3NfZmFtaWx5ID0gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKCFmb3VuZF9ncmFwaGljc19mYW1pbHkpIHsKICAgICAgICAgICAgcmV0dXJuIHt9OwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGluZGljZXM7CiAgICB9Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnN0cnVjdCBRdWV1ZUZhbWlseUluZGljZXMgewogICAgdWludDMyX3QgaV9ncmFwaGljc19mYW1pbHk7CgogICAgc3RhdGljIHN0ZDo6b3B0aW9uYWw8UXVldWVGYW1pbHlJbmRpY2VzPiBmaW5kKFZrUGh5c2ljYWxEZXZpY2UgZGV2aWNlKSB7CiAgICAgICAgUXVldWVGYW1pbHlJbmRpY2VzIGluZGljZXMgPSB7fTsKCiAgICAgICAgYm9vbCBmb3VuZF9ncmFwaGljc19mYW1pbHkgPSBmYWxzZTsKCiAgICAgICAgdWludDMyX3QgbnVtX3F1ZXVlX2ZhbWlsaWVzOwogICAgICAgIHZrR2V0UGh5c2ljYWxEZXZpY2VRdWV1ZUZhbWlseVByb3BlcnRpZXMoZGV2aWNlLCAmbnVtX3F1ZXVlX2ZhbWlsaWVzLCBudWxscHRyKTsKICAgICAgICBzdGQ6OnZlY3RvcjxWa1F1ZXVlRmFtaWx5UHJvcGVydGllcz4gcXVldWVfZmFtaWxpZXMobnVtX3F1ZXVlX2ZhbWlsaWVzKTsKICAgICAgICB2a0dldFBoeXNpY2FsRGV2aWNlUXVldWVGYW1pbHlQcm9wZXJ0aWVzKGRldmljZSwgJm51bV9xdWV1ZV9mYW1pbGllcywgcXVldWVfZmFtaWxpZXMuZGF0YSgpKTsKCiAgICAgICAgZm9yIChzaXplX3QgaSA9IDA7IGkgPCBxdWV1ZV9mYW1pbGllcy5zaXplKCk7IGkrKykgewogICAgICAgICAgICBhdXRvJiBxdWV1ZV9mYW1pbHkgPSBxdWV1ZV9mYW1pbGllc1tpXTsKICAgICAgICAgICAgaWYgKHF1ZXVlX2ZhbWlseS5xdWV1ZUNvdW50ID4gMCAmJiBxdWV1ZV9mYW1pbHkucXVldWVGbGFncyAmIFZLX1FVRVVFX0dSQVBISUNTX0JJVCkgewogICAgICAgICAgICAgICAgaW5kaWNlcy5pX2dyYXBoaWNzX2ZhbWlseSA9IHN0YXRpY19jYXN0PHVpbnQzMl90PihpKTsKICAgICAgICAgICAgICAgIGZvdW5kX2dyYXBoaWNzX2ZhbWlseSA9IHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGlmICghZm91bmRfZ3JhcGhpY3NfZmFtaWx5KSB7CiAgICAgICAgICAgIHJldHVybiB7fTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBpbmRpY2VzOwogICAgfQp9Owo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIkhlbHBlcnMuaCIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -460,37 +478,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGljZXMuaV9ncmFwaGljc19mYW1pCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIkhlbHBlcnMuaCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtqamtkZCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHZ1bGthbi92dWxrYW4uaD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3RydWN0IFZrRGV2aWNlVHlwZTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dHlwZWRlZiBWa0RldmljZVR5cGUgVmtEZXZpY2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIkhlbHBlcnMuaCIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2wgaXNfY29tcGxldGUoKSB7CiAgICAgICAgcmV0dXJuIGlfZ3JhcGhpY3NfZmFtaWx5Lmhhc192YWx1ZSgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MicrofacetReflectiveMaterial</last-search>
+      <last-search>QueueFamily</last-search>
       <last-offset />
-      <last-pattern>MicrofacetReflectiveMaterial</last-pattern>
+      <last-pattern>QueueFamily</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lol</entry>
         <entry>copy_as</entry>
         <entry>lhs</entry>
         <entry>rhs</entry>
@@ -518,6 +535,7 @@
         <entry>}</entry>
         <entry>Vector3</entry>
         <entry>MicrofacetReflectiveMaterial</entry>
+        <entry>QueueFamily</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dyb3VuZDIvZ2xhemUw</entry>
