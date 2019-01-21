@@ -237,8 +237,8 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548050266449">
-        <mark key="'" line="354" column="0" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548050470751">
+        <mark key="'" line="443" column="26" />
         <mark key="[" line="473" column="67" />
         <mark key="]" line="473" column="76" />
         <mark key="." line="473" column="76" />
@@ -358,10 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="27" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="40" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -458,6 +454,10 @@
       <jump line="380" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="368" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="354" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="374" column="31" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="499" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="379" column="78" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="443" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -473,7 +473,7 @@
         <text encoding="base64">VmtTd2FwY2hhaW5LSFIg</text>
       </register>
       <register name="/" type="4">
-        <text>device</text>
+        <text>physical_device</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZrR2V0U3dhcGNoYWluSW1hZ2VzS0hSKGxvZ2ljYWxfZGV2aWNlLCBzd2FwY2hhaW4sICZpbWFnZV9jb3VudCwgbnVsbHB0cik7Cg==</text>
@@ -518,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search>device</last-search>
+      <last-search>physical_device</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
+      <last-pattern>physical_device</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -528,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AppImpl</entry>
         <entry>get_physical_device</entry>
         <entry encoding="base64">bV9pbXBsLT5zdXJmYWNl</entry>
         <entry>instance</entry>
@@ -548,6 +547,7 @@
         <entry>vkGetDeviceQueue</entry>
         <entry>extensions</entry>
         <entry>device</entry>
+        <entry>physical_device</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dsYXplMC9yZWZsZWN0MC9n</entry>
