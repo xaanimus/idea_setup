@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548093462353">
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548093521315">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="124" column="68" />
-        <mark key="]" line="124" column="68" />
-        <mark key="." line="124" column="68" />
-        <mark key="^" line="124" column="68" />
+        <mark key="[" line="125" column="5" />
+        <mark key="]" line="126" column="34" />
+        <mark key="." line="126" column="34" />
+        <mark key="^" line="126" column="34" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
         <mark key="'" line="52" column="39" />
@@ -469,7 +469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -487,7 +487,7 @@
         <text encoding="base64">ICAgIFZrUGlwZWxpbmVTaGFkZXJTdGFnZUNyZWF0ZUluZm8gZnJhZ19zaGFkZXJfc3RhZ2VfaW5mbyA9IHsKICAgICAgICAgICAgLnNUeXBlID0gVktfU1RSVUNUVVJFX1RZUEVfUElQRUxJTkVfU0hBREVSX1NUQUdFX0NSRUFURV9JTkZPLAogICAgICAgICAgICAuc3RhZ2UgPSBWS19TSEFERVJfU1RBR0VfRlJBR01FTlRfQklULAogICAgICAgICAgICAubW9kdWxlID0gZnJhZ21lbnRfc2hhZGVyLAogICAgICAgICAgICAucE5hbWUgPSAibWFpbiIKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,28 +498,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBTZXRMYXlvdXRzID0gMAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnBTZXRMYXlvdXRzID0gMAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNyY0NvbG9yQmxlbmRGYWN0b3IgPSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1pblNhbXBsZVNoYWRpbmcgPSAxLjBmLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNyY0NvbG9yQmxlbmRGYWN0b3IgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRlcHRoQmlhc0NvbnN0YW50RmFjdG9yID0gMC4wZiwKICAgICAgICAgICAgLmRlcHRoQmlhc0NsYW1wID0gMC4wZiwKICAgICAgICAgICAgLmRlcHRoQmlhc1Nsb3BlRmFjdG9yID0gMC4wZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1pblNhbXBsZVNoYWRpbmcgPSAxLjBmLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRlcHRoQmlhc0NvbnN0YW50RmFjdG9yID0gMC4wZiwKICAgICAgICAgICAgLmRlcHRoQmlhc0NsYW1wID0gMC4wZiwKICAgICAgICAgICAgLmRlcHRoQmlhc1Nsb3BlRmFjdG9yID0gMC4wZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCB3aWR0aCwKICAgICAgICBmbG9hdCBoZWlnaHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
