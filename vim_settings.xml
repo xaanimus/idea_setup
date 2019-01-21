@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548093521315">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="125" column="5" />
-        <mark key="]" line="126" column="34" />
-        <mark key="." line="126" column="34" />
-        <mark key="^" line="126" column="34" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548100580535">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="173" column="52" />
+        <mark key="]" line="180" column="35" />
+        <mark key="." line="180" column="35" />
+        <mark key="^" line="180" column="35" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
         <mark key="'" line="52" column="39" />
@@ -366,16 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="83" column="36" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="137" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="37" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="101" column="48" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="58" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="70" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="113" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -466,10 +456,20 @@
       <jump line="36" column="24" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="45" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="51" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="65" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="43" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="29" column="13" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -478,16 +478,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>physical_device</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFZrUGlwZWxpbmVTaGFkZXJTdGFnZUNyZWF0ZUluZm8gZnJhZ19zaGFkZXJfc3RhZ2VfaW5mbyA9IHsKICAgICAgICAgICAgLnNUeXBlID0gVktfU1RSVUNUVVJFX1RZUEVfUElQRUxJTkVfU0hBREVSX1NUQUdFX0NSRUFURV9JTkZPLAogICAgICAgICAgICAuc3RhZ2UgPSBWS19TSEFERVJfU1RBR0VfRlJBR01FTlRfQklULAogICAgICAgICAgICAubW9kdWxlID0gZnJhZ21lbnRfc2hhZGVyLAogICAgICAgICAgICAucE5hbWUgPSAibWFpbiIKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0ZW5jaWxMb2FkT3AgPSBWS19BVFRBQ0hNRU5UX0xPQURfT1BfRE9OVF9DQVJFCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,25 +498,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBTZXRMYXlvdXRzID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZGVzdHJveV9waXBlbGluZShWa0RldmljZSBkZXZpY2UsIFZrUGlwZWxpbmVMYXlvdXQgcGlwZWxpbmVfbGF5b3V0KQp7CiAgICB2a0Rlc3Ryb3lQaXBlbGluZUxheW91dChkZXZpY2UsIHBpcGVsaW5lX2xheW91dCwgbnVsbHB0cik7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNyY0NvbG9yQmxlbmRGYWN0b3IgPSAK</text>
+        <text encoding="base64">ICAgIFZrUGlwZWxpbmVMYXlvdXQgcGlwZWxpbmVfbGF5b3V0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1pblNhbXBsZVNoYWRpbmcgPSAxLjBmLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRlcHRoQmlhc0NvbnN0YW50RmFjdG9yID0gMC4wZiwKICAgICAgICAgICAgLmRlcHRoQmlhc0NsYW1wID0gMC4wZiwKICAgICAgICAgICAgLmRlcHRoQmlhc1Nsb3BlRmFjdG9yID0gMC4wZgo=</text>
+        <text encoding="base64">ICAgIH07Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
