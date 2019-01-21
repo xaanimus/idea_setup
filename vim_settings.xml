@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548102970262">
-        <mark key="'" line="248" column="46" />
-        <mark key="[" line="259" column="30" />
-        <mark key="]" line="259" column="30" />
-        <mark key="." line="259" column="30" />
-        <mark key="^" line="259" column="30" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548107806631">
+        <mark key="'" line="283" column="46" />
+        <mark key="[" line="306" column="5" />
+        <mark key="]" line="307" column="3" />
+        <mark key="." line="307" column="3" />
+        <mark key="^" line="307" column="3" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
         <mark key="'" line="52" column="39" />
@@ -234,12 +234,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548101647670">
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548107861537">
         <mark key="'" line="482" column="20" />
-        <mark key="[" line="561" column="56" />
-        <mark key="]" line="563" column="50" />
-        <mark key="." line="563" column="50" />
-        <mark key="^" line="563" column="50" />
+        <mark key="[" line="564" column="51" />
+        <mark key="]" line="565" column="40" />
+        <mark key="." line="565" column="40" />
+        <mark key="^" line="565" column="40" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -263,7 +263,7 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547998725575">
+      <file name="/Dummy.txt" timestamp="1548107450585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
@@ -334,6 +334,9 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
+      <file name="/fragment.mm" timestamp="1548107503701">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1546309483518">
         <mark key="'" line="78" column="46" />
         <mark key="[" line="97" column="0" />
@@ -358,12 +361,7 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548102951103">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-      </file>
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548107441641" />
     </filemarks>
     <jumps>
       <jump line="42" column="69" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -468,8 +466,8 @@
       <jump line="482" column="20" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -487,7 +485,7 @@
         <text encoding="base64">ICAgIGRlc3Ryb3lfcGlwZWxpbmVfb2JqZWN0cyhtX2ltcGwtPmRldmljZSwgbV9pbXBsLT5waXBlbGluZV9vYmplY3RzKTsKICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtX2ltcGwtPmRldmljZSwgbV9pbXBsLT5mcmFnbWVudF9zaGFkZXIsIG51bGxwdHIpOwogICAgdmtEZXN0cm95U2hhZGVyTW9kdWxlKG1faW1wbC0+ZGV2aWNlLCBtX2ltcGwtPnZlcnRleF9zaGFkZXIsIG51bGxwdHIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,28 +496,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlc3Ryb3lfcGlwZWxpbmVfb2JqZWN0cyhtX2ltcGwtPmRldmljZSwgbV9pbXBsLT5waXBlbGluZV9vYmplY3RzKTsKICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtX2ltcGwtPmRldmljZSwgbV9pbXBsLT5mcmFnbWVudF9zaGFkZXIsIG51bGxwdHIpOwogICAgdmtEZXN0cm95U2hhZGVyTW9kdWxlKG1faW1wbC0+ZGV2aWNlLCBtX2ltcGwtPnZlcnRleF9zaGFkZXIsIG51bGxwdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBWa0ltYWdlVmlldyBhdHRhY2htZW50ID0gKml0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFZrRm9ybWF0IGZvcm1hdAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1faW1wbC0+cGlwZWxpbmVfb2JqZWN0cyA9IGNyZWF0ZV9waXBlbGluZShkZXZpY2UsIG1faW1wbC0+ZnJhZ21lbnRfc2hhZGVyLCBtX2ltcGwtPnZlcnRleF9zaGFkZXIsIGV4dGVudCwgcmVuZGVyX3Bhc3NfZm9ybWF0KTsKfQo=</text>
+        <text encoding="base64">ICAgIGRlc3Ryb3lfcGlwZWxpbmVfb2JqZWN0cyhtX2ltcGwtPmRldmljZSwgbV9pbXBsLT5waXBlbGluZV9vYmplY3RzKTsKICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtX2ltcGwtPmRldmljZSwgbV9pbXBsLT5mcmFnbWVudF9zaGFkZXIsIG51bGxwdHIpOwogICAgdmtEZXN0cm95U2hhZGVyTW9kdWxlKG1faW1wbC0+ZGV2aWNlLCBtX2ltcGwtPnZlcnRleF9zaGFkZXIsIG51bGxwdHIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFZrRm9ybWF0IGZvcm1hdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
