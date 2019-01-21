@@ -237,12 +237,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548050470751">
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548084846824">
         <mark key="'" line="443" column="26" />
-        <mark key="[" line="473" column="67" />
-        <mark key="]" line="473" column="76" />
-        <mark key="." line="473" column="76" />
-        <mark key="^" line="473" column="76" />
+        <mark key="[" line="506" column="71" />
+        <mark key="]" line="506" column="71" />
+        <mark key="." line="506" column="71" />
+        <mark key="^" line="506" column="71" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -460,8 +460,8 @@
       <jump line="443" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VmtTd2FwY2hhaW5LSFIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Zm9yX2VhY2goKQo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -470,16 +470,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VmtTd2FwY2hhaW5LSFIg</text>
+        <text encoding="base64">c3dhcGNoYWluX2ltYWdlcyA=</text>
       </register>
       <register name="/" type="4">
         <text>physical_device</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZrR2V0U3dhcGNoYWluSW1hZ2VzS0hSKGxvZ2ljYWxfZGV2aWNlLCBzd2FwY2hhaW4sICZpbWFnZV9jb3VudCwgbnVsbHB0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnIgPSBWS19DT01QT05FTlRfU1dJWlpMRV9JREVOVElUWSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVpbnQzMl90IGltYWdlX2NvdW50Owo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Zm9yX2VhY2goKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -490,25 +490,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuaW1hZ2VfY291bnQgPSBpbWFnZV9jb3VudAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzd2FwY2hhaW47Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3RhdGljIHN0ZDo6dmVjdG9yPFZrSW1hZ2U+IGdldF9zd2FwY2hhaW5faW1hZ2VzKFZrRGV2aWNlIGRldmljZSwgVmtTd2FwY2hhaW5LSFIgc3dhcGNoYWluLCkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHVpbnQzMl90IGltYWdlX2NvdW50Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAuaW1hZ2VfY291bnQgPSBpbWFnZV9jb3VudAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzd2FwY2hhaW47Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1faW1wbC0+Z3JhcGhpY3MgPSBzdGQ6Om1ha2VfdW5pcXVlPEdyYXBoaWNzPigKICAgICAgICAgICAgbV9pbXBsLT5sb2dpY2FsX2RldmljZSwKICAgICAgICAgICAgbV9pbXBsLT5waHlzaWNhbF9kZXZpY2UucXVldWVfZmFtaWx5X2luZGljZXMKICAgICk7Cgo=</text>
+        <text encoding="base64">c3RhdGljIHN0ZDo6dmVjdG9yPFZrSW1hZ2U+IGdldF9zd2FwY2hhaW5faW1hZ2VzKFZrRGV2aWNlIGRldmljZSwgVmtTd2FwY2hhaW5LSFIgc3dhcGNoYWluLCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
