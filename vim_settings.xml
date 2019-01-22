@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548168852119">
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1548196627043">
         <mark key="'" line="381" column="31" />
-        <mark key="[" line="374" column="47" />
-        <mark key="]" line="374" column="65" />
-        <mark key="." line="374" column="65" />
-        <mark key="^" line="374" column="65" />
+        <mark key="[" line="385" column="74" />
+        <mark key="]" line="385" column="74" />
+        <mark key="." line="385" column="74" />
+        <mark key="^" line="385" column="74" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
         <mark key="'" line="52" column="39" />
@@ -472,7 +472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -481,7 +481,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>semaphores</text>
@@ -490,7 +490,7 @@
         <text encoding="base64">ICAgIHZrR2V0RGV2aWNlUXVldWUoCiAgICAgICAgICAgIGRldmljZSwKICAgICAgICAgICAgcXVldWVfZmFtaWx5X2luZGljZXMuaV9ncmFwaGljc19mYW1pbHksCiAgICAgICAgICAgIDAsCiAgICAgICAgICAgICZtX2ltcGwtPmdyYXBoaWNzX3F1ZXVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgICAgICBWa1NlbWFwaG9yZSBpbWFnZV9kaWRfYmVjb21lX2F2YWlsYWJsZSwgcmVuZGVyX2RpZF9maW5pc2g7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -501,10 +501,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjwK</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -513,16 +513,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8mIHNlbWFwaG9yZXMgPSBtX2ltcGwtPnNlbWFwaG9yZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFZrU2VtYXBob3JlIHNlbWFwaG9yZXNfdG9fd2FpdFtdID0ge3NlbWFwaG9yZXMuaW1hZ2VEaWRCZWNvbWVBdmFpbGFibGV9Owo=</text>
+        <text encoding="base64">ICAgIGF1dG8mIHNlbWFwaG9yZXMgPSBtX2ltcGwtPnNlbWFwaG9yZXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZrU2VtYXBob3JlIG1faW1wbC0+c2VtYXBob3Jlcy5yZW5kZXJEaWRGaW5pc2g7Cg==</text>
+        <text encoding="base64">ICAgIFZrU2VtYXBob3JlIHNlbWFwaG9yZXNfdG9fd2FpdFtdID0ge3NlbWFwaG9yZXMuaW1hZ2VEaWRCZWNvbWVBdmFpbGFibGV9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
