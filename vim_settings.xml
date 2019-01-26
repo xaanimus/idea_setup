@@ -200,12 +200,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" timestamp="1548477422507">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" timestamp="1548478527857">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/code/scratch/rust_sc/Cargo.toml" timestamp="1542166822923">
         <mark key="[" line="5" column="14" />
@@ -495,8 +495,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U1RBVFVTIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBUT0RPIG1ha2UgY3Jvc3MgcGxhdGZvcm0K</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -511,10 +511,10 @@
         <text>CUGL_INCLUDE_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICItZnJhbWV3b3JrIENvcmVGb3VuZGF0aW9uIgogICAgIi1mcmFtZXdvcmsgQ2FyYm9uIgogICAgIi1mcmFtZXdvcmsgQ29jb2EiCiAgICAiLWZyYW1ld29yayBBY2NlbGVyYXRlIgogICAgIi1mcmFtZXdvcmsgQ29yZUF1ZGlvIgogICAgIi1mcmFtZXdvcmsgQ29yZVZpZGVvIgogICAgIi1mcmFtZXdvcmsgQ29yZUdyYXBoaWNzIgogICAgIi1mcmFtZXdvcmsgT3BlbkdMIgogICAgIi1mcmFtZXdvcmsgTWV0YWwiCiAgICAiLWZyYW1ld29yayBBdWRpb1VuaXQiCiAgICAiLWZyYW1ld29yayBBdWRpb1Rvb2xib3giCiAgICAiLWZyYW1ld29yayBBVkZvdW5kYXRpb24iCiAgICAiLWZyYW1ld29yayBJT0tpdCIKICAgICItZnJhbWV3b3JrIEltYWdlSU8iCiAgICAiLWZyYW1ld29yayBBcHBsaWNhdGlvblNlcnZpY2VzIgogICAgIi1mcmFtZXdvcmsgRm9yY2VGZWVkYmFjayIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi9idWlsZC13aW4xMC9saWIvUmVsZWFzZS94NjQvU0RMMl9jb2RlYy5saWIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIG1ha2UgY3Jvc3MgcGxhdGZvcm0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -525,28 +525,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZShHTE9CIEJveDJEX1BVQkxJQ19JTkNMVURFIC4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi9idWlsZC13aW4xMC9saWIvUmVsZWFzZS94NjQvU0RMMmprCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3NldChCb3gyRF9JTkNMVURFX0RJUlMgJHtCb3gyRF9QVUJMSUNfSU5DTFVERX0gUEFSRU5UX1NDT1BFKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiLi4iKQo=</text>
+      <register name="4" type="4">
+        <text>./build-apple/lib/libSDL2_image-mac.a
+            ./build-apple/lib/libSDL2_codec-mac.a
+            ./build-apple/lib/libSDL2_ttf-mac.a
+            ./build-apple/lib/libSDL2-mac.a)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiLi4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfZGlyZWN0b3JpZXMoKQo=</text>
+        <text encoding="base64">ZmlsZShHTE9CIEJveDJEX1BVQkxJQ19JTkNMVURFIC4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3NldChCb3gyRF9JTkNMVURFX0RJUlMgJHtCb3gyRF9QVUJMSUNfSU5DTFVERX0gUEFSRU5UX1NDT1BFKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiLi4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3RhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKEhlbGxvV29ybGQgUFJJVkFURSAke0NVR0xfSU5DTFVERV9ESVJ9KQo=</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiLi4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
