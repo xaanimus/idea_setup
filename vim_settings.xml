@@ -59,7 +59,7 @@
         <mark key="^" line="52" column="59" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1548214673101">
+      <file name="/LLDB" timestamp="1548473444862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/shaders/main.frag" timestamp="1548087426477">
@@ -149,6 +149,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
+        <mark key="'" line="69" column="6" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -184,6 +187,7 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/lib/base/CUApplication.cpp" timestamp="1548473367390" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1546387535190">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="24" />
@@ -196,6 +200,7 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/lib/io/CUTextReader.cpp" timestamp="1548473334690" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/Helper.java" timestamp="1540144903914">
         <mark key="[" line="101" column="35" />
         <mark key="]" line="102" column="36" />
@@ -369,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="336" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="330" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="328" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
@@ -469,6 +473,7 @@
       <jump line="381" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="557" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="580" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="69" column="6" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -484,7 +489,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>create_swapchain</text>
+        <text>allocWithAsset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZrR2V0RGV2aWNlUXVldWUoCiAgICAgICAgICAgIGRldmljZSwKICAgICAgICAgICAgcXVldWVfZmFtaWx5X2luZGljZXMuaV9ncmFwaGljc19mYW1pbHksCiAgICAgICAgICAgIDAsCiAgICAgICAgICAgICZtX2ltcGwtPmdyYXBoaWNzX3F1ZXVlKTsK</text>
@@ -529,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create_swapchain</last-search>
+      <last-search>allocWithAsset</last-search>
       <last-offset />
-      <last-pattern>create_swapchain</last-pattern>
+      <last-pattern>allocWithAsset</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>device</entry>
         <entry>physical_device</entry>
         <entry>Graphics</entry>
         <entry>queueFamily</entry>
@@ -559,6 +563,7 @@
         <entry>layout</entry>
         <entry>choose_extent</entry>
         <entry>create_swapchain</entry>
+        <entry>allocWithAsset</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dsYXplMC9yZWZsZWN0MC9n</entry>
