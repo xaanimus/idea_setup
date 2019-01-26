@@ -73,6 +73,12 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/CMakeLists.txt" timestamp="1548477380330">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1546386513426">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
@@ -193,6 +199,13 @@
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" timestamp="1548477422507">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="11" />
       </file>
       <file name="$USER_HOME$/code/scratch/rust_sc/Cargo.toml" timestamp="1542166822923">
         <mark key="[" line="5" column="14" />
@@ -349,6 +362,12 @@
         <mark key="^" line="100" column="58" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/external/Box2D/CMakeLists.txt" timestamp="1548477101985">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545017753420">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -374,14 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="330" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="328" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="326" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="324" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="309" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="305" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="289" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="281" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="272" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="269" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
@@ -474,10 +485,18 @@
       <jump line="557" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="580" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="69" column="6" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" />
+      <jump line="5" column="10" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="6" column="24" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">U1RBVFVTIA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -486,16 +505,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">U1RBVFVTIA==</text>
       </register>
       <register name="/" type="4">
-        <text>allocWithAsset</text>
+        <text>CUGL_INCLUDE_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZrR2V0RGV2aWNlUXVldWUoCiAgICAgICAgICAgIGRldmljZSwKICAgICAgICAgICAgcXVldWVfZmFtaWx5X2luZGljZXMuaV9ncmFwaGljc19mYW1pbHksCiAgICAgICAgICAgIDAsCiAgICAgICAgICAgICZtX2ltcGwtPmdyYXBoaWNzX3F1ZXVlKTsK</text>
+        <text encoding="base64">ICAgICItZnJhbWV3b3JrIENvcmVGb3VuZGF0aW9uIgogICAgIi1mcmFtZXdvcmsgQ2FyYm9uIgogICAgIi1mcmFtZXdvcmsgQ29jb2EiCiAgICAiLWZyYW1ld29yayBBY2NlbGVyYXRlIgogICAgIi1mcmFtZXdvcmsgQ29yZUF1ZGlvIgogICAgIi1mcmFtZXdvcmsgQ29yZVZpZGVvIgogICAgIi1mcmFtZXdvcmsgQ29yZUdyYXBoaWNzIgogICAgIi1mcmFtZXdvcmsgT3BlbkdMIgogICAgIi1mcmFtZXdvcmsgTWV0YWwiCiAgICAiLWZyYW1ld29yayBBdWRpb1VuaXQiCiAgICAiLWZyYW1ld29yayBBdWRpb1Rvb2xib3giCiAgICAiLWZyYW1ld29yayBBVkZvdW5kYXRpb24iCiAgICAiLWZyYW1ld29yayBJT0tpdCIKICAgICItZnJhbWV3b3JrIEltYWdlSU8iCiAgICAiLWZyYW1ld29yayBBcHBsaWNhdGlvblNlcnZpY2VzIgogICAgIi1mcmFtZXdvcmsgRm9yY2VGZWVkYmFjayIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFub3NsZWVwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -506,37 +525,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTAwKTsK</text>
+        <text encoding="base64">ZmlsZShHTE9CIEJveDJEX1BVQkxJQ19JTkNMVURFIC4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpYmRpc3BhdGNoLmR5bGliCg==</text>
+        <text encoding="base64">I3NldChCb3gyRF9JTkNMVURFX0RJUlMgJHtCb3gyRF9QVUJMSUNfSU5DTFVERX0gUEFSRU5UX1NDT1BFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZrUmVzZXRGZW5jZXMoCiAgICAgICAgICAgIG1faW1wbC0+ZGV2aWNlLAogICAgICAgICAgICAxLAogICAgICAgICAgICAmc3luYy5pbl9mbGlnaHRfZmVuY2Vbc3luYy5mcmFtZV9udW1iZXJdKTsK</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiLi4iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiLi4iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfZGlyZWN0b3JpZXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAmZGlkX3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3RhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKEhlbGxvV29ybGQgUFJJVkFURSAke0NVR0xfSU5DTFVERV9ESVJ9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>allocWithAsset</last-search>
+      <last-search>CUGL_INCLUDE_</last-search>
       <last-offset />
-      <last-pattern>allocWithAsset</last-pattern>
+      <last-pattern>CUGL_INCLUDE_</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>physical_device</entry>
         <entry>Graphics</entry>
         <entry>queueFamily</entry>
         <entry>queue_family</entry>
@@ -564,6 +582,7 @@
         <entry>choose_extent</entry>
         <entry>create_swapchain</entry>
         <entry>allocWithAsset</entry>
+        <entry>CUGL_INCLUDE_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dsYXplMC9yZWZsZWN0MC9n</entry>
