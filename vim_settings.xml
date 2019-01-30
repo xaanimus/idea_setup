@@ -158,10 +158,11 @@
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
       </file>
-      <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/resources/Supersample/shaders/patterns.frag" timestamp="1548888303900">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/resources/Supersample/shaders/patterns.frag" timestamp="1548889066683">
+        <mark key="[" line="87" column="25" />
+        <mark key="]" line="87" column="41" />
+        <mark key="." line="87" column="41" />
+        <mark key="^" line="87" column="41" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
         <mark key="[" line="62" column="0" />
@@ -498,8 +499,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmcmFnQ29sb3IgPSB2ZWM0KHAsIDAuMCAsMS4wKTsK</text>
+      <register name="&quot;" type="4">
+        <text>_BLUENOISE_BOX</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -508,13 +509,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U1RBVFVTIA==</text>
+        <text>_BLUENOISE_BOX</text>
       </register>
       <register name="/" type="4">
         <text>CUGL_INCLUDE_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi9idWlsZC13aW4xMC9saWIvUmVsZWFzZS94NjQvU0RMMl9jb2RlYy5saWIK</text>
+        <text encoding="base64">ICB9IGVsc2UgaWYgKG1vZGUgPT0gTU9ERV9CTFVFTk9JU0VfQk9YKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmcmFnQ29sb3IgPSB2ZWM0KHAsIDAuMCAsMS4wKTsK</text>
