@@ -22,11 +22,7 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545017874752">
-        <mark key="[" line="130" column="36" />
-        <mark key="]" line="130" column="36" />
-        <mark key="." line="130" column="36" />
-      </file>
+      <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" timestamp="1549048378018" />
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1546482333322">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="18" column="16" />
@@ -62,11 +58,6 @@
       <file name="/LLDB" timestamp="1549045810615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/shaders/main.frag" timestamp="1548087426477">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -78,11 +69,6 @@
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1546386513426">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1546484754818">
         <mark key="[" line="112" column="32" />
@@ -98,11 +84,6 @@
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1547999823370">
         <mark key="'" line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util/math.rs" timestamp="1543613085047">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545020591083">
         <mark key="'" line="38" column="87" />
@@ -135,11 +116,6 @@
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/gl/CameraController.java" timestamp="1542148064097">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1547998725586">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,28 +126,8 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="245" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/cornell_box1.yaml" timestamp="1546302184700">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CubicBezier.java" timestamp="1540927774281">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/untitled1/src/com/company/Main.java" timestamp="1545016177016">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/scratch/rust_sc/src/main.rs" timestamp="1542167067387">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" timestamp="1542678634212">
         <mark key="'" line="51" column="0" />
@@ -218,11 +174,6 @@
         <mark key="^" line="102" column="36" />
         <mark key="." line="102" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a3_ne236_oal22/src/manip/RotationManipulator.java" timestamp="1540144712731">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rmh286_tbs47/a5/src/splines/CubicBezier.java" timestamp="1542663823937">
         <mark key="[" line="108" column="13" />
         <mark key="]" line="97" column="13" />
@@ -267,11 +218,6 @@
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/shaders/main.vert" timestamp="1548087376960">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a6/src/anim/AnimTimeline.java" timestamp="1542143138658">
         <mark key="[" line="101" column="8" />
@@ -326,11 +272,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7/src/ray2/integrator/PointLightIntegrator.java" timestamp="1543348532601">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1546203193248">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="16" column="1" />
@@ -364,11 +305,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="41" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/ap924/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545017753420">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
@@ -497,7 +433,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>}</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -506,16 +442,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>blueRandTex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYgKG1vZGUgPT0gTU9ERV9CTFVFTk9JU0VfQk9YKSB7Cg==</text>
+        <text encoding="base64">ICB9IGVsc2UgaWYgKG1vZGUgPT0gTU9ERV9URU5UKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -526,31 +462,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmFuZF9yb3cgPSBpbnQoVU5JRl9SQU5EX1RFWF9TSVpFLnkgKiByYW5kb20ocCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmFuZF9yb3cgPSBpbnQoVU5JRl9SQU5EX1RFWF9TSVpFLnkgKiByYW5kb20ocCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGl2ZWMyIFVOSUZfUkFORF9URVhfU0laRSA9IGl2ZWMyKDQwMCwgMjU2KTsK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>//
 //
 //
 //</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGludCBOMiA9IE4gKiBOOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaW50IE4yID0gTiAqIE47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
