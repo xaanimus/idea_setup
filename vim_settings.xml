@@ -22,10 +22,11 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" timestamp="1550019574495">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" timestamp="1550021789321">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1546482333322">
         <mark key="[" line="17" column="15" />
@@ -334,8 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="184" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="175" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="173" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="19" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
@@ -434,10 +433,12 @@
       <jump line="217" column="31" filename="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" />
       <jump line="218" column="4" filename="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" />
       <jump line="219" column="32" filename="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" />
+      <jump line="60" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" />
+      <jump line="59" column="13" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZyYWdDb2xvciA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBob3Jpel9maWx0ZXJlZFswXTsKICAgICAgICAvL3JldHVybiB2ZWM0KHZlYzMobG93ZXJfcGl4ZWwueCArIDAuNSAtIHAueCArIDIuMCksIDEuMCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -446,57 +447,62 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>vec4(t_values - 1.0, 0.0, 1.0)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>blueRandTex</text>
+        <text>p_lower</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB9IGVsc2UgaWYgKG1vZGUgPT0gTU9ERV9URU5UKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZyYWdDb2xvciA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBob3Jpel9maWx0ZXJlZFswXTsKICAgICAgICAvL3JldHVybiB2ZWM0KHZlYzMobG93ZXJfcGl4ZWwueCArIDAuNSAtIHAueCArIDIuMCksIDEuMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="97" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnQ29sb3IgPSB0ZXhlbEZldGNoKGltYWdlLCB0b3BfbWl4ZWQsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICB2ZWMyIHBfbG93ZXIgPSBwIC0gdmVjMigyLjApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAueCAtIHBfZmxvb3IueAo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdChzYW1wbGVfY29vcmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAueCAtIHBfZmxvb3IueAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZWMyIHBfdXBwZXIgPSBwICsgdmVjMigyLjApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2ZyYWdDb2xvciA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdmVjMiBwX2Zsb29yID0gaXZlYzIoZmxvb3IocCkpOwogICAgICAgIGl2ZWMyIHBfY2VpbCA9IGl2ZWMyKGNlaWwocCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFnQ29sb3IgPSB0ZXhlbEZldGNoKGltYWdlLCB0b3BfbWl4ZWQsIDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAueCAtIHBfZmxvb3IueAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAueCAtIHBfZmxvb3IueAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmFuZF9yb3cgPSBpbnQoVU5JRl9SQU5EX1RFWF9TSVpFLnkgKiByYW5kb20ocCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blueRandTex</last-search>
+      <last-search>p_lower</last-search>
       <last-offset />
-      <last-pattern>blueRandTex</last-pattern>
+      <last-pattern>p_lower</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>semaphores</entry>
         <entry>swapchain</entry>
         <entry>command_buffer</entry>
@@ -524,6 +529,7 @@
         <entry>unifRand</entry>
         <entry>blue</entry>
         <entry>blueRandTex</entry>
+        <entry>p_lower</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
