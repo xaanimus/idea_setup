@@ -22,6 +22,11 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" timestamp="1550019574495">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1546482333322">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="18" column="16" />
@@ -431,8 +436,8 @@
       <jump line="219" column="32" filename="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL2ZyYWdDb2xvciA9IDsK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -441,7 +446,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>vec4(t_values - 1.0, 0.0, 1.0)</text>
       </register>
       <register name="/" type="4">
         <text>blueRandTex</text>
@@ -450,7 +455,7 @@
         <text encoding="base64">ICB9IGVsc2UgaWYgKG1vZGUgPT0gTU9ERV9URU5UKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvL2ZyYWdDb2xvciA9IDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -461,31 +466,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmcmFnQ29sb3IgPSB0ZXhlbEZldGNoKGltYWdlLCB0b3BfbWl4ZWQsIDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmFuZF9yb3cgPSBpbnQoVU5JRl9SQU5EX1RFWF9TSVpFLnkgKiByYW5kb20ocCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAueCAtIHBfZmxvb3IueAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAueCAtIHBfZmxvb3IueAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGl2ZWMyIFVOSUZfUkFORF9URVhfU0laRSA9IGl2ZWMyKDQwMCwgMjU2KTsK</text>
+        <text encoding="base64">ICAgICAgICBpdmVjMiBwX2Zsb29yID0gaXZlYzIoZmxvb3IocCkpOwogICAgICAgIGl2ZWMyIHBfY2VpbCA9IGl2ZWMyKGNlaWwocCkpOwo=</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBOMiA9IE4gKiBOOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmFuZF9yb3cgPSBpbnQoVU5JRl9SQU5EX1RFWF9TSVpFLnkgKiByYW5kb20ocCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -524,7 +526,6 @@
         <entry>blueRandTex</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dsYXplMC9yZWZsZWN0MC9n</entry>
         <entry>s/1.0/0.7/g</entry>
         <entry>s/0.0/1.0/g</entry>
         <entry>s</entry>
@@ -543,6 +544,7 @@
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
         <entry>we</entry>
         <entry>ew</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
