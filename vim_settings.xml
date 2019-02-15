@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1550252583220">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="528" column="13" />
-        <mark key="]" line="528" column="17" />
-        <mark key="." line="528" column="17" />
-        <mark key="^" line="528" column="17" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1550263686588">
+        <mark key="'" line="497" column="20" />
+        <mark key="[" line="528" column="69" />
+        <mark key="]" line="528" column="71" />
+        <mark key="." line="528" column="71" />
+        <mark key="^" line="528" column="71" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
         <mark key="'" line="52" column="39" />
@@ -206,12 +206,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1548214702512">
-        <mark key="'" line="605" column="0" />
-        <mark key="[" line="630" column="12" />
-        <mark key="]" line="630" column="13" />
-        <mark key="." line="630" column="13" />
-        <mark key="^" line="630" column="13" />
+      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1550263665833">
+        <mark key="'" line="38" column="42" />
+        <mark key="[" line="629" column="33" />
+        <mark key="]" line="630" column="52" />
+        <mark key="." line="630" column="52" />
+        <mark key="^" line="630" column="52" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
@@ -336,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="173" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="19" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="24" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
@@ -436,6 +434,8 @@
       <jump line="219" column="32" filename="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" />
       <jump line="60" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" />
       <jump line="59" column="13" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" />
+      <jump line="38" column="42" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
+      <jump line="497" column="20" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +451,7 @@
         <text encoding="base64">Y291dCA=</text>
       </register>
       <register name="/" type="4">
-        <text>p_lower</text>
+        <text>with result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB9IGVsc2UgaWYgKG1vZGUgPT0gTU9ERV9URU5UKSB7Cg==</text>
@@ -501,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>p_lower</last-search>
+      <last-search>with result</last-search>
       <last-offset />
-      <last-pattern>p_lower</last-pattern>
+      <last-pattern>with result</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>semaphores</entry>
-        <entry>swapchain</entry>
         <entry>command_buffer</entry>
         <entry>command_pool</entry>
         <entry>choose_</entry>
@@ -531,6 +529,8 @@
         <entry>blue</entry>
         <entry>blueRandTex</entry>
         <entry>p_lower</entry>
+        <entry>should_resize_swapchain</entry>
+        <entry>with result</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
