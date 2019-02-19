@@ -238,6 +238,11 @@
       <file name="/Dummy.txt" timestamp="1548107450585">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Supersample/SupersampleApp.hpp" timestamp="1550613604983">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -477,28 +482,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBFaWdlbjo6VmVjdG9yMmkoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBFaWdlbjo6VmVjdG9yMmkoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBFaWdlbjo6VmVjdG9yMmkoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzbGVlcCgxJzAwMCcwMDApOwo=</text>
+        <text encoding="base64">ICBFaWdlbjo6VmVjdG9yMmkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBob3Jpel9maWx0ZXJlZFswXTsKICAgICAgICAvL3JldHVybiB2ZWM0KHZlYzMobG93ZXJfcGl4ZWwueCArIDAuNSAtIHAueCArIDIuMCksIDEuMCk7Cg==</text>
+        <text encoding="base64">ICAgIHVzbGVlcCgxJzAwMCcwMDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWMyIHBfbG93ZXIgPSBwIC0gdmVjMigyLjApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBob3Jpel9maWx0ZXJlZFswXTsKICAgICAgICAvL3JldHVybiB2ZWM0KHZlYzMobG93ZXJfcGl4ZWwueCArIDAuNSAtIHAueCArIDIuMCksIDEuMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdChzYW1wbGVfY29vcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZWMyIHBfbG93ZXIgPSBwIC0gdmVjMigyLjApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
