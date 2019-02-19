@@ -21,11 +21,15 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1550617117413" />
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" timestamp="1550021789321">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
         <mark key="^" line="84" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1550617405881">
+        <mark key="'" line="244" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1546482333322">
         <mark key="[" line="17" column="15" />
@@ -39,6 +43,9 @@
         <mark key="]" line="123" column="44" />
         <mark key="." line="123" column="44" />
         <mark key="^" line="123" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1550617453486">
+        <mark key="'" line="1270" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny1.yaml" timestamp="1546310536184">
         <mark key="[" line="31" column="26" />
@@ -85,6 +92,9 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" timestamp="1550617314081">
+        <mark key="'" line="337" column="29" />
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
@@ -345,19 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="14" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="42" column="31" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="207" column="55" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="381" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="557" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="580" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="69" column="6" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" />
-      <jump line="5" column="10" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
-      <jump line="6" column="24" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
       <jump line="34" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
       <jump line="30" column="0" filename="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" />
       <jump line="60" column="4" filename="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" />
@@ -445,6 +442,19 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="13" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="526" column="8" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
+      <jump line="107" column="31" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
+      <jump line="268" column="15" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
+      <jump line="308" column="15" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
+      <jump line="119" column="6" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
+      <jump line="377" column="12" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
+      <jump line="423" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
+      <jump line="191" column="49" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
+      <jump line="337" column="29" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
+      <jump line="244" column="0" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
+      <jump line="204" column="6" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="1221" column="66" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="1234" column="66" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="1270" column="7" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -460,7 +470,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>create_callback</text>
+        <text>touch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
@@ -510,9 +520,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create_callback</last-search>
+      <last-search>touch</last-search>
       <last-offset />
-      <last-pattern>create_callback</last-pattern>
+      <last-pattern>touch</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -520,10 +530,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unifRand</entry>
-        <entry>blue</entry>
-        <entry>blueRandTex</entry>
-        <entry>p_lower</entry>
         <entry>should_resize_swapchain</entry>
         <entry>with result</entry>
         <entry>graphics_queue =</entry>
@@ -540,6 +546,10 @@
         <entry>OUT_OF_DEVICE</entry>
         <entry>debug_callback</entry>
         <entry>create_callback</entry>
+        <entry>callback</entry>
+        <entry>beginlist</entry>
+        <entry>getInput</entry>
+        <entry>touch</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
