@@ -338,12 +338,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550688545805">
+      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550689921612">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="38" />
-        <mark key="^" line="88" column="38" />
-        <mark key="." line="88" column="38" />
+        <mark key="]" line="88" column="37" />
+        <mark key="^" line="88" column="37" />
+        <mark key="." line="88" column="37" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
