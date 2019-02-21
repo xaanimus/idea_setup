@@ -115,11 +115,11 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550725206303">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="42" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550726783662">
+        <mark key="[" line="103" column="37" />
+        <mark key="]" line="103" column="37" />
+        <mark key="." line="103" column="37" />
+        <mark key="^" line="103" column="37" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546481805443">
         <mark key="[" line="247" column="0" />
@@ -348,6 +348,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550726985797">
+        <mark key="[" line="174" column="47" />
+        <mark key="]" line="174" column="47" />
+        <mark key="^" line="174" column="47" />
+        <mark key="." line="174" column="47" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="10" column="10" />
@@ -377,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="605" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="589" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="611" column="46" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="613" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -477,10 +482,11 @@
       <jump line="67" column="16" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
       <jump line="64" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
       <jump line="51" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="173" column="51" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -489,16 +495,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjphbGxvY2F0ZV9zaGFyZWQ8VD4oVUlBbGxvY2F0b3I8VD46OnNoYXJlZCgpKTs=</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>uialloc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlsZShHTE9CIEhFTExPX1dPUkxEX1NSQyBzb3VyY2UvKi5jcHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vX2xvZ28gPSB1aWFsbG9jOjpub2RlPE5vZGU+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,37 +520,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+CiAgICBzdGQ6OnNoYXJlZF9wdHI8Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG1ha2UgdWlfYWxsb2NhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2hlY2tfYWxsb2NhdG9yKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlfYnVmZmVyID0gX2J1ZmZlcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgdGVtcGxhdGU8dHlwZW5hbWUgVD4KICAgIHN0ZDo6c2hhcmVkX3B0cjxUPiBub2RlKCkgewogICAgICAgIGF1dG8gcmVzdWx0ID0gc3RkOjphbGxvY2F0ZV9zaGFyZWQoVUlBbGxvY2F0b3I8VD46OnNoYXJlZCgpKTsKICAgICAgICByZXR1cm4gKHJlc3VsdC5pbml0KCkgPyByZXN1bHQgOiBudWxscHRyKTsKPj4+Pj4+PiBtYWtlIHVpX2FsbG9jYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzW2lfYnVmZmVyXSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYWtlIHVpX2FsbG9jYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>uialloc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>uialloc</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OUT_OF_DEVICE</entry>
         <entry>debug_callback</entry>
         <entry>create_callback</entry>
         <entry>callback</entry>
@@ -572,6 +577,7 @@
         <entry encoding="base64">JiY=</entry>
         <entry>HEAD</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>uialloc</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
