@@ -112,6 +112,12 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550707638434">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546481805443">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
@@ -123,6 +129,12 @@
         <mark key="]" line="66" column="16" />
         <mark key="." line="66" column="16" />
         <mark key="^" line="66" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.cpp" timestamp="1550706075603">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util.rs" timestamp="1543613111904">
         <mark key="[" line="2" column="0" />
@@ -259,12 +271,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.h" timestamp="1550686490476">
-        <mark key="[" line="60" column="19" />
-        <mark key="]" line="61" column="42" />
-        <mark key="." line="61" column="42" />
-        <mark key="^" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/TODO.md" timestamp="1546311135798">
         <mark key="[" line="16" column="2" />
@@ -472,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IHNpemU=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -481,7 +487,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IHNpemU=</text>
       </register>
       <register name="/" type="4">
         <text>fps</text>
@@ -490,7 +496,7 @@
         <text encoding="base64">ICAgIGF1dG8gZ2V0X3JhbmQgPSBbXXsKICAgICAgICByZXR1cm4gKGZsb2F0KSBzdGQ6OnJhbmQoKSAvIChmbG9hdCkgc3RkOjpudW1lcmljX2xpbWl0czxpbnQ+OjptYXgoKTsKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZnBzICIgPDwgZ2V0QXZlcmFnZUZQUygpIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -509,25 +515,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IHN0ZDo6c2l6ZV90KC0xKSAvIHNpemVvZih0KSkgewogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZ2V0Xwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLnBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TGVOb2RlewogICAgICAgICAgICAgICAgICAgICAgICAucG9zaXRpb24gPSB7c2l6ZS53aWR0aCwgc2l6ZS5oZWlnaHR9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
