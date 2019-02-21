@@ -163,7 +163,9 @@
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550723610066" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
+        <mark key="'" line="116" column="34" />
+      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" timestamp="1542678634212">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="21" column="0" />
@@ -347,11 +349,11 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550774453331">
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="89" column="37" />
-        <mark key="^" line="89" column="37" />
-        <mark key="." line="89" column="37" />
+      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550775325631">
+        <mark key="[" line="89" column="38" />
+        <mark key="]" line="89" column="40" />
+        <mark key="." line="89" column="40" />
+        <mark key="^" line="89" column="40" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
@@ -382,8 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="589" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="611" column="46" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="613" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="537" column="46" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="578" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -482,10 +482,12 @@
       <jump line="64" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
       <jump line="51" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
       <jump line="173" column="51" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="375" column="62" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="116" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9tb2RlbCA9IExlTW9kZWwgewogICAgICAgIC5ub2RlcyA9IHN0ZDo6dmVjdG9yPExlTm9kZT4oMCkK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -494,16 +496,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>uialloc</text>
+        <text>setPolygon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9tb2RlbCA9IExlTW9kZWwgewogICAgICAgIC5ub2RlcyA9IHN0ZDo6dmVjdG9yPExlTm9kZT4oMCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -522,34 +524,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpX2J1ZmZlciA9PSBfYnVmZmVycy5zaXplKCkpIHsKICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpX2J1ZmZlciA9PSBfYnVmZmVycy5zaXplKCkpIHsKICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vX2xvZ28gPSB1aWFsbG9jOjpub2RlPE5vZGU+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vX2xvZ28gPSB1aWFsbG9jOjpub2RlPE5vZGU+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uialloc</last-search>
+      <last-search>setPolygon</last-search>
       <last-offset />
-      <last-pattern>uialloc</last-pattern>
+      <last-pattern>setPolygon</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -557,7 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug_callback</entry>
         <entry>create_callback</entry>
         <entry>callback</entry>
         <entry>beginlist</entry>
@@ -577,6 +578,7 @@
         <entry>HEAD</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>uialloc</entry>
+        <entry>setPolygon</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
