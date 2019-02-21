@@ -350,12 +350,6 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550785795671">
-        <mark key="[" line="184" column="8" />
-        <mark key="]" line="184" column="8" />
-        <mark key="." line="184" column="8" />
-        <mark key="^" line="185" column="9" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="10" column="10" />
@@ -373,9 +367,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550717454671">
         <mark key="[" line="13" column="26" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
@@ -488,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -497,7 +488,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>setPolygon</text>
