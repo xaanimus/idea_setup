@@ -81,6 +81,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
+      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550718963432" />
       <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1546484754818">
         <mark key="[" line="112" column="32" />
         <mark key="]" line="113" column="13" />
@@ -112,11 +113,12 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550711286724">
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="31" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550718887856">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="58" />
+        <mark key="^" line="50" column="58" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546481805443">
         <mark key="[" line="247" column="0" />
@@ -345,12 +347,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550689921612">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="37" />
-        <mark key="^" line="88" column="37" />
-        <mark key="." line="88" column="37" />
+      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550717790827">
+        <mark key="'" line="169" column="4" />
+        <mark key="[" line="170" column="25" />
+        <mark key="]" line="170" column="29" />
+        <mark key="." line="170" column="29" />
+        <mark key="^" line="170" column="29" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
@@ -367,6 +369,12 @@
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550717454671">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="14" />
@@ -375,21 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="531" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="513" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="495" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="521" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="472" column="20" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="522" column="40" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="565" column="43" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="566" column="20" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="276" column="43" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="293" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="294" column="44" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="300" column="7" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="301" column="11" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="302" column="24" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="309" column="33" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="326" column="29" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
       <jump line="328" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
@@ -475,10 +468,25 @@
       <jump line="32" column="0" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="34" column="0" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="38" column="18" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="42" column="2" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="60" column="20" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="196" column="64" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="195" column="45" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="180" column="42" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="172" column="53" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="168" column="4" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="2192" column="6" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFsbG9jYXRvcg==</text>
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -487,16 +495,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFsbG9jYXRvcg==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>fps</text>
+        <text>alloc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZ2V0X3JhbmQgPSBbXXsKICAgICAgICByZXR1cm4gKGZsb2F0KSBzdGQ6OnJhbmQoKSAvIChmbG9hdCkgc3RkOjpudW1lcmljX2xpbWl0czxpbnQ+OjptYXgoKTsKICAgIH07Cg==</text>
+        <text encoding="base64">ZmlsZShHTE9CIEhFTExPX1dPUkxEX1NSQyBzb3VyY2UvKi5jcHApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -512,37 +520,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgY2hlY2tfYWxsb2NhdG9yKCkgewogICAgICAgIGludCogcHRyID0gc3RkOjphbGxvY2F0b3JfdHJhaXRzPFVJQWxsb2NhdG9yPGludD4+OjphbGxvY2F0ZShVSUFsbG9jYXRvcjxpbnQ+OjpzaGFyZWQoKSwgMSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHJlc3VsdC5pbml0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IHN0ZDo6c2l6ZV90KC0xKSAvIHNpemVvZih0KSkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVDo6YWxsb2MoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fps</last-search>
+      <last-search>alloc</last-search>
       <last-offset />
-      <last-pattern>fps</last-pattern>
+      <last-pattern>alloc</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_sync</entry>
         <entry>create_swapchain</entry>
         <entry>swapchain</entry>
         <entry encoding="base64">bV9pbXBsLT5zd2FwY2hhaW4=</entry>
@@ -570,6 +577,7 @@
         <entry>)</entry>
         <entry>get_rand</entry>
         <entry>fps</entry>
+        <entry>alloc</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
