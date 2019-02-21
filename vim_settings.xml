@@ -115,11 +115,10 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550726783662">
-        <mark key="[" line="103" column="37" />
-        <mark key="]" line="103" column="37" />
-        <mark key="." line="103" column="37" />
-        <mark key="^" line="103" column="37" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550727122124">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546481805443">
         <mark key="[" line="247" column="0" />
@@ -485,8 +484,8 @@
       <jump line="173" column="51" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -504,7 +503,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vX2xvZ28gPSB1aWFsbG9jOjpub2RlPE5vZGU+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -523,25 +522,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpX2J1ZmZlciA9PSBfYnVmZmVycy5zaXplKCkpIHsKICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vX2xvZ28gPSB1aWFsbG9jOjpub2RlPE5vZGU+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlfYnVmZmVyID0gX2J1ZmZlcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzW2lfYnVmZmVyXSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
