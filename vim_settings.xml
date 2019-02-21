@@ -112,11 +112,10 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550707638434">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="50" />
-        <mark key="." line="18" column="50" />
-        <mark key="^" line="18" column="50" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550708861198">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546481805443">
         <mark key="[" line="247" column="0" />
@@ -477,8 +476,8 @@
       <jump line="38" column="18" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHNpemU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -487,7 +486,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNpemU=</text>
+        <text encoding="base64">ID09IG51bGxwdHI=</text>
       </register>
       <register name="/" type="4">
         <text>fps</text>
@@ -496,7 +495,7 @@
         <text encoding="base64">ICAgIGF1dG8gZ2V0X3JhbmQgPSBbXXsKICAgICAgICByZXR1cm4gKGZsb2F0KSBzdGQ6OnJhbmQoKSAvIChmbG9hdCkgc3RkOjpudW1lcmljX2xpbWl0czxpbnQ+OjptYXgoKTsKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -512,28 +511,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IHN0ZDo6c2l6ZV90KC0xKSAvIHNpemVvZih0KSkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IHN0ZDo6c2l6ZV90KC0xKSAvIHNpemVvZih0KSkgewogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
