@@ -66,7 +66,7 @@
         <mark key="^" line="52" column="59" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1549045810615">
+      <file name="/LLDB" timestamp="1550722464323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
@@ -81,7 +81,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550718963432" />
+      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
+        <mark key="'" line="3789" column="26" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1546484754818">
         <mark key="[" line="112" column="32" />
         <mark key="]" line="113" column="13" />
@@ -113,12 +115,11 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550718887856">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="50" column="57" />
-        <mark key="]" line="50" column="58" />
-        <mark key="." line="50" column="58" />
-        <mark key="^" line="50" column="58" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550725206303">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1546481805443">
         <mark key="[" line="247" column="0" />
@@ -163,7 +164,7 @@
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550705055875" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550723610066" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" timestamp="1542678634212">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="21" column="0" />
@@ -347,13 +348,6 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550717790827">
-        <mark key="'" line="169" column="4" />
-        <mark key="[" line="170" column="25" />
-        <mark key="]" line="170" column="29" />
-        <mark key="." line="170" column="29" />
-        <mark key="^" line="170" column="29" />
-      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="10" column="10" />
@@ -383,23 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="33" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="326" column="29" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="328" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="330" column="18" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="332" column="27" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="334" column="31" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="356" column="33" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="459" column="18" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="590" column="30" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="465" column="30" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="408" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="410" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="602" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="373" column="26" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="479" column="19" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="221" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="398" column="29" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="605" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="589" column="12" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
       <jump line="611" column="46" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
@@ -482,11 +459,28 @@
       <jump line="180" column="42" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="172" column="53" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="168" column="4" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
+      <jump line="4338" column="0" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4347" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4366" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4385" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4404" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4423" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4443" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4463" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="4483" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="3639" column="8" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="3647" column="6" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
       <jump line="2192" column="6" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="2142" column="78" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="50" column="60" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="3789" column="26" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
+      <jump line="67" column="16" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -495,16 +489,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">c3RkOjphbGxvY2F0ZV9zaGFyZWQ8VD4oVUlBbGxvY2F0b3I8VD46OnNoYXJlZCgpKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>alloc</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZmlsZShHTE9CIEhFTExPX1dPUkxEX1NSQyBzb3VyY2UvKi5jcHApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -520,37 +514,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2hlY2tfYWxsb2NhdG9yKCkgewogICAgICAgIGludCogcHRyID0gc3RkOjphbGxvY2F0b3JfdHJhaXRzPFVJQWxsb2NhdG9yPGludD4+OjphbGxvY2F0ZShVSUFsbG9jYXRvcjxpbnQ+OjpzaGFyZWQoKSwgMSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3RkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+CiAgICBzdGQ6OnNoYXJlZF9wdHI8Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG1ha2UgdWlfYWxsb2NhdG9yCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHJlc3VsdC5pbml0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgY2hlY2tfYWxsb2NhdG9yKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVDo6YWxsb2MoKTsK</text>
+        <text encoding="base64">PT09PT09PQogICAgdGVtcGxhdGU8dHlwZW5hbWUgVD4KICAgIHN0ZDo6c2hhcmVkX3B0cjxUPiBub2RlKCkgewogICAgICAgIGF1dG8gcmVzdWx0ID0gc3RkOjphbGxvY2F0ZV9zaGFyZWQoVUlBbGxvY2F0b3I8VD46OnNoYXJlZCgpKTsKICAgICAgICByZXR1cm4gKHJlc3VsdC5pbml0KCkgPyByZXN1bHQgOiBudWxscHRyKTsKPj4+Pj4+PiBtYWtlIHVpX2FsbG9jYXRvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYWtlIHVpX2FsbG9jYXRvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>alloc</last-search>
+      <last-search encoding="base64">Pj4+</last-search>
       <last-offset />
-      <last-pattern>alloc</last-pattern>
+      <last-pattern encoding="base64">Pj4+</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -558,11 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_swapchain</entry>
-        <entry>swapchain</entry>
-        <entry encoding="base64">bV9pbXBsLT5zd2FwY2hhaW4=</entry>
-        <entry>failed to</entry>
-        <entry>OUT_OF_HOST</entry>
         <entry>OUT_OF_DEVICE</entry>
         <entry>debug_callback</entry>
         <entry>create_callback</entry>
@@ -578,6 +567,11 @@
         <entry>get_rand</entry>
         <entry>fps</entry>
         <entry>alloc</entry>
+        <entry>shared_ptr_emplace</entry>
+        <entry>allocate_shared</entry>
+        <entry encoding="base64">JiY=</entry>
+        <entry>HEAD</entry>
+        <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
@@ -594,11 +588,11 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL3ZlbmRvci94ODZfNjQ=</entry>
         <entry encoding="base64">JzwsJz5zL3ZlbmRvci9pbnRyaW4vZw==</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
         <entry>we</entry>
         <entry>ew</entry>
         <entry>qw</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
