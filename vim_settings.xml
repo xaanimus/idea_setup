@@ -68,7 +68,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" timestamp="1550862184594">
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" timestamp="1550865204313">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="16" column="3" />
         <mark key="." line="16" column="3" />
@@ -155,6 +155,12 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/.gitignore" timestamp="1550865055126">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1550855078132">
         <mark key="[" line="19" column="0" />
@@ -302,14 +308,20 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/README.md" timestamp="1550864174207">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550861559656">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550864999871">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
@@ -319,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="12" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="200" column="11" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="239" column="12" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="177" column="17" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
@@ -419,10 +430,11 @@
       <jump line="221" column="24" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
       <jump line="12" column="33" filename="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" />
       <jump line="15" column="1" filename="$USER_HOME$/code/apps/strange/source/model/ECS.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/apps/strange/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -431,16 +443,17 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPFN5c3RlbT4+JiBzeXN0ZW1z</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>HELLO_WORLD_SRC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEVDUyhjb25zdCBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8U3lzdGVtPj4mIHN5c3RlbXMpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>source/scenes/*.cpp
+        source/model/*.cpp</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,45 +469,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiMgQnVpbGRpbmcKIyMgTWFjIC0gWENvZGUgKENNYWtlKQojIyBNYWMgLSBNYWtlZmlsZXMgKENNYWtlKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEVDUygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RUNTOjpFQ1MoKSA6IEVDUygoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEVDUz4+KXt9KSB7fQo=</text>
+        <text encoding="base64">ICAgIEVDUygpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RUNTOjpFQ1MoKSB7Cgp9CgpFQ1M6OkVDUyhjb25zdCBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RUNTOjpTeXN0ZW0+PiAmc3lzdGVtcykgewoKfQo=</text>
+        <text encoding="base64">RUNTOjpFQ1MoKSA6IEVDUygoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEVDUz4+KXt9KSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>HELLO_WORLD_SRC</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
-      <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
-      <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
+      <last-pattern>HELLO_WORLD_SRC</last-pattern>
+      <last-replace>STRANGER_SEAS_SRC</last-replace>
+      <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>touch</entry>
         <entry>add</entry>
         <entry>addchild</entry>
         <entry>buildScene</entry>
@@ -514,9 +526,9 @@
         <entry>target</entry>
         <entry>draw</entry>
         <entry>init</entry>
+        <entry>HELLO_WORLD_SRC</entry>
       </history-search>
       <history-cmd>
-        <entry>s/1.0/0.7/g</entry>
         <entry>s/0.0/1.0/g</entry>
         <entry>s</entry>
         <entry>s/r0/r1/g</entry>
@@ -535,6 +547,7 @@
         <entry>ew</entry>
         <entry>qw</entry>
         <entry>e</entry>
+        <entry encoding="base64">JzwsJz5zL0hFTExPX1dPUkxEX1NSQy9TVFJBTkdFUl9TRUFTX1NSQw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
