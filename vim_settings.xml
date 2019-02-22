@@ -63,10 +63,11 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.h" timestamp="1550853197565">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.h" timestamp="1550856028066">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="26" />
       </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
@@ -143,7 +144,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1550854031921">
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1550855078132">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -396,8 +397,8 @@
       <jump line="61" column="38" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9jdXJyZW50X3NjZW5lLT51cGRhdGUodGltZXN0ZXApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -406,7 +407,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>GDIAC</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
