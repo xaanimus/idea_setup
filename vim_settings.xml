@@ -3,23 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" timestamp="1550333518102">
-        <mark key="[" line="527" column="0" />
-        <mark key="]" line="527" column="0" />
-        <mark key="." line="527" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1545069986811">
-        <mark key="'" line="52" column="39" />
-        <mark key="[" line="111" column="82" />
-        <mark key="]" line="111" column="84" />
-        <mark key="." line="111" column="84" />
-        <mark key="^" line="111" column="84" />
-      </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Helpers.h" timestamp="1548126379943">
         <mark key="[" line="59" column="2" />
         <mark key="]" line="60" column="0" />
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1550807935608">
+        <mark key="'" line="331" column="45" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Upsample/shaders/upsample.frag" timestamp="1550021789321">
         <mark key="[" line="85" column="0" />
@@ -36,13 +27,6 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CubicBezier.java" timestamp="1542677886541">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="122" column="18" />
-        <mark key="]" line="123" column="44" />
-        <mark key="." line="123" column="44" />
-        <mark key="^" line="123" column="44" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1550704574856">
         <mark key="'" line="1270" column="7" />
       </file>
@@ -58,12 +42,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1546483851942">
-        <mark key="'" line="228" column="0" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="^" line="52" column="59" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/code/apps/strange/source/main.cpp" timestamp="1550808651184">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/LLDB" timestamp="1550722464323">
         <mark key="[" line="0" column="0" />
@@ -80,10 +63,18 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.h" timestamp="1550809321037">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/stdlib.h" timestamp="1550785191212" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1550808961882">
+        <mark key="'" line="61" column="38" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1546484754818">
         <mark key="[" line="112" column="32" />
         <mark key="]" line="113" column="13" />
@@ -101,13 +92,6 @@
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/cgo8/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545020591083">
-        <mark key="'" line="38" column="87" />
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="38" column="65" />
-        <mark key="^" line="38" column="65" />
-        <mark key="." line="38" column="65" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1550611609631">
         <mark key="[" line="47" column="56" />
@@ -154,32 +138,17 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1547998725586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1546301543451">
-        <mark key="'" line="246" column="11" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="245" column="11" />
-      </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/soln/a5/src/splines/CatmullRom.java" timestamp="1542678634212">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1546308467421">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="242" column="34" />
-        <mark key="." line="242" column="34" />
-        <mark key="^" line="242" column="34" />
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1550809212953">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
@@ -187,18 +156,14 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
+        <mark key="'" line="65" column="11" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1546387535190">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/CMakeLists.txt" timestamp="1548478527857">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/code/scratch/rust_sc/Cargo.toml" timestamp="1542166822923">
         <mark key="[" line="5" column="14" />
@@ -224,27 +189,6 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/main.rs" timestamp="1544296028581">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="44" />
-        <mark key="." line="74" column="44" />
-        <mark key="^" line="74" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/test_helpers.rs" timestamp="1546300491468">
-        <mark key="'" line="43" column="24" />
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="34" column="59" />
-        <mark key="." line="34" column="59" />
-        <mark key="^" line="34" column="59" />
-      </file>
-      <file name="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" timestamp="1550268566714">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="553" column="60" />
-        <mark key="^" line="553" column="60" />
-      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5/src/splines/CatmullRom.java" timestamp="1540926431748">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="16" />
@@ -266,17 +210,13 @@
       <file name="/Dummy.txt" timestamp="1548107450585">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Supersample/SupersampleApp.hpp" timestamp="1550613604983">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.h" timestamp="1550806627364" />
       <file name="$USER_HOME$/code/apps/xsray/TODO.md" timestamp="1546311135798">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="3" />
@@ -289,25 +229,11 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/material.rs" timestamp="1546484842359">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="96" column="9" />
-        <mark key="]" line="96" column="9" />
-        <mark key="." line="96" column="9" />
-        <mark key="^" line="96" column="9" />
-      </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545021664299">
         <mark key="[" line="52" column="63" />
         <mark key="]" line="52" column="54" />
         <mark key="." line="52" column="54" />
         <mark key="^" line="52" column="54" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1546385707445">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="267" column="21" />
-        <mark key="]" line="267" column="52" />
-        <mark key="^" line="267" column="52" />
-        <mark key="." line="267" column="52" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/main.cpp" timestamp="1548089154713">
         <mark key="[" line="11" column="9" />
@@ -315,18 +241,12 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUTexturedNode.h" timestamp="1550808386135" />
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1546203193248">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/LightSamplingIntegrator.java" timestamp="1545024504936">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="120" column="72" />
-        <mark key="]" line="120" column="87" />
-        <mark key="." line="120" column="87" />
-        <mark key="^" line="120" column="87" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1546386595266">
         <mark key="[" line="10" column="24" />
@@ -337,18 +257,17 @@
       <file name="/fragment.mm" timestamp="1548107503701">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1546309483518">
-        <mark key="'" line="78" column="46" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="100" column="58" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/external/Box2D/CMakeLists.txt" timestamp="1548477101985">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" timestamp="1550807140713">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="23" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/mod.rs" timestamp="1546307717160">
         <mark key="[" line="9" column="16" />
@@ -365,8 +284,11 @@
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550717454671">
-        <mark key="[" line="13" column="26" />
+      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550808322993">
+        <mark key="[" line="15" column="96" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
@@ -376,26 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="613" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="537" column="46" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="578" column="4" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="504" column="19" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="130" column="4" filename="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" />
-      <jump line="128" column="13" filename="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" />
-      <jump line="115" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="118" column="38" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="143" column="31" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="563" column="23" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="128" column="32" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="632" column="31" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/apps/vulkan_cpp/src/app.cpp" />
-      <jump line="526" column="8" filename="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.cpp" />
-      <jump line="107" column="31" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
-      <jump line="268" column="15" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
-      <jump line="308" column="15" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
-      <jump line="119" column="6" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
       <jump line="377" column="12" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
       <jump line="423" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
       <jump line="191" column="49" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
@@ -476,10 +378,30 @@
       <jump line="173" column="51" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
       <jump line="375" column="62" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" />
       <jump line="116" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="54" column="14" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="147" column="0" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="204" column="0" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="214" column="11" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="58" column="130" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="65" column="11" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
+      <jump line="755" column="5" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="764" column="31" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="773" column="70" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="111" column="22" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="118" column="22" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="328" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="331" column="45" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
+      <jump line="20" column="20" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="893" column="65" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="898" column="42" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="901" column="43" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="891" column="7" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="61" column="38" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxlbnR0OjpyZWdpc3RyeTx1aW50MzJfdD4+IF9lY3NfcmVnaXN0cnk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -488,16 +410,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>GDIAC</text>
       </register>
       <register name="/" type="4">
-        <text>setPolygon</text>
+        <text>draw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxlbnR0OjpyZWdpc3RyeTx1aW50MzJfdD4+IF9lY3NfcmVnaXN0cnk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,37 +435,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIkhlbGxvQXBwLmgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZnJlZV9hbGwoKSB7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIF9jdXJyZW50X3NjZW5lLT5qazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2xlYXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgCg==</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uOjpkcmF3KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setPolygon</last-search>
+      <last-search>draw</last-search>
       <last-offset />
-      <last-pattern>setPolygon</last-pattern>
+      <last-pattern>draw</last-pattern>
       <last-replace>MicrofacetReflectiveBSDFMaterial</last-replace>
       <last-substitute>MicrofacetReflectiveMaterial</last-substitute>
       <last-dir>1</last-dir>
@@ -551,9 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_callback</entry>
-        <entry>callback</entry>
-        <entry>beginlist</entry>
         <entry>getInput</entry>
         <entry>touch</entry>
         <entry>add</entry>
@@ -571,6 +490,9 @@
         <entry encoding="base64">Pj4+</entry>
         <entry>uialloc</entry>
         <entry>setPolygon</entry>
+        <entry>EnTT_INCLUDE</entry>
+        <entry>target</entry>
+        <entry>draw</entry>
       </history-search>
       <history-cmd>
         <entry>s/1.0/0.7/g</entry>
