@@ -9,6 +9,7 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.cpp" timestamp="1551127318040" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1550807935608">
         <mark key="'" line="331" column="45" />
       </file>
@@ -109,6 +110,7 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551127300907" />
       <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550785773282">
         <mark key="[" line="46" column="59" />
         <mark key="]" line="46" column="64" />
@@ -151,11 +153,11 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551122779512">
-        <mark key="[" line="86" column="90" />
-        <mark key="]" line="86" column="98" />
-        <mark key="." line="86" column="98" />
-        <mark key="^" line="86" column="98" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551127708555">
+        <mark key="[" line="98" column="48" />
+        <mark key="]" line="98" column="48" />
+        <mark key="." line="98" column="48" />
+        <mark key="^" line="98" column="48" />
       </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
@@ -175,6 +177,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Common/shaders/pos_tex_nor_tan.vert" timestamp="1551127240168" />
       <file name="$USER_HOME$/code/apps/strange/source/model/ECS.h" timestamp="1550872464978">
         <mark key="'" line="19" column="22" />
         <mark key="[" line="0" column="0" />
@@ -442,7 +445,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IG1hZ25pdHVkZQ==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -451,7 +454,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IG1hZ25pdHVkZQ==</text>
       </register>
       <register name="/" type="4">
         <text>_listener</text>
@@ -460,7 +463,7 @@
         <text encoding="base64">ICAgIGZsb2F0IGFuZ2xlID0gYWNvcyhkb3QoaGFsZl92ZWN0b3IsIG5vcm1hbCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -476,28 +479,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBmaWxsIGluIHNoYWRlciBjb2RlIGhlcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGRlbm9taW5hdG9yID0gcGkgKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IGRlbm9taW5hdG9yID0gcGkgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
