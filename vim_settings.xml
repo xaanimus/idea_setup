@@ -91,7 +91,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Supersample/shaders/patterns.frag" timestamp="1551108204510" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/rock_diffuse.yaml" timestamp="1546302277466">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="16" />
@@ -151,6 +150,12 @@
         <mark key="]" line="14" column="3" />
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551120801880">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="72" column="1" />
+        <mark key="." line="71" column="66" />
+        <mark key="^" line="71" column="66" />
       </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
@@ -279,6 +284,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/Main.cpp" timestamp="1551119295809" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1546386595266">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
@@ -317,6 +323,7 @@
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551119239367" />
       <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550864999871">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="17" column="31" />
@@ -435,7 +442,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmxvYXQgZGlzdHJpYnV0aW9uX29mX25vcm1hbHNfZ2d4KHZlYzMgaGFsZl92ZWN0b3IsIHZlYzMgbm9ybWFsLCBmbG9hdCByb3VnaG5lc3MpIHsKICAgIGZsb2F0IGFuZ2xlID0gYWNvcyhkb3QoaGFsZl92ZWN0b3IsIG5vcm1hbCkpOwoKICAgIGZsb2F0IG51bWVyYXRvciA9IHBvdyhyb3VnaG5lc3MsIDIpICogcG9zaXRpdmVfY2hhcmFjdGVyaXN0aWMoZG90KGhhbGZfdmVjdG9yLCBub3JtYWwpKTsKCiAgICBmbG9hdCBkZW5vbWluYXRvcl9wYXJ0MSA9IHBvdyhjb3MoYW5nbGUpLCA0KTsKICAgIGZsb2F0IGRlbm9taW5hdG9yX3BhcnQyID0gcG93KHBvdyhyb3VnaG5lc3MsIDIpICsgcG93KHRhbihhbmdsZSksIDIpLCAyKTsKICAgIGZsb2F0IGRlbm9taW5hdG9yID0gcGkgKiBkZW5vbWluYXRvcl9wYXJ0MSAqIGRlbm9taW5hdG9yX3BhcnQyOwp9Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -444,7 +451,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Created by Serge-Olivier Amega on 2019-02-22.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_listener</text>
@@ -453,7 +460,7 @@
         <text encoding="base64">ICAgIGZvciAoYXV0byYmIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+dXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -469,28 +476,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RydWN0IAo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IGRlbm9taW5hdG9yID0gcGkgKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8vIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
