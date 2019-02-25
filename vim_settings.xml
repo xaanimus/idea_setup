@@ -153,11 +153,12 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551128823020">
-        <mark key="[" line="101" column="117" />
-        <mark key="]" line="101" column="117" />
-        <mark key="." line="101" column="117" />
-        <mark key="^" line="101" column="117" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551133732179">
+        <mark key="'" line="103" column="39" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="116" column="41" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
@@ -342,21 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="2" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="60" column="20" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="196" column="64" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="195" column="45" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="180" column="42" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="172" column="53" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="168" column="4" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="4338" column="0" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
       <jump line="4347" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
       <jump line="4366" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
       <jump line="4385" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
@@ -442,10 +428,25 @@
       <jump line="501" column="8" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" />
       <jump line="500" column="8" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" />
       <jump line="405" column="8" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" />
+      <jump line="116" column="1" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="113" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="107" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="100" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="71" column="26" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="101" column="22" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="102" column="27" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="114" column="24" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="110" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="108" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="103" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlYzMgcG93ZXIgPSAK</text>
+        <text encoding="base64">ICAgIC8vdmVjMyBwb3dlciA9IGxpZ2h0X2NvbG9yW2lfbGlnaHRdIC8gcG93KGRpc3RhbmNlX3RvX2xpZ2h0LCAyKTsK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -454,16 +455,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1hZ25pdHVkZQ==</text>
+        <text encoding="base64">IGdlb21fbm9ybWFs</text>
       </register>
       <register name="/" type="4">
-        <text>_listener</text>
+        <text>geom_normal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZsb2F0IGFuZ2xlID0gYWNvcyhkb3QoaGFsZl92ZWN0b3IsIG5vcm1hbCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlYzMgcG93ZXIgPSAK</text>
+        <text encoding="base64">ICAgIC8vdmVjMyBwb3dlciA9IGxpZ2h0X2NvbG9yW2lfbGlnaHRdIC8gcG93KGRpc3RhbmNlX3RvX2xpZ2h0LCAyKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -479,22 +480,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vbWljcm9mYWNldF90ZXJtID0gMC4wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vdmVjMyBkaWZmdXNlX3Rlcm0gPSB2ZWMzKDEuMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBmaWxsIGluIHNoYWRlciBjb2RlIGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL2Zsb2F0IGNvc190ZXJtID0gbWF4KDAuMCwgZG90KGdlb21fbm9ybWFsKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -507,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_listener</last-search>
+      <last-search>geom_normal</last-search>
       <last-offset />
-      <last-pattern>_listener</last-pattern>
+      <last-pattern>geom_normal</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -517,8 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buildScene</entry>
-        <entry>size</entry>
         <entry>)</entry>
         <entry>get_rand</entry>
         <entry>fps</entry>
@@ -537,6 +536,8 @@
         <entry>HELLO_WORLD_SRC</entry>
         <entry>Listener</entry>
         <entry>_listener</entry>
+        <entry>normal</entry>
+        <entry>geom_normal</entry>
       </history-search>
       <history-cmd>
         <entry>s/0.0/1.0/g</entry>
