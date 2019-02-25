@@ -71,15 +71,14 @@
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
-      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/stdlib.h" timestamp="1550785191212" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1550808961882">
         <mark key="'" line="61" column="38" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1546484754818">
-        <mark key="[" line="112" column="32" />
-        <mark key="]" line="113" column="13" />
-        <mark key="^" line="113" column="13" />
-        <mark key="." line="113" column="13" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/probability.rs" timestamp="1551120825121">
+        <mark key="[" line="183" column="3" />
+        <mark key="]" line="183" column="7" />
+        <mark key="." line="183" column="7" />
+        <mark key="^" line="183" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/rock_diffuse.yaml" timestamp="1546302277466">
         <mark key="[" line="3" column="12" />
@@ -216,7 +215,6 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/HelloApp.h" timestamp="1550806627364" />
       <file name="$USER_HOME$/code/apps/xsray/TODO.md" timestamp="1546311135798">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="3" />
@@ -229,6 +227,7 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/material.rs" timestamp="1551120637946" />
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a7_code_grading/group_of_as2594_ph394/a7_release/src/ray2/integrator/PointLightIntegrator.java" timestamp="1545021664299">
         <mark key="[" line="52" column="63" />
         <mark key="]" line="52" column="54" />
@@ -241,7 +240,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUTexturedNode.h" timestamp="1550808386135" />
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1546203193248">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="16" column="1" />
@@ -401,7 +399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxlbnR0OjpyZWdpc3RyeTx1aW50MzJfdD4+IF9lY3NfcmVnaXN0cnk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -419,7 +417,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWZmZXJzLnB1c2hfYmFjayhVSUFsbG9jYXRvckJ1ZmZlcjxUPihidWZmZXJfbGVuZ3RoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxlbnR0OjpyZWdpc3RyeTx1aW50MzJfdD4+IF9lY3NfcmVnaXN0cnk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,28 +433,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkhlbGxvQXBwLmgiCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxlbnR0OjpyZWdpc3RyeTx1aW50MzJfdD4+IF9lY3NfcmVnaXN0cnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIkhlbGxvQXBwLmgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9jdXJyZW50X3NjZW5lLT5qazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIF9jdXJyZW50X3NjZW5lLT5qazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uOjpkcmF3KCk7Cg==</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0Cg==</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uOjpkcmF3KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
