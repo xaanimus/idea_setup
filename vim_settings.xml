@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1550617405881">
         <mark key="'" line="244" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
+        <mark key="'" line="1382" column="40" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1546482333322">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="18" column="16" />
@@ -64,11 +67,6 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.h" timestamp="1550861929848">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" timestamp="1550872533517">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="15" />
@@ -102,6 +100,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" timestamp="1551108137249">
         <mark key="'" line="337" column="29" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/view.hpp" timestamp="1551143147707" />
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
       </file>
@@ -318,11 +317,6 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/README.md" timestamp="1550864174207">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
@@ -341,48 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4347" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4366" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4385" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4404" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4423" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4443" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4463" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="4483" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="3639" column="8" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="3647" column="6" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="2192" column="6" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="2142" column="78" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="50" column="60" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="3789" column="26" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" />
-      <jump line="67" column="16" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" />
-      <jump line="173" column="51" filename="$USER_HOME$/code/apps/strange/source/HelloApp.cpp" />
-      <jump line="375" column="62" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" />
-      <jump line="116" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" />
-      <jump line="54" column="14" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="147" column="0" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="204" column="0" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="214" column="11" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="58" column="130" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="65" column="11" filename="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" />
-      <jump line="755" column="5" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="764" column="31" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="773" column="70" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="111" column="22" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="118" column="22" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="328" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="331" column="45" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
-      <jump line="20" column="20" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="893" column="65" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="898" column="42" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="901" column="43" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="891" column="7" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="61" column="38" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="872" column="56" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="11" column="44" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
       <jump line="14" column="42" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
       <jump line="15" column="17" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
       <jump line="96" column="43" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
@@ -441,6 +393,48 @@
       <jump line="110" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="108" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="103" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="577" column="21" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="619" column="39" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="625" column="67" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="629" column="31" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1271" column="24" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1272" column="40" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1351" column="33" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1353" column="20" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1355" column="76" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1358" column="37" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1360" column="16" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1363" column="26" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1365" column="25" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1370" column="23" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1373" column="62" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1375" column="12" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1376" column="12" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1377" column="22" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1463" column="20" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1461" column="35" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1451" column="27" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1450" column="63" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1449" column="37" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1438" column="63" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1434" column="38" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1430" column="42" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1428" column="18" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1426" column="74" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1419" column="29" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1403" column="65" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1401" column="60" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1399" column="75" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1397" column="10" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1394" column="42" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1392" column="18" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1390" column="71" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1386" column="15" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1385" column="4" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1378" column="15" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1379" column="19" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1381" column="66" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
+      <jump line="1382" column="40" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -456,7 +450,7 @@
         <text encoding="base64">IHNvdXJjZS9lY3MvRUNTQ29tcG9uZW50cy5o</text>
       </register>
       <register name="/" type="4">
-        <text>geom_normal</text>
+        <text>view</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZsb2F0IGFuZ2xlID0gYWNvcyhkb3QoaGFsZl92ZWN0b3IsIG5vcm1hbCkpOwo=</text>
@@ -506,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search>geom_normal</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>geom_normal</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -516,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
         <entry>get_rand</entry>
         <entry>fps</entry>
         <entry>alloc</entry>
@@ -536,6 +529,7 @@
         <entry>_listener</entry>
         <entry>normal</entry>
         <entry>geom_normal</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry>s/0.0/1.0/g</entry>
