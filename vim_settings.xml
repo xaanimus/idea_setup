@@ -134,7 +134,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.h" timestamp="1551142153484" />
+      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.h" timestamp="1551208156386">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util.rs" timestamp="1543613111904">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="3" />
@@ -320,12 +325,12 @@
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551141594890">
+      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551208397809">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="16" column="48" />
-        <mark key="]" line="16" column="48" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="16" column="48" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
@@ -438,7 +443,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNvdXJjZS9lY3MvRUNTQ29tcG9uZW50cy5o</text>
+        <text>7</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -447,7 +452,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNvdXJjZS9lY3MvRUNTQ29tcG9uZW50cy5o</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>view</text>
