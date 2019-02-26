@@ -166,9 +166,9 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1551223340298">
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1551224070278">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+        <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/model/ECS.h" timestamp="1550872464978">
@@ -304,11 +304,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.h" timestamp="1551223307961">
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="31" />
-        <mark key="." line="42" column="31" />
-        <mark key="^" line="42" column="31" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.h" timestamp="1551224130777">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551208397809">
         <mark key="'" line="22" column="0" />
@@ -428,7 +428,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9zcHJpdGVfYmF0Y2ggPSBTcHJpdGVCYXRjaDo6YWxsb2MoKTsKICAgIGFjdGl2YXRlVG91Y2hPck1vdXNlSW5wdXQoKTsK</text>
+        <text encoding="base64">ICAgIFZpc3VhbElucHV0OjphY3RpdmF0ZUlucHV0KCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -446,34 +446,34 @@
         <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnVuaXF1ZV9wdHI8TW91c2VWaXN1YWxJbnB1dD4gaW5wdXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9zcHJpdGVfYmF0Y2ggPSBTcHJpdGVCYXRjaDo6YWxsb2MoKTsKICAgIGFjdGl2YXRlVG91Y2hPck1vdXNlSW5wdXQoKTsK</text>
+        <text encoding="base64">ICAgIFZpc3VhbElucHV0OjphY3RpdmF0ZUlucHV0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgYWN0aXZhdGVUb3VjaE9yTW91c2VJbnB1dCgpIHsKfQoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I2lmIGRlZmluZWQoQ1VfVE9VQ0hfU0NSRUVOKQogICAgSW5wdXQ6OmFjdGl2YXRlPFRvdWNoc2NyZWVuPigpOwojZWxzZQogICAgSW5wdXQ6OmFjdGl2YXRlPE1vdXNlPigpOwojZW5kaWYK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFjdGl2YXRlVG91Y2hPck1vdXNlSW5wdXQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIF9zcHJpdGVfYmF0Y2ggPSBTcHJpdGVCYXRjaDo6YWxsb2MoKTsKICAgIGFjdGl2YXRlVG91Y2hPck1vdXNlSW5wdXQoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c3RhdGljIHZvaWQgYWN0aXZhdGVUb3VjaE9yTW91c2VJbnB1dCgpIHsKfQoK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2lmIGRlZmluZWQoQ1VfVE9VQ0hfU0NSRUVOKQogICAgSW5wdXQ6OmFjdGl2YXRlPFRvdWNoc2NyZWVuPigpOwojZWxzZQogICAgSW5wdXQ6OmFjdGl2YXRlPE1vdXNlPigpOwojZW5kaWYK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1vdXNlKiBtb3VzZSA9IElucHV0OjpnZXQ8TW91c2U+KCk7CiAgICByZXR1cm4gTW91c2VWaXN1YWxJbnB1dChtb3VzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRvdWNoc2NyZWVuKiB0b3VjaHNjcmVlbiA9IElucHV0OjpnZXQ8VG91Y2hzY3JlZW4+KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
