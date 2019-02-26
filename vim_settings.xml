@@ -9,7 +9,6 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.cpp" timestamp="1551127318040" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1550807935608">
         <mark key="'" line="331" column="45" />
       </file>
@@ -52,6 +51,7 @@
         <mark key="^" line="59" column="40" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.cpp" timestamp="1551141743170" />
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -87,10 +87,11 @@
         <mark key="^" line="113" column="13" />
         <mark key="." line="113" column="13" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECSComponents.h" timestamp="1550947082498">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECSComponents.h" timestamp="1551141738298">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/rock_diffuse.yaml" timestamp="1546302277466">
         <mark key="[" line="3" column="12" />
@@ -110,7 +111,6 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551127300907" />
       <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550785773282">
         <mark key="[" line="46" column="59" />
         <mark key="]" line="46" column="64" />
@@ -135,6 +135,7 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.h" timestamp="1551142153484" />
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/src/util.rs" timestamp="1543613111904">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="3" />
@@ -178,7 +179,6 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Common/shaders/pos_tex_nor_tan.vert" timestamp="1551127240168" />
       <file name="$USER_HOME$/code/apps/strange/source/model/ECS.h" timestamp="1550872464978">
         <mark key="'" line="19" column="22" />
         <mark key="[" line="0" column="0" />
@@ -210,7 +210,7 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1550872535581">
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551141706676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -288,7 +288,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/Main.cpp" timestamp="1551119295809" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1546386595266">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
@@ -327,13 +326,12 @@
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551119239367" />
-      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1550864999871">
+      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551141594890">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="31" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="48" />
         <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="31" />
+        <mark key="." line="16" column="48" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
@@ -445,8 +443,8 @@
       <jump line="103" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vdmVjMyBwb3dlciA9IGxpZ2h0X2NvbG9yW2lfbGlnaHRdIC8gcG93KGRpc3RhbmNlX3RvX2xpZ2h0LCAyKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHNvdXJjZS9lY3MvRUNTQ29tcG9uZW50cy5o</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -455,7 +453,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdlb21fbm9ybWFs</text>
+        <text encoding="base64">IHNvdXJjZS9lY3MvRUNTQ29tcG9uZW50cy5o</text>
       </register>
       <register name="/" type="4">
         <text>geom_normal</text>
