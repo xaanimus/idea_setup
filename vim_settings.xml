@@ -16,8 +16,8 @@
         <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUInput.h" timestamp="1551217291177" />
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" timestamp="1551218192998">
-        <mark key="'" line="809" column="0" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" timestamp="1551220498620">
+        <mark key="'" line="552" column="31" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
@@ -34,11 +34,12 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" timestamp="1551219202367">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" timestamp="1551221308564">
+        <mark key="'" line="74" column="43" />
+        <mark key="[" line="114" column="27" />
+        <mark key="]" line="114" column="48" />
+        <mark key="." line="114" column="48" />
+        <mark key="^" line="114" column="48" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_rwr238_sb838/a5/src/splines/CatmullRom.java" timestamp="1542678636348">
         <mark key="[" line="22" column="0" />
@@ -165,9 +166,9 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1551217383653">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="31" />
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1551220697053">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="6" />
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
@@ -304,11 +305,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.h" timestamp="1551218986514">
-        <mark key="[" line="45" column="86" />
-        <mark key="]" line="45" column="87" />
-        <mark key="." line="45" column="87" />
-        <mark key="^" line="45" column="87" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.h" timestamp="1551220931652">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="30" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551208397809">
         <mark key="'" line="22" column="0" />
@@ -325,22 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="144" column="7" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="153" column="23" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="155" column="17" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="156" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="160" column="7" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="170" column="23" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="172" column="17" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="173" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="177" column="7" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="189" column="23" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="191" column="9" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="206" column="24" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="221" column="24" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="12" column="33" filename="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" />
-      <jump line="15" column="1" filename="$USER_HOME$/code/apps/strange/source/model/ECS.cpp" />
       <jump line="22" column="0" filename="$USER_HOME$/code/apps/strange/CMakeLists.txt" />
       <jump line="19" column="22" filename="$USER_HOME$/code/apps/strange/source/model/ECS.h" />
       <jump line="108" column="0" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" />
@@ -425,10 +410,26 @@
       <jump line="310" column="45" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
       <jump line="361" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
       <jump line="409" column="12" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
+      <jump line="534" column="55" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
+      <jump line="552" column="31" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
+      <jump line="74" column="43" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MouseVisualInput</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -437,40 +438,40 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MouseVisualInput</text>
       </register>
       <register name="/" type="4">
-        <text>Motion</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1Z2w6OlRvdWNoc2NyZWVuKiBfdG91Y2hzY3JlZW47Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnVuaXF1ZV9wdHI8TW91c2VWaXN1YWxJbnB1dD4gaW5wdXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE1vdXNlKiBtb3VzZSA9IElucHV0OjpnZXQ8TW91c2U+KCk7CiAgICByZXR1cm4gTW91c2VWaXN1YWxJbnB1dChtb3VzZSk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">VG91Y2hzY3JlZW5WaXN1YWxJbnB1dDo6VG91Y2hzY3JlZW5WaXN1YWxJbnB1dChjdWdsOjpUb3VjaHNjcmVlbiAqdG91Y2hzY3JlZW4pIHsKCn0K</text>
+        <text encoding="base64">ICAgIFRvdWNoc2NyZWVuKiB0b3VjaHNjcmVlbiA9IElucHV0OjpnZXQ8VG91Y2hzY3JlZW4+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ck1vdXNlVmlzdWFsSW5wdXQ6Ok1vdXNlVmlzdWFsSW5wdXQoY3VnbDo6TW91c2UgKm1vdXNlKSB7Cgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTW91c2VWaXN1YWxJbnB1dCA6IHB1YmxpYyBWaXN1YWxJbnB1dCB7Cn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlucHV0ID0gCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -480,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Motion</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>Motion</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -490,8 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shared_ptr_emplace</entry>
-        <entry>allocate_shared</entry>
         <entry encoding="base64">JiY=</entry>
         <entry>HEAD</entry>
         <entry encoding="base64">Pj4+</entry>
@@ -510,6 +509,8 @@
         <entry>listener</entry>
         <entry>Drag</entry>
         <entry>Motion</entry>
+        <entry>MotionListener</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>s/0.0/1.0/g</entry>
