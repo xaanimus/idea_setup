@@ -44,8 +44,8 @@
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551228121536">
-        <mark key="'" line="190" column="6" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
+        <mark key="'" line="297" column="20" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" timestamp="1551218511642">
         <mark key="'" line="409" column="12" />
@@ -101,14 +101,15 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1551290948668" />
       <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551289907112">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551289877388">
-        <mark key="'" line="17" column="92" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551291463574">
+        <mark key="'" line="17" column="83" />
         <mark key="[" line="17" column="108" />
         <mark key="]" line="17" column="108" />
         <mark key="^" line="17" column="17" />
@@ -132,28 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="43" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
-      <jump line="1045" column="31" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
-      <jump line="105" column="52" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
-      <jump line="80" column="21" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="52" column="27" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="4" column="41" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="497" column="35" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="756" column="35" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="863" column="3" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="866" column="42" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="872" column="39" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="886" column="4" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="755" column="30" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="835" column="24" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="843" column="11" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="854" column="19" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="868" column="47" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="623" column="60" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="775" column="32" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
-      <jump line="821" column="5" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
-      <jump line="1546" column="39" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
-      <jump line="1553" column="46" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
       <jump line="1532" column="56" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
       <jump line="64" column="12" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
       <jump line="98" column="56" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
@@ -232,6 +211,28 @@
       <jump line="6" column="0" filename="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" />
       <jump line="27" column="0" filename="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" />
+      <jump line="63" column="2" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="69" column="12" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="70" column="41" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="96" column="24" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="147" column="64" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="148" column="18" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="163" column="64" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="164" column="18" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="180" column="64" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="181" column="18" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="228" column="64" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="229" column="18" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="244" column="64" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="245" column="18" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="261" column="64" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="262" column="18" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="293" column="19" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="295" column="19" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="297" column="20" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" />
+      <jump line="24" column="41" filename="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" />
+      <jump line="17" column="83" filename="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -247,7 +248,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>contentSize</text>
+        <text>point</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFQqIG9wZXJhdG9yLT4oKSB7CiAgICAgICAgY2hlY2tIYXNWYWx1ZSgpOwogICAgICAgIHJldHVybiAmX3BheWxvYWQ7CiAgICB9Cg==</text>
@@ -287,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>contentSize</last-search>
+      <last-search>point</last-search>
       <last-offset />
-      <last-pattern>contentSize</last-pattern>
+      <last-pattern>point</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -297,8 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Drag</entry>
-        <entry>Motion</entry>
         <entry>MotionListener</entry>
         <entry>)</entry>
         <entry>root</entry>
@@ -317,6 +316,8 @@
         <entry>bounding</entry>
         <entry>_contentSize</entry>
         <entry>contentSize</entry>
+        <entry>camera</entry>
+        <entry>point</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
