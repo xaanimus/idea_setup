@@ -36,11 +36,22 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="114" column="48" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.cpp" timestamp="1551215627691" />
-      <file name="/LLDB" timestamp="1551278930082">
+      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.cpp" timestamp="1551299437999">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+      </file>
+      <file name="/LLDB" timestamp="1551299469219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUScene.cpp" timestamp="1551228128232" />
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" timestamp="1551299585955">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
@@ -58,11 +69,11 @@
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.h" timestamp="1551208156386">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/code/apps/strange/source/ecs/ECS.h" timestamp="1551299955545">
+        <mark key="[" line="31" column="57" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
@@ -102,11 +113,11 @@
         <mark key="'" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1551290948668" />
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551296252457">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551299880426">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551295999274">
         <mark key="'" line="17" column="83" />
@@ -235,8 +246,8 @@
       <jump line="17" column="83" filename="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -245,43 +256,43 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>point</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFQqIG9wZXJhdG9yLT4oKSB7CiAgICAgICAgY2hlY2tIYXNWYWx1ZSgpOwogICAgICAgIHJldHVybiAmX3BheWxvYWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXN0ZW0tPmVjc1VwZGF0ZShkZWx0YV90aW1lLCBfcmVnaXN0cnkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQ1VMb2coInVwZGF0aW5nIik7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byYmIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDVUxvZygiJWQiLCAqbWF5YmVfeCk7Cg==</text>
+        <text encoding="base64">CiAgICBmb3IgKGF1dG8mIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+ZWNzVXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9CgogICAgZm9yIChhdXRvJiBzeXN0ZW0gOiBfc3lzdGVtcy5zZWNvbmRhcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+ZWNzVXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdWlfdG9vbHM6OlRyYXZlcnNlUmVzdWx0PGludD4gewogICAgICAgICAgICAuc3RhdHVzID0gdWlfdG9vbHM6OlNUQVRVU19UUkFWRVJTRV9DSElMRFJFTiwKICAgICAgICAgICAgLnJlc3VsdFZhbHVlID0gMAogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtLT5lY3NVcGRhdGUoZGVsdGFfdGltZSwgX3JlZ2lzdHJ5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtLT5lY3NVcGRhdGUoZGVsdGFfdGltZSwgX3JlZ2lzdHJ5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaGF2ZSBsYW1iZGEgcmV0dXJuIE9wdGlvbjxUPi4gaWYgTm9uZSwgdHJhdmVyc2UgY2hpbGRyZW4uIGlmIFNvbWUsIHN0b3AgdHJhdmVyc2UgYW5kIHJldHVybiBUCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBlbnVtIFRyYXZlcnNlU3RhdHVzIHsgU1RBVFVTX1RSQVZFUlNFX0NISUxEUkVOLCBTVEFUVVNfU1RPUF9UUkFWRVJTRSB9OwoKICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+CiAgICBzdHJ1Y3QgVHJhdmVyc2VSZXN1bHQgewogICAgICAgIFRyYXZlcnNlU3RhdHVzIHN0YXR1czsKICAgICAgICBUIHJlc3VsdFZhbHVlOwogICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vQ1VMb2coInVwZGF0aW5nIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
