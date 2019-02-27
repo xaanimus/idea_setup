@@ -37,8 +37,8 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551225758948">
-        <mark key="'" line="1553" column="46" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551227049957">
+        <mark key="'" line="1532" column="56" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny1.yaml" timestamp="1546310536184">
         <mark key="[" line="31" column="26" />
@@ -274,11 +274,11 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551225937051">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551227294790">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/distributed_computing_class/hw1_distributed/Cargo.toml" timestamp="1543614841238">
         <mark key="[" line="7" column="0" />
@@ -370,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1365" column="25" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
       <jump line="1370" column="23" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
       <jump line="1373" column="62" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
       <jump line="1375" column="12" filename="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" />
@@ -470,10 +469,11 @@
       <jump line="821" column="5" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
       <jump line="1546" column="39" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
       <jump line="1553" column="46" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="1532" column="56" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VUlUcmF2ZXJzZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2wgaW50ZXJzZWN0c193aXRoX25vZGUgPSBib3VuZGluZ0JveC5jb250YWlucyhwb2ludCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -482,16 +482,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VUlUcmF2ZXJzZSA=</text>
+        <text>intersects_with_node</text>
       </register>
       <register name="/" type="4">
-        <text>getchildren</text>
+        <text>getBounding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnVuaXF1ZV9wdHI8TW91c2VWaXN1YWxJbnB1dD4gaW5wdXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gaXQgPSBjaGlsZHJlbi5yYmVnaW4oKTsgaXQgIT0gY2hpbGRyZW4ucmVuZCgpOyBpdCsrKSB7CiAgICAgICAgICAgIFRyYXZlcnNlUmVzdWx0PFRSZXR1cm4+IHJlc3VsdCA9IGNhbGxiYWNrKCppdCk7CiAgICAgICAgICAgIGlmIChyZXN1bHQuc3RhdHVzID09IFRyYXZlcnNlUmVzdWx0OjpUUkFWRVJTRV9DSElMRFJFTikgewogICAgICAgICAgICAgICAgLy8gcmVjdXJzZQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2wgaW50ZXJzZWN0c193aXRoX25vZGUgPSBib3VuZGluZ0JveC5jb250YWlucyhwb2ludCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
@@ -500,34 +500,34 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdW5kaW5nQm94LmNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBUcmF2ZXJzZVJlc3VsdDxUUmV0dXJuPiByZXN1bHQgPSBjYWxsYmFjaygqaXQpOwogICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5zdGF0dXMgPT0gU1RBVFVTX1NUT1BfVFJBVkVSU0UpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0LnJlc3VsdFZhbHVlOwogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdF9pbgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPHR5cGVuYW1lIFQ+CnVzaW5nIFVJVHJhdmVyc2VDYWxsYmFjayA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dWlUcmF2ZXJzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getchildren</last-search>
+      <last-search>getBounding</last-search>
       <last-offset />
-      <last-pattern>getchildren</last-pattern>
+      <last-pattern>getBounding</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EnTT_INCLUDE</entry>
-        <entry>target</entry>
         <entry>init</entry>
         <entry>HELLO_WORLD_SRC</entry>
         <entry>Listener</entry>
@@ -555,6 +553,8 @@
         <entry>sortZOrder</entry>
         <entry>getChildren</entry>
         <entry>getchildren</entry>
+        <entry>getBouding</entry>
+        <entry>getBounding</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
