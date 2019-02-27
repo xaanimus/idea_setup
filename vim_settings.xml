@@ -102,13 +102,13 @@
         <mark key="'" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1551290948668" />
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551289907112">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551296252457">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551291463574">
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551295999274">
         <mark key="'" line="17" column="83" />
         <mark key="[" line="17" column="108" />
         <mark key="]" line="17" column="108" />
