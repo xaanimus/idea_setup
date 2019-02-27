@@ -16,6 +16,13 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1551228473404">
         <mark key="'" line="48" column="26" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/util/Option.h" timestamp="1551283225952">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
       </file>
@@ -94,19 +101,19 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551279488759">
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551281902897">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="36" column="52" />
         <mark key="]" line="36" column="55" />
         <mark key="." line="36" column="55" />
         <mark key="^" line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551279723978">
-        <mark key="'" line="25" column="92" />
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="104" />
-        <mark key="." line="19" column="104" />
-        <mark key="^" line="19" column="104" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551282514793">
+        <mark key="'" line="27" column="92" />
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
@@ -126,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
       <jump line="18" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/VisualInput.cpp" />
@@ -226,10 +232,11 @@
       <jump line="204" column="9" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
       <jump line="205" column="9" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
       <jump line="247" column="5" filename="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" />
+      <jump line="30" column="4" filename="$USER_HOME$/code/apps/strange/source/util/Option.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -238,43 +245,43 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>contentSize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gaXQgPSBjaGlsZHJlbi5yYmVnaW4oKTsgaXQgIT0gY2hpbGRyZW4ucmVuZCgpOyBpdCsrKSB7CiAgICAgICAgICAgIFRyYXZlcnNlUmVzdWx0PFRSZXR1cm4+IHJlc3VsdCA9IGNhbGxiYWNrKCppdCk7CiAgICAgICAgICAgIGlmIChyZXN1bHQuc3RhdHVzID09IFRyYXZlcnNlUmVzdWx0OjpUUkFWRVJTRV9DSElMRFJFTikgewogICAgICAgICAgICAgICAgLy8gcmVjdXJzZQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjYWxsZWQgZ2V0KCkgb24gYW4gT3B0aW9uIHdpdGggbm8gdmFsdWUuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIV9oYXNWYWx1ZSkgewogICAgICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3IoImNhbGxlZCBnZXQoKSBvbiBhbiBPcHRpb24gd2l0aCBubyB2YWx1ZS4iKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnZXRUb3VjaFZpc3VhbElucHV0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgY2hlY2tICg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnZXRNb3VzZVZpc3VhbElucHV0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAidXAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERpc3BsYXk6OmdldEJvdW5kcygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
