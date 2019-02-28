@@ -23,21 +23,21 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551326262499">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="29" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551327794317">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551326396938">
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551327276889">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="56" />
-        <mark key="^" line="25" column="56" />
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
@@ -272,7 +272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -281,52 +281,52 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJvb3Q=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>obstacle</text>
+        <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbjxTbGluZ3Nob3RDaGFyZ2luZ0V2ZW50PiBzbGluZ3Nob3RDaGFyZ2luZzsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">W10oY29uc3QgVmlzdWFsSW5wdXQ6OklucHV0RXZlbnQmIGV2ZW50LCBib29sIGZvY3VzKXsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbm9kZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDItMjcuCi8vCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDItMjcuCi8vCgo=</text>
+        <text encoding="base64">Xwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnNoYXJlZF9wdHI8Y29uc3QgSW5wdXRTdGF0dXNWaWV3ZXI+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbgo=</text>
+        <text encoding="base64">c3RydWN0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdENoYXJnaW5nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>obstacle</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>obstacle</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>root</entry>
         <entry>draw</entry>
         <entry>sortZOrder</entry>
         <entry>getChildren</entry>
@@ -354,6 +353,7 @@
         <entry>point</entry>
         <entry>force</entry>
         <entry>obstacle</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
