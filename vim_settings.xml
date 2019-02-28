@@ -46,8 +46,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUScene.cpp" timestamp="1551228128232" />
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" timestamp="1551299585955">
-        <mark key="[" line="7" column="13" />
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.h" timestamp="1550861929848">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.h" timestamp="1551313202938">
+        <mark key="[" line="10" column="15" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
@@ -57,6 +62,11 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/WorldLevelScene.h" timestamp="1551313255774">
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUTouchscreen.h" timestamp="1551218511642">
         <mark key="'" line="409" column="12" />
@@ -93,7 +103,7 @@
         <mark key="'" line="116" column="34" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/cugl.h" timestamp="1551227596176" />
-      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1551229009222">
+      <file name="$USER_HOME$/code/apps/strange/source/StrangerSeasApp.cpp" timestamp="1551313013691">
         <mark key="[" line="15" column="57" />
         <mark key="]" line="15" column="57" />
         <mark key="." line="15" column="57" />
@@ -113,11 +123,10 @@
         <mark key="'" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1551290948668" />
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551299880426">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-        <mark key="." line="11" column="46" />
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/GameScene.cpp" timestamp="1551313153933">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" timestamp="1551295999274">
         <mark key="'" line="17" column="83" />
@@ -125,6 +134,11 @@
         <mark key="]" line="17" column="108" />
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="108" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/README.md" timestamp="1550864174207">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
@@ -141,6 +155,11 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/WorldLevelScene.cpp" timestamp="1551313592813">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -246,8 +265,8 @@
       <jump line="17" column="83" filename="$USER_HOME$/code/apps/strange/source/ui_tools/UITraverse.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -265,34 +284,34 @@
         <text encoding="base64">ICAgICAgICBzeXN0ZW0tPmVjc1VwZGF0ZShkZWx0YV90aW1lLCBfcmVnaXN0cnkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoYXV0byYmIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykK</text>
+        <text encoding="base64">ICAgIF9lY3MgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBmb3IgKGF1dG8mIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+ZWNzVXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9CgogICAgZm9yIChhdXRvJiBzeXN0ZW0gOiBfc3lzdGVtcy5zZWNvbmRhcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+ZWNzVXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIF9lY3MgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtLT5lY3NVcGRhdGUoZGVsdGFfdGltZSwgX3JlZ2lzdHJ5KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtLT5lY3NVcGRhdGUoZGVsdGFfdGltZSwgX3JlZ2lzdHJ5KTsK</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byYmIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">CiAgICBmb3IgKGF1dG8mIHN5c3RlbSA6IF9zeXN0ZW1zLnByaW1hcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+ZWNzVXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9CgogICAgZm9yIChhdXRvJiBzeXN0ZW0gOiBfc3lzdGVtcy5zZWNvbmRhcnlfc3lzdGVtcykgewogICAgICAgIHN5c3RlbS0+ZWNzVXBkYXRlKGRlbHRhX3RpbWUsIF9yZWdpc3RyeSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vQ1VMb2coInVwZGF0aW5nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtLT5lY3NVcGRhdGUoZGVsdGFfdGltZSwgX3JlZ2lzdHJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
