@@ -23,13 +23,21 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551326262499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551325313719">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551326396938">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+        <mark key="^" line="25" column="56" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
@@ -161,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="43" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
       <jump line="149" column="9" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
       <jump line="475" column="47" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" />
       <jump line="4" column="0" filename="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" />
@@ -261,10 +268,11 @@
       <jump line="344" column="59" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
       <jump line="346" column="59" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
       <jump line="348" column="53" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -273,43 +281,43 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHJvb3Q=</text>
       </register>
       <register name="/" type="4">
         <text>obstacle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW0tPmVjc1VwZGF0ZShkZWx0YV90aW1lLCBfcmVnaXN0cnkpOwo=</text>
+        <text encoding="base64">ICAgIE9wdGlvbjxTbGluZ3Nob3RDaGFyZ2luZ0V2ZW50PiBzbGluZ3Nob3RDaGFyZ2luZzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dt)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCB7CiAgICAgICAgCiAgICB9Owo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDItMjcuCi8vCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDItMjcuCi8vCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnNoYXJlZF9wdHI8Y29uc3QgSW5wdXRTdGF0dXNWaWV3ZXI+KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE9wdGlvbgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
