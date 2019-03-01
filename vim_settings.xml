@@ -37,12 +37,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551405016539">
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551483008054">
         <mark key="'" line="11" column="11" />
-        <mark key="[" line="142" column="24" />
-        <mark key="]" line="142" column="24" />
-        <mark key="." line="142" column="24" />
-        <mark key="^" line="52" column="15" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
@@ -53,9 +52,8 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551401510675">
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
         <mark key="'" line="4" column="23" />
-        <mark key="^" line="32" column="33" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
