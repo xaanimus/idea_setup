@@ -22,8 +22,8 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" timestamp="1550947320908">
         <mark key="'" line="405" column="8" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" timestamp="1551390062612">
-        <mark key="'" line="563" column="14" />
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" timestamp="1551398561058">
+        <mark key="'" line="504" column="16" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" timestamp="1551395496340">
         <mark key="'" line="1795" column="14" />
@@ -37,12 +37,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551397730081">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="27" />
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551398789787">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
@@ -53,12 +52,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551397717752">
+      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551398809773">
         <mark key="'" line="4" column="23" />
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="45" column="32" />
-        <mark key="." line="45" column="32" />
-        <mark key="^" line="45" column="32" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
@@ -425,37 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="694" column="23" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
-      <jump line="799" column="45" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
-      <jump line="426" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
-      <jump line="414" column="20" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
-      <jump line="563" column="14" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
-      <jump line="15" column="58" filename="$USER_HOME$/code/apps/strange/README.md" />
-      <jump line="53" column="1" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="59" column="14" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="96" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="200" column="72" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="216" column="36" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="439" column="25" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="441" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="443" column="25" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="445" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="447" column="29" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="451" column="25" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="453" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="458" column="35" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="461" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="463" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="464" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="465" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="467" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="469" column="22" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="471" column="23" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="475" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="477" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
-      <jump line="478" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
       <jump line="479" column="34" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
       <jump line="484" column="23" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
       <jump line="487" column="28" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" />
@@ -502,16 +470,12 @@
       <jump line="26" column="5" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="36" column="16" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="120" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="8" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="47" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="84" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="93" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="105" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="98" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="77" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="69" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="67" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
@@ -519,16 +483,51 @@
       <jump line="57" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="50" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="43" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="19" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
       <jump line="30" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="124" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="126" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="103" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="108" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="115" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="119" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="125" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="135" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="136" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="130" column="0" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="10" column="11" filename="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" />
+      <jump line="609" column="9" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
+      <jump line="758" column="27" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
+      <jump line="842" column="38" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
+      <jump line="916" column="15" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
+      <jump line="504" column="16" filename="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENVTG9nKCJtb3VzZSB3aGVlbCAlcyIsIGV2ZW50LmRpcmVjdGlvbi50b1N0cmluZyhmYWxzZSkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -537,52 +536,52 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>SLINGSHOT_KEY</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>_slingshotTouchId</text>
+        <text>wheelli</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9wdGlvbihUJiYgcGF5bG9hZCk6IF9wYXlsb2FkKHBheWxvYWQpLCBfaGFzVmFsdWUodHJ1ZSkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENVTG9nKCJtb3VzZSB3aGVlbCAlcyIsIGV2ZW50LmRpcmVjdGlvbi50b1N0cmluZyhmYWxzZSkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dt2dldl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgVWludDMyIFNMSU5HU0hPVF9LRVkgPSAwOwpjb25zdCBVaW50MzIgUEFOX0tFWSA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3RoaXNdKGNvbnN0IE1vdXNlV2hlZWxFdmVudCYgZXZlbnQsIGJvb2wgZm9jdXMpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgaW5pdGlhbGl6ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbihUIHBheWxvYWQpOiBPcHRpb24ocGF5bG9hZCkge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbihUIHBheWxvYWQpOiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlaW5pdGlhbGl6ZVNoYXJlZElucHV0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_slingshotTouchId</last-search>
+      <last-search>wheelli</last-search>
       <last-offset />
-      <last-pattern>_slingshotTouchId</last-pattern>
+      <last-pattern>wheelli</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -590,7 +589,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alloc</entry>
         <entry>init(</entry>
         <entry>getDisplay</entry>
         <entry>_display</entry>
@@ -610,6 +608,7 @@
         <entry>Vec3</entry>
         <entry>scale</entry>
         <entry>_slingshotTouchId</entry>
+        <entry>wheelli</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
