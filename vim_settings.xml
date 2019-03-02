@@ -405,11 +405,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/scenes/WorldLevelScene.cpp" timestamp="1551491171812">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/code/apps/strange/source/scenes/WorldLevelScene.cpp" timestamp="1551565923546">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/code/apps/vulkan_cpp/src/Graphics.h" timestamp="1548208964706">
         <mark key="[" line="30" column="4" />
@@ -521,8 +521,8 @@
       <jump line="482" column="32" filename="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -531,7 +531,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>ECS::ECSSystems(primarySystems, secondarySystems)</text>
       </register>
       <register name="/" type="4">
         <text>Position</text>
@@ -540,31 +540,31 @@
         <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEVDUzo6U3lzdGVtPj4g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmltYXJ5X3N5c3RlbXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dt2dldl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c2hhcmVkX3B0cjxFQ1M6OlN5c3RlbT4+IHByaW1hcnlTeXN0ZW1zID0gewogICAgICAgICAgICAvLyBtb2RlbCBzeXN0ZW1zIGhlcmUKICAgIH07CiAgICBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RUNTOjpTeXN0ZW0+PiBzZWNvbmRhcnlTeXN0ZW1zID0gewogICAgICAgICAgICAvLyByZW5kZXJpbmcgc3lzdGVtcyBoZXJlCiAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmltYXJ5X3N5c3RlbXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kYXJ5X3N5c3RlbXMgPSB7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUGh5c2ljc1N5c3RlbSA6IHB1YmxpYyBFQ1M6OlN5c3RlbSB7CnB1YmxpYzoKICAgIHZvaWQgZWNzSW5pdChFQ1M6OkdhbWVSZWdpc3RyeSAmcmVnaXN0cnkpIG92ZXJyaWRlOwoKICAgIHZvaWQgZWNzVXBkYXRlKGZsb2F0IGRlbHRhX3RpbWUsIEVDUzo6R2FtZVJlZ2lzdHJ5ICZyZWdpc3RyeSkgb3ZlcnJpZGU7Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kYXJ5X3N5c3RlbXMgPSB7Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9pZCBQaHlzaWNzU3lzdGVtOjplY3NJbml0KEVDUzo6R2FtZVJlZ2lzdHJ5ICZyZWdpc3RyeSkgewoKfQoKdm9pZCBQaHlzaWNzU3lzdGVtOjplY3NVcGRhdGUoZmxvYXQgZGVsdGFfdGltZSwgRUNTOjpHYW1lUmVnaXN0cnkgJnJlZ2lzdHJ5KSB7CiAgICByZWdpc3RyeS52aWV3PFBoeXNpY3NPYmplY3Q+KCkuZWFjaChbXShjb25zdCBhdXRvLCBhdXRvIHBoeXNpY3NPYmplY3QpewogICAgICAgIHBoeQogICAgfSkKfQo=</text>
+        <text encoding="base64">Y2xhc3MgUGh5c2ljc1N5c3RlbSA6IHB1YmxpYyBFQ1M6OlN5c3RlbSB7CnB1YmxpYzoKICAgIHZvaWQgZWNzSW5pdChFQ1M6OkdhbWVSZWdpc3RyeSAmcmVnaXN0cnkpIG92ZXJyaWRlOwoKICAgIHZvaWQgZWNzVXBkYXRlKGZsb2F0IGRlbHRhX3RpbWUsIEVDUzo6R2FtZVJlZ2lzdHJ5ICZyZWdpc3RyeSkgb3ZlcnJpZGU7Cn07Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
