@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUSoundLoader.cpp" timestamp="1551636376693" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUSoundLoader.cpp" timestamp="1551637912125" />
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny1.yaml" timestamp="1546310536184">
         <mark key="[" line="31" column="26" />
         <mark key="]" line="31" column="25" />
@@ -250,6 +250,7 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" timestamp="1551637631737" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
         <mark key="'" line="218" column="6" />
       </file>
@@ -356,7 +357,7 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1551636135950">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1551637680799">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
