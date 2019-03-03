@@ -397,12 +397,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551208397809">
+      <file name="$USER_HOME$/code/apps/strange/CMakeLists.txt" timestamp="1551630492599">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="25" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/scenes/WorldLevelScene.cpp" timestamp="1551565923546">
         <mark key="[" line="15" column="0" />
@@ -520,8 +520,8 @@
       <jump line="482" column="32" filename="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lib</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -530,7 +530,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ECS::ECSSystems(primarySystems, secondarySystems)</text>
+        <text>lib</text>
       </register>
       <register name="/" type="4">
         <text>Position</text>
