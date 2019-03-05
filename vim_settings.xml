@@ -30,12 +30,6 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1551228473404">
         <mark key="'" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.cpp" timestamp="1551483008054">
-        <mark key="'" line="11" column="11" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
       </file>
@@ -84,6 +78,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551317268316">
         <mark key="'" line="348" column="53" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" timestamp="1551823328741" />
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1546191804303">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -226,12 +221,18 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" timestamp="1551733962208">
-        <mark key="'" line="27" column="14" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" timestamp="1551823798122">
+        <mark key="'" line="137" column="16" />
         <mark key="[" line="134" column="31" />
         <mark key="]" line="134" column="37" />
         <mark key="." line="134" column="37" />
         <mark key="^" line="134" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" timestamp="1551823994532">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="19" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
@@ -486,7 +487,6 @@
       <jump line="19" column="13" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="0" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="143" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="137" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="133" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="130" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="124" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
@@ -551,10 +551,11 @@
       <jump line="137" column="22" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="22" column="20" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="21" column="17" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="137" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -563,10 +564,10 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>diffuse</text>
+        <text>position</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlYzMgdGFuZ2VudF9zcGFjZV9ub3JtYWwgPSB0ZXh0dXJlKG1hdF9ub3JtYWxUZXh0dXJlLCBnZW9tX3RleENvb3JkKS54eXo7Cg==</text>
@@ -606,9 +607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>diffuse</last-search>
+      <last-search>position</last-search>
       <last-offset />
-      <last-pattern>diffuse</last-pattern>
+      <last-pattern>position</last-pattern>
       <last-replace>STRANGER_SEAS_SRC</last-replace>
       <last-substitute>HELLO_WORLD_SRC</last-substitute>
       <last-dir>1</last-dir>
@@ -626,7 +627,6 @@
         <entry>_slingshotTouchId</entry>
         <entry>wheelli</entry>
         <entry>location</entry>
-        <entry>position</entry>
         <entry>Position</entry>
         <entry>dispose</entry>
         <entry>virtual</entry>
@@ -636,6 +636,7 @@
         <entry>normal</entry>
         <entry>geom_normal</entry>
         <entry>diffuse</entry>
+        <entry>position</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
