@@ -33,15 +33,15 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1551841053207">
+      <file name="/LLDB" timestamp="1551886140633">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" timestamp="1551831196526">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" timestamp="1551887632855">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="151" column="14" />
-        <mark key="]" line="151" column="15" />
-        <mark key="." line="151" column="15" />
-        <mark key="^" line="151" column="15" />
+        <mark key="[" line="139" column="67" />
+        <mark key="]" line="139" column="65" />
+        <mark key="." line="139" column="65" />
+        <mark key="^" line="139" column="65" />
       </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/CMakeLists.txt" timestamp="1548477380330">
         <mark key="[" line="8" column="12" />
@@ -92,10 +92,10 @@
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551735954174">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="114" column="39" />
-        <mark key="]" line="115" column="3" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" timestamp="1551887057486">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="116" column="3" />
         <mark key="." line="115" column="3" />
         <mark key="^" line="115" column="3" />
       </file>
@@ -105,21 +105,22 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" timestamp="1551825029402">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" timestamp="1551887573589">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="78" column="41" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="56" />
+        <mark key="." line="73" column="56" />
+        <mark key="^" line="73" column="56" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" timestamp="1551831609162">
-        <mark key="[" line="59" column="20" />
-        <mark key="]" line="59" column="20" />
-        <mark key="." line="59" column="20" />
-        <mark key="^" line="59" column="20" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" timestamp="1551887558671">
+        <mark key="'" line="62" column="24" />
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="55" />
+        <mark key="." line="62" column="55" />
+        <mark key="^" line="62" column="55" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
         <mark key="'" line="218" column="6" />
@@ -306,12 +307,12 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551841365834">
-        <mark key="'" line="351" column="4" />
-        <mark key="[" line="148" column="4" />
-        <mark key="]" line="148" column="4" />
-        <mark key="." line="148" column="4" />
-        <mark key="^" line="164" column="4" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551886872536">
+        <mark key="'" line="80" column="16" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="41" />
+        <mark key="." line="345" column="63" />
+        <mark key="^" line="345" column="63" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1551634956678">
         <mark key="[" line="18" column="21" />
@@ -355,6 +356,9 @@
         <mark key="]" line="15" column="57" />
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1551886542417">
+        <mark key="'" line="66" column="2" />
       </file>
       <file name="$USER_HOME$/Work/fa18/graphics_cs4620/a5_code_grading/group_of_pw273_ys499/a5/src/splines/CatmullRom.java" timestamp="1542663008339">
         <mark key="[" line="11" column="13" />
@@ -453,36 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="117" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="103" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="104" column="45" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="105" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="7" column="22" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="125" column="42" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="130" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="122" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="136" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="142" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="145" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="147" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="153" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="162" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="165" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="81" column="19" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="73" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="70" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/anisotropic_microfacet.frag" />
-      <jump line="28" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.hpp" />
       <jump line="246" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="57" column="21" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="60" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" />
@@ -511,8 +485,6 @@
       <jump line="261" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="69" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="300" column="22" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="302" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="304" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="50" column="88" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="112" column="78" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="164" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
@@ -530,7 +502,6 @@
       <jump line="256" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="258" column="33" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="269" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="277" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="290" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="294" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="163" column="14" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
@@ -538,7 +509,6 @@
       <jump line="313" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="299" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="130" column="3" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="316" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="310" column="58" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="21" column="19" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="259" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
@@ -546,31 +516,51 @@
       <jump line="270" column="79" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="319" column="5" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="356" column="6" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="278" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="282" column="45" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="287" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="292" column="6" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="328" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="329" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="351" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="277" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="278" column="62" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="344" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="302" column="42" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="304" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="324" column="35" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="316" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="61" column="7" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="343" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="365" column="32" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="341" column="58" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="74" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="75" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="76" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="80" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="66" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="103" column="34" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="104" column="38" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="107" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="112" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="113" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="114" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="19" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
+      <jump line="50" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="51" column="21" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="52" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="54" column="42" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="55" column="40" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="57" column="20" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="59" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="60" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="61" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
+      <jump line="62" column="24" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnJlc25lbF90ZXJtKGluY29taW5nX3ZlY3RvciwgaGFsZl92ZWN0b3IsIGlvcikgKgo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -579,19 +569,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>normal</text>
       </register>
       <register name="/" type="4">
-        <text>srgbBuffer</text>
+        <text>normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vZ2xDbGVhckNvbG9yKDAuMywgMC4zLCAwLjQsIDEuMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJlc25lbF90ZXJtKGluY29taW5nX3ZlY3RvciwgaGFsZl92ZWN0b3IsIGlvcikgKgo=</text>
       </register>
       <register name="1" type="8">
         <text>//
-//
-//
-//
 //
 //
 //
@@ -618,38 +605,49 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGdCdWZmZXJGYm8tPmJpbmQoMCk7Cg==</text>
+      <register name="2" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vZ2xDbGVhckNvbG9yKDAuMywgMC4zLCAwLjQsIDEuMCk7Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdCdWZmZXJGYm8tPmJpbmQoMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsQ2xlYXJDb2xvcigwLjMsIDAuMywgMC40LCAxLjApOwogICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUIHwgR0xfREVQVEhfQlVGRkVSX0JJVCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vZ0J1ZmZlcnNbMF0gPSB2ZWM0KDEuMCwgMS4wLCAxLjAsIDEuMCk7CiAgICAvL2dCdWZmZXJzWzNdID0gdmVjNCgxLjAsIDEuMCwgMS4wLCAxLjApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnbEcK</text>
+        <text encoding="base64">ICAgIC8vZ0J1ZmZlcnNbMF0gPSB2ZWM0KDEuMCwgMS4wLCAxLjAsIDEuMCk7CiAgICAvL2dCdWZmZXJzWzNdID0gdmVjNCgxLjAsIDEuMCwgMS4wLCAxLjApOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="8">
+        <text encoding="base64">Z0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDApLmlkKCkKZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDEpLmlkKCkKZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDIpLmlkKCkKZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDMpLmlkKCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvZiA8PCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>srgbBuffer</last-search>
+      <last-search>normal</last-search>
       <last-offset />
-      <last-pattern>srgbBuffer</last-pattern>
+      <last-pattern>normal</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -657,14 +655,8 @@
     </search>
     <history>
       <history-search>
-        <entry>diffuse_term</entry>
-        <entry>GLFramebuffer</entry>
-        <entry>isoMFShader</entry>
-        <entry>size(</entry>
-        <entry>size()</entry>
         <entry>internalFormat</entry>
         <entry>error</entry>
-        <entry>framebufferSize</entry>
         <entry>setUniform</entry>
         <entry>geom_texCoord</entry>
         <entry>coor</entry>
@@ -676,7 +668,13 @@
         <entry>screen</entry>
         <entry>texture</entry>
         <entry>Render</entry>
+        <entry>framebufferSize</entry>
+        <entry>size</entry>
+        <entry>GL_TEXTURE</entry>
+        <entry>srgb</entry>
         <entry>srgbBuffer</entry>
+        <entry>tangent</entry>
+        <entry>normal</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
