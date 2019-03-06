@@ -21,6 +21,11 @@
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Bloom/shaders/bloomBrute.frag" timestamp="1551900426054">
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="25" column="2" />
+        <mark key="." line="25" column="2" />
+      </file>
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
         <mark key="'" line="4" column="23" />
       </file>
@@ -54,6 +59,9 @@
         <mark key="]" line="113" column="13" />
         <mark key="^" line="113" column="13" />
         <mark key="." line="113" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551900500631">
+        <mark key="'" line="261" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ui_helpers/ui_allocator.h" timestamp="1550785773282">
         <mark key="[" line="46" column="59" />
@@ -156,6 +164,9 @@
         <mark key="]" line="101" column="9" />
         <mark key="^" line="101" column="9" />
         <mark key="." line="101" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" timestamp="1551899882306">
+        <mark key="'" line="78" column="27" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/TODO.md" timestamp="1546311135798">
         <mark key="[" line="16" column="2" />
@@ -455,9 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="182" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="194" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="196" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="198" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="202" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
@@ -555,10 +563,13 @@
       <jump line="18" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="138" column="36" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="40" column="22" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
+      <jump line="37" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" />
+      <jump line="78" column="27" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" />
+      <jump line="261" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>normalize(geom_bitangent)</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -567,16 +578,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>normalize(geom_bitangent)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>position</text>
+        <text>eclipse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxMDAuMCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>normalize(geom_normal)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBmcmFnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -592,40 +603,40 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>normalize(geom_normal)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAibWF0ZXJpYWxQYXJhbXM0IGlkICIgPDwgZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDMpLmlkKCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAibWF0ZXJpYWxQYXJhbXM0IGlkICIgPDwgZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDMpLmlkKCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vZnJhZ0NvbG9yLnh5eiA9IHZlYzMoZGVwdGggLSAyLjApOwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxLjApOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxMDAuMCk7Cg==</text>
+        <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxLjApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>position</last-search>
+      <last-search>eclipse</last-search>
       <last-offset />
-      <last-pattern>position</last-pattern>
+      <last-pattern>eclipse</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -633,8 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setUniform</entry>
-        <entry>geom_texCoord</entry>
         <entry>coor</entry>
         <entry>ubershader</entry>
         <entry>GL_VERTEX</entry>
@@ -653,6 +662,8 @@
         <entry>normal</entry>
         <entry>half_vector</entry>
         <entry>position</entry>
+        <entry>bloomFilter</entry>
+        <entry>eclipse</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
