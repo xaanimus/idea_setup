@@ -33,6 +33,9 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
+      <file name="/LLDB" timestamp="1551841053207">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" timestamp="1551831196526">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="151" column="14" />
@@ -303,12 +306,12 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551837043658">
-        <mark key="'" line="270" column="79" />
-        <mark key="[" line="117" column="29" />
-        <mark key="]" line="117" column="29" />
-        <mark key="." line="117" column="29" />
-        <mark key="^" line="117" column="29" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551841365834">
+        <mark key="'" line="351" column="4" />
+        <mark key="[" line="148" column="4" />
+        <mark key="]" line="148" column="4" />
+        <mark key="." line="148" column="4" />
+        <mark key="^" line="164" column="4" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1551634956678">
         <mark key="[" line="18" column="21" />
@@ -450,14 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="53" column="20" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
       <jump line="25" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
       <jump line="117" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
       <jump line="103" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
@@ -545,15 +540,37 @@
       <jump line="130" column="3" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="316" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="310" column="58" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="319" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="21" column="19" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="259" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="306" column="68" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="270" column="79" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="319" column="5" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="356" column="6" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="278" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="282" column="45" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="287" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="292" column="6" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="328" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="329" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
+      <jump line="351" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -562,16 +579,30 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>Render</text>
+        <text>srgbBuffer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImdidWZfbWF0ZXJpYWxQYXJhbXM0IiwgZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDMpLmlkKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vZ2xDbGVhckNvbG9yKDAuMywgMC4zLCAwLjQsIDEuMCk7Cg==</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -588,37 +619,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdCdWZmZXJGYm8tPmJpbmQoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLy8gZnVsbHNjcmVlbiBxdWFkCiAgc3RkOjp1bmlxdWVfcHRyPEdMV3JhcDo6R0xWZXJ0ZXhBcnJheT4gZnVsbFNjcmVlblF1YWRWYW87Cg==</text>
+        <text encoding="base64">ICAgIC8vZ2xDbGVhckNvbG9yKDAuMywgMC4zLCAwLjQsIDEuMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIGdCdWZmZXJGYm8tPmJpbmQoMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RkOjpjb3V0IDw8IHNpemUoKS54KCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIGdsQ2xlYXJDb2xvcigwLjMsIDAuMywgMC40LCAxLjApOwogICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUIHwgR0xfREVQVEhfQlVGRkVSX0JJVCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyYWdDb2xvciA9IHZlYzQoMS4wLCAxLjAsIDEuMCwgMS4wKTsK</text>
+        <text encoding="base64">ICBnbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0dMX0RFUFRIX0FUVEFDSE1FTlQK</text>
+        <text encoding="base64">ICBnbEcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0ZDo6YXJyYXk8R0xlbnVtLCA1PiBidWZmZXJzVG9EcmF3ID0gewogICAgICAgIEdMX0NPTE9SX0FUVEFDSE1FTlQwLAogICAgICAgIEdMX0NPTE9SX0FUVEFDSE1FTlQxLAogICAgICAgIEdMX0NPTE9SX0FUVEFDSE1FTlQyLAogICAgICAgIEdMX0NPTE9SX0FUVEFDSE1FTlQzLAogICAgICAgIEdMX0RFUFRIX0FUVEFDSE1FTlQKICAgIH07CiAgICBnbERyYXdCdWZmZXJzKGJ1ZmZlcnNUb0RyYXcuc2l6ZSgpLCBidWZmZXJzVG9EcmF3LmRhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdCdWZmZXJGYm8tPmJ1ZmZqawo=</text>
+        <text encoding="base64">ICBvZiA8PCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Render</last-search>
+      <last-search>srgbBuffer</last-search>
       <last-offset />
-      <last-pattern>Render</last-pattern>
+      <last-pattern>srgbBuffer</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -626,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
         <entry>diffuse_term</entry>
         <entry>GLFramebuffer</entry>
         <entry>isoMFShader</entry>
@@ -646,6 +676,7 @@
         <entry>screen</entry>
         <entry>texture</entry>
         <entry>Render</entry>
+        <entry>srgbBuffer</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
