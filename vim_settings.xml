@@ -102,8 +102,12 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551900500631">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551988278142">
         <mark key="'" line="261" column="11" />
+        <mark key="[" line="270" column="21" />
+        <mark key="]" line="270" column="21" />
+        <mark key="^" line="270" column="21" />
+        <mark key="." line="270" column="21" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ecs/ECSComponents.h" timestamp="1551490945710">
         <mark key="[" line="12" column="0" />
