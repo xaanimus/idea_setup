@@ -102,12 +102,11 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551990030006">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551991095543">
         <mark key="'" line="120" column="4" />
-        <mark key="[" line="315" column="39" />
-        <mark key="]" line="315" column="53" />
-        <mark key="." line="315" column="53" />
-        <mark key="^" line="315" column="53" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ecs/ECSComponents.h" timestamp="1551490945710">
         <mark key="[" line="12" column="0" />
@@ -284,8 +283,8 @@
       <jump line="120" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ymxvb21GaWx0ZXJTdGRldltibHVySWRdIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -303,7 +302,7 @@
         <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxMDAuMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW50IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,28 +319,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIFRvIGZpbmQgYSBnb29kIG1pcG1hcCBsZXZlbCBtLCB3ZSB3YW50IHRvIGZpbmQgdGhlIGhpZ2hlc3QgdmFsdWUgb2YgbSBzdWNoIHRoYXQKICAgIC8vIG9yaWdpbmFsX3N0ZGRldiAvICgyXm0pID49IDQKICAgIC8vIHRoaXMgc29sdmVzIHRvIGxvZzIob3JpZ2luYWxfc3RkZGV2IC8gNCkgPj0gbQogICAgLy8gc28gdG8gZ2V0IG0sIGNvbXB1dGUgbSA6PSBmbG9vcihsb2cyKG9yaWdpbmFsX3N0ZGRldiAvIDQpKQogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGJsdXIgaW4gMCBheGlzIHRvIGJsb29tQnVmZmVycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1blNjZW5lQnVmZmVyLT5jb2xvclRleHR1cmUoMCkuZ2VuZXJhdGVNaXBtYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgaW50IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmcmFnCg==</text>
+        <text encoding="base64">ICAgIHN1blNjZW5lQnVmZmVyLT5jb2xvclRleHR1cmUoMCkuZ2VuZXJhdGVNaXBtYXAoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>normalize(geom_normal)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
