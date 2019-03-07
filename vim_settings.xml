@@ -102,19 +102,19 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551988278142">
-        <mark key="'" line="261" column="11" />
-        <mark key="[" line="270" column="21" />
-        <mark key="]" line="270" column="21" />
-        <mark key="^" line="270" column="21" />
-        <mark key="." line="270" column="21" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551990030006">
+        <mark key="'" line="120" column="4" />
+        <mark key="[" line="315" column="39" />
+        <mark key="]" line="315" column="53" />
+        <mark key="." line="315" column="53" />
+        <mark key="^" line="315" column="53" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ecs/ECSComponents.h" timestamp="1551490945710">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" timestamp="1551899882306">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" timestamp="1551989841093">
         <mark key="'" line="78" column="27" />
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
@@ -182,12 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="256" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="258" column="33" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="269" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="290" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="294" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="163" column="14" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="318" column="33" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="313" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
@@ -282,10 +276,16 @@
       <jump line="469" column="10" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
       <jump line="732" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
       <jump line="468" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
+      <jump line="58" column="36" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
+      <jump line="156" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
+      <jump line="155" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
+      <jump line="121" column="64" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
+      <jump line="37" column="82" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
+      <jump line="120" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">Ymxvb21GaWx0ZXJTdGRldltibHVySWRdIA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -294,16 +294,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Ymxvb21GaWx0ZXJTdGRldltibHVySWRdIA==</text>
       </register>
       <register name="/" type="4">
-        <text>GetUserData</text>
+        <text>bloomBruteBuffers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxMDAuMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmcmFnCg==</text>
+        <text encoding="base64">ICAgICAgaW50IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -319,40 +319,38 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>normalize(geom_normal)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAibWF0ZXJpYWxQYXJhbXM0IGlkICIgPDwgZ0J1ZmZlckZiby0+Y29sb3JUZXh0dXJlKDMpLmlkKCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIHN1blNjZW5lQnVmZmVyLT5jb2xvclRleHR1cmUoMCkuZ2VuZXJhdGVNaXBtYXAoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vZnJhZ0NvbG9yLnh5eiA9IHZlYzMoZGVwdGggLSAyLjApOwo=</text>
+        <text encoding="base64">ICBmcmFnCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//</text>
+      <register name="8" type="4">
+        <text>normalize(geom_normal)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsQ2xlYXJEZXB0aCgxLjApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GetUserData</last-search>
+      <last-search>bloomBruteBuffers</last-search>
       <last-offset />
-      <last-pattern>GetUserData</last-pattern>
+      <last-pattern>bloomBruteBuffers</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -360,8 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>full</entry>
-        <entry>screen</entry>
         <entry>texture</entry>
         <entry>Render</entry>
         <entry>framebufferSize</entry>
@@ -380,6 +376,8 @@
         <entry>collision</entry>
         <entry>userData</entry>
         <entry>GetUserData</entry>
+        <entry>bloomBrute</entry>
+        <entry>bloomBruteBuffers</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
