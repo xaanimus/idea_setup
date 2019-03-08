@@ -3,39 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
-        <mark key="'" line="482" column="32" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Option.h" timestamp="1551998908213">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="12" column="41" />
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" timestamp="1551891077169">
-        <mark key="'" line="64" column="24" />
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="30" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1551228466821">
         <mark key="'" line="247" column="39" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1551886542417">
-        <mark key="'" line="66" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Bloom/shaders/bloom.frag" timestamp="1551994863806">
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="27" column="2" />
-        <mark key="." line="27" column="2" />
-        <mark key="^" line="24" column="76" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" timestamp="1551398561058">
         <mark key="'" line="504" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
-        <mark key="'" line="218" column="6" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" timestamp="1550947320908">
         <mark key="'" line="405" column="8" />
@@ -45,12 +23,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1551228473404">
         <mark key="'" line="48" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" timestamp="1550947232365">
-        <mark key="'" line="479" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
-        <mark key="'" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" timestamp="1551925862741">
         <mark key="'" line="468" column="0" />
@@ -70,20 +42,8 @@
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
         <mark key="'" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1551998214334">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="76" />
-        <mark key="^" line="1" column="76" />
-        <mark key="." line="1" column="76" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.hpp" timestamp="1551831348245">
-        <mark key="'" line="30" column="10" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551925574853">
         <mark key="'" line="423" column="27" />
@@ -104,20 +64,11 @@
         <mark key="." line="123" column="48" />
         <mark key="^" line="123" column="48" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
-        <mark key="'" line="35" column="49" />
-      </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional_usage.md" timestamp="1551998902247">
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
-        <mark key="^" line="30" column="66" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" timestamp="1551995468005">
         <mark key="'" line="120" column="4" />
@@ -125,18 +76,6 @@
         <mark key="]" line="319" column="0" />
         <mark key="^" line="319" column="32" />
         <mark key="." line="319" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" timestamp="1551993292499">
-        <mark key="'" line="78" column="27" />
-        <mark key="[" line="80" column="2" />
-        <mark key="]" line="80" column="2" />
-        <mark key="." line="80" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.h" timestamp="1551998442239">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="26" column="69" />
-        <mark key="^" line="26" column="69" />
-        <mark key="." line="26" column="69" />
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
@@ -147,9 +86,6 @@
         <mark key="]" line="356" column="0" />
         <mark key="." line="356" column="0" />
         <mark key="^" line="332" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" timestamp="1551633701023">
-        <mark key="'" line="69" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
@@ -182,12 +118,6 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
-        <mark key="'" line="219" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
-        <mark key="'" line="60" column="30" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1551903682695">
         <mark key="'" line="95" column="16" />
       </file>
@@ -204,6 +134,92 @@
         <mark key="]" line="73" column="56" />
         <mark key="." line="73" column="56" />
         <mark key="^" line="73" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
+        <mark key="'" line="482" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" timestamp="1551891077169">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="74" column="30" />
+        <mark key="." line="74" column="30" />
+        <mark key="^" line="74" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1551886542417">
+        <mark key="'" line="66" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Bloom/shaders/bloom.frag" timestamp="1551994863806">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="27" column="2" />
+        <mark key="^" line="24" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
+        <mark key="'" line="218" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" timestamp="1550947232365">
+        <mark key="'" line="479" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.h" timestamp="1552062043368">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
+        <mark key="'" line="65" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1551998214334">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="76" />
+        <mark key="^" line="1" column="76" />
+        <mark key="." line="1" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.hpp" timestamp="1551831348245">
+        <mark key="'" line="30" column="10" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.cpp" timestamp="1552062109962">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
+        <mark key="'" line="35" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional_usage.md" timestamp="1551998902247">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="30" column="66" />
+        <mark key="." line="30" column="66" />
+        <mark key="^" line="30" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" timestamp="1551993292499">
+        <mark key="'" line="78" column="27" />
+        <mark key="[" line="80" column="2" />
+        <mark key="]" line="80" column="2" />
+        <mark key="." line="80" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.h" timestamp="1552061526449">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="69" />
+        <mark key="^" line="26" column="69" />
+        <mark key="." line="26" column="69" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1552062062384">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" timestamp="1551633701023">
+        <mark key="'" line="69" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
+        <mark key="'" line="219" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
+        <mark key="'" line="60" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -309,8 +325,8 @@
       <jump line="104" column="31" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDMtMDguCi8vCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -319,7 +335,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text encoding="base64">c3RydWN0IA==</text>
       </register>
       <register name="/" type="4">
         <text>bloomBruteBuffers</text>
@@ -328,7 +344,7 @@
         <text encoding="base64">SW5pdGlhbGl6ZXMgeCB0byBhbiBlbXB0eSBvcHRpb246CmBgYGMrKwpPcHRpb248aW50PiB4ID0ge307CmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDMtMDguCi8vCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,28 +361,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDItMjEuCi8vCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGlmIHggaXMgZW1wdHksICkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RydWN0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW5pdGlhbGl6ZXMgeCB0byAK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDMtMDguCi8vCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8vIGlmIGFuIG9wdGlvbiBpbiB0aGlzIHN0cnVjdCBpcyBub3QgZW1wdHksIHRoZW4gdGhhdCBtZWFucwovLy8gYSB1c2VyIGlucHV0IHdpdGggdGhhdCBmaWVsZCBpcyBjdXJyZW50bHkgYWN0aXZlLgo=</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
