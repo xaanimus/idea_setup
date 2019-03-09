@@ -49,7 +49,6 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/physics/CUObstacleWorld.cpp" timestamp="1552071593501" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551317268316">
         <mark key="'" line="348" column="53" />
       </file>
@@ -170,6 +169,11 @@
         <mark key="]" line="1" column="76" />
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552160547411">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.cpp" timestamp="1552062254758">
         <mark key="[" line="11" column="43" />
@@ -319,8 +323,8 @@
       <jump line="340" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGFzdCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGVudHQvZW50dC5ocHA+Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -332,13 +336,13 @@
         <text encoding="base64">bGFzdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>damp</text>
+        <text>_registry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW5pdGlhbGl6ZXMgeCB0byBhbiBlbXB0eSBvcHRpb246CmBgYGMrKwpPcHRpb248aW50PiB4ID0ge307CmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vIE1hbmFnZXMgY3VycmVudCBhY3Rpb25zCi8vLyAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGVudHQvZW50dC5ocHA+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -355,37 +359,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB0aGlzIGNhbiBiZSBjaGFuZ2VkIGludG8gYSB2YXJpYW50IHR5cGUsIGJ1dCB0aGUgdmFyaWFudCB0eXBlCiAgLy8gaGFzIHRvIGJlIGltcGxlbWVudGVkIGZpcnN0Cg==</text>
+        <text encoding="base64">ICAgIGVudHQ6OlJlZ2lzdHJ5PHVpbnQzMl90PiBfcmVnaXN0cnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8vIE1hbmFnZXMgY3VycmVudCBhY3Rpb25zCi8vLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyB0aGlzIGNhbiBiZSBjaGFuZ2VkIGludG8gYSB2YXJpYW50IHR5cGUsIGJ1dCB0aGUgdmFyaWFudCB0eXBlCiAgLy8gaGFzIHRvIGJlIGltcGxlbWVudGVkIGZpcnN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQgPSB7fTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdEZpcmVkID0gU2xpbmdzaG90RmlyZWRFdmVudHt9OwogICAgICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQtPnNoaXBFbnRpdHkgPSBfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdEZpcmVkLT5zaGlwRW50aXR5OwogICAgICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQtPmludGVuc2l0eSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQgPSB7fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>damp</last-search>
+      <last-search>_registry</last-search>
       <last-offset />
-      <last-pattern>damp</last-pattern>
+      <last-pattern>_registry</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GL_TEXTURE</entry>
         <entry>srgb</entry>
         <entry>srgbBuffer</entry>
         <entry>tangent</entry>
@@ -413,6 +416,7 @@
         <entry>update(</entry>
         <entry>force</entry>
         <entry>damp</entry>
+        <entry>_registry</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
