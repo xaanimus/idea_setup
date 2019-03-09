@@ -176,10 +176,10 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
         <mark key="'" line="817" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552168020432">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552168942457">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.cpp" timestamp="1552062254758">
         <mark key="[" line="11" column="43" />
@@ -329,8 +329,8 @@
       <jump line="578" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgSW5wdXRQcm9jZXNzb3IgewogICAgc3RkOjpzaGFyZWRfcHRyPElucHV0U3RhdHVzVmlld2VyPiBfaW5wdXRTdGF0dXNWaWV3ZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmlydHVhbCA=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -339,7 +339,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGFzdCA=</text>
+        <text encoding="base64">dmlydHVhbCA=</text>
       </register>
       <register name="/" type="4">
         <text>lineardam</text>
