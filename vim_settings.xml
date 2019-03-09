@@ -190,11 +190,11 @@
         <mark key="." line="30" column="66" />
         <mark key="^" line="30" column="66" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.h" timestamp="1552062497179">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.h" timestamp="1552161882971">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
         <mark key="^" line="45" column="63" />
-        <mark key="." line="33" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1552062062384">
         <mark key="[" line="0" column="0" />
@@ -324,7 +324,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGVudHQvZW50dC5ocHA+Cg==</text>
+        <text encoding="base64">Y2xhc3MgSW5wdXRQcm9jZXNzb3IgewogICAgc3RkOjpzaGFyZWRfcHRyPElucHV0U3RhdHVzVmlld2VyPiBfaW5wdXRTdGF0dXNWaWV3ZXI7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -342,7 +342,7 @@
         <text encoding="base64">SW5pdGlhbGl6ZXMgeCB0byBhbiBlbXB0eSBvcHRpb246CmBgYGMrKwpPcHRpb248aW50PiB4ID0ge307CmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGVudHQvZW50dC5ocHA+Cg==</text>
+        <text encoding="base64">Y2xhc3MgSW5wdXRQcm9jZXNzb3IgewogICAgc3RkOjpzaGFyZWRfcHRyPElucHV0U3RhdHVzVmlld2VyPiBfaW5wdXRTdGF0dXNWaWV3ZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,31 +359,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudHQ6OlJlZ2lzdHJ5PHVpbnQzMl90PiBfcmVnaXN0cnk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGVudHQvZW50dC5ocHA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8vIE1hbmFnZXMgY3VycmVudCBhY3Rpb25zCi8vLyAK</text>
+        <text encoding="base64">ICAgIGVudHQ6OlJlZ2lzdHJ5PHVpbnQzMl90PiBfcmVnaXN0cnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyB0aGlzIGNhbiBiZSBjaGFuZ2VkIGludG8gYSB2YXJpYW50IHR5cGUsIGJ1dCB0aGUgdmFyaWFudCB0eXBlCiAgLy8gaGFzIHRvIGJlIGltcGxlbWVudGVkIGZpcnN0Cg==</text>
+        <text encoding="base64">Ly8vIE1hbmFnZXMgY3VycmVudCBhY3Rpb25zCi8vLyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyB0aGlzIGNhbiBiZSBjaGFuZ2VkIGludG8gYSB2YXJpYW50IHR5cGUsIGJ1dCB0aGUgdmFyaWFudCB0eXBlCiAgLy8gaGFzIHRvIGJlIGltcGxlbWVudGVkIGZpcnN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQgPSB7fTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -433,12 +433,12 @@
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
         <entry>we</entry>
         <entry>qw</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL0hFTExPX1dPUkxEX1NSQy9TVFJBTkdFUl9TRUFTX1NSQw==</entry>
         <entry>sw</entry>
         <entry encoding="base64">JzwsJz5zL2RpZmZ1c2VfdGVybS9kaWZmdXNlX2NvbG9yL2c=</entry>
         <entry>ew</entry>
         <entry>w</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
