@@ -170,8 +170,8 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552163231019">
-        <mark key="'" line="626" column="9" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
+        <mark key="'" line="817" column="40" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552160547411">
         <mark key="[" line="10" column="0" />
@@ -224,17 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="7" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="343" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="365" column="32" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="341" column="58" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="74" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="75" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="76" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="80" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
-      <jump line="66" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
-      <jump line="103" column="34" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="104" column="38" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="107" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="112" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
@@ -324,6 +313,17 @@
       <jump line="338" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="340" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="626" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="638" column="5" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="783" column="13" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="785" column="51" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="790" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="797" column="71" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="801" column="60" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="805" column="35" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="807" column="51" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="809" column="13" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="812" column="51" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="817" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -339,7 +339,7 @@
         <text encoding="base64">bGFzdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>unload</text>
+        <text>directory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW5pdGlhbGl6ZXMgeCB0byBhbiBlbXB0eSBvcHRpb246CmBgYGMrKwpPcHRpb248aW50PiB4ID0ge307CmBgYAo=</text>
@@ -390,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unload</last-search>
+      <last-search>directory</last-search>
       <last-offset />
-      <last-pattern>unload</last-pattern>
+      <last-pattern>directory</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>srgbBuffer</entry>
         <entry>tangent</entry>
         <entry>normal</entry>
         <entry>half_vector</entry>
@@ -420,6 +419,7 @@
         <entry>damp</entry>
         <entry>_registry</entry>
         <entry>unload</entry>
+        <entry>directory</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
