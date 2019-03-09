@@ -75,6 +75,9 @@
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" timestamp="1552165575635">
+        <mark key="'" line="578" column="73" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" timestamp="1551891007859">
         <mark key="'" line="80" column="16" />
         <mark key="[" line="356" column="0" />
@@ -224,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="38" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
-      <jump line="107" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
-      <jump line="112" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="113" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="114" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
       <jump line="18" column="13" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/isotropic_microfacet.frag" />
@@ -324,6 +324,9 @@
       <jump line="809" column="13" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
       <jump line="812" column="51" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
       <jump line="817" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
+      <jump line="62" column="27" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
+      <jump line="577" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
+      <jump line="578" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -339,7 +342,7 @@
         <text encoding="base64">bGFzdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>directory</text>
+        <text>lineardam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW5pdGlhbGl6ZXMgeCB0byBhbiBlbXB0eSBvcHRpb246CmBgYGMrKwpPcHRpb248aW50PiB4ID0ge307CmBgYAo=</text>
@@ -390,9 +393,9 @@
       </register>
     </registers>
     <search>
-      <last-search>directory</last-search>
+      <last-search>lineardam</last-search>
       <last-offset />
-      <last-pattern>directory</last-pattern>
+      <last-pattern>lineardam</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tangent</entry>
-        <entry>normal</entry>
         <entry>half_vector</entry>
         <entry>position</entry>
         <entry>bloomFilter</entry>
@@ -420,6 +421,8 @@
         <entry>_registry</entry>
         <entry>unload</entry>
         <entry>directory</entry>
+        <entry>linearDam</entry>
+        <entry>lineardam</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
