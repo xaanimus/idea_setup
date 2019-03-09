@@ -170,6 +170,9 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552163231019">
+        <mark key="'" line="626" column="9" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552160547411">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -221,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="61" column="7" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="343" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
       <jump line="365" column="32" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shading/ShadingApp.cpp" />
@@ -321,6 +323,7 @@
       <jump line="337" column="53" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="338" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="340" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
+      <jump line="626" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -336,7 +339,7 @@
         <text encoding="base64">bGFzdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>_registry</text>
+        <text>unload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW5pdGlhbGl6ZXMgeCB0byBhbiBlbXB0eSBvcHRpb246CmBgYGMrKwpPcHRpb248aW50PiB4ID0ge307CmBgYAo=</text>
@@ -387,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_registry</last-search>
+      <last-search>unload</last-search>
       <last-offset />
-      <last-pattern>_registry</last-pattern>
+      <last-pattern>unload</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>srgb</entry>
         <entry>srgbBuffer</entry>
         <entry>tangent</entry>
         <entry>normal</entry>
@@ -417,6 +419,7 @@
         <entry>force</entry>
         <entry>damp</entry>
         <entry>_registry</entry>
+        <entry>unload</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
