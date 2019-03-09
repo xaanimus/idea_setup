@@ -176,7 +176,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
         <mark key="'" line="817" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552160547411">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552168020432">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -389,7 +389,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -443,8 +443,8 @@
         <entry>sw</entry>
         <entry encoding="base64">JzwsJz5zL2RpZmZ1c2VfdGVybS9kaWZmdXNlX2NvbG9yL2c=</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>e</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
