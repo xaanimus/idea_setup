@@ -144,11 +144,11 @@
         <mark key="." line="30" column="66" />
         <mark key="^" line="30" column="66" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" timestamp="1552261508620">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="84" />
-        <mark key="^" line="23" column="84" />
-        <mark key="." line="23" column="84" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" timestamp="1552262551838">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1552258946170">
         <mark key="[" line="8" column="64" />
@@ -312,8 +312,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -322,16 +322,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>key == mappingKey</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>changeCamera</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gaXQgPSBfbWFwcGluZ3MuYmVnaW4oKTsgaXQgIT0gX21hcHBpbmdzLmVuZCgpOyBpdCsrKSB7CiAgICBjb25zdCBLJiBtYXBwaW5nS2V5ID0gc3RkOjpnZXQ8MD4oKml0KTsKICAgIGNvbnN0IFYmIG1hcHBpbmdWYWx1ZSA9IHN0ZDo6Z2V0PDE+KCppdCk7CiAgICAvLyBUT0RPIHJlcGxhY2Ugd2l0aCBlcXVhbGl0eSB0ZW1wbGF0ZSBwYXJhbWV0ZXIKICAgIGlmIChrZXkgPT0gbWFwcGluZ0tleSkgewogICAgICBfbWFwcGluZ3MuZXJhc2UoaXQpOwogICAgICBicmVhazsKICAgIH0KICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Zm9yIChhdXRvIGl0ID0gX21hcHBpbmdzLmJlZ2luKCk7IGl0ICE9IF9tYXBwaW5ncy5lbmQoKTsgaXQrKykgewogICAgY29uc3QgViYgbWFwcGluZ1ZhbHVlID0gc3RkOjpnZXQ8MT4oKml0KTsKICAgIC8vIFRPRE8gcmVwbGFjZSB3aXRoIGVxdWFsaXR5IHRlbXBsYXRlIHBhcmFtZXRlcgogICAgaWYgKHZhbHVlID09IG1hcHBpbmdWYWx1ZSkgewogICAgICBfbWFwcGluZ3MuZXJhc2UoaXQpOwogICAgICBicmVhazsKICAgIH0KICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,25 +369,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjaGVjayBpZiBrZXkgb3IgdmFsdWUgYWxyZWFkeSBleGlzdCBpbiBtYXBwaW5ncwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBjaGVjayBpZiBrZXkgb3IgdmFsdWUgYWxyZWFkeSBleGlzdCBpbiBtYXBwaW5ncwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEsmIG1hcHBpbmdLZXkgPSBzdGQ6OmdldDwwPigqaXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFYmIG1hcHBpbmdWYWx1ZSA9IHN0ZDo6Z2V0PDE+KCppdCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEsmIG1hcHBpbmdLZXkgPSBzdGQ6OmdldDwwPigqaXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFYmIG1hcHBpbmdWYWx1ZSA9IHN0ZDo6Z2V0PDE+KCppdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXRlcmF0b3JTYW1lS2V5ID0gaXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdXRvIGl0ZXJhdG9yU2FtZUtleSA9IF9tYXBwaW5ncy5lbmQoKTsK</text>
+        <text encoding="base64">ICAgICAgaXRlcmF0b3JTYW1lS2V5ID0gaXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
