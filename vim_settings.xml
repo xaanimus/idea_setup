@@ -55,6 +55,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1552317072441" />
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
       </file>
@@ -90,12 +91,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552266151154">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1552071802703">
         <mark key="'" line="95" column="16" />
