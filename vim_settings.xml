@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Option.h" timestamp="1551998908213">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Option.h" timestamp="1552266313914">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.h" timestamp="1552259193389">
         <mark key="[" line="9" column="64" />
@@ -85,11 +84,20 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552266151154">
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1552071802703">
         <mark key="'" line="95" column="16" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
+      </file>
+      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" timestamp="1552266230444">
+        <mark key="'" line="859" column="20" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1551886542417">
         <mark key="'" line="66" column="2" />
@@ -129,11 +137,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552260372861">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552266219214">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
@@ -144,11 +153,12 @@
         <mark key="." line="30" column="66" />
         <mark key="^" line="30" column="66" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" timestamp="1552262551838">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" timestamp="1552265437095">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1552258946170">
         <mark key="[" line="8" column="64" />
@@ -210,78 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="54" column="42" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="55" column="40" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="57" column="20" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="59" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="60" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="61" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="62" column="24" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/isotropic_microfacet.frag" />
-      <jump line="135" column="44" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="156" column="12" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="158" column="12" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="162" column="44" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="167" column="40" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="169" column="14" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="172" column="46" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="57" column="46" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="58" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="80" column="9" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="85" column="27" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="93" column="50" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="111" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="112" column="85" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="149" column="19" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="148" column="38" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="18" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="138" column="36" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="40" column="22" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/forward/anisotropic_microfacet.frag" />
-      <jump line="37" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" />
-      <jump line="78" column="27" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.hpp" />
-      <jump line="261" column="11" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="95" column="16" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" />
-      <jump line="91" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="100" column="39" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="310" column="18" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="311" column="61" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="406" column="13" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="408" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="410" column="34" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="411" column="53" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="413" column="44" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="415" column="17" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="418" column="27" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="420" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="421" column="53" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="423" column="27" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="182" column="16" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
-      <jump line="469" column="10" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
-      <jump line="732" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
-      <jump line="468" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2Body.h" />
-      <jump line="58" column="36" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="156" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="155" column="2" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="121" column="64" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="37" column="82" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="120" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Bloom/BloomApp.cpp" />
-      <jump line="104" column="31" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shading/shaders/deferred/ubershader.frag" />
-      <jump line="386" column="24" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="448" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="518" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="233" column="67" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="252" column="46" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
-      <jump line="227" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="97" column="65" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="98" column="87" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="101" column="70" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="102" column="11" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="103" column="23" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="104" column="12" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="190" column="48" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="191" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="193" column="55" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
-      <jump line="194" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="218" column="11" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="325" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
       <jump line="329" column="22" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" />
@@ -310,10 +248,82 @@
       <jump line="25" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="22" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="18" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="42" column="14" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="82" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="50" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="70" column="1" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="52" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
+      <jump line="18" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Bimap.h" />
+      <jump line="1" column="0" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="120" column="31" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="121" column="25" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="143" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="292" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="298" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="303" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="308" column="31" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="313" column="31" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="321" column="42" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="322" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="337" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="339" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="340" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="344" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="345" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="462" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="494" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="527" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="564" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="723" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="731" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="741" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="749" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="778" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="779" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="781" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="793" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="805" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="820" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="821" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="835" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="836" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="844" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="847" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="848" column="25" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="852" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="854" column="50" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
+      <jump line="859" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICplbnRpdHk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -322,16 +332,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>*entity</text>
       </register>
       <register name="/" type="4">
-        <text>changeCamera</text>
+        <text encoding="base64">LT4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Zm9yIChhdXRvIGl0ID0gX21hcHBpbmdzLmJlZ2luKCk7IGl0ICE9IF9tYXBwaW5ncy5lbmQoKTsgaXQrKykgewogICAgY29uc3QgViYgbWFwcGluZ1ZhbHVlID0gc3RkOjpnZXQ8MT4oKml0KTsKICAgIC8vIFRPRE8gcmVwbGFjZSB3aXRoIGVxdWFsaXR5IHRlbXBsYXRlIHBhcmFtZXRlcgogICAgaWYgKHZhbHVlID09IG1hcHBpbmdWYWx1ZSkgewogICAgICBfbWFwcGluZ3MuZXJhc2UoaXQpOwogICAgICBicmVhazsKICAgIH0KICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxCaW1hcDxFbnRpdHlJRCwgc3RkOjpzaGFyZWRfcHRyPGN1Z2w6Ok5vZGU+Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICplbnRpdHk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,37 +376,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjaGVjayBpZiBrZXkgb3IgdmFsdWUgYWxyZWFkeSBleGlzdCBpbiBtYXBwaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW50aXR5SUQgZW50aXR5VmFsdWUgPSAqZW50aXR5OwogICAgICAgICAgICByZXR1cm4gT3B0aW9uPEVudGl0eUlEPihlbnRpdHlWYWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEsmIG1hcHBpbmdLZXkgPSBzdGQ6OmdldDwwPigqaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiAxOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFYmIG1hcHBpbmdWYWx1ZSA9IHN0ZDo6Z2V0PDE+KCppdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge307Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW50aXR5KSB7CiAgICAgICAgICAgIHJldHVybiAqZW50aXR5OwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXRlcmF0b3JTYW1lS2V5ID0gaXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>changeCamera</last-search>
+      <last-search encoding="base64">LT4=</last-search>
       <last-offset />
-      <last-pattern>changeCamera</last-pattern>
+      <last-pattern encoding="base64">LT4=</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -404,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>position</entry>
         <entry>bloomFilter</entry>
         <entry>eclipse</entry>
         <entry>alloc</entry>
@@ -424,6 +433,7 @@
         <entry>linearDam</entry>
         <entry>lineardam</entry>
         <entry>changeCamera</entry>
+        <entry encoding="base64">LT4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r1/g</entry>
