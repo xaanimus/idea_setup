@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1552071802703">
         <mark key="'" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/CMakeLists.txt" timestamp="1552326164453">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="38" column="12" />
-        <mark key="^" line="38" column="12" />
-        <mark key="." line="38" column="12" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/CMakeLists.txt" timestamp="1552354917186">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="16" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
@@ -175,9 +175,9 @@
         <mark key="'" line="817" column="40" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552343850063">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.cpp" timestamp="1552062254758">
         <mark key="[" line="11" column="43" />
@@ -239,7 +239,6 @@
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552344729137" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPathNode.h" timestamp="1552335678928" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.cpp" timestamp="1552255085803">
         <mark key="[" line="4" column="0" />
