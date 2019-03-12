@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1552427689027">
         <mark key="'" line="326" column="33" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552071577590">
-        <mark key="'" line="252" column="46" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
+        <mark key="'" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1552325713923">
         <mark key="[" line="23" column="95" />
@@ -88,6 +88,9 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1552317072441" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/models/LabeledObstacle.h" timestamp="1552427484780">
         <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" timestamp="1552431987290">
+        <mark key="'" line="874" column="19" />
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
@@ -225,23 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
-      <jump line="117" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.cpp" />
-      <jump line="211" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
-      <jump line="111" column="32" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
-      <jump line="156" column="13" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
-      <jump line="167" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
-      <jump line="18" column="38" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
-      <jump line="185" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
-      <jump line="62" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
-      <jump line="84" column="32" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
-      <jump line="111" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
       <jump line="125" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
       <jump line="469" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" />
       <jump line="130" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" />
@@ -325,6 +311,23 @@
       <jump line="71" column="10" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
       <jump line="129" column="11" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
       <jump line="141" column="11" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" />
+      <jump line="74" column="26" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="210" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="212" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="214" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="231" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="236" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="238" column="17" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="874" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" />
+      <jump line="197" column="42" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="125" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -340,7 +343,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>anchor</text>
+        <text>Node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2RlZmluZSBERUJVR19JTlBVVF9MT0coZm10LCBhcmdzLi4uKSBDVUxvZyhmbXQsIGFyZ3MpCg==</text>
@@ -393,9 +396,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anchor</last-search>
+      <last-search>Node</last-search>
       <last-offset />
-      <last-pattern>anchor</last-pattern>
+      <last-pattern>Node</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -403,8 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lineardam</entry>
-        <entry>changeCamera</entry>
         <entry encoding="base64">LT4=</entry>
         <entry>version</entry>
         <entry>signal</entry>
@@ -423,6 +424,8 @@
         <entry>content</entry>
         <entry>alpha</entry>
         <entry>anchor</entry>
+        <entry>angle</entry>
+        <entry>Node</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r3/g</entry>
