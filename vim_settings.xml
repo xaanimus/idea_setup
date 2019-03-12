@@ -15,28 +15,16 @@
         <mark key="^" line="9" column="71" />
         <mark key="." line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1551228466821">
-        <mark key="'" line="247" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/input/CUMouse.h" timestamp="1551398561058">
-        <mark key="'" line="504" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" timestamp="1550947320908">
-        <mark key="'" line="405" column="8" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/main.cpp" timestamp="1552416125468">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" timestamp="1551395496340">
-        <mark key="'" line="1795" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1551228473404">
-        <mark key="'" line="48" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
-        <mark key="'" line="1382" column="40" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UITraverse.h" timestamp="1552424539615">
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+        <mark key="." line="20" column="65" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" timestamp="1552334863651">
         <mark key="[" line="1" column="10" />
@@ -44,34 +32,16 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
-        <mark key="'" line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
-        <mark key="'" line="111" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552071577590">
-        <mark key="'" line="252" column="46" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1552325713923">
         <mark key="[" line="23" column="95" />
         <mark key="]" line="23" column="106" />
         <mark key="^" line="23" column="106" />
         <mark key="." line="23" column="106" />
       </file>
-      <file name="/LLDB" timestamp="1552343504492">
+      <file name="/LLDB" timestamp="1552424516276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551317268316">
-        <mark key="'" line="348" column="53" />
-      </file>
-      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
-        <mark key="'" line="3789" column="26" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/view.hpp" timestamp="1552335358528" />
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
-        <mark key="'" line="297" column="20" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1552323468375">
         <mark key="'" line="117" column="8" />
       </file>
@@ -82,12 +52,6 @@
         <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1552317072441" />
-      <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
-        <mark key="'" line="128" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" timestamp="1552326562058">
-        <mark key="'" line="469" column="45" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1552326621798" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1552260061756">
         <mark key="[" line="8" column="13" />
@@ -95,19 +59,18 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
-        <mark key="'" line="247" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552416401445">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552424485113">
         <mark key="'" line="36" column="7" />
-        <mark key="[" line="120" column="37" />
-        <mark key="]" line="120" column="37" />
-        <mark key="." line="120" column="37" />
-        <mark key="^" line="120" column="37" />
+        <mark key="[" line="126" column="29" />
+        <mark key="]" line="126" column="29" />
+        <mark key="." line="126" column="29" />
+        <mark key="^" line="126" column="29" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" timestamp="1552343968412" />
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1551636228785">
-        <mark key="'" line="157" column="4" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" timestamp="1552424177172">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.cpp" timestamp="1552325607816">
         <mark key="'" line="0" column="0" />
@@ -116,34 +79,17 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
-        <mark key="'" line="69" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
-        <mark key="'" line="116" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552414871874">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1552071802703">
-        <mark key="'" line="95" column="16" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552421624402">
+        <mark key="'" line="70" column="82" />
+        <mark key="[" line="68" column="69" />
+        <mark key="]" line="68" column="68" />
+        <mark key="." line="68" column="68" />
+        <mark key="^" line="68" column="68" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/CMakeLists.txt" timestamp="1552354917186" />
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
-        <mark key="'" line="482" column="32" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUTexture.h" timestamp="1552327415436" />
-      <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" timestamp="1552266230444">
-        <mark key="'" line="859" column="20" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" timestamp="1552335611775">
         <mark key="'" line="130" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1551886542417">
-        <mark key="'" line="66" column="2" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Bloom/shaders/bloom.frag" timestamp="1551994863806">
         <mark key="[" line="27" column="2" />
@@ -151,20 +97,11 @@
         <mark key="." line="27" column="2" />
         <mark key="^" line="24" column="76" />
       </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
-        <mark key="'" line="218" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" timestamp="1550947232365">
-        <mark key="'" line="479" column="22" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.h" timestamp="1552063514368">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
-        <mark key="'" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1552327158892">
         <mark key="[" line="16" column="46" />
@@ -173,9 +110,6 @@
         <mark key="." line="16" column="46" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/CMakeLists.txt" timestamp="1552325965949" />
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
-        <mark key="'" line="817" column="40" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1552343850063">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -187,20 +121,17 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552266219214">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552420058817">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1552328141911">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
-        <mark key="'" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional_usage.md" timestamp="1551998902247">
         <mark key="[" line="29" column="53" />
@@ -239,27 +170,17 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1552343963935" />
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" timestamp="1552071627774">
-        <mark key="'" line="340" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" timestamp="1551633701023">
-        <mark key="'" line="69" column="32" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1552422979697">
+        <mark key="'" line="317" column="4" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" timestamp="1552326557526">
         <mark key="'" line="185" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
-        <mark key="'" line="219" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
-        <mark key="'" line="60" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552416232856">
-        <mark key="[" line="37" column="70" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552424508257">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="19" column="36" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPathNode.h" timestamp="1552335678928" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.cpp" timestamp="1552255085803">
@@ -275,39 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="14" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="292" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="298" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="303" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="308" column="31" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="313" column="31" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="321" column="42" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="322" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="337" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="339" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="340" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="344" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="345" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="462" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="494" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="527" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="564" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="723" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="731" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="741" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="749" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="778" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="779" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="781" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="793" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="805" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="820" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="821" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="835" column="12" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="836" column="19" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="844" column="16" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="847" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
-      <jump line="848" column="25" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
       <jump line="852" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
       <jump line="854" column="50" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
       <jump line="859" column="20" filename="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" />
@@ -367,7 +255,6 @@
       <jump line="101" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
       <jump line="94" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
       <jump line="59" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
       <jump line="78" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
       <jump line="72" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
       <jump line="77" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
@@ -375,10 +262,44 @@
       <jump line="87" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
       <jump line="32" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" />
       <jump line="29" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" />
+      <jump line="317" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="63" column="89" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
+      <jump line="64" column="82" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
+      <jump line="108" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="340" column="12" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="326" column="27" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="325" column="54" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="324" column="26" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="305" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="177" column="11" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="174" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="173" column="36" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="172" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="149" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="119" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="97" column="41" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="4" column="74" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="358" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="139" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="89" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="279" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="331" column="17" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="359" column="25" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="360" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="472" column="18" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="246" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtYXRyaXggdHJhbnMK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -387,16 +308,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>worldSize</text>
+        <text>_anchor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJlbmRlcmVyU3lzdGVtKAogICAgCQlzdGQ6OnNoYXJlZF9wdHI8Y3VnbDo6Tm9kZT4gc2NlbmVSb290LAogICAgCQlzdGQ6OnNoYXJlZF9wdHI8Y29uc3QgSW5wdXRTdGF0dXNWaWV3ZXI+IGlucHV0U3RhdHVzVmlld2VyLAogICAgCQljb25zdCBjdWdsOjpWZWMyJiB3b3JsZFNpemUKICAgIAkJKTsK</text>
+        <text encoding="base64">I2RlZmluZSBERUJVR19JTlBVVF9MT0coZm10LCBhcmdzLi4uKSBDVUxvZyhmbXQsIGFyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtYXRyaXggdHJhbnMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -415,37 +336,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQojZGVmaW5lIEdBTUVfV0lEVEggMTAwMAojZGVmaW5lIEdBTUVfSEVJR0hUIDEwMDAKPj4+Pj4+PiBmaXggaXNzdWUgd2l0aCBpbnB1dHByb2Nlc3NvciBjb29yZHMgYW5kIGluamVjdCB3b3JsZCBzaXplIGludG8gcmVuZGVyZXIK</text>
+        <text encoding="base64">ICAgIF9yb290Tm9kZS0+c2V0UG9zaXRpb24oZGlzcGxheVNpemUud2lkdGgvMi4wZixkaXNwbGF5U2l6ZS5oZWlnaHQvMi4wZik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIF9yb290Tm9kZS0+c2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXggaXNzdWUgd2l0aCBpbnB1dHByb2Nlc3NvciBjb29yZHMgYW5kIGluamVjdCB3b3JsZCBzaXplIGludG8gcmVuZGVyZXIK</text>
+        <text encoding="base64">ICAgIF9hbmNob3IgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEClJlbmRlcmVyU3lzdGVtOjpSZW5kZXJlclN5c3RlbShzdGQ6OnNoYXJlZF9wdHI8Tm9kZT4gc2NlbmVSb290LCBzdGQ6OnNoYXJlZF9wdHI8Y29uc3QgSW5wdXRTdGF0dXNWaWV3ZXI+IGlucHV0U3RhdHVzVmlld2VyKSA6Cl9zY2VuZVJvb3Qoc2NlbmVSb290KSwKX3dvcmxkUm9vdChOb2RlOjphbGxvYygpKSwKX2lucHV0U3RhdHVzVmlld2VyKCkKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgIF9jaGlsZE9mZnNldCA9IC0xOwogICAgX2FuY2hvciA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IHkgPSBzaXplLmhlaWdodCAtIGlucHV0Q29vcmRzLnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQojaWZuZGVmIFJFTkRFUkVSX1NZU1RFTV9ICiNkZWZpbmUgUkVOREVSRVJfU1lTVEVNX0gKCiNpbmNsdWRlICIuLi9FQ1MuaCIKI2luY2x1ZGUgIi4uL0VDU0NvbXBvbmVudHMuaCIKI2luY2x1ZGUgIi4uLy4uL3VzZXJfaW50ZXJmYWNlL0lucHV0UHJvY2Vzc29yLmgiCgovLy8gVGhpcyBkcmF3cyB0aGUgZ2FtZSBvYmplY3RzIGFuZCBVSSBlbGVtZW50cyBpbiB0aGUgc2NlbmUuCgpjbGFzcyBSZW5kZXJlclN5c3RlbSA6IHB1YmxpYyBFQ1M6OlN5c3RlbSB7CiAgICBzdGQ6OnNoYXJlZF9wdHI8Y3VnbDo6Tm9kZT4gX3NjZW5lUm9vdDsKICAgIHN0ZDo6c2hhcmVkX3B0cjxjdWdsOjpOb2RlPiBfd29ybGRSb290OwogICAgc3RkOjpzaGFyZWRfcHRyPGNvbnN0IElucHV0U3RhdHVzVmlld2VyPiBfaW5wdXRTdGF0dXNWaWV3ZXI7CnB1YmxpYzoKICAgIFJlbmRlcmVyU3lzdGVtKAogICAgCQlzdGQ6OnNoYXJlZF9wdHI8Y3VnbDo6Tm9kZT4gc2NlbmVSb290LAogICAgCQlzdGQ6OnNoYXJlZF9wdHI8Y29uc3QgSW5wdXRTdGF0dXNWaWV3ZXI+IGlucHV0U3RhdHVzVmlld2VyLAogICAgCQljb25zdCBjdWdsOjpWZWMyJiB3b3JsZFNpemUKICAgIAkJKTsKCgl2aXJ0dWFsIHZvaWQgZWNzSW5pdChFQ1M6OkdhbWVSZWdpc3RyeSYgcmVnaXN0cnkpIG92ZXJyaWRlOwoKCXZpcnR1YWwgdm9pZCBlY3NVcGRhdGUoZmxvYXQgZHQsIEVDUzo6R2FtZVJlZ2lzdHJ5JiByZWdpc3RyeSkgb3ZlcnJpZGU7Cn07CgojZW5kaWYgLy9SRU5ERVJFUl9TWVNURU1fSAo+Pj4+Pj4+IGZpeCBpc3N1ZSB3aXRoIGlucHV0cHJvY2Vzc29yIGNvb3JkcyBhbmQgaW5qZWN0IHdvcmxkIHNpemUgaW50byByZW5kZXJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnQucG9zaXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IFJlbmRlcmVyU3lzdGVtKHN0ZDo6c2hhcmVkX3B0cjxjdWdsOjpOb2RlPiBzY2VuZVJvb3QsIHN0ZDo6c2hhcmVkX3B0cjxjb25zdCBJbnB1dFN0YXR1c1ZpZXdlcj4gaW5wdXRTdGF0dXNWaWV3ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBERUJVR19JTlBVVF9MT0coInRhZzogJWQiLCB0YWcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2RlZmluZSBHQU1FX0hFSUdIVCAxMDAwCg==</text>
+        <text encoding="base64">I2RlZmluZSBERUJVR19JTlBVVF9MT0dfQVJHUyhmbXQsIGFyZ3MuLi4pIENVTG9nKGZtdCwgYXJncykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>worldSize</last-search>
+      <last-search>_anchor</last-search>
       <last-offset />
-      <last-pattern>worldSize</last-pattern>
+      <last-pattern>_anchor</last-pattern>
       <last-replace>diffuse_color</last-replace>
       <last-substitute>diffuse_term</last-substitute>
       <last-dir>1</last-dir>
@@ -453,10 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GetUserData</entry>
-        <entry>bloomBrute</entry>
-        <entry>bloomBruteBuffers</entry>
-        <entry>update</entry>
         <entry>update(</entry>
         <entry>force</entry>
         <entry>damp</entry>
@@ -473,6 +390,10 @@
         <entry>static</entry>
         <entry>alloc</entry>
         <entry>worldSize</entry>
+        <entry>tag</entry>
+        <entry>position</entry>
+        <entry>anchor</entry>
+        <entry>_anchor</entry>
       </history-search>
       <history-cmd>
         <entry>s/r0/r3/g</entry>
