@@ -107,6 +107,11 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552443762609">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" timestamp="1552424955898">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="111" column="0" />
@@ -172,6 +177,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1552328141911">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
       </file>
@@ -226,6 +236,11 @@
         <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPathNode.h" timestamp="1552335678928" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.cpp" timestamp="1552255085803">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/HealthSystem.h" timestamp="1552259187088">
         <mark key="[" line="7" column="64" />
         <mark key="]" line="7" column="71" />
@@ -336,8 +351,8 @@
       <jump line="121" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>affectedEntity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwaHlzaWNhbC5vYnN0YWNsZS0+Z2V0U2l6ZSgpCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -355,7 +370,7 @@
         <text encoding="base64">CWZsb2F0IHByb2plY3RpbGVTcGVlZDsKCWZsb2F0IHByb2plY3RpbGVMaWZlc3BhbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQWN0aW9uU3RhdHVzTGlzdGVuZXI6OkFjdGlvbiBzbGluZ3Nob3RGaXJlZDsKICAgICAgICAgICAgICAgIC8vc2xpbmdzaG90RmlyZWQuYWZmZWN0ZWRFbnRpdHkgPSBfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdENoYXJnaW5nLT5zaGlwRW50aXR5OwogICAgICAgICAgICAgICAgLy9zbGluZ3Nob3RGaXJlZC5zbGluZ3Nob3RJbnRlbnNpdHkgPSAxMDsKICAgICAgICAgICAgICAgIC8vc2xpbmdzaG90RmlyZWQuc2xpbmdzaG90RGlyZWN0aW9uID0gY3VnbDo6VmVjMigwLjBmLCAwLjBmKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBwaHlzaWNhbC5vYnN0YWNsZS0+Z2V0U2l6ZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,25 +389,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW50ZW5zaXR5ID0gMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQWN0aW9uU3RhdHVzTGlzdGVuZXI6OkFjdGlvbiBzbGluZ3Nob3RGaXJlZDsKICAgICAgICAgICAgICAgIC8vc2xpbmdzaG90RmlyZWQuYWZmZWN0ZWRFbnRpdHkgPSBfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdENoYXJnaW5nLT5zaGlwRW50aXR5OwogICAgICAgICAgICAgICAgLy9zbGluZ3Nob3RGaXJlZC5zbGluZ3Nob3RJbnRlbnNpdHkgPSAxMDsKICAgICAgICAgICAgICAgIC8vc2xpbmdzaG90RmlyZWQuc2xpbmdzaG90RGlyZWN0aW9uID0gY3VnbDo6VmVjMigwLjBmLCAwLjBmKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGludGVuc2l0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW50ZW5zaXR5ID0gMTAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IGludGVuc2l0eTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pbnB1dFN0YXR1c1ZpZXdlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9hY3Rpb25TdGF0dXNMaXN0ZW5lci0+Y2xlYXJBY3Rpb25zKCk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pbnB1dFN0YXR1c1ZpZXdlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbjxTbGt1Cg==</text>
+        <text encoding="base64">ICAgIF9hY3Rpb25TdGF0dXNMaXN0ZW5lci0+Y2xlYXJBY3Rpb25zKCk7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbjxTbGt1Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
