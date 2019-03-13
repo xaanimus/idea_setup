@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552486664647">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552488489129">
         <mark key="'" line="306" column="0" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="42" />
-        <mark key="." line="47" column="42" />
-        <mark key="^" line="47" column="42" />
+        <mark key="[" line="272" column="57" />
+        <mark key="]" line="272" column="55" />
+        <mark key="." line="272" column="55" />
+        <mark key="^" line="272" column="55" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1551636228785">
         <mark key="'" line="157" column="4" />
@@ -191,11 +191,11 @@
         <mark key="." line="45" column="3" />
         <mark key="^" line="45" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1552486530049">
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="52" />
-        <mark key="." line="17" column="52" />
-        <mark key="^" line="17" column="52" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1552488500362">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
@@ -244,12 +244,12 @@
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552484524867">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552488831922">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="49" column="46" />
+        <mark key="]" line="49" column="46" />
+        <mark key="^" line="49" column="46" />
+        <mark key="." line="49" column="46" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/HealthSystem.h" timestamp="1552259187088">
         <mark key="[" line="7" column="64" />
@@ -362,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -371,7 +371,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>collision</text>
