@@ -71,7 +71,6 @@
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/view.hpp" timestamp="1552335358528" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
       </file>
@@ -84,7 +83,6 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1552440200512" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/models/LabeledObstacle.h" timestamp="1552427484780">
         <mark key="^" line="13" column="30" />
       </file>
@@ -97,7 +95,6 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" timestamp="1552326562058">
         <mark key="'" line="469" column="45" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1552326621798" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1552260061756">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="26" />
@@ -108,9 +105,9 @@
         <mark key="'" line="247" column="5" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552443762609">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" timestamp="1552424955898">
         <mark key="'" line="63" column="0" />
@@ -140,14 +137,13 @@
         <mark key="." line="127" column="96" />
         <mark key="^" line="127" column="96" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/SlingshotSystem.cpp" timestamp="1552446531183" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1552071802703">
         <mark key="'" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/CMakeLists.txt" timestamp="1552354917186" />
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUTexture.h" timestamp="1552327415436" />
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" timestamp="1552266230444">
         <mark key="'" line="859" column="20" />
       </file>
@@ -166,7 +162,6 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/CMakeLists.txt" timestamp="1552325965949" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
         <mark key="'" line="817" column="40" />
       </file>
@@ -235,7 +230,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPathNode.h" timestamp="1552335678928" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ui_tools/InputProcessor.cpp" timestamp="1552255085803">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
