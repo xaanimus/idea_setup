@@ -120,7 +120,8 @@
         <mark key="." line="272" column="55" />
         <mark key="^" line="272" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1551636228785">
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUFontLoader.cpp" timestamp="1552685905904" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.cpp" timestamp="1552325607816">
@@ -142,7 +143,7 @@
         <mark key="." line="49" column="64" />
         <mark key="^" line="49" column="64" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552680165175">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552685315122">
         <mark key="[" line="260" column="0" />
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
