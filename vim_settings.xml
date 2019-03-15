@@ -181,7 +181,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
         <mark key="'" line="817" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552680202931">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552680585580">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="73" column="30" />
         <mark key="]" line="73" column="18" />
@@ -370,7 +370,7 @@
         <text>Viewer</text>
       </register>
       <register name="/" type="4">
-        <text>collision</text>
+        <text>tap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8mIGlucHV0ID0gKl9pbnB1dFN0YXR1czsK</text>
@@ -420,9 +420,9 @@
       </register>
     </registers>
     <search>
-      <last-search>collision</last-search>
+      <last-search>tap</last-search>
       <last-offset />
-      <last-pattern>collision</last-pattern>
+      <last-pattern>tap</last-pattern>
       <last-replace>matCameraToWorld</last-replace>
       <last-substitute>matWorldToCamera</last-substitute>
       <last-dir>1</last-dir>
@@ -430,7 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getWorldSize</entry>
         <entry>scale</entry>
         <entry>dims</entry>
         <entry>content</entry>
@@ -450,6 +449,7 @@
         <entry>applyDrag</entry>
         <entry>angularDam</entry>
         <entry>collision</entry>
+        <entry>tap</entry>
       </history-search>
       <history-cmd>
         <entry>s/c0/c1</entry>
