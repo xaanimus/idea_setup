@@ -179,9 +179,15 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUAssetManager.cpp" timestamp="1552686808731" />
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552686540380">
-        <mark key="'" line="171" column="6" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUAssetManager.cpp" timestamp="1552688539345">
+        <mark key="[" line="303" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552688527890">
+        <mark key="'" line="173" column="6" />
+        <mark key="[" line="89" column="62" />
+        <mark key="]" line="89" column="65" />
+        <mark key="^" line="89" column="65" />
+        <mark key="." line="89" column="65" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552680585580">
         <mark key="'" line="0" column="0" />
