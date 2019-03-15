@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Option.h" timestamp="1552266881316">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Option.h" timestamp="1552661631168">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.h" timestamp="1552259193389">
         <mark key="[" line="9" column="64" />
@@ -69,7 +68,7 @@
         <mark key="^" line="23" column="106" />
         <mark key="." line="23" column="106" />
       </file>
-      <file name="/LLDB" timestamp="1552485622494">
+      <file name="/LLDB" timestamp="1552661710206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551317268316">
@@ -90,7 +89,6 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" timestamp="1552483721980" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1552485665434">
         <mark key="[" line="35" column="75" />
         <mark key="]" line="35" column="75" />
@@ -138,12 +136,12 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552485417599">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552661659231">
         <mark key="'" line="75" column="30" />
-        <mark key="[" line="104" column="116" />
-        <mark key="]" line="104" column="116" />
-        <mark key="." line="104" column="116" />
-        <mark key="^" line="104" column="116" />
+        <mark key="[" line="219" column="46" />
+        <mark key="]" line="220" column="31" />
+        <mark key="." line="220" column="31" />
+        <mark key="^" line="220" column="31" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/SlingshotSystem.cpp" timestamp="1552485461281">
         <mark key="[" line="49" column="59" />
@@ -184,12 +182,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1552164895858">
         <mark key="'" line="817" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552484043575">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1552661651399">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="45" column="3" />
-        <mark key="." line="45" column="3" />
-        <mark key="^" line="45" column="3" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1552488500362">
         <mark key="[" line="12" column="30" />
@@ -244,12 +242,11 @@
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552488831922">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1552660801253">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="49" column="46" />
-        <mark key="]" line="49" column="46" />
-        <mark key="^" line="49" column="46" />
-        <mark key="." line="49" column="46" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/HealthSystem.h" timestamp="1552259187088">
         <mark key="[" line="7" column="64" />
@@ -361,8 +358,8 @@
       <jump line="621" column="53" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+em9vbSA9IHt9OwogICAgX2lucHV0U3RhdHVzVmlld2VyLT5wYW4gPSB7fTsKICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQgPSB7fTsKICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90Q2hhcmdpbmcgPSB7fTsK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -371,16 +368,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>collision</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmlnaHQgc2lkZSByb2NrcwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLnBvc2l0aW9uID0ge3dvcmxkU2l6ZS54LCB3b3JsZFNpemUueSAvIDN9LAogICAgICAgICAgICAgICAgICAgIC5hbmdsZVJhZGlhbnMgPSBNX1BJIC8gNCwKICAgICAgICAgICAgICAgICAgICAucm9ja0hlaWdodCA9IDIwLmYKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC5wb3NpdGlvbiA9IHt3b3JsZFNpemUueCwgMiAqIHdvcmxkU2l6ZS55IC8gM30sCiAgICAgICAgICAgICAgICAgICAgLmFuZ2xlUmFkaWFucyA9IE1fUEkgLyA0LAogICAgICAgICAgICAgICAgICAgIC5yb2NrSGVpZ2h0ID0gMjAuZgogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZFJlY2VpdmVab29tRXZlbnQoem9vbUV2ZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucG9zaXRpb24gPSB7MiAqIHdvcmxkU2l6ZS54IC8gMywgd29ybGRTaXplLnl9LAo=</text>
+        <text encoding="base64">ICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+em9vbSA9IHt9OwogICAgX2lucHV0U3RhdHVzVmlld2VyLT5wYW4gPSB7fTsKICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90RmlyZWQgPSB7fTsKICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90Q2hhcmdpbmcgPSB7fTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -396,28 +393,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CnRlbXBsYXRlIDx0eXBlbmFtZS4uLiBUPgp2b2lkIE9wdGlvblNldE5vbmUoVC4uLiBhcmdzKSB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvY2tzWzBdLnBvc2l0aW9uID0gVmVjMih3b3JsZFNpemUueCAvIDIsIHdvcmxkU2l6ZS55IC8gMik7CiAgICByb2Nrc1swXS5hbmdsZVJhZGlhbnMgPSAwLjA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCQkJcGh5cy5zZXRMaW5lYXJWZWxvY2l0eSgKLy8gICAgICAgICAgICAgICAgICAgIHZlbC54ICsgYS5zbGluZ3Nob3REaXJlY3Rpb24ueCAqIGEuc2xpbmdzaG90SW50ZW5zaXR5LAovLyAgICAgICAgICAgICAgICAgICAgdmVsLnkgKyBhLnNsaW5nc2hvdERpcmVjdGlvbi55ICogYS5zbGluZ3Nob3RJbnRlbnNpdHkKLy8gICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmIChhLnNsaW5nc2hvdERpcmVjdGlvbi5pc1plcm8oKSkgewoJCQkJCUNVTG9nKCJBdHRlbXB0ZWQgdG8gc2xpbmdzaG90IHdpdGggbm8gZGlyZWN0aW9uLCBtYWtlIHN1cmUgeW91ciBpbnB1dCBjb250YWlucyBhIGRpcmVjdGlvbi4iKTsKCQkJCX0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsaW5nc2hvdFZlY3Rvci5sZW5ndGgoKS8xMDAwMC5mLAo=</text>
+        <text encoding="base64">ICAgIF9hY3Rpb25TdGF0dXNMaXN0ZW5lci0+Y2xlYXJBY3Rpb25zKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHNsaW5nc2hvdEludGVuc2l0eTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
