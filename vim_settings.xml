@@ -8,12 +8,6 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.h" timestamp="1552259193389">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="71" />
-        <mark key="^" line="9" column="71" />
-        <mark key="." line="9" column="71" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1551228466821">
         <mark key="'" line="247" column="39" />
       </file>
@@ -29,26 +23,8 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/base/CUApplication.cpp" timestamp="1551228473404">
         <mark key="'" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UITraverse.h" timestamp="1552479419093">
-        <mark key="[" line="16" column="65" />
-        <mark key="]" line="16" column="65" />
-        <mark key="^" line="16" column="65" />
-        <mark key="." line="16" column="65" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/SlingshotSystem.h" timestamp="1552484652992">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" timestamp="1552485981135">
-        <mark key="[" line="60" column="43" />
-        <mark key="]" line="60" column="41" />
-        <mark key="^" line="60" column="41" />
-        <mark key="." line="60" column="41" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
         <mark key="'" line="4" column="23" />
@@ -61,12 +37,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1552325713923">
-        <mark key="[" line="23" column="95" />
-        <mark key="]" line="23" column="106" />
-        <mark key="^" line="23" column="106" />
-        <mark key="." line="23" column="106" />
       </file>
       <file name="/LLDB" timestamp="1552679892048">
         <mark key="[" line="0" column="0" />
@@ -88,23 +58,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1552323468375">
         <mark key="'" line="117" column="8" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Math.h" timestamp="1552324389004">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUFontLoader.h" timestamp="1552691153966">
         <mark key="[" line="72" column="30" />
         <mark key="]" line="72" column="29" />
         <mark key="." line="72" column="29" />
         <mark key="^" line="72" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1552485665434">
-        <mark key="[" line="35" column="75" />
-        <mark key="]" line="35" column="75" />
-        <mark key="." line="35" column="75" />
-        <mark key="^" line="35" column="75" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/CUVec2.h" timestamp="1552436480252">
         <mark key="'" line="874" column="19" />
@@ -115,21 +73,8 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" timestamp="1552326562058">
         <mark key="'" line="469" column="45" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1552483983393">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="27" column="63" />
-        <mark key="." line="27" column="63" />
-        <mark key="^" line="27" column="63" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1552694217164">
-        <mark key="'" line="298" column="7" />
-        <mark key="[" line="231" column="14" />
-        <mark key="]" line="231" column="18" />
-        <mark key="^" line="231" column="18" />
-        <mark key="." line="231" column="18" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUFontLoader.cpp" timestamp="1552692335327" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
@@ -140,12 +85,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1550775780750">
         <mark key="'" line="116" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/SlingshotSystem.cpp" timestamp="1552485461281">
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="49" column="64" />
-        <mark key="." line="49" column="64" />
-        <mark key="^" line="49" column="64" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1552691282297">
         <mark key="[" line="260" column="0" />
@@ -183,12 +122,6 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" timestamp="1550947232365">
         <mark key="'" line="479" column="22" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.h" timestamp="1552485117126">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="31" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
@@ -212,20 +145,8 @@
         <mark key="^" line="73" column="18" />
         <mark key="." line="73" column="18" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1552488500362">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Bimap.h" timestamp="1552260363910">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUJsonValue.cpp" timestamp="1552692385581" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1552693919126">
@@ -263,12 +184,6 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/HealthSystem.h" timestamp="1552259187088">
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="7" column="71" />
-        <mark key="^" line="7" column="71" />
-        <mark key="." line="7" column="71" />
       </file>
     </filemarks>
     <jumps>
