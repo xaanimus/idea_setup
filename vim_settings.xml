@@ -34,13 +34,15 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1552762168225">
+      <file name="/LLDB" timestamp="1552940136509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1552937575054">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1552940173058">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="55" column="16" />
+        <mark key="^" line="55" column="16" />
+        <mark key="." line="55" column="16" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551317268316">
         <mark key="'" line="348" column="53" />
@@ -109,6 +111,14 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUGenericLoader.h" timestamp="1552939341171">
+        <mark key="'" line="65" column="40" />
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1552940806174" />
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/optional" timestamp="1552266230444">
         <mark key="'" line="859" column="20" />
       </file>
@@ -135,13 +145,13 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.h" timestamp="1552937265173">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="49" />
-        <mark key="." line="7" column="49" />
-        <mark key="^" line="7" column="49" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.h" timestamp="1552939064362">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUAssetManager.cpp" timestamp="1552690198798">
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUAssetManager.cpp" timestamp="1552940058201">
         <mark key="'" line="533" column="58" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/physics/CUObstacle.cpp" timestamp="1552762558350">
@@ -180,6 +190,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUJsonValue.cpp" timestamp="1552936985858">
         <mark key="'" line="500" column="50" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1552940422561">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1552424951500">
         <mark key="'" line="18" column="1" />
       </file>
@@ -188,6 +203,9 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" timestamp="1551633701023">
         <mark key="'" line="69" column="32" />
+      </file>
+      <file name="/fragment.mm" timestamp="1552939782078">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" timestamp="1552430679732">
         <mark key="'" line="141" column="11" />
@@ -207,10 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="818" column="34" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
-      <jump line="719" column="28" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
-      <jump line="2042" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
-      <jump line="161" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="166" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="188" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="200" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -307,10 +321,14 @@
       <jump line="2096" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
       <jump line="2114" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
       <jump line="59" column="3" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
+      <jump line="10" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" />
+      <jump line="69" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUGenericLoader.h" />
+      <jump line="63" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUGenericLoader.h" />
+      <jump line="64" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUGenericLoader.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwaHlzaWNzX2Fzc2V0X2xvYWRlcgo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -319,16 +337,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>getHook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgY29uc3Qgc3RkOjp2ZWN0b3I8Y3VnbDo6VmVjMj4gc2hpcENvbGxpc2lvbiA9IHsK</text>
+        <text encoding="base64">ICAgICAgICBfdmVydGljZXMgPSBzdGQ6Om1vdmUoKnZlcnRpY2VzKTsKICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwaHlzaWNzX2Fzc2V0X2xvYWRlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,46 +367,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBfYXNzZXRzLT5hdHRhY2g8Rm9udD4oRm9udExvYWRlcjo6YWxsb2MoKS0+Z2V0SG9vaygpKTsKICAgIF9hc3NldHMtPmF0dGFjaDxUZXh0dXJlPihUZXh0dXJlTG9hZGVyOjphbGxvYygpLT5nZXRIb29rKCkpOwogICAgX2Fzc2V0cy0+YXR0YWNoPFNvdW5kPihTb3VuZExvYWRlcjo6YWxsb2MoKS0+Z2V0SG9vaygpKTsKICAgIF9hc3NldHMtPmF0dGFjaDxOb2RlPihTY2VuZUxvYWRlcjo6YWxsb2MoKS0+Z2V0SG9vaygpKTsKICAgIF9hc3NldHMtPmF0dGFjaDxKc29uVmFsdWU+KEpzb25Mb2FkZXI6OmFsbG9jKCktPmdldEhvb2soKSk7Cj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChqc29uVmVjMi0+YXNGbGhvYXRBcnJheSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBfdmVydGljZXMgPSBzdGQ6Om1vdmUoKnZlcnRpY2VzKTsKICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW5kZXIgc29saWQgYmxhY2sgcG9seWdvbiBjb3JyZXNwb25kaW5nIHRvIHBoeXNpY3MgYm9keQovLyAgICAgICAgYXV0byBub2RlID0gUG9seWdvbk5vZGU6OmFsbG9jKHBoeXNpY2FsLm9ic3RhY2xlLT5nZXRQb2x5Z29uKCkpOwovLyAgICAgICAgbm9kZS0+c2V0Q29sb3IoQ29sb3I0OjpCTEFDSyk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBfdmVydGljZXMgPSBzdGQ6Om1vdmUoKnZlcnRpY2VzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgQ1VMb2coInJlbmRlcmVyIFVQREFURSIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENVTG9nKCJ6b29tIik7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgYXV0byBwb2x5VmVydHNBc3NldCA9IGFzc2V0cy0+Z2V0PFBvbHkyZEFzc2V0PigiY29tcGxleFJvY2siKTsKICAgICAgICBhdXRvIHBvbHlWZXJ0cyA9IHBvbHlWZXJ0c0Fzc2V0LT52ZXJ0aWNlcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmICghYm91bmRzLmNvbnRhaW5zKFZlYzIoeCx5KSkpIHsKICAgICAgICAvLyAgICB4ID0gc3RkOjptYXgoeCxib3VuZHMub3JpZ2luLngpOwogICAgICAgIC8vICAgIHggPSBzdGQ6Om1pbih4LGJvdW5kcy5vcmlnaW4ueCtib3VuZHMuc2l6ZS53aWR0aCk7CiAgICAgICAgLy8gICAgeSA9IHN0ZDo6bWF4KHksYm91bmRzLm9yaWdpbi55KTsKICAgICAgICAvLyAgICB5ID0gc3RkOjptaW4oeSxib3VuZHMub3JpZ2luLnkrYm91bmRzLnNpemUuaGVpZ2h0KTsKICAgICAgICAvL30K</text>
+        <text encoding="base64">ICAgICAgICBQb2x5QXNzZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>getHook</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
-      <last-replace />
-      <last-substitute>[/{/g</last-substitute>
+      <last-pattern>getHook</last-pattern>
+      <last-replace>iNumber</last-replace>
+      <last-substitute>iCoord</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actionStatus</entry>
-        <entry>fingerPositionOn</entry>
         <entry>damp</entry>
         <entry>applyDrag</entry>
         <entry>angularDam</entry>
@@ -407,9 +423,10 @@
         <entry>Array</entry>
         <entry>children</entry>
         <entry>throw</entry>
+        <entry>iCoord</entry>
+        <entry>getHook</entry>
       </history-search>
       <history-cmd>
-        <entry>s/c0/c1/g</entry>
         <entry>s/c0/c2/g</entry>
         <entry>s/c0/c3/g</entry>
         <entry>W</entry>
@@ -428,6 +445,7 @@
         <entry encoding="base64">JzwsJz5zL1svey9n</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zL2lDb29yZC9pTnVtYmVyL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
