@@ -120,7 +120,7 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1552942797112">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1553048030534">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -341,7 +341,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getHook</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGh5c2ljc0xvZ2dlciA9IHsiUEhZU0lDUyIsIExPR19FTkFCTEVEfQo=</text>
@@ -407,9 +407,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getHook</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>getHook</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-replace>iNumber</last-replace>
       <last-substitute>iCoord</last-substitute>
       <last-dir>1</last-dir>
@@ -417,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>damp</entry>
         <entry>applyDrag</entry>
         <entry>angularDam</entry>
         <entry>collision</entry>
@@ -437,6 +436,7 @@
         <entry>throw</entry>
         <entry>iCoord</entry>
         <entry>getHook</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry>s/c0/c2/g</entry>
