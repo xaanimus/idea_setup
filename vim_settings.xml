@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUButton.cpp" timestamp="1550947320908">
         <mark key="'" line="405" column="8" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/main.cpp" timestamp="1553130346470">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/math/CUMat4.h" timestamp="1551395496340">
         <mark key="'" line="1795" column="14" />
       </file>
@@ -30,7 +36,6 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1552427689027">
         <mark key="'" line="326" column="33" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cJSON/cJSON.h" timestamp="1552936960507" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
