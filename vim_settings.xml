@@ -66,13 +66,6 @@
       <file name="/LLDB" timestamp="1553370980945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1553223910435">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="33" column="1" />
-        <mark key="^" line="55" column="16" />
-        <mark key="." line="55" column="16" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" timestamp="1553264762198">
         <mark key="'" line="239" column="4" />
       </file>
@@ -107,12 +100,12 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1553371671310">
-        <mark key="'" line="150" column="4" />
-        <mark key="[" line="155" column="37" />
-        <mark key="]" line="155" column="36" />
-        <mark key="." line="155" column="36" />
-        <mark key="^" line="155" column="36" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1553373687675">
+        <mark key="'" line="155" column="4" />
+        <mark key="[" line="179" column="39" />
+        <mark key="]" line="179" column="43" />
+        <mark key="." line="179" column="43" />
+        <mark key="^" line="179" column="43" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
@@ -213,13 +206,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUJsonValue.cpp" timestamp="1553225438694">
-        <mark key="'" line="213" column="47" />
-        <mark key="[" line="537" column="90" />
-        <mark key="]" line="538" column="34" />
-        <mark key="." line="538" column="34" />
-        <mark key="^" line="538" column="34" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1552424951500">
         <mark key="'" line="18" column="1" />
@@ -362,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gcGxheWVyU2hpcExvY2F0aW9uUGFpcnMgPQo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -371,7 +357,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Lisetner</text>
+        <text>_rootNode</text>
       </register>
       <register name="/" type="4">
         <text>_rootNode</text>
@@ -380,25 +366,25 @@
         <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxjdWdsOjpOb2RlPiBzaGlwSW50ZXJhY3Rpb25Ob2RlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gcGxheWVyU2hpcExvY2F0aW9uUGFpcnMgPQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gd29ybGRSb290ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGdpdmUgYWNjZXNzIHRvIGFsbCBkZXBlbmRlbmNpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjwK</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RydWN0IEFzc2V0TWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -407,7 +393,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
