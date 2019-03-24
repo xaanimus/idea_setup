@@ -89,10 +89,10 @@
       <file name="/fragment.mm" timestamp="1553227386253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1553454899666">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1553458144797">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="99" column="26" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="47" />
         <mark key="." line="99" column="26" />
         <mark key="^" line="99" column="26" />
       </file>
@@ -207,7 +207,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBBcHBTY2VuZUxvYWRlcjo6Y2hhbmdlU2NlbmVJZk5lY2Vzc2FyeSgpIHsK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -222,7 +222,7 @@
         <text>sceneLoader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH5BcHBTY2VuZUxvYWRlcigpOwo=</text>
+        <text encoding="base64">dm9pZCBBcHBTY2VuZUxvYWRlcjo6Y2hhbmdlU2NlbmVJZk5lY2Vzc2FyeSgpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
