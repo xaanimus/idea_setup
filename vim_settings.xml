@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Option.h" timestamp="1553452966621">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1553366121606">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="84" />
@@ -28,7 +34,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1553371789288" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1553449884719">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="16" />
@@ -60,12 +65,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1553446870591">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" timestamp="1553451592350">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" timestamp="1553451936815">
         <mark key="'" line="8" column="16" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="32" column="29" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/assets/levels/easy.lvl.json" timestamp="1553378132441" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1553445455688">
@@ -84,12 +88,12 @@
       <file name="/fragment.mm" timestamp="1553227386253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1553451562290">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="10" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1553453063218">
+        <mark key="'" line="130" column="82" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1553445403404">
         <mark key="[" line="15" column="0" />
@@ -99,20 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="172" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="323" column="73" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="65" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" />
-      <jump line="125" column="29" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" />
-      <jump line="148" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" />
-      <jump line="239" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" />
-      <jump line="409" column="34" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="11" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="252" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="257" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="397" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="267" column="37" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="418" column="76" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="181" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
       <jump line="42" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
       <jump line="116" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
@@ -187,7 +177,6 @@
       <jump line="38" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
       <jump line="18" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
       <jump line="8" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" />
-      <jump line="35" column="1" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="34" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="23" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
@@ -199,10 +188,25 @@
       <jump line="62" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
       <jump line="10" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
       <jump line="43" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="69" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="89" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="27" column="19" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="35" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="36" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="39" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
+      <jump line="130" column="82" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2xlYXJDdXJyZW50U2NlbmUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8gVE9ETyBpbXBsZW1lbnQgT3B0aW9uPFQ+IHdpdGhvdXQgVCgpIGRlZmF1bHQgY29uc3RydWN0b3I=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -211,52 +215,52 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>Node</text>
+        <text>levelSpec</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbGV2ZWxTcGVjQXNzZXQgPSBfaW1wbC5hc3NldHMtPmdldDxMZXZlbFNwZWNBc3NldD4obGV2ZWwubGV2ZWxLZXkpOwogICAgbGV2ZWxTcGVjQXNzZXQtPmxldmVsU3BlYygpLmxvYWRBc3NldHMoX2ltcGwuYXNzZXRzKTsKCiAgICBfaW1wbC0+Y3VycmVudFNjZW5lQXNzZXREaXJlY3RvcmllcyA9IGxldmVsLmFzc2V0RGlyZWN0b3JpZXM7CgogICAgcmV0dXJuIGxldmVsU3BlY0Fzc2V0LT5sZXZlbFNwZWMoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Ly8gVE9ETyBpbXBsZW1lbnQgT3B0aW9uPFQ+IHdpdGhvdXQgVCgpIGRlZmF1bHQgY29uc3RydWN0b3I=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2xlYXJDdXJyZW50U2NlbmUoKTsK</text>
+        <text encoding="base64">ICAgIGlmICghX2ltcGwtPmN1cnJlbnRTY2VuZSkgewogICAgICAgIHJldHVybiBudWxscHRyOwogICAgfQoKICAgIHJldHVybiBfaW1wbC0+Y3VycmVudFNjZW5lLT5zY2VuZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExldmVsU3BlYyYgbG9hZExldmVsVG9Bc3NldHNBc3luYyhjb25zdCBMZXZlbERpcmVjdG9yeTo6TGV2ZWwmIGxldmVsKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBfaW1wbC5jdXJyZW50U2NlbmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgX2ltcGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkxldmVsU3BlYyYgQXBwU2NlbmVMb2FkZXI6OmxvYWRMZXZlbFRvQXNzZXRzQXN5bmMoY29uc3QgTGV2ZWxEaXJlY3Rvcnk6OkxldmVsJiBsZXZlbCkgewogICAgbG9nZ2VyLmxvZygiYXN5bmNocm9ub3VzbHkgbG9hZGluZyBsZXZlbCB3aXRoIGtleSBcIiVzXCIiLCBsZXZlbC5sZXZlbEtleS5jX3N0cigpKTsKICAgIGZvciAoY29uc3QgYXV0byYgZGlyZWN0b3J5IDogbGV2ZWwuYXNzZXREaXJlY3RvcmllcykgewogICAgICAgIF9pbXBsLT5hc3NldHMtPmxvYWREaXJlY3RvcnlBc3luYyhkaXJlY3RvcnksIHt9KTsKICAgIH0KCiAgICBhdXRvIGxldmVsU3BlY0Fzc2V0ID0gX2ltcGwuYXNzZXRzLT5nZXQ8TGV2ZWxTcGVjQXNzZXQ+KGxldmVsLmxldmVsS2V5KTsKICAgIGxldmVsU3BlY0Fzc2V0LT5sZXZlbFNwZWMoKS5sb2FkQXNzZXRzKF9pbXBsLmFzc2V0cyk7CgogICAgX2ltcGwtPmN1cnJlbnRTY2VuZUFzc2V0RGlyZWN0b3JpZXMgPSBsZXZlbC5hc3NldERpcmVjdG9yaWVzOwoKICAgIHJldHVybiBsZXZlbFNwZWNBc3NldC0+bGV2ZWxTcGVjKCk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2ltcGwtPmN1cnJlbnRTY2VuZSA9IHN0ZDo6bWFrZV9zaGFyZWQ8V29ybGRMZXZlbFNjZW5lPihfaW1wbC0+YXNzZXRzLCBmaW5pc2hJbmZvLmxldmVsU3BlYyk7CiAgICAgICAgICAgIF9pbXBsLT5jdXJyZW50U2NlbmVBc3NldERpcmVjdG9yaWVzID0gZmluaXNoSW5mby0+YXNzZXREaXJlY3RvcmllczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2ltcGwtPmN1cnJlbnRTY2VuZQo=</text>
+        <text encoding="base64">dm9pZCBBcHBTY2VuZUxvYWRlcjo6dW5sb2FkQ3VycmVudFNjZW5lKCkgewogICAgX2ltcGwtPmN1cnJlbnRTY2VuZSA9IG51bGxwdHI7CiAgICBmb3IgKGNvbnN0IGF1dG8mIGFzc2V0RGlyZWN0b3J5IDogX2ltcGwtPmN1cnJlbnRTY2VuZUFzc2V0RGlyZWN0b3JpZXMpIHsKICAgICAgICBfaW1wbC5hc3NldHMtPnVubG9hZERpcmVjdG9yeShhc3NldERpcmVjdG9yeSk7CiAgICB9CiAgICBfaW1wbC0+Y3VycmVudFNjZW5lQXNzZXREaXJlY3Rvcmllcy5jbGVhcigpOwp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc0FzeW5jTG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5sb2FkQ3VycmVudFNjZW5lKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byBsZXZlbFNwZWMgPSBsb2FkTGV2ZWxUb0Fzc2V0c0FzeW5jKCpfaW1wbC5sZXZlbFRvTG9hZCk7IC8vIFRPRE8gaGFuZGxlIGV4Y2VwdGlvbnMgaGVyZQovLyAgICBhdXRvIG5ld1NjZW5lID0gc3RkOjptYWtlX3NoYXJlZDxXb3JsZExldmVsU2NlbmU+KF9pbXBsLmFzc2V0cywgbGV2ZWxTcGVjKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF9pbXBsLmN1cnJlbnRTY2VuZSA9IG5ld1NjZW5lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Node</last-search>
+      <last-search>levelSpec</last-search>
       <last-offset />
-      <last-pattern>Node</last-pattern>
+      <last-pattern>levelSpec</last-pattern>
       <last-replace>iNumber</last-replace>
       <last-substitute>iCoord</last-substitute>
       <last-dir>1</last-dir>
@@ -264,7 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asStringValue</entry>
         <entry>asStringArray</entry>
         <entry>loadDire</entry>
         <entry>mapJson</entry>
@@ -284,6 +287,7 @@
         <entry>_rootNode</entry>
         <entry>update</entry>
         <entry>Node</entry>
+        <entry>levelSpec</entry>
       </history-search>
       <history-cmd>
         <entry>s/c0/c2/g</entry>
@@ -299,12 +303,12 @@
         <entry>w3</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5zL21hdFdvcmxkVG9DYW1lcmEvbWF0Q2FtZXJhVG9Xb3JsZC9n</entry>
-        <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zL1svey9n</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zL2lDb29yZC9pTnVtYmVyL2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
