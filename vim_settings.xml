@@ -179,11 +179,10 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1553222884431">
         <mark key="'" line="839" column="9" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1553391980661">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1553392187390">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/assets/json/assets.json" timestamp="1553378191622" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1553391482443" />
@@ -194,7 +193,7 @@
         <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/assets/levels/easy.lvl.json" timestamp="1553378132441" />
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1553391773347" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1553392115474" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1552424951500">
         <mark key="'" line="18" column="1" />
       </file>
@@ -330,7 +329,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -339,7 +338,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>assets</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>_rootNode</text>
@@ -348,34 +347,34 @@
         <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxjdWdsOjpOb2RlPiBzaGlwSW50ZXJhY3Rpb25Ob2RlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZvaWQgc2VuZEludGVudCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmFuZ2VyU2VhCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">c3RydWN0IEFwcEkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0cnVjdCBJbnRlbnQgewogICAgICAgIGVudW0gSW50ZW50S2luZCB7CiAgICAgICAgICAgIElOVEVOVF9DSEFOR0VfTEVWRUwKICAgICAgICB9OwoKICAgICAgICBJbnRlbnRLaW5kIGludGVudEtpbmQ7CiAgICB9Owo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSU5URU5UX0NIQU5HRV8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
