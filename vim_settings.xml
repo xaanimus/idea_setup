@@ -60,6 +60,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1552427689027">
         <mark key="'" line="326" column="33" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.cpp" timestamp="1553445518520">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
@@ -71,13 +77,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1551317268316">
         <mark key="'" line="348" column="53" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/.clang-format" timestamp="1553360435476">
-        <mark key="'" line="71" column="10" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
       </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
@@ -106,11 +105,10 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" timestamp="1553361719210">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" timestamp="1553445562799">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="20" column="30" />
       </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
@@ -179,10 +177,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1553222884431">
         <mark key="'" line="839" column="9" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1553392187390">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1553446428557">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/assets/json/assets.json" timestamp="1553378191622" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1553391482443" />
@@ -193,6 +192,12 @@
         <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/assets/levels/easy.lvl.json" timestamp="1553378132441" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1553445455688">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1553392115474" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1552424951500">
         <mark key="'" line="18" column="1" />
@@ -215,20 +220,17 @@
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1553361461480">
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1553445403404">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="41" column="60" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/base/CUApplication.h" timestamp="1553093536627">
         <mark key="'" line="403" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
-      <jump line="551" column="22" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
-      <jump line="1119" column="41" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUJsonValue.h" />
       <jump line="414" column="29" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUJsonValue.cpp" />
       <jump line="84" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
       <jump line="165" column="43" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" />
@@ -326,10 +328,13 @@
       <jump line="162" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="165" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="150" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="25" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -338,7 +343,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">dXBkYXRlIA==</text>
       </register>
       <register name="/" type="4">
         <text>_rootNode</text>
@@ -347,34 +352,34 @@
         <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxjdWdsOjpOb2RlPiBzaGlwSW50ZXJhY3Rpb25Ob2RlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZEludGVudCgpOwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RydWN0IEFwcEkK</text>
+        <text encoding="base64">TGV2ZWxEaXJlY3RvcnkgTGV2ZWxEaXJlY3Rvcnk6OmxvYWRGcm9tQXNzZXRGaWxlbmFtZShzdGQ6OnN0cmluZyBmaWxlbmFtZSkgewogICAgYXV0byBqc29uUmVhZGVyID0gSnNvblJlYWRlcjo6YWxsb2NXaXRoQXNzZXQoZmlsZW5hbWUpOwogICAgYXV0byBqc29uID0ganNvblJlYWRlci0+cmVhZEpzb24oKTsKICAgIGF1dG8gbGV2ZWxzSnNvbiA9IGpzb24tPmdldCgibGV2ZWxzIik7CgogICAgTGV2ZWxEaXJlY3RvcnkgbGV2ZWxEaXJlY3Rvcnk7CiAgICBsZXZlbERpcmVjdG9yeS5sZXZlbHMgPSBjb252ZXJ0SnNvblRvVmVjdG9yPExldmVsPigKICAgICAgICBsZXZlbHNKc29uLCBbXShzdGQ6OnNoYXJlZF9wdHI8SnNvblZhbHVlPiBsZXZlbEpzb24pIHsKICAgICAgICAgICAgTGV2ZWwgbGV2ZWw7CiAgICAgICAgICAgIGxldmVsLmFzc2V0RGlyZWN0b3JpZXMgPSBsZXZlbEpzb24tPmdldCgiYXNzZXRzIiktPmFzU3RyaW5nQXJyYXkoCiAgICAgICAgICAgICAgICAiSU5WQUxJRF9BU1NFVF9ESVJFQ1RPUllfU1RSSU5HIik7CiAgICAgICAgICAgIGxldmVsLmxldmVsS2V5ID0gbGV2ZWxKc29uLT5nZXRTdHJpbmcoImtleSIpOwogICAgICAgICAgICByZXR1cm4gbGV2ZWw7CiAgICAgICAgfSk7CgogICAgcmV0dXJuIGxldmVsRGlyZWN0b3J5Owp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RydWN0IExldmVsRGlyZWN0b3J5IHsKICAgIHN0cnVjdCBMZXZlbCB7CiAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IGFzc2V0RGlyZWN0b3JpZXM7CiAgICAgICAgc3RkOjpzdHJpbmcgbGV2ZWxLZXk7CiAgICB9OwogICAgc3RkOjp2ZWN0b3I8TGV2ZWw+IGxldmVsczsKCiAgICBzdGF0aWMgTGV2ZWxEaXJlY3RvcnkgbG9hZEZyb21Bc3NldEZpbGVuYW1lKHN0ZDo6c3RyaW5nIGZpbGVuYW1lKTsKfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBJbnRlbnQgewogICAgICAgIGVudW0gSW50ZW50S2luZCB7CiAgICAgICAgICAgIElOVEVOVF9DSEFOR0VfTEVWRUwKICAgICAgICB9OwoKICAgICAgICBJbnRlbnRLaW5kIGludGVudEtpbmQ7CiAgICB9Owo=</text>
+        <text encoding="base64">c3RydWN0IExldmVsRGlyZWN0b3J5IHsKICAgIHN0cnVjdCBMZXZlbCB7CiAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IGFzc2V0RGlyZWN0b3JpZXM7CiAgICAgICAgc3RkOjpzdHJpbmcgbGV2ZWxLZXk7CiAgICB9OwogICAgc3RkOjp2ZWN0b3I8TGV2ZWw+IGxldmVsczsKCiAgICBzdGF0aWMgTGV2ZWxEaXJlY3RvcnkgbG9hZEZyb21Bc3NldEZpbGVuYW1lKHN0ZDo6c3RyaW5nIGZpbGVuYW1lKTsKfTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZvaWQgY2hhbmdlTGV2ZWwoY29uc3QgTGV2ZWxEaXJlY3Rvcnk6OkxldmVsJiBsZXZlbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU5URU5UX0NIQU5HRV8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
