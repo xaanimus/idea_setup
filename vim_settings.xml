@@ -9,6 +9,18 @@
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/main.cpp" timestamp="1553130346470">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.cpp" timestamp="1553276178770">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1553366121606">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="84" />
@@ -24,7 +36,12 @@
       <file name="/LLDB" timestamp="1553454914674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1553446626167" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/build-android/app/jni/source/Android.mk" timestamp="1553472303070">
+        <mark key="[" line="19" column="60" />
+        <mark key="]" line="19" column="60" />
+        <mark key="." line="19" column="60" />
+        <mark key="^" line="19" column="74" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1553378625949">
         <mark key="^" line="7" column="43" />
       </file>
@@ -34,19 +51,42 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1553449884719">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/HealActionSystem.cpp" timestamp="1553471512513">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1553472898968">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/SceneSystemDependencies.h" timestamp="1553372615745">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/controller/ActionStatusListener.h" timestamp="1553118475023">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.h" timestamp="1553223661698">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUAssetManager.cpp" timestamp="1553448164445">
         <mark key="'" line="533" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1553276078824">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1553454853450">
         <mark key="[" line="38" column="0" />
@@ -54,7 +94,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/assets/json/assets.json" timestamp="1553378191622" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1553449276332">
         <mark key="'" line="13" column="12" />
         <mark key="[" line="10" column="15" />
@@ -72,19 +111,17 @@
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/assets/levels/easy.lvl.json" timestamp="1553378132441" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ActionCreationSystem.cpp" timestamp="1553471921790">
+        <mark key="[" line="43" column="23" />
+        <mark key="]" line="43" column="27" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1553445455688">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1553455013445">
-        <mark key="'" line="58" column="37" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="36" column="3" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1553227386253">
         <mark key="[" line="0" column="0" />
@@ -207,7 +244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBBcHBTY2VuZUxvYWRlcjo6Y2hhbmdlU2NlbmVJZk5lY2Vzc2FyeSgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -216,13 +253,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>sceneLoader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dm9pZCBBcHBTY2VuZUxvYWRlcjo6Y2hhbmdlU2NlbmVJZk5lY2Vzc2FyeSgpIHsK</text>
+        <text encoding="base64">CSQoc3Vic3QgJChMT0NBTF9QQVRIKS8sLCAkKHdpbGRjYXJkICQoUFJPSl9QQVRIKS9zb3VyY2UvKiovKi5jcHApKSBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -231,28 +268,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ1VMb2coZm10U3RyZWFtLnN0cigpLmNfc3RyKCksIGFyZ3MuLi4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9zY2VuZUxvYWRlciA9IHN0ZDo6bWFrZV91bmlxdWU8QXBwU2NlbmVMb2FkZXI+KF9hc3NldHMpOwo=</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XZm9ybWF0LXNlY3VyaXR5IgojcHJhZ21hIGNsYW5nIGRpYWdub3N0aWMgcG9wCgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vYXV0byYgbGV2ZWxTcGVjID0gbG9hZExldmVsKF9hc3NldHMsIGxldmVsRGlyZWN0b3J5LmxldmVsc1swXSk7Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vX2N1cnJlbnRfc2NlbmUgPSBzdGQ6Om1ha2Vfc2hhcmVkPFdvcmxkTGV2ZWxTY2VuZT4oX2Fzc2V0cywgbGV2ZWxTcGVjKTsK</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
