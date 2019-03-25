@@ -36,6 +36,13 @@
       <file name="/LLDB" timestamp="1553454914674">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/tools/convert_polygon.py" timestamp="1553475061727">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="70" column="37" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/build-android/app/jni/source/Android.mk" timestamp="1553472303070">
         <mark key="[" line="19" column="60" />
         <mark key="]" line="19" column="60" />
@@ -141,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="169" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="26" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
       <jump line="27" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
@@ -241,10 +247,11 @@
       <jump line="37" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
       <jump line="51" column="37" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
       <jump line="60" column="37" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
+      <jump line="3" column="10" filename="$USER_HOME$/code/apps/stranger-seas/tools/convert_polygon.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -253,7 +260,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sceneLoader</text>
@@ -261,32 +268,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSQoc3Vic3QgJChMT0NBTF9QQVRIKS8sLCAkKHdpbGRjYXJkICQoUFJPSl9QQVRIKS9zb3VyY2UvKiovKi5jcHApKSBcCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>#
+#</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ1VMb2coZm10U3RyZWFtLnN0cigpLmNfc3RyKCksIGFyZ3MuLi4pOwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XZm9ybWF0LXNlY3VyaXR5IgojcHJhZ21hIGNsYW5nIGRpYWdub3N0aWMgcG9wCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ1VMb2coZm10U3RyZWFtLnN0cigpLmNfc3RyKCksIGFyZ3MuLi4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8qCg==</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XZm9ybWF0LXNlY3VyaXR5IgojcHJhZ21hIGNsYW5nIGRpYWdub3N0aWMgcG9wCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSovCg==</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CS8qCg==</text>
