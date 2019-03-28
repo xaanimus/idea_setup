@@ -85,7 +85,12 @@
         <mark key="." line="67" column="54" />
         <mark key="^" line="67" column="54" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553738760073" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553739803467">
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="51" />
+        <mark key="." line="56" column="51" />
+        <mark key="^" line="56" column="51" />
+      </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
@@ -371,7 +376,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -380,16 +385,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>replace_or</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBub3JtYWwgKz0gdGV4ZWxGZXRjaCh2ZXJ0X21vcnBoTm9ybWFscywgaXZlYzIoZ2xfVmVydGV4SUQsIGlfbW9ycGgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbiA9IChibGVuZGVkX3RyYW5zZm9ybSAqIHZlYzQocG9zaXRpb24sIDEuMCkpLnh5ejsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3JtYWwgKz0gd2VpZ2h0ICogdGV4ZWxGZXRjaCh2ZXJ0X21vcnBoTm9ybWFscywgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -413,28 +418,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpX21vcnBoCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXQ0IAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBub3JtYWwgKz0gd2VpZ2h0ICogdGV4ZWxGZXRjaCh2ZXJ0X21vcnBoTm9ybWFscywgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNDYK</text>
+        <text encoding="base64">ICAgICAgICBpX21vcnBoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlyZWdpc3RyeS5kZXN0cm95KGVudGl0eSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
