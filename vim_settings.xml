@@ -47,12 +47,6 @@
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
         <mark key="'" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Morph/shaders/morph_mesh.vert" timestamp="1553725552179">
-        <mark key="[" line="46" column="30" />
-        <mark key="]" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUNode.h" timestamp="1551279228386">
         <mark key="'" line="111" column="12" />
       </file>
@@ -91,6 +85,7 @@
         <mark key="." line="67" column="54" />
         <mark key="^" line="67" column="54" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553738760073" />
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
       </file>
