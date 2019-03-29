@@ -69,7 +69,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1553812745059">
+      <file name="/LLDB" timestamp="1553876403168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1553476025741">
@@ -140,6 +140,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1553876401037" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
       </file>
@@ -221,7 +222,8 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1553488098775">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1553876318908">
+        <mark key="'" line="65" column="26" />
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="40" />
         <mark key="^" line="20" column="40" />
@@ -293,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="69" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="91" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="89" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
@@ -393,6 +394,7 @@
       <jump line="16" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
       <jump line="106" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
       <jump line="107" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
+      <jump line="65" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -408,7 +410,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Cooldown</text>
+        <text>SHIP_HEIGHT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtQm9uZVRyYW5zZm9ybUJ1ZmZlci5iaW5kKDEpOwo=</text>
@@ -459,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Cooldown</last-search>
+      <last-search>SHIP_HEIGHT</last-search>
       <last-offset />
-      <last-pattern>Cooldown</last-pattern>
+      <last-pattern>SHIP_HEIGHT</last-pattern>
       <last-replace>iNumber</last-replace>
       <last-substitute>iCoord</last-substitute>
       <last-dir>1</last-dir>
@@ -469,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>Node</entry>
         <entry>levelSpec</entry>
         <entry>sceneLoader</entry>
@@ -489,6 +490,7 @@
         <entry>slerp</entry>
         <entry>setLightUniforms</entry>
         <entry>Cooldown</entry>
+        <entry>SHIP_HEIGHT</entry>
       </history-search>
       <history-cmd>
         <entry>s/c0/c2/g</entry>
