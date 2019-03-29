@@ -9,6 +9,13 @@
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.cpp" timestamp="1553812868548">
+        <mark key="'" line="215" column="57" />
+        <mark key="[" line="211" column="4" />
+        <mark key="]" line="211" column="4" />
+        <mark key="." line="211" column="4" />
+        <mark key="^" line="210" column="5" />
+      </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/base/CUApplication.h" timestamp="1551228466821">
         <mark key="'" line="247" column="39" />
       </file>
@@ -62,7 +69,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1553702576547">
+      <file name="/LLDB" timestamp="1553812745059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1553476025741">
@@ -85,11 +92,11 @@
         <mark key="." line="67" column="54" />
         <mark key="^" line="67" column="54" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553739803467">
-        <mark key="[" line="56" column="51" />
-        <mark key="]" line="56" column="51" />
-        <mark key="." line="56" column="51" />
-        <mark key="^" line="56" column="51" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
       </file>
       <file name="/usr/local/Cellar/llvm/7.0.1/include/c++/v1/memory" timestamp="1550722141707">
         <mark key="'" line="3789" column="26" />
@@ -102,6 +109,12 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" timestamp="1553522333907">
         <mark key="'" line="365" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Animation/AnimationApp.cpp" timestamp="1553806881096">
+        <mark key="[" line="174" column="46" />
+        <mark key="]" line="174" column="47" />
+        <mark key="^" line="174" column="47" />
+        <mark key="." line="174" column="47" />
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
@@ -163,11 +176,18 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" timestamp="1552335611775">
         <mark key="'" line="130" column="6" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1551886542417">
-        <mark key="'" line="66" column="2" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1553811597864">
+        <mark key="'" line="95" column="27" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
         <mark key="'" line="218" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" timestamp="1553810497239">
+        <mark key="'" line="170" column="63" />
+        <mark key="[" line="163" column="9" />
+        <mark key="]" line="163" column="17" />
+        <mark key="." line="163" column="17" />
+        <mark key="^" line="163" column="17" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" timestamp="1550947232365">
         <mark key="'" line="479" column="22" />
@@ -273,17 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
-      <jump line="8" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="8" column="20" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
-      <jump line="84" column="41" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
-      <jump line="83" column="41" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
       <jump line="64" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
       <jump line="62" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
       <jump line="10" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
@@ -373,10 +382,21 @@
       <jump line="296" column="31" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" />
       <jump line="297" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" />
       <jump line="365" column="29" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="275" column="89" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="344" column="20" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="335" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="337" column="12" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="46" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="269" column="64" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="297" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="151" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.cpp" />
+      <jump line="170" column="63" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
+      <jump line="95" column="27" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -385,16 +405,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>replace_or</text>
+        <text>setLightUniforms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbiA9IChibGVuZGVkX3RyYW5zZm9ybSAqIHZlYzQocG9zaXRpb24sIDEuMCkpLnh5ejsK</text>
+        <text encoding="base64">ICBtQm9uZVRyYW5zZm9ybUJ1ZmZlci5iaW5kKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9IGVsc2UgewogICAgLy9ub2RlVG9QYXJlbnQgPSBub2RlLmdldFRyYW5zZm9ybWF0aW9uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -402,53 +422,46 @@
           <key char="97" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="103" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBFaWdlbjo6QWZmaW5lM2Y6OklkZW50aXR5KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGF1dG8gbWF0cml4VHJhbnNmb3JtID0gRWlnZW46Ok1hdHJpeDRmKHRyYW5zZm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXQ0IAo=</text>
+        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxFaWdlbjo6TWF0cml4NGY+IGJ1ZmZlclRyYW5zZm9ybXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3JtYWwgKz0gd2VpZ2h0ICogdGV4ZWxGZXRjaCh2ZXJ0X21vcnBoTm9ybWFscywgKQo=</text>
+        <text encoding="base64">ICBVbmlmb3JtQnVmZmVyU3RkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB0cmFuc2xhdGlvbi50cmFuc2prZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpX21vcnBoCg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgYXV0byByYW5nZUhpID0gbVRyYW5zbGF0aW9uS2V5cy51cHBlcl9ib3VuZCh0aW1lKTsKICBhdXRvIHJhbmdlTG8gPSByYW5nZUhpOwogIGlmIChyYW5nZUxvID09IG1UcmFuc2xhdGlvbktleXMuYmVnaW4oKSkgewogICAgcmFuZ2VMbyA9IG1UcmFuc2xhdGlvbktleXMuZW5kKCk7CiAgfSBlbHNlIHsKICAgIHJhbmdlTG8tLTsKICB9CgogIGlmIChyYW5nZUhpID09IG1UcmFuc2xhdGlvbktleXMuZW5kKCkgJiYgcmFuZ2VMbyA9PSBtVHJhbnNsYXRpb25LZXlzLmVuZCgpKSB7CiAgICBzdGQ6OmNlcnIgPDwgInVuaGFuZGxlZCBubyBrZXlmcmFtZXMhIiA8PCBzdGQ6OmVuZGw7CiAgICByZXR1cm4ge307CiAgfQoKICBpZiAocmFuZ2VIaSA9PSBtVHJhbnNsYXRpb25LZXlzLmVuZCgpKSB7CiAgICAvLyB1c2UgZmlyc3Qga2V5ZnJhbWUKICAgIHJldHVybiBFaWdlbjo6QWZmaW5lM2YoRWlnZW46OlRyYW5zbGF0aW9uM2YocmFuZ2VMby0+c2Vjb25kKSk7CiAgfQoKICBpZiAocmFuZ2VMbyA9PSBtVHJhbnNsYXRpb25LZXlzLmVuZCgpKSB7CiAgICAvLyB1c2Ugc2Vjb25kIGtleWZyYW1lCiAgICByZXR1cm4gRWlnZW46OkFmZmluZTNmKEVpZ2VuOjpUcmFuc2xhdGlvbjNmKHJhbmdlSGktPnNlY29uZCkpOwogIH0KCiAgZmxvYXQgdCA9ICh0aW1lIC0gcmFuZ2VMby0+Zmlyc3QpIC8gKHJhbmdlSGktPmZpcnN0IC8gcmFuZ2VMby0+Zmlyc3QpOwogIGF1dG8gaW50ZXJwb2xhdGVkID0gbGVycChyYW5nZUxvLT5zZWNvbmQsIHJhbmdlSGktPnNlY29uZCwgdCk7CgogIHN0ZDo6Y291dCA8PCByYW5nZUxvLT5maXJzdCA8PCAiICIgPDwgcmFuZ2VIaS0+Zmlyc3QgPDwgc3RkOjplbmRsOwogIHJldHVybiBFaWdlbjo6QWZmaW5lM2YoRWlnZW46OlRyYW5zbGF0aW9uM2YoaW50ZXJwb2xhdGVkKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>replace_or</last-search>
+      <last-search>setLightUniforms</last-search>
       <last-offset />
-      <last-pattern>replace_or</last-pattern>
+      <last-pattern>setLightUniforms</last-pattern>
       <last-replace>iNumber</last-replace>
       <last-substitute>iCoord</last-substitute>
       <last-dir>1</last-dir>
@@ -456,14 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>linkDebugNodes</entry>
-        <entry>construction</entry>
-        <entry>factor</entry>
-        <entry>_assets</entry>
-        <entry>construct</entry>
-        <entry>label</entry>
-        <entry>visibility</entry>
-        <entry>_listener</entry>
         <entry>_rootNode</entry>
         <entry>update</entry>
         <entry>Node</entry>
@@ -476,6 +481,14 @@
         <entry>getTree</entry>
         <entry>assign_or</entry>
         <entry>replace_or</entry>
+        <entry>setCameraUni</entry>
+        <entry>set</entry>
+        <entry>uniform</entry>
+        <entry>Uniform</entry>
+        <entry>Skeleton</entry>
+        <entry>mTransformation</entry>
+        <entry>slerp</entry>
+        <entry>setLightUniforms</entry>
       </history-search>
       <history-cmd>
         <entry>s/c0/c2/g</entry>
