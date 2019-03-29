@@ -44,7 +44,8 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="34" column="72" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1553366121606">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1553822539095">
+        <mark key="'" line="107" column="22" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="84" />
         <mark key="." line="59" column="84" />
@@ -292,9 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
-      <jump line="62" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
-      <jump line="10" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" />
       <jump line="43" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="69" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="91" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
@@ -392,6 +390,9 @@
       <jump line="151" column="57" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.cpp" />
       <jump line="170" column="63" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" />
       <jump line="95" column="27" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" />
+      <jump line="16" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
+      <jump line="106" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
+      <jump line="107" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -407,7 +408,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>setLightUniforms</text>
+        <text>Cooldown</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtQm9uZVRyYW5zZm9ybUJ1ZmZlci5iaW5kKDEpOwo=</text>
@@ -458,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setLightUniforms</last-search>
+      <last-search>Cooldown</last-search>
       <last-offset />
-      <last-pattern>setLightUniforms</last-pattern>
+      <last-pattern>Cooldown</last-pattern>
       <last-replace>iNumber</last-replace>
       <last-substitute>iCoord</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_rootNode</entry>
         <entry>update</entry>
         <entry>Node</entry>
         <entry>levelSpec</entry>
@@ -488,6 +488,7 @@
         <entry>mTransformation</entry>
         <entry>slerp</entry>
         <entry>setLightUniforms</entry>
+        <entry>Cooldown</entry>
       </history-search>
       <history-cmd>
         <entry>s/c0/c2/g</entry>
