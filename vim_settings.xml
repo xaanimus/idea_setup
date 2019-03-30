@@ -110,11 +110,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" timestamp="1553522333907">
         <mark key="'" line="365" column="29" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Animation/AnimationApp.cpp" timestamp="1553806881096">
-        <mark key="[" line="174" column="46" />
-        <mark key="]" line="174" column="47" />
-        <mark key="^" line="174" column="47" />
-        <mark key="." line="174" column="47" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Animation/AnimationApp.cpp" timestamp="1553907772219">
+        <mark key="[" line="175" column="72" />
+        <mark key="]" line="176" column="6" />
+        <mark key="^" line="176" column="6" />
+        <mark key="." line="176" column="6" />
       </file>
       <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.77.0/macOS/include/vulkan/vulkan_core.h" timestamp="1550268451256">
         <mark key="'" line="128" column="13" />
@@ -183,7 +183,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
         <mark key="'" line="218" column="6" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" timestamp="1553810497239">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Scene.hpp" timestamp="1553907670260">
         <mark key="'" line="170" column="63" />
         <mark key="[" line="163" column="9" />
         <mark key="]" line="163" column="17" />
