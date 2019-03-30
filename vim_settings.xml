@@ -263,11 +263,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUPolygonObstacle.h" timestamp="1552430679732">
         <mark key="'" line="141" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1553974048388">
-        <mark key="[" line="31" column="60" />
-        <mark key="]" line="31" column="64" />
-        <mark key="^" line="31" column="64" />
-        <mark key="." line="31" column="64" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1553984002076">
+        <mark key="[" line="140" column="38" />
+        <mark key="]" line="141" column="4" />
+        <mark key="." line="141" column="4" />
+        <mark key="^" line="141" column="4" />
       </file>
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
@@ -389,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>}</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -398,7 +398,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>SHIP_HEIGHT</text>
@@ -407,7 +407,7 @@
         <text encoding="base64">ICBtQm9uZVRyYW5zZm9ybUJ1ZmZlci5iaW5kKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,28 +424,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2V0RGlyZWN0b3JpZXMuZXhpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6ZXhpcwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdGhlIGZvbGxvd2luZyBsb2FkaW5nIGNvZGUgc2hvdWxkIGJlIGFzeW5jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETyByZW5hbWUgdG8gaW50ZXJwb2xhdGUgc2luY2UgdGhpcyBpc24ndCBhY3R1YWxseSBsZXJwIGJ1dCBzbGVycAo=</text>
+        <text encoding="base64">ICAgIC8vICAgIF9pbXBsLT5zZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vbm9kZVRvUGFyZW50ID0gRWlnZW46OkFmZmluZTNmOjpJZGVudGl0eSgpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIEFwcFNjZW5lTG9hZGVyOjpTY2VuZUluZm8gbG9hZEluZm87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgcmFuZ2VMby0+Zmlyc3QgPDwgIiAiIDw8IHJhbmdlSGktPmZpcnN0IDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgLy9ub2RlVG9QYXJlbnQgPSBub2RlLmdldFRyYW5zZm9ybWF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIFNjZW5lSW5mbyBsb2FkaW5nU2NlbmVJbmZvOwogICAgbG9hZGluZ1NjZW5lSW5mby5zY2VuZSA9IGxvYWRTY2VuZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBFaWdlbjo6QWZmaW5lM2Y6OklkZW50aXR5KCkK</text>
+        <text encoding="base64">ICAgIFNjZW5lSW5mbyBsb2FkaW5nU2NlbmVJbmZvOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbWF0cml4VHJhbnNmb3JtID0gRWlnZW46Ok1hdHJpeDRmKHRyYW5zZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGN1cnJlbnRTY2VuZSgpID0gc3RkOjptYWtlX3NoYXJlZDxMb2FkaW5nU2NlbmU+KF9pbXBsLT5hc3NldHMpOwogICAgLy8gICAgc3RkOjptYWtlX3NoYXJlZDxMb2FkaW5nU2NlbmU+KF9pbXBsLT5hc3NldHMpIGxvYWRTY2VuZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
