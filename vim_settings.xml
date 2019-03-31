@@ -264,6 +264,12 @@
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
         <mark key="'" line="60" column="30" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1553999432594">
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="21" />
+        <mark key="^" line="72" column="21" />
+        <mark key="." line="72" column="21" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1553445403404">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
