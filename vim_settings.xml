@@ -50,11 +50,10 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1552427689027">
         <mark key="'" line="326" column="33" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1554241496561">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1554242146042">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
@@ -391,7 +390,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -409,7 +408,7 @@
         <text encoding="base64">ICAgIC8vIEluaXRpYWxpemUgdGhlIHNjZW5lIHRvIGEgbG9ja2VkIHdpZHRoCiAgICBTaXplIGRpbWVuID0KICAgICAgICBTdHJhbmdlclNlYXNBcHA6OmdldCgpCiAgICAgICAgICAgIC0+Z2V0RGlzcGxheVNpemUoKTsgLy8gQXBwbGljYXRpb246OmdldCgpLT5nZXREaXNwbGF5U2l6ZSgpOwogICAgLy8gZGltZW4gKj0gU0NFTkVfV0lEVEgvZGltZW4ud2lkdGg7IC8vIExvY2sgdGhlIGdhbWUgdG8gYSByZWFzb25hYmxlCiAgICAvLyByZXNvbHV0aW9uCiAgICBpZiAoYXNzZXRzID09IG51bGxwdHIpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9IGVsc2UgaWYgKCFTY2VuZTo6aW5pdChkaW1lbikpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgLy8gSU1NRURJQVRFTFkgbG9hZCB0aGUgc3BsYXNoIHNjcmVlbiBhc3NldHMKICAgIF9hc3NldHMgPSBhc3NldHM7CiAgICAvLyAgICBfYXNzZXRzLT5sb2FkRGlyZWN0b3J5KCJqc29uL2xvYWRpbmcuanNvbiIpOwogICAgYXV0byBsYXllciA9IGFzc2V0cy0+Z2V0PE5vZGU+KCJsb2FkIik7CiAgICAvLyBsYXllci0+c2V0Q29udGVudFNpemUoZGltZW4pOwogICAgLy8gICAgbGF5ZXItPnNldFBvc2l0aW9uKGRpbWVuLndpZHRoLzIuMCwgZGltZW4uaGVpZ2h0LzIuMCk7CiAgICAvLyBsYXllci0+ZG9MYXlvdXQoKTsgLy8gVGhpcyByZWFycmFuZ2VzIHRoZSBjaGlsZHJlbiB0byBmaXQgdGhlIHNjcmVlbgoKICAgIC8vX2JhciA9CiAgICAvLyBzdGQ6OmR5bmFtaWNfcG9pbnRlcl9jYXN0PFByb2dyZXNzQmFyPihhc3NldHMtPmdldDxOb2RlPigibG9hZF9iYXIiKSk7CiAgICAvLyAgICBfYnV0dG9uID0KICAgIC8vICAgIHN0ZDo6ZHluYW1pY19wb2ludGVyX2Nhc3Q8QnV0dG9uPihhc3NldHMtPmdldDxOb2RlPigibG9hZF9jbGF3X3BsYXkiKSk7CiAgICAvLyAgICBfYnV0dG9uLT5zZXRMaXN0ZW5lcihbPV0oY29uc3Qgc3RkOjpzdHJpbmcmIG5hbWUsIGJvb2wgZG93bikgewogICAgLy8gICAgICAgIHRoaXMtPl9hY3RpdmUgPSBkb3duOwogICAgLy8gICAgfSk7CgogICAgQXBwbGljYXRpb246OmdldCgpLT5zZXRDbGVhckNvbG9yKENvbG9yNCgwLCAxNTMsIDE0NCwgMjU1KSk7CiAgICAvLyBhZGRDaGlsZChsYXllcik7CiAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,28 +425,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHBlbmRpbmdMYXN0U2VnbWVudExlbmd0aCA9IHBvc2l0aW9uLmRpc3RhbmNlKGxhc3RWZXJ0KCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWZWMyIGxhc3RWZXJ0ID0gdmVydHMoKVt2ZXJ0cygpLnNpemUoKSAtIDFdOwogICAgICAgIFZlYzIgc2Vjb25kVG9MYXN0VmVydCA9IHZlcnRzKClbdmVydHMoKS5zaXplKCkgLSAyXTsKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZsb2F0IHBlbmRpbmdMYXN0U2VnbWVudExlbmd0aCA9IHBvc2l0aW9uLmRpc3RhbmNlKGxhc3RWZXJ0KCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBWZWMyIGxhc3RWZXJ0ID0gdmVydHMoKVt2ZXJ0cygpLnNpemUoKSAtIDFdOwogICAgICAgIFZlYzIgc2Vjb25kVG9MYXN0VmVydCA9IHZlcnRzKClbdmVydHMoKS5zaXplKCkgLSAyXTsKCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG51bVZlcnRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBudW1WZXJ0cyA9IHZlcnRzKCkuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgIG51bVZlcnRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
