@@ -15,6 +15,12 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/JsonParsingHelpers.h" timestamp="1553361288689">
+        <mark key="'" line="26" column="67" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/main.cpp" timestamp="1554246370850">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -76,11 +82,11 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1554256926400">
-        <mark key="[" line="232" column="70" />
-        <mark key="]" line="232" column="70" />
-        <mark key="." line="232" column="70" />
-        <mark key="^" line="232" column="70" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1554331209655">
+        <mark key="[" line="229" column="35" />
+        <mark key="]" line="229" column="34" />
+        <mark key="^" line="229" column="34" />
+        <mark key="." line="229" column="34" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" timestamp="1553445562799">
         <mark key="[" line="24" column="0" />
@@ -114,11 +120,11 @@
         <mark key="." line="290" column="7" />
         <mark key="^" line="290" column="7" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.h" timestamp="1554256955247">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.h" timestamp="1554331381539">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1553454853450">
         <mark key="[" line="38" column="0" />
@@ -140,6 +146,18 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1554331011248">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" timestamp="1553478630674">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUJsonValue.cpp" timestamp="1553477575135">
         <mark key="'" line="213" column="47" />
         <mark key="[" line="537" column="0" />
@@ -147,10 +165,12 @@
         <mark key="." line="544" column="0" />
         <mark key="^" line="542" column="57" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1554257790313">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1554331438150">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.cpp" timestamp="1553522461343">
         <mark key="[" line="84" column="38" />
@@ -167,11 +187,11 @@
       <file name="/fragment.mm" timestamp="1554257181411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1553999432594">
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="72" column="21" />
-        <mark key="^" line="72" column="21" />
-        <mark key="." line="72" column="21" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1554330959742">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="52" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1553445403404">
         <mark key="[" line="15" column="0" />
@@ -181,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="36" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="39" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="130" column="82" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
@@ -281,10 +300,11 @@
       <jump line="9" column="27" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
       <jump line="10" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
       <jump line="11" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RkOjptYWtlX3NoYXJlZDxMaW5lYXJQYXRoQnVpbGRlcj4oKQ==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -293,16 +313,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">c3RkOjptYWtlX3NoYXJlZDxMaW5lYXJQYXRoQnVpbGRlcj4oKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>angle</text>
+        <text>_pathBuilder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL3V0aWwvT3B0aW9uLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPFBhdGhCdWlsZFN5c3RlbT4oX2lucHV0UHJvY2Vzc29yLT5pbnB1dFN0YXR1c1ZpZXdlcigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXJlclN5c3RlbS0+d29ybGRSb290KCkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL3V0aWwvTGluZWFyUGF0aC5oIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -319,37 +339,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBjb25zdCBMaW5lYXJQYXRoJiBnZXRQYXRoKCkgY29uc3QgewogICAgICAgIHJldHVybiBfcGF0aEJ1aWxkZXIuZ2V0UGF0aCgpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfcGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBhdXRvIHBhdGhCdWlsZFN5c3RlbSA9IHN0ZDo6bWFrZV9zaGFyZWQ8UGF0aEJ1aWxkU3lzdGVtPigKICAgICAgICBfaW5wdXRQcm9jZXNzb3ItPmlucHV0U3RhdHVzVmlld2VyKCksCiAgICAgICAgcmVuZGVyZXJTeXN0ZW0tPndvcmxkUm9vdCgpCiAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpbmVhclBhdGggZgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIlBhdGhCdWlsZFN5c3RlbS5oIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfcGF0aEJ1aWxkZXItPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL3V0aWwvT3B0aW9uLmgiCg==</text>
+        <text encoding="base64">c3RydWN0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>angle</last-search>
+      <last-search>_pathBuilder</last-search>
       <last-offset />
-      <last-pattern>angle</last-pattern>
+      <last-pattern>_pathBuilder</last-pattern>
       <last-replace>iVert</last-replace>
       <last-substitute>iCurrentVertex</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sceneLoader</entry>
         <entry>DEBUG_LOG</entry>
         <entry>DEBUG</entry>
         <entry>detect double</entry>
@@ -377,6 +396,7 @@
         <entry>SHIP_HEIGHT</entry>
         <entry>iCurrentVertex</entry>
         <entry>angle</entry>
+        <entry>_pathBuilder</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
