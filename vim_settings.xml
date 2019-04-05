@@ -63,17 +63,17 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1552427689027">
         <mark key="'" line="326" column="33" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1554425699789">
-        <mark key="'" line="97" column="1" />
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1554430464025">
+        <mark key="'" line="134" column="1" />
+        <mark key="[" line="53" column="63" />
+        <mark key="]" line="53" column="63" />
+        <mark key="." line="53" column="63" />
+        <mark key="^" line="53" column="63" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1554404635623">
+      <file name="/LLDB" timestamp="1554430628689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1553974253552">
@@ -98,11 +98,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1553522821708">
         <mark key="'" line="182" column="21" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Math.h" timestamp="1554425304448">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Math.h" timestamp="1554429747714">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" timestamp="1553522333907">
         <mark key="'" line="365" column="29" />
@@ -128,11 +128,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1554425416623">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1554430609499">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
@@ -353,8 +353,8 @@
       <jump line="83" column="1" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>intersection between given ray and path,</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -363,7 +363,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>intersection between given ray and path,</text>
       </register>
       <register name="/" type="4">
         <text>directionFactor</text>
@@ -372,7 +372,7 @@
         <text encoding="base64">ICAgIFVuaXRWZWMyKGN1Z2w6OlZlYzImJiB2YWx1ZSk6IF92YWx1ZSh2YWx1ZSkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vLyBmaW5kIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -389,28 +389,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0IDwgMC4wZikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtaW5UUGF0aCA9IHN0ZDo6bWluKG1pblRQYXRoLCB0UGF0aCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodFBhdGggPCBtaW5UUGF0aCkgewogICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpU2VnbWVudCA8IDAgfHwgaVNlZ21lbnQgPj0gdmVydGljZXMuc2l6ZSgpKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5UUGF0aCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChpU2VnbWVudCA8IDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlTZWdtZW50Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
