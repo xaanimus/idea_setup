@@ -58,6 +58,11 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1552427689027">
         <mark key="'" line="326" column="33" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioWaveform.cpp" timestamp="1554737397199">
+        <mark key="[" line="929" column="25" />
+        <mark key="]" line="929" column="25" />
+        <mark key="." line="929" column="25" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1554504622350">
         <mark key="'" line="132" column="1" />
         <mark key="[" line="84" column="30" />
@@ -239,7 +244,6 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioManager.cpp" timestamp="1554505259850" />
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
       </file>
@@ -452,7 +456,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -461,7 +465,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>music</text>
