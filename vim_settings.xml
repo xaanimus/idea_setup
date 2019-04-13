@@ -44,10 +44,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1554404187148">
         <mark key="'" line="112" column="22" />
-        <mark key="[" line="63" column="47" />
-        <mark key="]" line="63" column="52" />
-        <mark key="." line="63" column="52" />
-        <mark key="^" line="63" column="52" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/source/ui_tools/InputProcessor.h" timestamp="1551482868522">
         <mark key="'" line="4" column="23" />
@@ -74,7 +70,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1554504963277">
+      <file name="/LLDB" timestamp="1555182143328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1554480286142">
@@ -159,6 +155,11 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1555181825818">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
       </file>
@@ -212,6 +213,12 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.hpp" timestamp="1555181770017">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioWaveform.h" timestamp="1554505797116">
         <mark key="'" line="6" column="39" />
       </file>
@@ -227,7 +234,6 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CUAssetManager.h" timestamp="1553222884431">
         <mark key="'" line="839" column="9" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/assets/level_json/my_level.lvl.json" timestamp="1554943043486" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1554503740051">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="30" column="3" />
@@ -269,13 +275,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/optional-lite/include/nonstd/optional.hpp" timestamp="1554480853531">
         <mark key="'" line="1177" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1554504402677">
-        <mark key="'" line="31" column="7" />
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-        <mark key="^" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.cpp" timestamp="1553522461343">
         <mark key="[" line="84" column="38" />
@@ -452,8 +451,8 @@
       <jump line="6" column="39" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioWaveform.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFNjZW5lOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -471,7 +470,7 @@
         <text encoding="base64">ICAgICAgICAgICAgIHByb2pMb2dnZXIgPSB7IlBST0oiLCBMT0dfRU5BQkxFRH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNjZW5lOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -492,28 +491,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0RGlyZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZGlyICogbWF4KHNwZWVkLCBNSU5fU1BFRUQpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0RGlyZWN0aW9uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETyB0aGlzIHNob3VsZCBiZSBkaXJlY3Rpb24gaW5zdGVhZAo=</text>
+        <text encoding="base64">Ly8gZGlyICogbWF4KHNwZWVkLCBNSU5fU1BFRUQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzcGxpbmUtaW5wdXQK</text>
+        <text encoding="base64">Ly8gVE9ETyB0aGlzIHNob3VsZCBiZSBkaXJlY3Rpb24gaW5zdGVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpZiAoX2lucHV0U3RhdHVzVmlld2VyLT5zbGluZ3Nob3RDaGFyZ2luZy5oYXNfdmFsdWUoKSkgewo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBzcGxpbmUtaW5wdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vX3NjZW5lTG9hZGVyID0gc3RkOjptYWtlX3VuaXF1ZTxBcHBTY2VuZUxvYWRlcj4oX2Fzc2V0cyk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpZiAoX2lucHV0U3RhdHVzVmlld2VyLT5zbGluZ3Nob3RDaGFyZ2luZy5oYXNfdmFsdWUoKSkgewo9PT09PT09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vc2NlbmVMb2FkZXIoKS5zY2hlZHVsZUxldmVsQ2hhbmdlKGxldmVsRGlyZWN0b3J5LmxldmVsc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vX3NjZW5lTG9hZGVyID0gc3RkOjptYWtlX3VuaXF1ZTxBcHBTY2VuZUxvYWRlcj4oX2Fzc2V0cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byBjdXJyZW50U2NlbmUgPSBfc2NlbmVMb2FkZXItPmN1cnJlbnRTY2VuZSgpOwovLyAgICBpZiAoY3VycmVudFNjZW5lID09IG51bGxwdHIpIHsKLy8gICAgICAgIHJldHVybjsKLy8gICAgfQovLwovLyAgICBjdXJyZW50U2NlbmUtPnJlbmRlcihfc3ByaXRlX2JhdGNoKTsKCg==</text>
+        <text encoding="base64">ICAgIC8vc2NlbmVMb2FkZXIoKS5zY2hlZHVsZUxldmVsQ2hhbmdlKGxldmVsRGlyZWN0b3J5LmxldmVsc1swXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
