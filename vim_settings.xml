@@ -134,6 +134,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/sound/SoundPlayer.cpp" timestamp="1555185550508">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="21" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" timestamp="1553366626957">
         <mark key="'" line="500" column="8" />
       </file>
@@ -196,6 +202,11 @@
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/SceneApp.cpp" timestamp="1553811597864">
         <mark key="'" line="95" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/sound/SoundPlayer.h" timestamp="1555184223332">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/audio/graph/CUAudioScheduler.h" timestamp="1551625570452">
         <mark key="'" line="218" column="6" />
@@ -452,7 +463,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNjZW5lOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
+        <text encoding="base64">ICAgIGF1ZGlvKCkucGxheU11c2ljKCkK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -461,7 +472,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>music</text>
@@ -470,7 +481,7 @@
         <text encoding="base64">ICAgICAgICAgICAgIHByb2pMb2dnZXIgPSB7IlBST0oiLCBMT0dfRU5BQkxFRH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNjZW5lOjp1cGRhdGUodGltZXN0ZXApOwo=</text>
+        <text encoding="base64">ICAgIGF1ZGlvKCkucGxheU11c2ljKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -491,28 +502,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEF1ZGlvQ2hhbm5lbHM6OmdldCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0RGlyZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBBdWRpb0NoYW5uZWxzOjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZGlyICogbWF4KHNwZWVkLCBNSU5fU1BFRUQpCg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpb0NoYW5uZWxzOjpnZXQoKS0+c3RhcnQoMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVE9ETyB0aGlzIHNob3VsZCBiZSBkaXJlY3Rpb24gaW5zdGVhZAo=</text>
+        <text encoding="base64">ClNvdW5kUGxheWVyICZTb3VuZFBsYXllcjo6Z2V0KCkgewp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzcGxpbmUtaW5wdXQK</text>
+        <text encoding="base64">ICAgIHJldHVybiA8I2luaXRpYWxpemVyIz47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpZiAoX2lucHV0U3RhdHVzVmlld2VyLT5zbGluZ3Nob3RDaGFyZ2luZy5oYXNfdmFsdWUoKSkgewo9PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vX3NjZW5lTG9hZGVyID0gc3RkOjptYWtlX3VuaXF1ZTxBcHBTY2VuZUxvYWRlcj4oX2Fzc2V0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vc2NlbmVMb2FkZXIoKS5zY2hlZHVsZUxldmVsQ2hhbmdlKGxldmVsRGlyZWN0b3J5LmxldmVsc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
