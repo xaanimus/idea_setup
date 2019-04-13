@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1555182143328">
+      <file name="/LLDB" timestamp="1555188541937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1554480286142">
@@ -145,11 +145,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1555186882876">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
@@ -257,6 +252,12 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1555188733198">
+        <mark key="[" line="65" column="41" />
+        <mark key="]" line="65" column="42" />
+        <mark key="." line="65" column="42" />
+        <mark key="^" line="65" column="42" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
       </file>
@@ -343,10 +344,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1555186174194">
         <mark key="'" line="85" column="12" />
-        <mark key="[" line="231" column="54" />
-        <mark key="]" line="231" column="54" />
-        <mark key="." line="231" column="54" />
-        <mark key="^" line="231" column="54" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1554480217376">
         <mark key="'" line="8" column="0" />
@@ -462,8 +459,8 @@
       <jump line="771" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -472,7 +469,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
