@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1555212057301">
+      <file name="/LLDB" timestamp="1555344566039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/Poly2dAsset.cpp" timestamp="1554480286142">
@@ -97,6 +97,12 @@
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" timestamp="1555344043894">
+        <mark key="'" line="334" column="16" />
+        <mark key="[" line="429" column="0" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1553522821708">
         <mark key="'" line="182" column="21" />
@@ -185,8 +191,10 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUButton.h" timestamp="1553366591668">
         <mark key="'" line="479" column="48" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1555342939735">
-        <mark key="'" line="136" column="65" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1555343743015">
+        <mark key="'" line="134" column="37" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
@@ -279,12 +287,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioManager.h" timestamp="1554505769182">
         <mark key="'" line="593" column="28" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1554331962011">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="29" column="53" />
-        <mark key="." line="29" column="53" />
-        <mark key="^" line="29" column="53" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1555343652512">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" timestamp="1554504144263">
         <mark key="'" line="15" column="45" />
@@ -351,8 +359,12 @@
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
         <mark key="'" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1555186174194">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1555344609493">
         <mark key="'" line="85" column="12" />
+        <mark key="[" line="100" column="58" />
+        <mark key="]" line="101" column="25" />
+        <mark key="^" line="101" column="25" />
+        <mark key="." line="101" column="25" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1554480217376">
         <mark key="'" line="8" column="0" />
@@ -366,33 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="135" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="130" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="127" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="123" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="112" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="110" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="102" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="92" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="87" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="62" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" />
       <jump line="20" column="45" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" />
       <jump line="158" column="20" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioManager.h" />
@@ -466,10 +451,37 @@
       <jump line="76" column="31" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
       <jump line="137" column="20" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
       <jump line="136" column="65" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
+      <jump line="170" column="59" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="236" column="41" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="353" column="50" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="373" column="35" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="390" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="394" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="102" column="35" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="114" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="120" column="20" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="121" column="30" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="142" column="64" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="164" column="49" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="181" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="187" column="44" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="219" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="225" column="59" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="227" column="29" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="290" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="296" column="83" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="299" column="39" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="317" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="329" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="333" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="334" column="16" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" />
+      <jump line="122" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
+      <jump line="123" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
+      <jump line="134" column="37" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9jYW1lcmEtPnpvbwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -478,16 +490,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>modelview</text>
+        <text>_viewport</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHByb2pMb2dnZXIgPSB7IlBST0oiLCBMT0dfRU5BQkxFRH0sCg==</text>
+        <text encoding="base64">ICAgIC8vaWYgKF9pbnB1dFN0YXR1c1ZpZXdlci0+cGFuLmhhc192YWx1ZSgpKSB7CiAgICAvLyAgICBmbG9hdCB4ID0gX3dvcmxkUm9vdC0+Z2V0UG9zaXRpb24oKS54ICsKICAgIC8vICAgICAgICAgICAgICBfaW5wdXRTdGF0dXNWaWV3ZXItPnBhbi0+cGFuT2Zmc2V0U2NyZWVuQ29vcmRpbmF0ZXMueDsKICAgIC8vICAgIGZsb2F0IHkgPSBfd29ybGRSb290LT5nZXRQb3NpdGlvbigpLnkgKwogICAgLy8gICAgICAgICAgICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+cGFuLT5wYW5PZmZzZXRTY3JlZW5Db29yZGluYXRlcy55OwoKICAgIC8vICAgIC8vIFRPRE8gYWRkIGJvdW5kcyBjaGVja2luZwogICAgLy8gICAgX3dvcmxkUm9vdC0+c2V0UG9zaXRpb24oeCwgeSk7CiAgICAvL30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9jYW1lcmEtPnpvbwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,37 +520,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDQtMTUuCi8vCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBfY2FtZXJhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPl9jYW1lcmEK</text>
+        <text encoding="base64">Ly8gICAgICAgIGZsb2F0IHggPSBfd29ybGRSb290LT5nZXRQb3NpdGlvbigpLnggKwovLyAgICAgICAgICAgICAgICAgIF9pbnB1dFN0YXR1c1ZpZXdlci0+cGFuLT5wYW5PZmZzZXRTY3JlZW5Db29yZGluYXRlcy54OwovLyAgICAgICAgZmxvYXQgeSA9IF93b3JsZFJvb3QtPmdldFBvc2l0aW9uKCkueSArCi8vICAgICAgICAgICAgICAgICAgX2lucHV0U3RhdHVzVmlld2VyLT5wYW4tPnBhbk9mZnNldFNjcmVlbkNvb3JkaW5hdGVzLnk7Ci8vCi8vICAgICAgICAvLyBUT0RPIGFkZCBib3VuZHMgY2hlY2tpbmcKLy8gICAgICAgIF93b3JsZFJvb3QtPnNldFBvc2l0aW9uKHgsIHkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IE1hdDQmIGdldEludmVyc2UoKSBjb25zdCB7CiAgICAgICAgcmV0dXJuIF9pbnZlcnNlOwogICAgfQogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvKCkucGxheU11c2ljKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEF1ZGlvQ2hhbm5lbHM6OmdldCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0NoYW5uZWxzOjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modelview</last-search>
+      <last-search>_viewport</last-search>
       <last-offset />
-      <last-pattern>modelview</last-pattern>
+      <last-pattern>_viewport</last-pattern>
       <last-replace>iVert</last-replace>
       <last-substitute>iCurrentVertex</last-substitute>
       <last-dir>1</last-dir>
@@ -546,9 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_absolute</entry>
-        <entry>_angFact</entry>
-        <entry>direction</entry>
         <entry>directionFactor</entry>
         <entry>optional_lite</entry>
         <entry>Bimap</entry>
@@ -566,6 +582,9 @@
         <entry>_camera</entry>
         <entry>transform</entry>
         <entry>modelview</entry>
+        <entry>alloc</entry>
+        <entry>width</entry>
+        <entry>_viewport</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
