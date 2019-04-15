@@ -140,6 +140,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" timestamp="1553366626957">
         <mark key="'" line="500" column="8" />
       </file>
@@ -178,6 +184,9 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUButton.h" timestamp="1553366591668">
         <mark key="'" line="479" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1555342939735">
+        <mark key="'" line="136" column="65" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
@@ -357,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="152" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
-      <jump line="147" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="138" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="135" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
       <jump line="130" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" />
@@ -457,10 +463,13 @@
       <jump line="761" column="30" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="766" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="771" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="76" column="31" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
+      <jump line="137" column="20" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
+      <jump line="136" column="65" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -472,13 +481,13 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>transform</text>
+        <text>modelview</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIHByb2pMb2dnZXIgPSB7IlBST0oiLCBMT0dfRU5BQkxFRH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -499,37 +508,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPl9jYW1lcmEK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBTZXJnZS1PbGl2aWVyIEFtZWdhIG9uIDIwMTktMDQtMTUuCi8vCgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMtPl9jYW1lcmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvKCkucGxheU11c2ljKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEF1ZGlvQ2hhbm5lbHM6OmdldCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0NoYW5uZWxzOjoK</text>
+        <text encoding="base64">ICAgIGF1ZGlvKCkucGxheU11c2ljKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0NoYW5uZWxzOjpnZXQoKS0+c3RhcnQoMCk7Cg==</text>
+        <text encoding="base64">ICAgIEF1ZGlvQ2hhbm5lbHM6OmdldCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClNvdW5kUGxheWVyICZTb3VuZFBsYXllcjo6Z2V0KCkgewp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpb0NoYW5uZWxzOjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>transform</last-search>
+      <last-search>modelview</last-search>
       <last-offset />
-      <last-pattern>transform</last-pattern>
+      <last-pattern>modelview</last-pattern>
       <last-replace>iVert</last-replace>
       <last-substitute>iCurrentVertex</last-substitute>
       <last-dir>1</last-dir>
@@ -537,7 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PathTraversal</entry>
         <entry>_absolute</entry>
         <entry>_angFact</entry>
         <entry>direction</entry>
@@ -557,6 +565,7 @@
         <entry>zoom</entry>
         <entry>_camera</entry>
         <entry>transform</entry>
+        <entry>modelview</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
