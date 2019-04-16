@@ -347,8 +347,8 @@
       <file name="$USER_HOME$/code/apps/interactive_g/Spring19Framework/Supersample/SupersampleApp.cpp" timestamp="1549045937639">
         <mark key="'" line="219" column="32" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1551825633174">
-        <mark key="'" line="60" column="30" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1555444574281">
+        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1555349710663">
         <mark key="'" line="85" column="12" />
@@ -362,9 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="27" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="387" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" />
-      <jump line="400" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" />
       <jump line="415" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" />
       <jump line="431" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" />
       <jump line="70" column="40" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" />
@@ -462,6 +459,9 @@
       <jump line="1" column="35" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
       <jump line="274" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -477,7 +477,7 @@
         <text encoding="base64">IGFzc2V0TmFtZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>collision</text>
+        <text>add_sub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWZmZWN0c1RvUGxheSA9IHsKICAgICAgICAgICAgICAgIHsiY2Fub24tc2hvdCIsIENIQU5ORUxfQU1CSUVOQ0VfMH0KICAgICAgICAgICAgfTsK</text>
@@ -532,9 +532,9 @@
       </register>
     </registers>
     <search>
-      <last-search>collision</last-search>
+      <last-search>add_sub</last-search>
       <last-offset />
-      <last-pattern>collision</last-pattern>
+      <last-pattern>add_sub</last-pattern>
       <last-replace>iVert</last-replace>
       <last-substitute>iCurrentVertex</last-substitute>
       <last-dir>1</last-dir>
@@ -542,7 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nullopt</entry>
         <entry>nullopt{</entry>
         <entry>Option</entry>
         <entry>PanEvent</entry>
@@ -562,6 +561,7 @@
         <entry>stre</entry>
         <entry>stream</entry>
         <entry>collision</entry>
+        <entry>add_sub</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
