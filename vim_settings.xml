@@ -67,7 +67,6 @@
         <mark key="." line="926" column="1" />
         <mark key="^" line="926" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUSoundLoader.cpp" timestamp="1555362493561" />
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
@@ -165,7 +164,7 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/lib/2d/CUNode.cpp" timestamp="1551279276150">
         <mark key="'" line="247" column="5" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1555365901257">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1555469641515">
         <mark key="[" line="293" column="38" />
         <mark key="]" line="294" column="30" />
         <mark key="." line="294" column="30" />
@@ -477,7 +476,7 @@
         <text encoding="base64">IGFzc2V0TmFtZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>add_sub</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWZmZWN0c1RvUGxheSA9IHsKICAgICAgICAgICAgICAgIHsiY2Fub24tc2hvdCIsIENIQU5ORUxfQU1CSUVOQ0VfMH0KICAgICAgICAgICAgfTsK</text>
@@ -532,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add_sub</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>add_sub</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>iVert</last-replace>
       <last-substitute>iCurrentVertex</last-substitute>
       <last-dir>1</last-dir>
@@ -542,7 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nullopt{</entry>
         <entry>Option</entry>
         <entry>PanEvent</entry>
         <entry>LOADING_SCENE</entry>
@@ -562,6 +560,7 @@
         <entry>stream</entry>
         <entry>collision</entry>
         <entry>add_sub</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
