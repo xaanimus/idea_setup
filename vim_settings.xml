@@ -71,6 +71,12 @@
         <mark key="." line="926" column="1" />
         <mark key="^" line="926" column="1" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1555545653495">
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="98" column="17" />
+        <mark key="." line="98" column="17" />
+        <mark key="^" line="98" column="17" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
@@ -95,14 +101,14 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUScene.h" timestamp="1551290742941">
         <mark key="'" line="297" column="20" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/renderer/CUOrthographicCamera.h" timestamp="1555344043894">
-        <mark key="'" line="334" column="16" />
-        <mark key="[" line="429" column="0" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1553522821708">
         <mark key="'" line="182" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Math.h" timestamp="1555545281448">
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="57" />
+        <mark key="^" line="38" column="57" />
+        <mark key="." line="38" column="57" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" timestamp="1553522333907">
         <mark key="'" line="365" column="29" />
@@ -178,13 +184,13 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1554946491277">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1555544466617">
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="74" />
+        <mark key="." line="27" column="74" />
+        <mark key="^" line="27" column="74" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" timestamp="1555529136006">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" timestamp="1555542747271">
         <mark key="[" line="50" column="53" />
         <mark key="]" line="50" column="54" />
         <mark key="." line="50" column="54" />
@@ -208,11 +214,6 @@
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUButton.h" timestamp="1553366591668">
         <mark key="'" line="479" column="48" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/renderer/CUOrthographicCamera.cpp" timestamp="1555343743015">
-        <mark key="'" line="134" column="37" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/code/apps/strange/cugl/include/Box2D/Dynamics/b2Body.h" timestamp="1551408429018">
         <mark key="'" line="482" column="32" />
@@ -481,7 +482,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaXAua2luZCA9IExldmVsU3BlYzo6U0hJUF9LSU5EX09JTDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -490,16 +491,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>K</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>ship</text>
+        <text>clamp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaXAua2luZCA9IExldmVsU3BlYzo6U0hJUF9LSU5EX09JTDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1dG8mIGEgPSBiZWdpblNlZ21lbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -520,37 +521,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtaW5UID0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaXBJbmZvLmFjdGlvblR5cGUgPSBBY3Rpb25UeXBlOjpSQU07Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWMyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwSW5mby5hY3Rpb25UeXBlID0gQWN0aW9uVHlwZTo6UkFNOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBkaXN0YW5jZSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBMZXZlbFNwZWM6OlNISVBfS0lORF9IRUFMOgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtaW5EaXN0YW5jZSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBkaXN0YW5jZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiNmI3Y2ZlYWE3YTIzMWEzZTQ0NjZlYjdhYTVmMjRhOTFlODE1ZDYyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ship</last-search>
+      <last-search>clamp</last-search>
       <last-offset />
-      <last-pattern>ship</last-pattern>
+      <last-pattern>clamp</last-pattern>
       <last-replace>iVert</last-replace>
       <last-substitute>iCurrentVertex</last-substitute>
       <last-dir>1</last-dir>
@@ -558,7 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LOADING_SCENE</entry>
         <entry>AssetManager</entry>
         <entry>Scene</entry>
         <entry>play</entry>
@@ -578,6 +578,7 @@
         <entry>static</entry>
         <entry>kind</entry>
         <entry>ship</entry>
+        <entry>clamp</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
