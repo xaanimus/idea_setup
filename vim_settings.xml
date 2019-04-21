@@ -191,7 +191,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1555704612228" />
       <file name="$USER_HOME$/code/cloned/CUGLLibrary/cugl/include/cugl/io/CUJsonReader.h" timestamp="1548473283058">
         <mark key="'" line="69" column="6" />
       </file>
@@ -199,10 +198,10 @@
         <mark key="'" line="116" column="34" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1555716522670">
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="^" line="292" column="8" />
-        <mark key="." line="289" column="0" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="^" line="296" column="8" />
+        <mark key="." line="293" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacle.h" timestamp="1552485947319">
         <mark key="'" line="621" column="53" />
@@ -277,10 +276,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="51" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1555716695365">
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="39" column="62" />
-        <mark key="." line="39" column="62" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Constants.h" timestamp="1555812950974">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/GLWrap/GLTexture2D.hpp" timestamp="1551826316798">
         <mark key="'" line="35" column="49" />
@@ -473,7 +473,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -482,7 +482,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="/" type="4">
         <text>viewHealth</text>
