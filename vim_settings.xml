@@ -79,7 +79,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1555966197715">
+      <file name="/LLDB" timestamp="1555969986104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" timestamp="1553264762198">
@@ -336,11 +336,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUWireNode.h" timestamp="1554332676462">
         <mark key="'" line="234" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1555965864284">
-        <mark key="[" line="12" column="81" />
-        <mark key="]" line="12" column="81" />
-        <mark key="^" line="12" column="82" />
-        <mark key="." line="12" column="81" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1555970142795">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="57" column="82" />
+        <mark key="]" line="57" column="81" />
+        <mark key="^" line="57" column="81" />
+        <mark key="." line="57" column="81" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/external/Box2D/Dynamics/b2World.h" timestamp="1552071627774">
         <mark key="'" line="340" column="45" />
@@ -395,11 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1397" column="42" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
-      <jump line="1396" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
-      <jump line="1378" column="21" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
-      <jump line="1377" column="42" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
-      <jump line="1376" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
       <jump line="1355" column="42" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
       <jump line="1094" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
       <jump line="1103" column="30" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioChannels.cpp" />
@@ -495,10 +491,15 @@
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="77" column="53" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTextField.h" />
       <jump line="390" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTextField.h" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRJbnB1dC0+YWN0aXZhdGUoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfbmV3U2NlbmUgPSBudWxscHRyOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -507,7 +508,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">X25ld1NjZW5lIA==</text>
       </register>
       <register name="/" type="4">
         <text>activate</text>
@@ -516,7 +517,7 @@
         <text encoding="base64">ICAgIFNpemUgZGltZW4gPSBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5nZXREaXNwbGF5U2l6ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRJbnB1dC0+YWN0aXZhdGUoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfbmV3U2NlbmUgPSBudWxscHRyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -542,28 +543,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY29tbWFuZElucHV0ID0gVGV4dEZpZWxkOjphbGxvY1dpdGhCb3VuZHMoezEwMCwgMTAwfSk7Cg==</text>
+        <text encoding="base64">ICAgIF9jdXJyZW50U2NlbmUgPSBzdGQ6Om1ha2Vfc2hhcmVkPFdvcmxkTGV2ZWxTY2VuZT4oX2Fzc2V0cywgKmZpbmlzaEluZm8tPmxldmVsU3BlYyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF1dG8gZmluaXNoSW5mbyA9IGxvYWRlci5nZXRGaW5pc2hJbmZvKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZENoaQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIChsb2FkZXIuZ2V0RmluaXNoSW5mbygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9hZGVyLmdldEZpbmlzaEluZm8oKSkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZENoaWxkCg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmRJbnB1dC0+YWN0aXZhdGUoMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNjZW5lOjppbml0KGRpbWVuKTsKICAgIF9pbXBsLT5hc3NldHMgPSBhc3NldHM7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gY29tbWFuZElucHV0ID0gVGV4dEZpZWxkOjphbGxvY1dpdGhCb3VuZHMoezEwMCwgMTAwfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNjZW5lKCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
