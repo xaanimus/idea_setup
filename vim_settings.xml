@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" timestamp="1555983558655">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="40" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUTexturedNode.cpp" timestamp="1554333085423">
         <mark key="'" line="0" column="0" />
       </file>
@@ -79,7 +84,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUObstacleWorld.h" timestamp="1552432555763">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1555969986104">
+      <file name="/LLDB" timestamp="1555983391806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/math/polygon/CUSimpleTriangulator.h" timestamp="1553264762198">
@@ -494,7 +499,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfbmV3U2NlbmUgPSBudWxscHRyOwo=</text>
+        <text encoding="base64">ICAgIHAtPnBvc2l0aW9uICs9IGRlbHRhVCAqIHAtPnZlbG9jaXR5Owo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -509,10 +514,10 @@
         <text>activate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNpemUgZGltZW4gPSBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5nZXREaXNwbGF5U2l6ZSgpOwo=</text>
+        <text encoding="base64">CiAgYXV0byAmcGFydGljbGVzID0gc3lzdGVtLnBhcnRpY2xlczsKICBhdXRvICZmb3JjZXMgPSBzeXN0ZW0uZm9yY2VzOwoKICBmb3IgKGF1dG8gJnAgOiBwYXJ0aWNsZXMpIHsKICAgIHAtPmZvcmNlQWNjdW0uc2V0WmVybygpOwogIH0KCiAgZm9yIChhdXRvICZmIDogZm9yY2VzKSB7CiAgICBmLT5hZGRGb3JjZUNvbnRyaWJ1dGlvbnMoc3lzdGVtLCBjb250ZXh0KTsKICB9CgogIGZvciAoYXV0byAmcCA6IHBhcnRpY2xlcykgewogICAgcC0+cG9zaXRpb24gKz0gZGVsdGFUICogcC0+dmVsb2NpdHk7CiAgICBwLT52ZWxvY2l0eSArPSAoZGVsdGFUIC8gcC0+bWFzcykgKiBwLT5mb3JjZUFjY3VtOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfbmV3U2NlbmUgPSBudWxscHRyOwo=</text>
+        <text encoding="base64">ICAgIHAtPnBvc2l0aW9uICs9IGRlbHRhVCAqIHAtPnZlbG9jaXR5Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -538,28 +543,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9jdXJyZW50U2NlbmUgPSBzdGQ6Om1ha2Vfc2hhcmVkPFdvcmxkTGV2ZWxTY2VuZT4oX2Fzc2V0cywgKmZpbmlzaEluZm8tPmxldmVsU3BlYyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZmluaXNoSW5mbyA9IGxvYWRlci5nZXRGaW5pc2hJbmZvKCk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgc3ltcGxlY3RpYyBFdWxlci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBfbmV3U2NlbmUgPSBudWxscHRyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChsb2FkZXIuZ2V0RmluaXNoSW5mbygpKTsK</text>
+        <text encoding="base64">ICAgIF9jdXJyZW50U2NlbmUgPSBzdGQ6Om1ha2Vfc2hhcmVkPFdvcmxkTGV2ZWxTY2VuZT4oX2Fzc2V0cywgKmZpbmlzaEluZm8tPmxldmVsU3BlYyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9hZGVyLmdldEZpbmlzaEluZm8oKSkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZmluaXNoSW5mbyA9IGxvYWRlci5nZXRGaW5pc2hJbmZvKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRJbnB1dC0+YWN0aXZhdGUoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY29tbWFuZElucHV0ID0gVGV4dEZpZWxkOjphbGxvY1dpdGhCb3VuZHMoezEwMCwgMTAwfSk7Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIChsb2FkZXIuZ2V0RmluaXNoSW5mbygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9hZGVyLmdldEZpbmlzaEluZm8oKSkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
