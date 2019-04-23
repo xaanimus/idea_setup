@@ -269,12 +269,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" timestamp="1556048058348">
-        <mark key="'" line="226" column="78" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="2" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" timestamp="1556048562773">
+        <mark key="'" line="239" column="78" />
+        <mark key="[" line="212" column="47" />
+        <mark key="]" line="212" column="45" />
+        <mark key="." line="212" column="45" />
+        <mark key="^" line="212" column="45" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioWaveform.h" timestamp="1554505797116">
         <mark key="'" line="6" column="39" />
@@ -510,7 +510,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -519,7 +519,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -528,7 +528,7 @@
         <text encoding="base64">ICBhdXRvICZwYXJ0aWNsZXMgPSBzeXN0ZW0ucGFydGljbGVzOwogIGF1dG8gJmZvcmNlcyA9IHN5c3RlbS5mb3JjZXM7CgogIGZvciAoYXV0byAmcCA6IHBhcnRpY2xlcykgewogICAgcC0+Zm9yY2VBY2N1bS5zZXRaZXJvKCk7CiAgfQoKICBmb3IgKGF1dG8gJmYgOiBmb3JjZXMpIHsKICAgIGYtPmFkZEZvcmNlQ29udHJpYnV0aW9ucyhzeXN0ZW0sIGNvbnRleHQpOwogIH0KCiAgZm9yIChhdXRvICZwIDogcGFydGljbGVzKSB7CiAgICBwLT52ZWxvY2l0eSArPSAoZGVsdGFUIC8gcC0+bWFzcykgKiBwLT5mb3JjZUFjY3VtOwogICAgcC0+cG9zaXRpb24gKz0gZGVsdGFUICogcC0+dmVsb2NpdHk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -557,26 +557,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFZlY3RvcjMgcTEgPSAtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFZlY3RvcjMgbjEgPSBkMS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGNvbnN0cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gcG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8mIHAgOiBwYXJ0aWNsZXMpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgIFZlY3RvcjMgZDEgPSBwMS0+cG9zaXRpb24gLSBwMC0+cG9zaXRpb247CiAgICBWZWN0b3IzIGQyID0gcDItPnBvc2l0aW9uIC0gcDEtPnBvc2l0aW9uOwogICAgVmVjdG9yMyBuMSA9IGQxLm5vcm1hbGl6ZWQoKTsKICAgIFZlY3RvcjMgbjIgPSBkMi5ub3JtYWxpemVkKCk7CgogICAgZmxvYXQgY29uc3RyYWludCA9IG4xLmRvdChuMikgLSAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICBhdXRvICZwYXJ0aWNsZXMgPSBzeXN0ZW0ucGFydGljbGVzOwogIGF1dG8gJmZvcmNlcyA9IHN5c3RlbS5mb3JjZXM7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="8">
-        <text>gradientC_p1.squaredNorm()
-gradientC_p2.squaredNorm()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -615,7 +614,6 @@ gradientC_p2.squaredNorm()</text>
         <entry>context</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL3ZlbmRvci94ODZfNjQ=</entry>
         <entry encoding="base64">JzwsJz5zL3ZlbmRvci9pbnRyaW4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
@@ -634,6 +632,7 @@ gradientC_p2.squaredNorm()</text>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zL2lDdXJyZW50VmVydGV4L2lWZXJ0</entry>
         <entry encoding="base64">JzwsJz5zL2lDdXJyZW50VmVydGV4L2lWZXJ0L2c=</entry>
+        <entry>w2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
