@@ -269,12 +269,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" timestamp="1555987196588">
-        <mark key="'" line="220" column="78" />
-        <mark key="[" line="225" column="73" />
-        <mark key="]" line="227" column="33" />
-        <mark key="." line="227" column="33" />
-        <mark key="^" line="227" column="33" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" timestamp="1556048058348">
+        <mark key="'" line="226" column="78" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="202" column="2" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioWaveform.h" timestamp="1554505797116">
         <mark key="'" line="6" column="39" />
@@ -362,7 +362,6 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUScene.h" timestamp="1555186939697">
         <mark key="'" line="486" column="15" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Upsample/UpsampleApp.cpp" timestamp="1555981347528" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.h" timestamp="1554502122570">
         <mark key="[" line="47" column="38" />
         <mark key="]" line="47" column="54" />
@@ -510,8 +509,8 @@
       <jump line="81" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -520,7 +519,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -529,7 +528,7 @@
         <text encoding="base64">ICBhdXRvICZwYXJ0aWNsZXMgPSBzeXN0ZW0ucGFydGljbGVzOwogIGF1dG8gJmZvcmNlcyA9IHN5c3RlbS5mb3JjZXM7CgogIGZvciAoYXV0byAmcCA6IHBhcnRpY2xlcykgewogICAgcC0+Zm9yY2VBY2N1bS5zZXRaZXJvKCk7CiAgfQoKICBmb3IgKGF1dG8gJmYgOiBmb3JjZXMpIHsKICAgIGYtPmFkZEZvcmNlQ29udHJpYnV0aW9ucyhzeXN0ZW0sIGNvbnRleHQpOwogIH0KCiAgZm9yIChhdXRvICZwIDogcGFydGljbGVzKSB7CiAgICBwLT52ZWxvY2l0eSArPSAoZGVsdGFUIC8gcC0+bWFzcykgKiBwLT5mb3JjZUFjY3VtOwogICAgcC0+cG9zaXRpb24gKz0gZGVsdGFUICogcC0+dmVsb2NpdHk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -555,29 +554,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8mIHAgOiBwYXJ0aWNsZXMpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBhdXRvICZwYXJ0aWNsZXMgPSBzeXN0ZW0ucGFydGljbGVzOwogIGF1dG8gJmZvcmNlcyA9IHN5c3RlbS5mb3JjZXM7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="8">
-        <text>gradientC_p1.squaredNorm()
-gradientC_p2.squaredNorm()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFZlY3RvcjMgbjEgPSBkMS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IGNvbnN0cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHN1bU9mR3JhZGllbnRzID0gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmb3IgKGF1dG8mIHAgOiBwYXJ0aWNsZXMpIHsKICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAKICBhdXRvICZwYXJ0aWNsZXMgPSBzeXN0ZW0ucGFydGljbGVzOwogIGF1dG8gJmZvcmNlcyA9IHN5c3RlbS5mb3JjZXM7Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text>gradientC_p1.squaredNorm()
+gradientC_p2.squaredNorm()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
