@@ -332,12 +332,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556130719616">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="162" column="67" />
-        <mark key="]" line="162" column="67" />
-        <mark key="." line="162" column="67" />
-        <mark key="^" line="162" column="67" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556132059119">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="13" />
+        <mark key="." line="61" column="13" />
+        <mark key="^" line="61" column="13" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/optional-lite/include/nonstd/optional.hpp" timestamp="1554480853531">
         <mark key="'" line="1177" column="16" />
@@ -526,8 +526,8 @@
       <jump line="118" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdEFjdGlvblR5cGUoZmllbGRzICsgImFjdGlvbiIsIHNwZWNpYWxBY3Rpb24uYWN0aW9uKTsKICAgICAgICB2aXNpdEludChmaWVsZHMgKyAiZHVyYXRpb24iLCBzcGVjaWFsQWN0aW9uLmR1cmF0aW9uKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHNwZWVkSW5mbw==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -536,7 +536,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ShipInfoCompnonent</text>
+        <text encoding="base64">IHNwZWVkSW5mbw==</text>
       </register>
       <register name="/" type="4">
         <text>_registry</text>
