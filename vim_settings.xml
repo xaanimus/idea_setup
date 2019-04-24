@@ -49,11 +49,11 @@
         <mark key="." line="926" column="1" />
         <mark key="^" line="926" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556147036497">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="28" />
-        <mark key="." line="63" column="28" />
-        <mark key="^" line="63" column="28" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556147657087">
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1556070145082">
         <mark key="[" line="19" column="46" />
@@ -535,7 +535,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -544,7 +544,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>maxAbilityCooldown</text>
@@ -553,7 +553,7 @@
         <text>AnimationComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxKc29uVmFsdWU+IF9qc29uOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gY29tcG9uZW50c0pzb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -588,25 +588,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxKc29uVmFsdWU+IF9qc29uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiNkZWZpbmUgQVBQRU5EX0NISUxEKGNvbXBvbmVudCkgXApyZWdpc3RyeUpzb24tPmFwcGVuZENoaWxkKCBcCiNjb21wb25lbnQsIFwKICAgIGVuY29kZUNvbXBvbmVudHM8Y29tcG9uZW50PihyZWdpc3RyeSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiNkZWZpbmUgQVBQRU5EX0NISUxEKGNvbXBvbmVudCkgXApyZWdpc3RyeUpzb24tPmFwcGVuZENoaWxkKCBcCiNjb21wb25lbnQsIFwKICAgIGVuY29kZUNvbXBvbmVudHM8Y29tcG9uZW50PihyZWdpc3RyeSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
