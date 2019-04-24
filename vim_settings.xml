@@ -195,7 +195,7 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/assets/CULoader.h" timestamp="1552685484635">
         <mark key="'" line="157" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1555709491761">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1556128294098">
         <mark key="[" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.cpp" timestamp="1555542747271">
@@ -332,11 +332,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556121333548">
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="47" column="29" />
-        <mark key="." line="47" column="29" />
-        <mark key="^" line="47" column="29" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556129097395">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="153" column="61" />
+        <mark key="]" line="153" column="61" />
+        <mark key="." line="153" column="61" />
+        <mark key="^" line="153" column="61" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/optional-lite/include/nonstd/optional.hpp" timestamp="1554480853531">
         <mark key="'" line="1177" column="16" />
@@ -423,23 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="43" filename="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" />
-      <jump line="30" column="12" filename="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" />
-      <jump line="65" column="1" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" />
-      <jump line="275" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
       <jump line="51" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
       <jump line="55" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
       <jump line="59" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" />
@@ -523,10 +507,27 @@
       <jump line="82" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
       <jump line="24" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
       <jump line="357" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
+      <jump line="103" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="47" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vetices</text>
+        <text>SpecialActionCompoennt</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -535,16 +536,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>vetices</text>
+        <text>SpecialActionCompoennt</text>
       </register>
       <register name="/" type="4">
         <text>_registry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlIDw+CiAgICB2b2lkIHZpc2l0PFNwcml0ZUNvbXBvbmVudD4oCiAgICAgICAgY29uc3QgRmllbGRMaXN0JiBmaWVsZHMsCiAgICAgICAgU3ByaXRlQ29tcG9uZW50JiB0ZWFtQ29tcG9uZW50CiAgICApIHsKICAgICAgICB2aXNpdFRleHR1cmUoZmllbGRzICsgInNwcml0ZSIsIHRlYW1Db21wb25lbnQuc3ByaXRlKTsKICAgICAgICB2aXNpdFRleHR1cmUoZmllbGRzICsgInNjYWxlRmFjdG9yIiwgdGVhbUNvbXBvbmVudC5zY2FsZUZhY3Rvcik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2luZyBuYW1lc3BhY2Ugc3RkOjpwbGFjZWhvbGRlcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -570,28 +571,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdFRleHR1cmUoZmllbGRzICsgInNwcml0ZSIsIHRlYW1Db21wb25lbnQuc3ByaXRlKTsKICAgICAgICB2aXNpdFRleHR1cmUoZmllbGRzICsgInNjYWxlRmFjdG9yIiwgdGVhbUNvbXBvbmVudC5zY2FsZUZhY3Rvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdEludChmaWVsZHMgKyAidGVhbSIsIHRlYW1Db21wb25lbnQudGVhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlYW1wbGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3BGaWVsZCgpOwo=</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoRmllbGQoInRlYW0iKTsK</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXIgKj4gZmllbGRTdGFjazsKCiAgICB2b2lkIHB1c2hGaWVsZChjb25zdCBjaGFyICogZmllbGQpIHsKICAgICAgICBmaWVsZFN0YWNrLnB1c2hfYmFjayhmaWVsZCk7CiAgICB9CgogICAgdm9pZCBwb3BGaWVsZCgpIHsKICAgICAgICBmaWVsZFN0YWNrLnBvcF9iYWNrKCk7CiAgICB9CgogICAgdm9pZCByZXBsYWNlRmllbGQoY29uc3QgY2hhciAqIGZpZWxkKSB7CiAgICAgICAgaWYgKGZpZWxkU3RhY2suc2l6ZSgpICE9IDApIHsKICAgICAgICAgICAgZmllbGRTdGFjay5wb3BfYmFjaygpOwogICAgICAgIH0KICAgICAgICBmaWVsZFN0YWNrLnB1c2hfYmFjayhmaWVsZCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
