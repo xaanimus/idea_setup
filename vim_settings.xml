@@ -332,12 +332,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556129097395">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="153" column="61" />
-        <mark key="]" line="153" column="61" />
-        <mark key="." line="153" column="61" />
-        <mark key="^" line="153" column="61" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556130719616">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="162" column="67" />
+        <mark key="]" line="162" column="67" />
+        <mark key="." line="162" column="67" />
+        <mark key="^" line="162" column="67" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/optional-lite/include/nonstd/optional.hpp" timestamp="1554480853531">
         <mark key="'" line="1177" column="16" />
@@ -526,8 +526,8 @@
       <jump line="118" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SpecialActionCompoennt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2aXNpdEFjdGlvblR5cGUoZmllbGRzICsgImFjdGlvbiIsIHNwZWNpYWxBY3Rpb24uYWN0aW9uKTsKICAgICAgICB2aXNpdEludChmaWVsZHMgKyAiZHVyYXRpb24iLCBzcGVjaWFsQWN0aW9uLmR1cmF0aW9uKTsK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -536,16 +536,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>SpecialActionCompoennt</text>
+        <text>ShipInfoCompnonent</text>
       </register>
       <register name="/" type="4">
         <text>_registry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2luZyBuYW1lc3BhY2Ugc3RkOjpwbGFjZWhvbGRlcnM7Cg==</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlIDw+CiAgICB2b2lkIHZpc2l0PFNwZWNpYWxBY3Rpb25Db21wb25lbnQ+KAogICAgICAgIGNvbnN0IEZpZWxkTGlzdCYgZmllbGRzLAogICAgICAgIFNwZWNpYWxBY3Rpb25Db21wb25lbnQmIHNwZWNpYWxBY3Rpb24KICAgICkgewogICAgICAgIHZpc2l0QWN0aW9uVHlwZShmaWVsZHMgKyAiYWN0aW9uIiwgc3BlY2lhbEFjdGlvbi5hY3Rpb24pOwogICAgICAgIHZpc2l0SW50KGZpZWxkcyArICJkdXJhdGlvbiIsIHNwZWNpYWxBY3Rpb24uZHVyYXRpb24pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdEFjdGlvblR5cGUoZmllbGRzICsgImFjdGlvbiIsIHNwZWNpYWxBY3Rpb24uYWN0aW9uKTsKICAgICAgICB2aXNpdEludChmaWVsZHMgKyAiZHVyYXRpb24iLCBzcGVjaWFsQWN0aW9uLmR1cmF0aW9uKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -577,22 +577,22 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZpcnR1YWwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2aXNpdAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
