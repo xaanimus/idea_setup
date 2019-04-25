@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/physics/CUSimpleObstacle.h" timestamp="1556155826737">
         <mark key="'" line="875" column="39" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1556218187625">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
-        <mark key="^" line="43" column="19" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1556219492559">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="70" column="27" />
+        <mark key="." line="70" column="27" />
+        <mark key="^" line="70" column="27" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
         <mark key="[" line="4" column="47" />
@@ -326,11 +326,11 @@
       <file name="$USER_HOME$/code/apps/strange/cugl/include/cugl/2d/CUButton.h" timestamp="1550947232365">
         <mark key="'" line="479" column="22" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.h" timestamp="1556217651046">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="49" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.h" timestamp="1556219339002">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.hpp" timestamp="1555181770017">
         <mark key="[" line="29" column="30" />
@@ -526,7 +526,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">YXV0byA=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -535,13 +535,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">YXV0byA=</text>
       </register>
       <register name="/" type="4">
         <text>TeamComponent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGN1Z2wvaW8vQ1VKc29uUmVhZGVyLmg+Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gc2F2ZURpciA9IFN0cmFuZ2VyU2Vhc0FwcDo6Z2V0KCktPmdldFNhdmVEaXJlY3RvcnkoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -576,16 +576,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2goKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpzb24tPmFwcGVuZENoaWxkKEpTT05fKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGN1Z2wvaW8vQ1VKc29uUmVhZGVyLmg+Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gcmVnaXN0cnlKc29uID0gZW5jb2RlUmVnaXN0cnkocmVnaXN0cnkpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -594,10 +594,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdyaXRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
