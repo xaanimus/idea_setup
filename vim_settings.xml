@@ -49,13 +49,17 @@
         <mark key="." line="926" column="1" />
         <mark key="^" line="926" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556152338973">
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="22" column="69" />
-        <mark key="." line="22" column="69" />
-        <mark key="^" line="22" column="69" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556209573926">
+        <mark key="[" line="67" column="62" />
+        <mark key="]" line="67" column="62" />
+        <mark key="." line="67" column="62" />
+        <mark key="^" line="67" column="62" />
       </file>
-      <file name="/LLDB" timestamp="1556152620276">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1556209566532">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="14" />
+      </file>
+      <file name="/LLDB" timestamp="1556209171006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1556154276458">
@@ -137,12 +141,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556135811002">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1556209137629">
         <mark key="'" line="48" column="48" />
-        <mark key="[" line="194" column="43" />
-        <mark key="]" line="185" column="42" />
-        <mark key="." line="185" column="42" />
-        <mark key="^" line="185" column="42" />
+        <mark key="[" line="130" column="48" />
+        <mark key="]" line="130" column="48" />
+        <mark key="." line="130" column="48" />
+        <mark key="^" line="130" column="48" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/optional-lite/include/nonstd/optional.hpp" timestamp="1554480853531">
         <mark key="'" line="1177" column="16" />
@@ -523,7 +527,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -532,13 +536,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vcDEtPnBvc2l0aW9uICs9IGRlbHRhUDE7CiAgICAvL3AyLT5wb3NpdGlvbiArPSBkZWx0YVAyOwoK</text>
+      <register name="0" type="4">
+        <text encoding="base64">RW50aXR5SUQg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -573,28 +577,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGRlY29kZXIgPSBFQ1NEZWNvZGVyVmlzaXRvcihjb21wb25lbnRzSnNvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF1dG8gZGVjb2RlciA9IEVDU0RlY29kZXJWaXNpdG9yKGNvbXBvbmVudHNKc29uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGNvbnN0cmFpbnQgPSAocDEtPnBvc2l0aW9uIC0gcDItPnBvc2l0aW9uKS5ub3JtKCkgLSByZXN0TGVuOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY29tcG9uZW50c0pzb24K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlY29kZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdExpbmVhclBhdGgoZmllbGQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxKc29uVmFsdWU+IF9qc29uOwo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdFZlYzIoZmllbGRzICsgInRhcmdldCIsIHBhdGgudGFyZ2V0KTsKICAgICAgICB2aXNpdEZsb2F0KGZpZWxkcyArICJtaW5UIiwgcGF0aC5taW5UKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
