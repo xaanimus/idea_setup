@@ -58,8 +58,8 @@
       <file name="/LLDB" timestamp="1556152620276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1556134568745">
-        <mark key="'" line="182" column="21" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1556154276458">
+        <mark key="'" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/ai/behavior/CUBehaviorManager.h" timestamp="1553522333907">
         <mark key="'" line="365" column="29" />
@@ -425,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" />
       <jump line="93" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" />
       <jump line="85" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" />
       <jump line="81" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.cpp" />
@@ -525,6 +524,7 @@
       <jump line="74" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
       <jump line="66" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
       <jump line="48" column="48" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" />
+      <jump line="41" column="15" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -540,7 +540,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>maxAbilityCooldown</text>
+        <text>snapshot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vcDEtPnBvc2l0aW9uICs9IGRlbHRhUDE7CiAgICAvL3AyLT5wb3NpdGlvbiArPSBkZWx0YVAyOwoK</text>
@@ -606,9 +606,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maxAbilityCooldown</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>maxAbilityCooldown</last-pattern>
+      <last-pattern>snapshot</last-pattern>
       <last-replace>currenAbilityDuration</last-replace>
       <last-substitute>maxAbilityCooldown</last-substitute>
       <last-dir>1</last-dir>
@@ -616,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>static</entry>
         <entry>kind</entry>
         <entry>ship</entry>
         <entry>clamp</entry>
@@ -636,6 +635,7 @@
         <entry>registry</entry>
         <entry>_registry</entry>
         <entry>maxAbilityCooldown</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
