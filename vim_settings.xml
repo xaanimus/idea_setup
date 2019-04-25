@@ -128,12 +128,12 @@
       <file name="$USER_HOME$/code/apps/strange/entt/CMakeLists.txt" timestamp="1550807047405">
         <mark key="'" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" timestamp="1556059484388">
-        <mark key="'" line="207" column="10" />
-        <mark key="[" line="197" column="4" />
-        <mark key="]" line="197" column="4" />
-        <mark key="." line="197" column="4" />
-        <mark key="^" line="218" column="49" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Particles/ParticleSystem.hpp" timestamp="1556151986812">
+        <mark key="'" line="216" column="10" />
+        <mark key="[" line="171" column="4" />
+        <mark key="]" line="171" column="4" />
+        <mark key="." line="171" column="4" />
+        <mark key="^" line="171" column="4" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/audio/CUAudioSample.h" timestamp="1555362581946">
         <mark key="'" line="100" column="38" />
@@ -424,7 +424,6 @@
         <mark key="'" line="219" column="32" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1555984252378">
-        <mark key="'" line="30" column="12" />
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="37" />
         <mark key="^" line="8" column="37" />
@@ -535,7 +534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -544,16 +543,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>maxAbilityCooldown</text>
       </register>
-      <register name="0" type="4">
-        <text>AnimationComponent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vcDEtPnBvc2l0aW9uICs9IGRlbHRhUDE7CiAgICAvL3AyLT5wb3NpdGlvbiArPSBkZWx0YVAyOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY29tcG9uZW50c0pzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -591,22 +590,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxKc29uVmFsdWU+IF9qc29uOwo=</text>
+        <text encoding="base64">ICAgIGZsb2F0IGNvbnN0cmFpbnQgPSAocDEtPnBvc2l0aW9uIC0gcDItPnBvc2l0aW9uKS5ub3JtKCkgLSByZXN0TGVuOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGF1dG8gY29tcG9uZW50c0pzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiNkZWZpbmUgQVBQRU5EX0NISUxEKGNvbXBvbmVudCkgXApyZWdpc3RyeUpzb24tPmFwcGVuZENoaWxkKCBcCiNjb21wb25lbnQsIFwKICAgIGVuY29kZUNvbXBvbmVudHM8Y29tcG9uZW50PihyZWdpc3RyeSkpCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c2hhcmVkX3B0cjxKc29uVmFsdWU+IF9qc29uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
