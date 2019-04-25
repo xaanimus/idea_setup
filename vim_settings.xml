@@ -49,19 +49,13 @@
         <mark key="." line="926" column="1" />
         <mark key="^" line="926" column="1" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556147657087">
-        <mark key="[" line="69" column="30" />
-        <mark key="]" line="69" column="30" />
-        <mark key="." line="69" column="30" />
-        <mark key="^" line="69" column="30" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556152338973">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+        <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1556070145082">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-      </file>
-      <file name="/LLDB" timestamp="1556139788269">
+      <file name="/LLDB" timestamp="1556152620276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1556134568745">
