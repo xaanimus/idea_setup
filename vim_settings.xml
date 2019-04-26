@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/code/apps/strange/entt/src/entt/entity/registry.hpp" timestamp="1551143195621">
         <mark key="'" line="1382" column="40" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.cpp" timestamp="1556289393331">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="17" />
-        <mark key="^" line="41" column="17" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.cpp" timestamp="1556307121392">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="3" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" timestamp="1556070707695">
         <mark key="'" line="357" column="8" />
@@ -410,12 +410,12 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" timestamp="1556242029622">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.h" timestamp="1556306944613">
         <mark key="'" line="54" column="4" />
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="65" column="21" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1556231200423">
         <mark key="[" line="26" column="82" />
@@ -571,7 +571,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9hc3NldHMK</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -580,7 +580,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TG9hZGluZ1Rhc2sg</text>
+        <text>AsyncLevelLoadTask</text>
       </register>
       <register name="/" type="4">
         <text>finishInfo</text>
@@ -589,7 +589,7 @@
         <text encoding="base64">ICAgIHN0ZDo6dW5pcXVlX3B0cjxBc3luY0xvYWRpbmdUYXNrPEFzeW5jTGV2ZWxMb2FkaW5nPj4gX2xldmVsTG9hZFRhc2s7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9hc3NldHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -621,25 +621,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgaW5pdGlhbGl6ZVNjZW5lKExvYWRpbmdTY2VuZTo6SW50ZW50KTsK</text>
+        <text encoding="base64">ICAgIExvYWRJbmZvIF9sb2FkSW5mbzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbnVtIHtMRVZFTF9MT0FESU5HLCBNRU5VX0xPQURJTkd9IGtpbmQ7Cg==</text>
+        <text encoding="base64">CiAgICBzdHJ1Y3QgTG9hZEluZm8gewogICAgICAgIExvYWRLaW5kIGxvYWRLaW5kOwogICAgICAgIHVuaW9uIHsKICAgICAgICAgICAgTGV2ZWxEaXJlY3Rvcnk6OkxldmVsIGxldmVsVG9Mb2FkOwogICAgICAgICAgICBzdGQ6OnN0cmluZyBhc3NldERpcmVjdG9yeTsKICAgICAgICB9OwoKICAgICAgICBMb2FkSW5mbyhjb25zdCBMb2FkSW5mbyYgb3RoZXIpIHsKICAgICAgICAgICAgbG9hZEtpbmQgPSBvdGhlci5sb2FkS2luZDsKICAgICAgICAgICAgc3dpdGNoIChvdGhlci5sb2FkS2luZCkgewogICAgICAgICAgICAgICAgY2FzZSBMT0FEX01FTlU6CiAgICAgICAgICAgICAgICAgICAgbGV2ZWxUb0xvYWQgPSBvdGhlci5sZXZlbFRvTG9hZDsKICAgICAgICAgICAgICAgIGNhc2UgTE9BRF9MRVZFTDoKICAgICAgICAgICAgICAgICAgICBhc3NldERpcmVjdG9yeSA9IG90aGVyLmFzc2V0RGlyZWN0b3J5OwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIF9sZXZlbExvYWRUYXNrID0gc3RkOjptYWtlX3VuaXF1ZTxBc3luY0xldmVsTG9hZFRhc2s+KGFzc2V0cywgbGV2ZWxUb0xvYWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPHR5cGVuYW1lPgpzdHJ1Y3QgQXN5bmNMb2FkaW5nVGFzazsKc3RydWN0IEFzeW5jTGV2ZWxMb2FkaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPHR5cGVuYW1lPgpzdHJ1Y3QgQXN5bmNMb2FkaW5nVGFzazsKCg==</text>
+        <text encoding="base64">ICAgIGlmIChpbnRlbnQua2luKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bmlvbiB7Cg==</text>
+        <text encoding="base64">ICAgIF9sb2FkaW5nVGFzay5sCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
