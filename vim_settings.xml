@@ -29,7 +29,7 @@
         <mark key="." line="126" column="9" />
         <mark key="^" line="126" column="9" />
       </file>
-      <file name="/LLDB" timestamp="1556394084588">
+      <file name="/LLDB" timestamp="1556396075558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1554503393279">
@@ -54,12 +54,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1556128294098">
         <mark key="[" line="43" column="51" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1556394236108">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1556396058278">
         <mark key="'" line="173" column="0" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="172" column="39" />
-        <mark key="^" line="172" column="39" />
-        <mark key="." line="172" column="39" />
+        <mark key="[" line="138" column="23" />
+        <mark key="]" line="138" column="23" />
+        <mark key="^" line="138" column="23" />
+        <mark key="." line="138" column="23" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1556069514630">
         <mark key="[" line="31" column="40" />
@@ -421,8 +421,8 @@
       <jump line="173" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL19jdXJyZW50U2NlbmUtPmRpc3Bvc2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -431,7 +431,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>menuScene</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
