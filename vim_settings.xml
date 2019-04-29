@@ -47,12 +47,12 @@
         <mark key="." line="55" column="3" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556561791057">
-        <mark key="'" line="140" column="8" />
-        <mark key="[" line="428" column="65" />
-        <mark key="]" line="429" column="7" />
-        <mark key="." line="429" column="7" />
-        <mark key="^" line="429" column="7" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556566109291">
+        <mark key="'" line="447" column="15" />
+        <mark key="[" line="342" column="0" />
+        <mark key="]" line="342" column="0" />
+        <mark key="." line="342" column="0" />
+        <mark key="^" line="343" column="23" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556216626305">
         <mark key="'" line="35" column="0" />
@@ -329,15 +329,14 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/shadowmap.vert" timestamp="1556552522719">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="69" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/shadowmap.vert" timestamp="1556566033907">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="125" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="121" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="117" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -437,10 +436,11 @@
       <jump line="51" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
       <jump line="109" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
       <jump line="110" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="447" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -449,16 +449,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IG1vZGVsVmlldw==</text>
       </register>
       <register name="/" type="4">
-        <text>view</text>
+        <text>render</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF1dG8gbGV2ZWwyYnV0dG9uID0gY3JlYXRlTGV2ZWxCdXR0b24oCiAgICAgICAgYXNzZXRzLAogICAgICAgICJsZXZlbDIiLAogICAgICAgIGRpc3BsYXlTaXplLAogICAgICAgIDMqb2Zmc2V0LAogICAgICAgIF9sZXZlbHMubGV2ZWxzWzJdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -490,37 +490,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgcmVuZGVyU2hhZG93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcG90TGlnaHQtPmdldE5vZGUoKS0+bW9kZWxNYXRyaXgoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0aW9uLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzcGVjdGl2ZU1hdCgwLCAwKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzcG90TGlnaHQtPmdldE5vZGUoKS0+bW9kZWxNYXRyaXgoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0aW9uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-replace>currenAbilityDuration</last-replace>
       <last-substitute>maxAbilityCooldown</last-substitute>
       <last-dir>1</last-dir>
@@ -528,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loading.json</entry>
         <entry>_level</entry>
         <entry>finishInfo</entry>
         <entry>shared_ptr</entry>
@@ -548,6 +547,7 @@
         <entry>far</entry>
         <entry>spotLightFar</entry>
         <entry>view</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
