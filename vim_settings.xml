@@ -47,12 +47,12 @@
         <mark key="." line="55" column="3" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556570991107">
-        <mark key="'" line="440" column="51" />
-        <mark key="[" line="445" column="55" />
-        <mark key="]" line="445" column="55" />
-        <mark key="." line="445" column="55" />
-        <mark key="^" line="445" column="55" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556577456684">
+        <mark key="'" line="458" column="26" />
+        <mark key="[" line="357" column="45" />
+        <mark key="]" line="357" column="52" />
+        <mark key="." line="357" column="52" />
+        <mark key="^" line="357" column="52" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556216626305">
         <mark key="'" line="35" column="0" />
@@ -67,7 +67,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556571008204">
+      <file name="/LLDB" timestamp="1556577472191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -206,8 +206,8 @@
         <mark key="." line="231" column="4" />
         <mark key="^" line="168" column="28" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" timestamp="1556561382034">
-        <mark key="'" line="110" column="10" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" timestamp="1556575477856">
+        <mark key="'" line="460" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1554503740051">
         <mark key="[" line="29" column="41" />
@@ -215,12 +215,12 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.hpp" timestamp="1556566192267">
-        <mark key="'" line="57" column="28" />
-        <mark key="[" line="114" column="25" />
-        <mark key="]" line="114" column="25" />
-        <mark key="." line="114" column="25" />
-        <mark key="^" line="114" column="25" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.hpp" timestamp="1556577420645">
+        <mark key="'" line="171" column="26" />
+        <mark key="[" line="114" column="107" />
+        <mark key="]" line="114" column="132" />
+        <mark key="." line="114" column="132" />
+        <mark key="^" line="114" column="132" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.h" timestamp="1555629883172">
         <mark key="'" line="73" column="0" />
@@ -342,33 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="81" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="34" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="390" column="47" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="107" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="60" column="15" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="108" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="111" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="115" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="44" column="72" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="51" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="120" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="68" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="27" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="54" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="180" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="53" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="56" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="143" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="64" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="428" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
-      <jump line="435" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
-      <jump line="88" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
-      <jump line="378" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
-      <jump line="230" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="123" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="125" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="246" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="232" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
@@ -442,10 +415,37 @@
       <jump line="197" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="457" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="440" column="51" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="468" column="19" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="469" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="475" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="479" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="284" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="504" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="497" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="123" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="173" column="40" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="177" column="50" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="179" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="211" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="228" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="252" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="277" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="418" column="38" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="460" column="32" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
+      <jump line="460" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="471" column="51" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="477" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="478" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="483" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="490" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="467" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="231" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="171" column="26" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.hpp" />
+      <jump line="458" column="26" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBERUJVR19QKHVwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>up</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -454,16 +454,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>up</text>
       </register>
       <register name="/" type="4">
-        <text>boxScene</text>
+        <text>shadow(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBERUJVR19QKHVwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGF1dG8gbGlnaHRXb3JsZFBvczQgPQovLyAgICAgICAgICAgIChzcG90TGlnaHQtPmdldE5vZGUoKS0+bW9kZWxNYXRyaXgoKSAqCi8vICAgICAgICAgICAgIEVpZ2VuOjpWZWN0b3I0Zihsb2NhbFBvc1swXSwgbG9jYWxQb3NbMV0sIGxvY2FsUG9zWzJdLCAxLjBmKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,37 +495,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgdmlldy5tYXRyaXgoKSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaWdodFdvcmxkUG9zNCAvPSBsaWdodFdvcmxkUG9zNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdsX1Bvc2lpdG9uLnogPSAwLjA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5oZWFkPDM+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsX1Bvc2l0aW9uLncgPSAtMC45Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlnaHRXb3JsZERpcmVjdGlvbjRbMF0sCiAgICAgICAgICAgIGxpZ2h0V29ybGREaXJlY3Rpb240WzFdLAogICAgICAgICAgICBsaWdodFdvcmxkRGlyZWN0aW9uNFsyXQogICAgICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnbENsZWFyQ29sb3IoMC4wZiwgMC4wZiwgMC4wZiwgMC4wKTsK</text>
+        <text encoding="base64">ICAgICAgICBERUJVR19QKHByb2plY3Rpb24ubWF0cml4KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBHTGVudW0gcmVndWxhckJ1ZmZlcnNbXSA9IHtHTF9DT0xPUl9BVFRBQ0hNRU5UMH07Ci8vICAgICAgICBnbERyYXdCdWZmZXJzKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL0VpZ2VuOjpBZmZpbmUzZiB2aWV3OwovLyAgICAgICAgdmlldy5tYXRyaXgoKS5yb3coMCkgPDwgcmlnaHQudHJhbnNwb3NlKCksIC1yaWdodC5kb3QobGlnaHRXb3JsZFBvcyk7Ci8vICAgICAgICB2aWV3Lm1hdHJpeCgpLnJvdygxKSA8PCB1cC50cmFuc3Bvc2UoKSwgLXVwLmRvdChsaWdodFdvcmxkUG9zKTsKLy8gICAgICAgIHZpZXcubWF0cml4KCkucm93KDIpIDw8IC1saWdodFdvcmxkRGlyZWN0aW9uLnRyYW5zcG9zZSgpLCBsaWdodFdvcmxkRGlyZWN0aW9uLmRvdChsaWdodFdvcmxkUG9zKTsKLy8gICAgICAgIHZpZXcubWF0cml4KCkucm93KDMpIDw8IDAuMGYsIDAuMGYsIDAuMGYsIDEuMGY7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBHTFdyYXA6OkdMU2hhZGVyKiBzaGFkZXIgPSBzaGFkb3dNYXBTaGFkZXIuZ2V0KCk7CiAgICAgICAgc2hhZGVyLT5iaW5kKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHTFdyYXA6OmNoZWNrR0xFcnJvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgdmlldy5tYXRyaXgoKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHTFdyYXA6OmNoZWNrR0xFcnJvcigpOwo=</text>
+        <text encoding="base64">ICAgIGdsX1Bvc2lpdG9uLnogPSAwLjA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>boxScene</last-search>
+      <last-search>shadow(</last-search>
       <last-offset />
-      <last-pattern>boxScene</last-pattern>
+      <last-pattern>shadow(</last-pattern>
       <last-replace>currenAbilityDuration</last-replace>
       <last-substitute>maxAbilityCooldown</last-substitute>
       <last-dir>1</last-dir>
@@ -533,9 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_levels</entry>
-        <entry>levels</entry>
-        <entry>todo</entry>
         <entry>width</entry>
         <entry>offset</entry>
         <entry>level2Clicked</entry>
@@ -544,15 +541,18 @@
         <entry>shader</entry>
         <entry>shadowMapVertPath</entry>
         <entry>shadowMap</entry>
-        <entry>shadowBuffer</entry>
         <entry>light</entry>
         <entry>far</entry>
         <entry>spotLightFar</entry>
-        <entry>view</entry>
         <entry>render</entry>
-        <entry>renderNode</entry>
         <entry>shadowMapShader</entry>
         <entry>boxScene</entry>
+        <entry>view</entry>
+        <entry>projection</entry>
+        <entry>depthFunc</entry>
+        <entry>shadowBuffer</entry>
+        <entry>renderNode</entry>
+        <entry>shadow(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL01pY3JvZmFjZXRSZWZsZWN0aXZlTWF0ZXJpYWwvTWljcm9mYWNldFJlZmxlY3RpdmVCU0RGTWF0ZXJpYWwvZw==</entry>
