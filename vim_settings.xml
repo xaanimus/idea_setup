@@ -47,12 +47,12 @@
         <mark key="." line="55" column="3" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556561432911">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556561791057">
         <mark key="'" line="140" column="8" />
-        <mark key="[" line="425" column="29" />
-        <mark key="]" line="426" column="26" />
-        <mark key="." line="426" column="26" />
-        <mark key="^" line="426" column="26" />
+        <mark key="[" line="428" column="65" />
+        <mark key="]" line="429" column="7" />
+        <mark key="." line="429" column="7" />
+        <mark key="^" line="429" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556216626305">
         <mark key="'" line="35" column="0" />
@@ -439,8 +439,8 @@
       <jump line="110" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -449,7 +449,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0byA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>view</text>
