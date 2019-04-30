@@ -47,12 +47,12 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556657976442">
-        <mark key="'" line="525" column="0" />
-        <mark key="[" line="516" column="48" />
-        <mark key="]" line="516" column="58" />
-        <mark key="^" line="516" column="58" />
-        <mark key="." line="516" column="58" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556661435157">
+        <mark key="'" line="524" column="54" />
+        <mark key="[" line="495" column="21" />
+        <mark key="]" line="495" column="21" />
+        <mark key="." line="495" column="21" />
+        <mark key="^" line="495" column="21" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556216626305">
         <mark key="'" line="35" column="0" />
@@ -67,7 +67,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556657995511">
+      <file name="/LLDB" timestamp="1556661602656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -113,11 +113,12 @@
         <mark key="." line="81" column="43" />
         <mark key="^" line="81" column="43" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" timestamp="1556658228694">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" timestamp="1556661643413">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="150" column="23" />
+        <mark key="]" line="150" column="23" />
+        <mark key="." line="150" column="23" />
+        <mark key="^" line="152" column="34" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
         <mark key="[" line="4" column="47" />
@@ -211,7 +212,7 @@
         <mark key="." line="231" column="4" />
         <mark key="^" line="168" column="28" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" timestamp="1556575477856">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" timestamp="1556658930017">
         <mark key="'" line="460" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.h" timestamp="1554503740051">
@@ -327,11 +328,11 @@
         <mark key="." line="401" column="56" />
         <mark key="^" line="401" column="56" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1555984252378">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="8" column="37" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1556660452390">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelSpecAsset.h" timestamp="1555528980542">
         <mark key="[" line="21" column="25" />
@@ -347,18 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="110" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="57" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.hpp" />
-      <jump line="320" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="372" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="342" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="319" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="439" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="348" column="35" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="197" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="468" column="19" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="469" column="16" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="284" column="25" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="504" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="497" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
@@ -375,11 +364,9 @@
       <jump line="471" column="51" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="477" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="483" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="231" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="171" column="26" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.hpp" />
       <jump line="297" column="59" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="467" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="463" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="461" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="455" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="447" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
@@ -439,7 +426,6 @@
       <jump line="396" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="422" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="426" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="524" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="531" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="534" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="548" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
@@ -447,10 +433,25 @@
       <jump line="555" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="559" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="561" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="231" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="463" column="6" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="404" column="39" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="64" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="92" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="96" column="55" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="176" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="336" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="523" column="55" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="61" column="51" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="524" column="54" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
+      <jump line="154" column="31" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
+      <jump line="13" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>3</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -459,16 +460,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>spotlight</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcmdiQnVmZmVyLT5iaW5kKCk7CiAgICAgICAgZ2xFbmFibGUoR0xfREVQVEhfVEVTVCk7CiAgICAgICAgZ2xFbmFibGUoR0xfQkxFTkQpOwogICAgICAgIGdsQmxlbmRGdW5jKEdMX09ORSwgR0xfT05FKTsKICAgICAgICBnbFZpZXdwb3J0KDAsIDAsIHNyZ2JCdWZmZXItPnNpemUoKS54KCksIHNyZ2JCdWZmZXItPnNpemUoKS55KCkpOwoKICAgICAgICB1YmVyc2hhZGVyLT5iaW5kKCk7CiAgICAgICAgdWJlcnNoYWRlci0+c2V0VW5pZm9ybSgibGlnaHRfY291bnQiLCAoaW50KSAwKTsKCiAgICAgICAgZ0J1ZmZlci0+Y29sb3JUZXh0dXJlKDApLmJpbmRUb1RleHR1cmVVbml0KDApOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImdidWZfbWF0ZXJpYWxQYXJhbXMxIiwgMCk7CiAgICAgICAgZ0J1ZmZlci0+Y29sb3JUZXh0dXJlKDEpLmJpbmRUb1RleHR1cmVVbml0KDEpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImdidWZfbWF0ZXJpYWxQYXJhbXMyIiwgMSk7CiAgICAgICAgZ0J1ZmZlci0+Y29sb3JUZXh0dXJlKDIpLmJpbmRUb1RleHR1cmVVbml0KDIpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImdidWZfbWF0ZXJpYWxQYXJhbXMzIiwgMik7CiAgICAgICAgZ0J1ZmZlci0+Y29sb3JUZXh0dXJlKDMpLmJpbmRUb1RleHR1cmVVbml0KDMpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImdidWZfbWF0ZXJpYWxQYXJhbXM0IiwgMyk7CiAgICAgICAgZ0J1ZmZlci0+ZGVwdGhUZXh0dXJlKCkuYmluZFRvVGV4dHVyZVVuaXQoNCk7CiAgICAgICAgdWJlcnNoYWRlci0+c2V0VW5pZm9ybSgiZ2J1Zl9kZXB0aCIsIDQpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImZyYW1lYnVmZmVyU2l6ZSIsIGdCdWZmZXItPnNpemUoKSk7CiAgICAgICAgRWlnZW46OlByb2plY3RpdmUzZiBpbnZWUFByb2pNYXRyaXggPSBjYW1lcmEtPmdldFByb2plY3Rpb25NYXRyaXgoKS5pbnZlcnNlKCk7CiAgICAgICAgdWJlcnNoYWRlci0+c2V0VW5pZm9ybSgic3lzX2ludlZQUHJvak1hdHJpeCIsIGludlZQUHJvak1hdHJpeC5tYXRyaXgoKSk7CgogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oInNwb3RfbGlnaHRfZW5hYmxlZCIsIHRydWUpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImxpZ2h0X2V5ZVBvc2l0aW9uWzBdIiwgY2FtZXJhLT5nZXRWaWV3TWF0cml4KCkgKiBzcG90bGlnaHRQb3NpdGlvbik7CiAgICAgICAgdWJlcnNoYWRlci0+c2V0VW5pZm9ybSgibGlnaHRfYXR0ZW51YXRpb25bMF0iLCBzcG90bGlnaHRBdHRlbnVhdGlvbik7CiAgICAgICAgdWJlcnNoYWRlci0+c2V0VW5pZm9ybSgibGlnaHRfY29sb3JbMF0iLCBzcG90bGlnaHRDb2xvcik7CgogICAgICAgIHViZXJzaGFkZXItPmRyYXdBcnJheShHTF9UUklBTkdMRV9GQU4sIDAsIDQpOwoKICAgICAgICBnbERpc2FibGUoR0xfQkxFTkQpOwogICAgICAgIHNyZ2JCdWZmZXItPnVuYmluZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzcmdiQnVmZmVyLT5iaW5kKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpTGlnaHQrKzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -500,37 +501,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChzcG90bGlnaHRFeGlzdHMpCiAgICB7CiAgICAgICAgc3JnYkJ1ZmZlci0+YmluZCgpOwogICAgICAgIGdsRW5hYmxlKEdMX0RFUFRIX1RFU1QpOwogICAgICAgIGdsRW5hYmxlKEdMX0JMRU5EKTsKICAgICAgICBnbEJsZW5kRnVuYyhHTF9PTkUsIEdMX09ORSk7CiAgICAgICAgZ2xWaWV3cG9ydCgwLCAwLCBzcmdiQnVmZmVyLT5zaXplKCkueCgpLCBzcmdiQnVmZmVyLT5zaXplKCkueSgpKTsKCiAgICAgICAgdWJlcnNoYWRlci0+YmluZCgpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImxpZ2h0X2NvdW50IiwgKGludCkgMCk7CgogICAgICAgIGdCdWZmZXItPmNvbG9yVGV4dHVyZSgwKS5iaW5kVG9UZXh0dXJlVW5pdCgwKTsKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJnYnVmX21hdGVyaWFsUGFyYW1zMSIsIDApOwogICAgICAgIGdCdWZmZXItPmNvbG9yVGV4dHVyZSgxKS5iaW5kVG9UZXh0dXJlVW5pdCgxKTsKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJnYnVmX21hdGVyaWFsUGFyYW1zMiIsIDEpOwogICAgICAgIGdCdWZmZXItPmNvbG9yVGV4dHVyZSgyKS5iaW5kVG9UZXh0dXJlVW5pdCgyKTsKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJnYnVmX21hdGVyaWFsUGFyYW1zMyIsIDIpOwogICAgICAgIGdCdWZmZXItPmNvbG9yVGV4dHVyZSgzKS5iaW5kVG9UZXh0dXJlVW5pdCgzKTsKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJnYnVmX21hdGVyaWFsUGFyYW1zNCIsIDMpOwogICAgICAgIGdCdWZmZXItPmRlcHRoVGV4dHVyZSgpLmJpbmRUb1RleHR1cmVVbml0KDQpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImdidWZfZGVwdGgiLCA0KTsKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJmcmFtZWJ1ZmZlclNpemUiLCBnQnVmZmVyLT5zaXplKCkpOwogICAgICAgIEVpZ2VuOjpQcm9qZWN0aXZlM2YgaW52VlBQcm9qTWF0cml4ID0gY2FtZXJhLT5nZXRQcm9qZWN0aW9uTWF0cml4KCkuaW52ZXJzZSgpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oInN5c19pbnZWUFByb2pNYXRyaXgiLCBpbnZWUFByb2pNYXRyaXgubWF0cml4KCkpOwoKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJzcG90X2xpZ2h0X2VuYWJsZWQiLCB0cnVlKTsKICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJsaWdodF9leWVQb3NpdGlvblswXSIsIGNhbWVyYS0+Z2V0Vmlld01hdHJpeCgpICogc3BvdGxpZ2h0UG9zaXRpb24pOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImxpZ2h0X2F0dGVudWF0aW9uWzBdIiwgc3BvdGxpZ2h0QXR0ZW51YXRpb24pOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oImxpZ2h0X2NvbG9yWzBdIiwgc3BvdGxpZ2h0Q29sb3IpOwoKICAgICAgICB1YmVyc2hhZGVyLT5kcmF3QXJyYXkoR0xfVFJJQU5HTEVfRkFOLCAwLCA0KTsKCiAgICAgICAgZ2xEaXNhYmxlKEdMX0JMRU5EKTsKICAgICAgICBzcmdiQnVmZmVyLT51bmJpbmQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaUxpZ2h0IT0gMikge2NvbnRpbnVlO30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpTGlnaHQrKzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChzcG90bGlnaHRFeGlzdHMpCiAgICB7CiAgICAgICAgYXV0byBzcG90TGlnaHQgPSBzY2VuZVRvRHJhdygpLmdldFNwb3RMaWdodHMoKS5mcm9udCgpOwogICAgICAgIGZsb2F0IGNvbmVBbmdsZSA9IGdldEFkanVzdGVkQ29uZUFuZ2xlKCpzcG90TGlnaHQpOwogICAgICAgIERFQlVHX1AoY29uZUFuZ2xlKTsKCiAgICAgICAgRWlnZW46OlByb2plY3RpdmUzZiBwcm9qZWN0aW9uOwogICAgICAgIHByb2plY3Rpb24ubWF0cml4KCkuc2V0WmVybygpOwogICAgICAgIERFQlVHX1AocHJvamVjdGlvbi5tYXRyaXgoKSk7CiAgICAgICAgZmxvYXQgZiA9IDEuMGYgLyBzdGQ6OnRhbihjb25lQW5nbGUpOwogICAgICAgIHByb2plY3Rpb24oMCwwKSA9IGY7CiAgICAgICAgcHJvamVjdGlvbigxLDEpID0gZjsKICAgICAgICBwcm9qZWN0aW9uKDIsMikgPSAoc3BvdExpZ2h0RmFyICsgc3BvdExpZ2h0TmVhcikgLyAoc3BvdExpZ2h0TmVhciAtIHNwb3RMaWdodEZhcik7CiAgICAgICAgcHJvamVjdGlvbigyLDMpID0gKDIuMGYgKiBzcG90TGlnaHRGYXIgKiBzcG90TGlnaHROZWFyKSAvIChzcG90TGlnaHROZWFyIC0gc3BvdExpZ2h0RmFyKTsKICAgICAgICBwcm9qZWN0aW9uKDMsMikgPSAtMS4wZjsKCiAgICAgICAgYXV0byBkaXIgPSBzcG90TGlnaHQtPmdldERpcmVjdGlvbigpOwogICAgICAgIGF1dG8gbG9jYWxQb3MgPSBzcG90TGlnaHQtPmdldFBvc2l0aW9uKCk7CiAgICAgICAgYXV0byBsaWdodE1vZGVsID0gc3BvdExpZ2h0LT5nZXROb2RlKCktPm1vZGVsTWF0cml4KCk7CiAgICAgICAgbGlnaHRNb2RlbCA9IGdldFNwb3RMaWdodFJvdGF0aW9uKCkubWF0cml4KCkgKiBsaWdodE1vZGVsOwogICAgICAgIGF1dG8gbGlnaHRXb3JsZFBvcyA9IGxpZ2h0TW9kZWwgKiBzcG90TGlnaHQtPmdldFBvc2l0aW9uKCk7CiAgICAgICAgYXV0byBsaWdodFdvcmxkRGlyZWN0aW9uNCA9IGxpZ2h0TW9kZWwgKgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVpZ2VuOjpWZWN0b3I0ZihkaXJbMF0sIGRpclsxXSwgZGlyWzJdLCAwLjBmKTsKICAgICAgICBFaWdlbjo6VmVjdG9yM2YgbGlnaHRXb3JsZERpcmVjdGlvbiA9IGxpZ2h0V29ybGREaXJlY3Rpb240LmhlYWQ8Mz4oKTsKCiAgICAgICAgREVCVUdfUChwcm9qZWN0aW9uLm1hdHJpeCgpKTsKICAgICAgICBERUJVR19QKGxpZ2h0V29ybGRQb3MpOwogICAgICAgIERFQlVHX1AobGlnaHRXb3JsZERpcmVjdGlvbjQpOwogICAgICAgIERFQlVHX1AobGlnaHRXb3JsZERpcmVjdGlvbik7CgogICAgICAgIGF1dG8gdXBTdGFydGVyID0gRWlnZW46OlZlY3RvcjNmKDAuMGYsIDEuMGYsIDAuMGYpOwogICAgICAgIGlmIChzdGQ6OmFicyhsaWdodFdvcmxkRGlyZWN0aW9uLmRvdCh1cFN0YXJ0ZXIpKSA8IDAuMDEpIHsKICAgICAgICAgICAgdXBTdGFydGVyID0gRWlnZW46OlZlY3RvcjNmKDEuMGYsIDAuMGYsIDAuMGYpOwogICAgICAgIH0KICAgICAgICBFaWdlbjo6VmVjdG9yM2YgZ2F6ZSA9IGxpZ2h0V29ybGREaXJlY3Rpb24ubm9ybWFsaXplZCgpOwogICAgICAgIEVpZ2VuOjpWZWN0b3IzZiByaWdodCA9IGxpZ2h0V29ybGREaXJlY3Rpb24uY3Jvc3ModXBTdGFydGVyKS5ub3JtYWxpemVkKCk7CiAgICAgICAgRWlnZW46OlZlY3RvcjNmIHVwID0gIHJpZ2h0LmNyb3NzKGxpZ2h0V29ybGREaXJlY3Rpb24pLm5vcm1hbGl6ZWQoKTsKCiAgICAgICAgRWlnZW46Ok1hdHJpeDRmIGxpZ2h0VHJhbnNmb3JtOwogICAgICAgIGxpZ2h0VHJhbnNmb3JtLmNvbCgwKSA8PCByaWdodCwgMC4wZjsKICAgICAgICBsaWdodFRyYW5zZm9ybS5jb2woMSkgPDwgdXAsIDAuMGY7CiAgICAgICAgbGlnaHRUcmFuc2Zvcm0uY29sKDIpIDw8IC1nYXplLCAwLjBmOwogICAgICAgIGxpZ2h0VHJhbnNmb3JtLmNvbCgzKSA8PCBsaWdodFdvcmxkUG9zLCAxLjA7CgogICAgICAgIEVpZ2VuOjpNYXRyaXg0ZiB2aWV3ID0gbGlnaHRUcmFuc2Zvcm0uaW52ZXJzZSgpOwoKICAgICAgICBERUJVR19QKHJpZ2h0KTsKICAgICAgICBERUJVR19QKHVwU3RhcnRlcik7CiAgICAgICAgREVCVUdfUCh1cCk7CiAgICAgICAgREVCVUdfUChsaWdodFRyYW5zZm9ybSk7CiAgICAgICAgREVCVUdfUCh2aWV3KTsKCiAgICAgICAgc2hhZG93QnVmZmVyLT5iaW5kKDApOwogICAgICAgIGdsQ2xlYXIoR0xfREVQVEhfQlVGRkVSX0JJVCk7CiAgICAgICAgZ2xFbmFibGUoR0xfREVQVEhfVEVTVCk7CiAgICAgICAgZ2xEaXNhYmxlKEdMX0JMRU5EKTsKICAgICAgICBnbFZpZXdwb3J0KDAsIDAsIHNoYWRvd0J1ZmZlci0+c2l6ZSgpLngoKSwgc2hhZG93QnVmZmVyLT5zaXplKCkueSgpKTsKCiAgICAgICAgc2hhZG93TWFwU2hhZGVyLT5iaW5kKCk7CiAgICAgICAgc2hhZG93TWFwU2hhZGVyLT5zZXRVbmlmb3JtKCJsaWdodF9wcm9qZWN0aW9uIiwgcHJvamVjdGlvbi5tYXRyaXgoKSk7CiAgICAgICAgc2hhZG93TWFwU2hhZGVyLT5zZXRVbmlmb3JtKCJsaWdodF92aWV3Iiwgdmlldyk7CgogICAgICAgIEdMZW51bSBzaGFkb3dCdWZmZXJzW10gPSB7R0xfTk9ORX07CiAgICAgICAgZ2xEcmF3QnVmZmVycygxLCBzaGFkb3dCdWZmZXJzKTsKICAgICAgICByZW5kZXJOb2RlU2hhZG93KAogICAgICAgICAgICBzY2VuZVRvRHJhdygpLAogICAgICAgICAgICAqc2NlbmVUb0RyYXcoKS5nZXRSb290Tm9kZSgpLAogICAgICAgICAgICBFaWdlbjo6QWZmaW5lM2Y6OklkZW50aXR5KCksCiAgICAgICAgICAgICpzaGFkb3dNYXBTaGFkZXIpOwogICAgICAgIHNoYWRvd0J1ZmZlci0+dW5iaW5kKCk7CgogICAgICAgIHNwb3RsaWdodFBvc2l0aW9uID0gbGlnaHRXb3JsZFBvczsKICAgICAgICBzcG90bGlnaHRDb2xvciA9IEVpZ2VuOjpWZWN0b3IzZigxLjAsIDEuMCwgMS4wKTsKICAgICAgICBzcG90bGlnaHRBdHRlbnVhdGlvbiA9IHNwb3RMaWdodC0+Z2V0QXR0ZW51YXRpb24oKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGludCBpTGlnaHQgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNyZ2JCdWZmZXItPmJpbmQoKTsKICAgIGdsQ2xlYXJDb2xvcigwLjUsIDAuNSwgMC43LCAxLjApOwogICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvb2wgc3BvdGxpZ2h0RXhpc3RzID0gIXNjZW5lVG9EcmF3KCkuZ2V0U3BvdExpZ2h0cygpLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">ICAgIGZyYWdDb2xvciA9IHZlYzQoMC4wLCAwLjAsIDAuMCwgMS4wKTsKICAgIGlmIChzcG90X2xpZ2h0X2VuYWJsZWQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEVpZ2VuOjpWZWN0b3IzZiBzcG90bGlnaHRQb3NpdGlvbjsKICAgIEVpZ2VuOjpWZWN0b3IzZiBzcG90bGlnaHRBdHRlbnVhdGlvbjsKICAgIEVpZ2VuOjpWZWN0b3IzZiBzcG90bGlnaHRDb2xvcjsK</text>
+        <text encoding="base64">ICAgIGZsb2F0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEVpZ2VuOjpWZWN0b3IzZigxLjAsIDEuMCwgMS4wKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3BvdGxpZ2h0UG9zaXRpb24gPSBsaWdodFdvcmxkUG9zOwogICAgICBzcG90bGlnaHRDb2xvciA9IEVpZ2VuOjpWZWN0b3IzZigxLjAsIDEuMCwgMS4wKTsKICAgICAgc3BvdGxpZ2h0QXR0ZW51YXRpb24gPSBzcG90bGlnaHQtPmdldEF0dGVudWF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJzcG90bGlnaHRfc2hhZG93bWFwU2l6ZSIsIHNoYWRvd0J1ZmZlci0+ZGVwdGhUZXh0dXJlKCkuc2l6ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spotlight</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>spotlight</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>spotLight</last-replace>
       <last-substitute>spotlight</last-substitute>
       <last-dir>1</last-dir>
@@ -538,8 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isactive</entry>
-        <entry>TODO</entry>
         <entry>shader</entry>
         <entry>shadowMapVertPath</entry>
         <entry>shadowMap</entry>
@@ -552,12 +551,14 @@
         <entry>view</entry>
         <entry>projection</entry>
         <entry>depthFunc</entry>
-        <entry>shadowBuffer</entry>
         <entry>renderNode</entry>
         <entry>shadow(</entry>
         <entry>modelMatrix</entry>
         <entry>spotLight</entry>
         <entry>spotlight</entry>
+        <entry>shadowBuffer</entry>
+        <entry>5)</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0hFTExPX1dPUkxEX1NSQy9TVFJBTkdFUl9TRUFTX1NSQw==</entry>
@@ -567,7 +568,6 @@
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5zL21hdFdvcmxkVG9DYW1lcmEvbWF0Q2FtZXJhVG9Xb3JsZC9n</entry>
         <entry encoding="base64">JzwsJz5zL1svey9n</entry>
-        <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zL2lDb29yZC9pTnVtYmVyL2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
@@ -579,6 +579,7 @@
         <entry>s/maxAbilityCooldown/currenAbilityDuration/g</entry>
         <entry encoding="base64">JzwsJz5zL3Nwb3RMaWdodC9zcG90bGlnaHQvZw==</entry>
         <entry>s/spotlight/spotLight/g</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
