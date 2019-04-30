@@ -67,7 +67,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556661602656">
+      <file name="/LLDB" timestamp="1556662345387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -100,11 +100,11 @@
         <mark key="^" line="176" column="6" />
         <mark key="." line="176" column="6" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/build-android/app/jni/source/Android.mk" timestamp="1553472303070">
-        <mark key="[" line="19" column="60" />
-        <mark key="]" line="19" column="60" />
-        <mark key="." line="19" column="60" />
-        <mark key="^" line="19" column="74" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/build-android/app/jni/source/Android.mk" timestamp="1556662590264">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1556235273383">
         <mark key="'" line="27" column="0" />
@@ -144,13 +144,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="21" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1556389377757">
-        <mark key="'" line="34" column="32" />
-        <mark key="[" line="261" column="23" />
-        <mark key="]" line="261" column="23" />
-        <mark key="." line="261" column="23" />
-        <mark key="^" line="261" column="31" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
@@ -268,11 +261,11 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="65" column="21" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1556583778476">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="51" />
-        <mark key="^" line="23" column="51" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1556662251157">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1555715152391">
         <mark key="[" line="71" column="0" />
@@ -450,8 +443,8 @@
       <jump line="13" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSQoUFJPSl9QQVRIKS9kZXBzL29wdGlvbmFsLWxpdGUvaW5jbHVkZSBcCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -460,13 +453,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">c3RydWN0IA==</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcmdiQnVmZmVyLT5iaW5kKCk7Cg==</text>
+        <text encoding="base64">CSQoUFJPSl9QQVRIKS9kZXBzL29wdGlvbmFsLWxpdGUvaW5jbHVkZSBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpTGlnaHQrKzsK</text>
