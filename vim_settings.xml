@@ -100,11 +100,11 @@
         <mark key="^" line="176" column="6" />
         <mark key="." line="176" column="6" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/build-android/app/jni/source/Android.mk" timestamp="1556662590264">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="42" />
-        <mark key="." line="15" column="42" />
-        <mark key="^" line="15" column="42" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/build-android/app/jni/source/Android.mk" timestamp="1556667022208">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1556235273383">
         <mark key="'" line="27" column="0" />
