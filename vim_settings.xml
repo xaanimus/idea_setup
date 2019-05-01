@@ -22,12 +22,6 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.cpp" timestamp="1556391978322">
-        <mark key="'" line="30" column="32" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1556155704664">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="176" column="7" />
@@ -67,7 +61,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556683355187">
+      <file name="/LLDB" timestamp="1556722774219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -173,11 +167,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1556583996524">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="138" column="25" />
-        <mark key="]" line="138" column="35" />
-        <mark key="^" line="138" column="35" />
-        <mark key="." line="138" column="35" />
+        <mark key="'" line="345" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1555964016155">
         <mark key="'" line="343" column="0" />
