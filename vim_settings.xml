@@ -67,7 +67,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556662345387">
+      <file name="/LLDB" timestamp="1556683355187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -139,6 +139,13 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" timestamp="1556683065060">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="61" column="15" />
+        <mark key="]" line="61" column="23" />
+        <mark key="^" line="61" column="23" />
+        <mark key="." line="61" column="23" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1556388698196">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -159,6 +166,11 @@
         <mark key="]" line="50" column="54" />
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Main.cpp" timestamp="1556683098669">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1556583996524">
         <mark key="'" line="173" column="0" />
@@ -276,6 +288,11 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Kernels.h" timestamp="1556683349939">
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="52" column="14" />
+        <mark key="." line="52" column="14" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.cpp" timestamp="1553522461343">
         <mark key="[" line="84" column="38" />
         <mark key="]" line="84" column="38" />
@@ -302,6 +319,12 @@
       </file>
       <file name="/fragment.mm" timestamp="1554257181411">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Main.cpp" timestamp="1556683109384">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.h" timestamp="1556070576829">
         <mark key="'" line="79" column="28" />
@@ -344,12 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="497" column="10" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="123" column="23" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="173" column="40" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="177" column="50" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="179" column="37" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
       <jump line="211" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
       <jump line="228" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
       <jump line="252" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
@@ -444,10 +461,16 @@
       <jump line="154" column="31" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
       <jump line="13" column="18" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
       <jump line="35" column="29" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="4" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="7" column="50" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="8" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="9" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="10" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSQoUFJPSl9QQVRIKS9kZXBzL29wdGlvbmFsLWxpdGUvaW5jbHVkZSBcCg==</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -456,16 +479,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RydWN0IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>pcl</text>
+        <text>vector</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CSQoUFJPSl9QQVRIKS9kZXBzL29wdGlvbmFsLWxpdGUvaW5jbHVkZSBcCg==</text>
+      <register name="0" type="4">
+        <text>coeff * powm(h2 - r2, 2), r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpTGlnaHQrKzsK</text>
+        <text encoding="base64">ICAgIGF1dG8geCA9IChjb2VmZiAqIHBvd20oaDIgLSByMiwgMikpICogcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -497,47 +520,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaUxpZ2h0IT0gMikge2NvbnRpbnVlO30K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpTGlnaHQrKzsK</text>
+        <text encoding="base64">CiAgRWlnZW46OkFycmF5WGYgc2NhbGFyQWRkKGNvbnN0IEVpZ2VuOjpBcnJheVhmIHNvdXJjZSwgZmxvYXQgc2NhbGFyKSB7CiAgICAvLyBUT0RPIGNhbiBiZSBvcHRpbWl6ZWQKICAgIEVpZ2VuOjpBcnJheVhmIHJlc3VsdCA9IHNvdXJjZTsKICAgIGZvciAobG9uZyBpID0gMDsgaSA8IHJlc3VsdC5yb3dzKCk7IGkrKykgewogICAgICByZXN1bHQoaSkgKz0gc2NhbGFyOwogICAgfQogICAgcmV0dXJuIHJlc3VsdDsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBpTGlnaHQgPSAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNyZ2JCdWZmZXItPmJpbmQoKTsKICAgIGdsQ2xlYXJDb2xvcigwLjUsIDAuNSwgMC43LCAxLjApOwogICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUKTsKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyYWdDb2xvciA9IHZlYzQoMC4wLCAwLjAsIDAuMCwgMS4wKTsKICAgIGlmIChzcG90X2xpZ2h0X2VuYWJsZWQpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsb2F0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvL0VpZ2VuOjpBcnJheVhmCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGF1dG8geCA9IGgyIC0gcjI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1YmVyc2hhZGVyLT5zZXRVbmlmb3JtKCJzcG90bGlnaHRfc2hhZG93bWFwU2l6ZSIsIHNoYWRvd0J1ZmZlci0+ZGVwdGhUZXh0dXJlKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgIkRlbW8vS2VybmVscy5oIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pcl</last-search>
+      <last-search>vector</last-search>
       <last-offset />
-      <last-pattern>pcl</last-pattern>
-      <last-replace>spotLight</last-replace>
-      <last-substitute>spotlight</last-substitute>
+      <last-pattern>vector</last-pattern>
+      <last-replace>Array</last-replace>
+      <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shadowMapVertPath</entry>
-        <entry>shadowMap</entry>
-        <entry>light</entry>
         <entry>far</entry>
         <entry>spotLightFar</entry>
         <entry>render</entry>
@@ -555,9 +575,11 @@
         <entry>5)</entry>
         <entry>count</entry>
         <entry>pcl</entry>
+        <entry>Matrix</entry>
+        <entry>Vector</entry>
+        <entry>vector</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0hFTExPX1dPUkxEX1NSQy9TVFJBTkdFUl9TRUFTX1NSQw==</entry>
         <entry>sw</entry>
         <entry encoding="base64">JzwsJz5zL2RpZmZ1c2VfdGVybS9kaWZmdXNlX2NvbG9yL2c=</entry>
         <entry>w3</entry>
@@ -576,6 +598,7 @@
         <entry encoding="base64">JzwsJz5zL3Nwb3RMaWdodC9zcG90bGlnaHQvZw==</entry>
         <entry>s/spotlight/spotLight/g</entry>
         <entry>ew</entry>
+        <entry encoding="base64">JzwsJz5zL01hdHJpeC9BcnJheS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
