@@ -48,6 +48,9 @@
         <mark key="." line="495" column="21" />
         <mark key="^" line="495" column="21" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1556757870235">
+        <mark key="'" line="358" column="73" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556216626305">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="126" column="10" />
@@ -357,19 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="228" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="252" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="277" column="30" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="418" column="38" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="460" column="32" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Common/Camera.hpp" />
-      <jump line="471" column="51" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="477" column="15" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="483" column="8" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="171" column="26" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.hpp" />
-      <jump line="297" column="59" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="467" column="28" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
-      <jump line="461" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="455" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="447" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="442" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
@@ -457,6 +447,19 @@
       <jump line="8" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
       <jump line="9" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
       <jump line="10" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="111" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="130" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="150" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="382" column="71" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="166" column="7" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="168" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="173" column="17" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="229" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="291" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="349" column="48" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="126" column="17" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="51" column="45" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
+      <jump line="358" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -472,7 +475,7 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>vector</text>
+        <text>solid</text>
       </register>
       <register name="0" type="4">
         <text>coeff * powm(h2 - r2, 2), r</text>
@@ -538,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vector</last-search>
+      <last-search>solid</last-search>
       <last-offset />
-      <last-pattern>vector</last-pattern>
+      <last-pattern>solid</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -548,10 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>far</entry>
-        <entry>spotLightFar</entry>
-        <entry>render</entry>
-        <entry>shadowMapShader</entry>
         <entry>boxScene</entry>
         <entry>view</entry>
         <entry>projection</entry>
@@ -568,6 +567,10 @@
         <entry>Matrix</entry>
         <entry>Vector</entry>
         <entry>vector</entry>
+        <entry>colo</entry>
+        <entry>color</entry>
+        <entry>thick</entry>
+        <entry>solid</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
