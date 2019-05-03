@@ -41,12 +41,11 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556661435157">
-        <mark key="'" line="524" column="54" />
-        <mark key="[" line="495" column="21" />
-        <mark key="]" line="495" column="21" />
-        <mark key="." line="495" column="21" />
-        <mark key="^" line="495" column="21" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556841649661">
+        <mark key="'" line="521" column="54" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="." line="492" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" timestamp="1556757870235">
         <mark key="'" line="358" column="73" />
@@ -64,7 +63,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556722774219">
+      <file name="/LLDB" timestamp="1556841508628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -110,12 +109,12 @@
         <mark key="." line="81" column="43" />
         <mark key="^" line="81" column="43" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" timestamp="1556661643413">
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" timestamp="1556841454798">
         <mark key="'" line="13" column="18" />
-        <mark key="[" line="150" column="23" />
-        <mark key="]" line="150" column="23" />
-        <mark key="." line="150" column="23" />
-        <mark key="^" line="152" column="34" />
+        <mark key="[" line="115" column="31" />
+        <mark key="]" line="115" column="30" />
+        <mark key="." line="115" column="30" />
+        <mark key="^" line="115" column="30" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
         <mark key="[" line="4" column="47" />
@@ -462,8 +461,8 @@
       <jump line="358" column="73" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUPolygonNode.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBpTGlnaHQgPSAwOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -481,7 +480,7 @@
         <text>coeff * powm(h2 - r2, 2), r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dG8geCA9IChjb2VmZiAqIHBvd20oaDIgLSByMiwgMikpICogcjsK</text>
+        <text encoding="base64">ICAgIGludCBpTGlnaHQgPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,28 +512,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlMaWdodCsrOwovLyAgICAgICAgaWYgKGlMaWdodCE9IDIpIHtjb250aW51ZTt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgRWlnZW46OkFycmF5WGYgc2NhbGFyQWRkKGNvbnN0IEVpZ2VuOjpBcnJheVhmIHNvdXJjZSwgZmxvYXQgc2NhbGFyKSB7CiAgICAvLyBUT0RPIGNhbiBiZSBvcHRpbWl6ZWQKICAgIEVpZ2VuOjpBcnJheVhmIHJlc3VsdCA9IHNvdXJjZTsKICAgIGZvciAobG9uZyBpID0gMDsgaSA8IHJlc3VsdC5yb3dzKCk7IGkrKykgewogICAgICByZXN1bHQoaSkgKz0gc2NhbGFyOwogICAgfQogICAgcmV0dXJuIHJlc3VsdDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbERpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8geCA9IChjb2VmZiAqIHBvd20oaDIgLSByMiwgMikpICogcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL0VpZ2VuOjpBcnJheVhmCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgRWlnZW46OkFycmF5WGYgc2NhbGFyQWRkKGNvbnN0IEVpZ2VuOjpBcnJheVhmIHNvdXJjZSwgZmxvYXQgc2NhbGFyKSB7CiAgICAvLyBUT0RPIGNhbiBiZSBvcHRpbWl6ZWQKICAgIEVpZ2VuOjpBcnJheVhmIHJlc3VsdCA9IHNvdXJjZTsKICAgIGZvciAobG9uZyBpID0gMDsgaSA8IHJlc3VsdC5yb3dzKCk7IGkrKykgewogICAgICByZXN1bHQoaSkgKz0gc2NhbGFyOwogICAgfQogICAgcmV0dXJuIHJlc3VsdDsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8geCA9IGgyIC0gcjI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luCg==</text>
+        <text encoding="base64">ICAvL0VpZ2VuOjpBcnJheVhmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkRlbW8vS2VybmVscy5oIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
