@@ -63,7 +63,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1556899805069">
+      <file name="/LLDB" timestamp="1556926251906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -109,12 +109,12 @@
         <mark key="." line="81" column="43" />
         <mark key="^" line="81" column="43" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" timestamp="1556899208693">
-        <mark key="'" line="132" column="17" />
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="5" />
-        <mark key="." line="123" column="5" />
-        <mark key="^" line="123" column="5" />
+      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" timestamp="1556926248843">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="121" column="5" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
         <mark key="[" line="4" column="47" />
@@ -359,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="4" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="479" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="470" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="466" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
@@ -459,10 +458,11 @@
       <jump line="300" column="70" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="442" column="21" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
       <jump line="316" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" />
+      <jump line="126" column="0" filename="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Shadows/shaders/deferred/ubershader.frag" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oInNwb3RsaWdodF9zaGFkb3dtYXAiLCA1KTsK</text>
+        <text encoding="base64">Y29uc3QgZmxvYXQgQ09OU1RfQklBU19GQUNUT1IgPSAyNS4wOwpjb25zdCBmbG9hdCBDT05TVF9CSUFTX09GRlNFVCA9IC0wLjI7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -480,7 +480,7 @@
         <text encoding="base64">ICAgICAgICBzaGFkb3dCdWZmZXItPmRlcHRoVGV4dHVyZSgpLmJpbmRUb1RleHR1cmVVbml0KDUpOwogICAgICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oInNwb3RsaWdodF9zaGFkb3dtYXAiLCA1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oInNwb3RsaWdodF9zaGFkb3dtYXAiLCA1KTsK</text>
+        <text encoding="base64">Y29uc3QgZmxvYXQgQ09OU1RfQklBU19GQUNUT1IgPSAyNS4wOwpjb25zdCBmbG9hdCBDT05TVF9CSUFTX09GRlNFVCA9IC0wLjI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -512,28 +512,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdsQmluZAo=</text>
+        <text encoding="base64">Ci8vICAgIGZsb2F0IGRlcHRoID0gbGlnaHRTY3JlZW5Qb3NpdGlvbi56OwovLwovLyAgICBmbG9hdCBuRG90TFBvc2l0aXZlID0gbWF4KDAuMCwgZG90KGV5ZV9ub3JtYWwsIGV5ZV9saWdodERpcikpOwovLyAgICBmbG9hdCBhbmdsZSA9IGFjb3MobkRvdExQb3NpdGl2ZSk7Ci8vICAgIGZsb2F0IGFuZ2xlQmlhcyA9IHNwb3RsaWdodF9hbmdsZUJpYXMgKiBjbGFtcCh0YW4oYW5nbGUpLCAwLjAsIDEwLjApOwovLyAgICBmbG9hdCBiaWFzID0gc3BvdGxpZ2h0X2NvbnN0QmlhczsvLyAqIENPTlNUX0JJQVNfRkFDVE9SICsgQ09OU1RfQklBU19PRkZTRVQ7Ci8vCi8vICAgIG9ic3RydWN0aW9uRGVwdGggKz0gYmlhcyArIGFuZ2xlQmlhczsKLy8KLy8gICAgaWYgKG9ic3RydWN0aW9uRGVwdGggPCBkZXB0aCkgewovLyAgICAgICAgcmV0dXJuIDAuMDsKLy8gICAgfSBlbHNlIHsKLy8gICAgICAgIHJldHVybiAxLjA7Ci8vICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHViZXJzaGFkZXItPnNldFVuaWZvcm0oInNwb3RsaWdodF9zaGFkb3dtYXAiLCA1KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoYWRvd0J1ZmZlci0+ZGVwdGhUZXh0dXJlKCkuaWQoKQo=</text>
+        <text encoding="base64">ICAgIGdsQmluZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNoYWRvd0J1ZmZlci0+ZGVwdGhUZXh0dXJlKCkuaWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vZmxvYXQgZGVwdGggPSBsaWdodFNjcmVlblBvc2l0aW9uLno7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
