@@ -66,7 +66,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557172839111">
+      <file name="/LLDB" timestamp="1557174730097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
@@ -284,11 +284,11 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSearch.h" timestamp="1557173232306">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="10" />
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSearch.h" timestamp="1557174710145">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="68" />
+        <mark key="." line="22" column="68" />
+        <mark key="^" line="22" column="68" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.h" timestamp="1556389367354">
         <mark key="'" line="59" column="0" />
@@ -373,11 +373,11 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" timestamp="1557173415262">
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="27" column="74" />
-        <mark key="." line="27" column="74" />
-        <mark key="^" line="27" column="74" />
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" timestamp="1557174664503">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="25" column="50" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="25" column="50" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1556242034522">
         <mark key="'" line="12" column="39" />
@@ -516,7 +516,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>PARTICLE_SEARCH_CELL_SIZE</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -525,7 +525,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>PARTICLE_SEARCH_CELL_SIZE</text>
       </register>
       <register name="/" type="4">
         <text>mouseMotionEvent</text>
@@ -534,7 +534,7 @@
         <text encoding="base64">ICAgIHN5c3RlbS5wYXJ0aWNsZVNlYXJjaFN0cnVjdHVyZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -547,28 +547,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgZmxvYXQgUEFSVElDTEVfU0VBUkNIX0NFTExfU0laRSA9IDQuMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQYXJ0aWNsZVNlYXJjaChmbG9hdCBjZWxsU2l6ZV8pOiBjZWxsU2l6ZShjZWxsU2l6ZV8pIHt9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3RydWN0IFZlY3RvcjNpSGFzaCB7Cn07Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBQYXJ0aWNsZVNlYXJjaChmbG9hdCBjZWxsU2l6ZV8pOiBjZWxsU2l6ZShjZWxsU2l6ZV8pIHt9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFycmF5Pgo=</text>
+        <text encoding="base64">c3RydWN0IFZlY3RvcjNpSGFzaCB7Cn07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly92b2lkIFBhcnRpY2xlT2N0cmVlOjphZGRQYXJ0aWNsZShpbnQgcGFydGljbGVJbmRleCwgY29uc3QgRWlnZW46OlZlY3RvcjNmICZwb3NpdGlvbikgewovLyAgYXV0byBpZHggPSBwb3NpdGlvblRvVm94ZWxDb29yZHMocG9zaXRpb24pOwovLyAgYXV0byAqdm94ZWwgPSB0cmVlLmZpbmRMZWFmKGlkeFswXSwgaWR4WzFdLCBpZHhbMl0pOwovLyAgaWYgKCF2b3hlbCkgewovLyAgICB2b3hlbCA9IHRyZWUuY3JlYXRlTGVhZihpZHhbMF0sIGlkeFsxXSwgaWR4WzJdKTsKLy8gIH0KLy8gIHZveGVsLT5hZGRQb2ludEluZGV4KHBhcnRpY2xlSW5kZXgpOwovL30KCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY2VudGVyID0gdm94ZWxLZXlGb3JQb3NpdGlvbihwb3NpdGlvbik7CiAgICBpbnQgc2NhbGVkUmFkaXVzID0gKGludCkgc3RkOjpjZWlsKHJhZGl1cyAvIGNlbGxTaXplKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFycmF5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gdGVzdAo=</text>
+        <text encoding="base64">Ly92b2lkIFBhcnRpY2xlT2N0cmVlOjphZGRQYXJ0aWNsZShpbnQgcGFydGljbGVJbmRleCwgY29uc3QgRWlnZW46OlZlY3RvcjNmICZwb3NpdGlvbikgewovLyAgYXV0byBpZHggPSBwb3NpdGlvblRvVm94ZWxDb29yZHMocG9zaXRpb24pOwovLyAgYXV0byAqdm94ZWwgPSB0cmVlLmZpbmRMZWFmKGlkeFswXSwgaWR4WzFdLCBpZHhbMl0pOwovLyAgaWYgKCF2b3hlbCkgewovLyAgICB2b3hlbCA9IHRyZWUuY3JlYXRlTGVhZihpZHhbMF0sIGlkeFsxXSwgaWR4WzJdKTsKLy8gIH0KLy8gIHZveGVsLT5hZGRQb2ludEluZGV4KHBhcnRpY2xlSW5kZXgpOwovL30KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
