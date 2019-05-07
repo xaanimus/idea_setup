@@ -16,6 +16,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/main.cpp" timestamp="1557261834186">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UITraverse.h" timestamp="1554481093372">
         <mark key="[" line="40" column="8" />
         <mark key="]" line="40" column="15" />
@@ -47,12 +52,12 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1557259015154">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1557261863897">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="62" column="66" />
+        <mark key="]" line="62" column="74" />
+        <mark key="." line="62" column="74" />
+        <mark key="^" line="62" column="74" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSPersistanceStore.cpp" timestamp="1556120100650">
         <mark key="[" line="4" column="28" />
@@ -60,7 +65,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557259373294">
+      <file name="/LLDB" timestamp="1557261876943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -335,6 +340,12 @@
         <mark key="." line="83" column="24" />
         <mark key="^" line="83" column="24" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/assets/CUJsonValue.cpp" timestamp="1557261759784">
+        <mark key="[" line="1076" column="90" />
+        <mark key="]" line="1077" column="4" />
+        <mark key="^" line="1077" column="4" />
+        <mark key="." line="1077" column="4" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1555715152391">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -527,7 +538,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEFJUGF0dGVybihmaWVsZExpc3QsIHBhdHRlcm4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -536,16 +547,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>posInte</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I3ZlcnNpb24gMzMwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uID0ganNvbi0+Z2V0KGZpZWxkLmluZGV4RmllbGQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEFJUGF0dGVybihmaWVsZExpc3QsIHBhdHRlcm4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -558,28 +569,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEFjdGlvblR5cGUoZmllbGRMaXN0LCB0eXBlKTsK</text>
+        <text encoding="base64">ZXh0ZXJuIHZvaWQgdGVzdGhlbGxvKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdExpbmVhclBhdGgoZmllbGRMaXN0LCBwYXRoKTsK</text>
+        <text encoding="base64">ICAgIHRlc3RoZWxsbygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdExhYmVsZWRPYnN0YWNsZShmaWVsZExpc3QsIHB0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uLT5hcHBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdFZlYzIoZmllbGRMaXN0LCB2ZWMyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdFRleHR1cmUoZmllbGRMaXN0LCBwdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gZWxlbWVudEpzb24gPSBqc29uLT5nZXQoZmllbGQuaW5kZXhGaWVsZCk7CiAgICAgICAgICAgICAgICBpZiAoZWxlbWVudEpzb24gPT0gbnVsbHB0ciAmJgogICAgICAgICAgICAgICAgICAgIGZpZWxkLmluZGV4RmllbGQgPT0ganNvbi0+c2l6ZSgpKSB7CiAgICAgICAgICAgICAgICAgICAganNvbi0+YXBwZW5kTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIGVsZW1lbnRKc29uID0ganNvbi0+Z2V0KGZpZWxkLmluZGV4RmllbGQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAganNvbiA9IGVsZW1lbnRKc29uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEZsb2F0KGZpZWxkTGlzdCwgZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdFN0cmluZyhmaWVsZExpc3QsIHN0cmluZzEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEludChmaWVsZExpc3QsIGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZmllbGQuaW5kZXhGaWVsZCA9PSBqc29uLT5zaXplKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
