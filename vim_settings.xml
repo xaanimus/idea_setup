@@ -47,12 +47,6 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/Spring19Framework/Shadows/ShadowsApp.cpp" timestamp="1556899679226">
-        <mark key="'" line="316" column="0" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1556216626305">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="126" column="10" />
@@ -66,7 +60,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557199573014">
+      <file name="/LLDB" timestamp="1557205187951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -114,8 +108,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" timestamp="1557199146025">
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" timestamp="1557202469134">
         <mark key="'" line="49" column="15" />
+        <mark key="[" line="48" column="44" />
+        <mark key="]" line="48" column="44" />
+        <mark key="^" line="48" column="28" />
+        <mark key="." line="48" column="44" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1556235273383">
         <mark key="'" line="27" column="0" />
@@ -150,16 +148,18 @@
         <mark key="^" line="134" column="45" />
         <mark key="." line="134" column="45" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" timestamp="1557193295537">
-        <mark key="'" line="39" column="1" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" timestamp="1557203681663">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="63" column="2" />
+        <mark key="^" line="34" column="9" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleRenderer.cpp" timestamp="1557188483436">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleRenderer.cpp" timestamp="1557204544865">
+        <mark key="[" line="62" column="47" />
+        <mark key="]" line="62" column="56" />
+        <mark key="^" line="62" column="56" />
+        <mark key="." line="62" column="56" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1556388698196">
         <mark key="[" line="25" column="0" />
@@ -190,18 +190,12 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1557023000301">
-        <mark key="'" line="353" column="0" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="79" />
-        <mark key="." line="295" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" timestamp="1557200048133">
-        <mark key="'" line="263" column="0" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="4" />
-        <mark key="^" line="60" column="4" />
-        <mark key="." line="60" column="4" />
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" timestamp="1557205046471">
+        <mark key="'" line="121" column="33" />
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSearch.cpp" timestamp="1557186231116" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/InputProcessor.cpp" timestamp="1555964016155">
@@ -210,6 +204,11 @@
         <mark key="]" line="293" column="0" />
         <mark key="^" line="296" column="8" />
         <mark key="." line="293" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/Depth/depth.vert" timestamp="1557204632930">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Sealog.h" timestamp="1557020107918">
         <mark key="[" line="39" column="51" />
@@ -374,6 +373,10 @@
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/Depth/depth.frag" timestamp="1557204630805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Main.cpp" timestamp="1556683109384">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="19" />
@@ -387,11 +390,12 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" timestamp="1557191438910">
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" timestamp="1557204883708">
         <mark key="'" line="17" column="16" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="45" column="74" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1556242034522">
         <mark key="'" line="12" column="39" />
@@ -427,48 +431,20 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="50" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="30" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="8" column="4" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="192" column="65" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="133" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="128" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="104" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="92" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" />
-      <jump line="18" column="10" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" />
-      <jump line="17" column="16" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" />
-      <jump line="39" column="33" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="47" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="30" column="33" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="40" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="139" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="150" column="40" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="159" column="79" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="72" column="9" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="76" column="81" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="78" column="35" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="114" column="47" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="116" column="21" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="142" column="63" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="231" column="22" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="151" column="37" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="70" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="131" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="39" column="1" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
       <jump line="220" column="7" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="186" column="53" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="178" column="28" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
@@ -478,7 +454,6 @@
       <jump line="49" column="15" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="162" column="34" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="165" column="67" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="221" column="21" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="120" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="125" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="136" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
@@ -486,14 +461,10 @@
       <jump line="148" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="154" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="156" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="164" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="170" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="180" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="189" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="191" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="199" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="201" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="214" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="218" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="223" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="230" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
@@ -501,15 +472,12 @@
       <jump line="240" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="244" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="247" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="121" column="1" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="129" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="140" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="147" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="152" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="158" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="160" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="168" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="172" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="175" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="183" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="193" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
@@ -521,16 +489,52 @@
       <jump line="234" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="239" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="241" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="246" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="249" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="254" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="258" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="263" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="268" column="1" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="266" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="261" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="258" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="253" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="251" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="246" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="237" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="231" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="224" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="221" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="214" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="205" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="195" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="187" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="184" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="172" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="164" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="159" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="152" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="141" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="132" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="124" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="109" column="32" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="114" column="24" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="103" column="22" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="98" column="33" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="121" column="33" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwCg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -539,16 +543,20 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">QXJyYXk8ZmxvYXQsIC0xLCAzLCBFaWdlbjo6Um93TWFqb3I+</text>
       </register>
       <register name="/" type="4">
-        <text>asd</text>
+        <text>::kernel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBzdGF0aWMgaW50IG1hc3MgPSAxOyAvL1RPRE8gbWFzcyBvZiB3YXRlciBpbiBvdXIgc2ltdWxhdGlvbj8KCiAgRWlnZW46OkFycmF5WDNmIHBvc2l0aW9uczsKICBFaWdlbjo6QXJyYXlYM2YgdmVsb2NpdGllczsKICBFaWdlbjo6QXJyYXlYM2YgcHJval9wb3NpdGlvbnM7CiAgRWlnZW46OkFycmF5WDNmIGZvcmNlX2FjY3VtczsKICBFaWdlbjo6QXJyYXlYM2Ygdm9ydGljaXRpZXM7CiAgc3RkOjp2ZWN0b3I8cmVhbD4gbGFtYmRhczsKCiAgc3RkOjpzZXQ8c3RkOjpzaGFyZWRfcHRyPEZvcmNlPj4gZm9yY2VzOwogIHN0ZDo6c2V0PHN0ZDo6c2hhcmVkX3B0cjxXYXRlckNvbnN0cmFpbnQ+PiBjb25zdHJhaW50czsKCiAgUGFydGljbGVTZWFyY2ggcGFydGljbGVTZWFyY2hTdHJ1Y3R1cmU7Cg==</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>Eigen::
+Eigen::
+Eigen::
+Eigen::
+Eigen::</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -561,37 +569,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQYXJ0aWNsZVNlYXJjaCBwYXJ0aWNsZVNlYXJjaFN0cnVjdHVyZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgY29uc3Qgc3RhdGljIGludCBtYXNzID0gMTsgLy9UT0RPIG1hc3Mgb2Ygd2F0ZXIgaW4gb3VyIHNpbXVsYXRpb24/CgogIEVpZ2VuOjpBcnJheVgzZiBwb3NpdGlvbnM7CiAgRWlnZW46OkFycmF5WDNmIHZlbG9jaXRpZXM7CiAgRWlnZW46OkFycmF5WDNmIHByb2pfcG9zaXRpb25zOwogIEVpZ2VuOjpBcnJheVgzZiBmb3JjZV9hY2N1bXM7CiAgRWlnZW46OkFycmF5WDNmIHZvcnRpY2l0aWVzOwogIHN0ZDo6dmVjdG9yPHJlYWw+IGxhbWJkYXM7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjb2VmZiAqIHN0ZDo6cG93ZihoMiAtIHIyLCAyKSAqIHI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBmbG9hdCBjb2VmZiA9IGdyYWRpZW50Q29lZmYgLyBzdGQ6OnBvd2YoaCwgOSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgc3RkOjpzZXQ8c3RkOjpzaGFyZWRfcHRyPEZvcmNlPj4gZm9yY2VzOwogIHN0ZDo6c2V0PHN0ZDo6c2hhcmVkX3B0cjxXYXRlckNvbnN0cmFpbnQ+PiBjb25zdHJhaW50czsK</text>
+        <text encoding="base64">ICAgIHN5c3RlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmNsYXNzIFdhdGVyQ29uc3RyYWludCB7CnB1YmxpYzoKCVdhdGVyQ29uc3RyYWludChjb25zdCBpbnQgaWQsIGNvbnN0IGZsb2F0IHdpZHRoLCBjb25zdCBmbG9hdCBsZW5ndGgsIGNvbnN0IGZsb2F0IGhlaWdodCkKCQk6IGlkKGlkKSB7CgkJYm94X2RpbVswXSA9IHdpZHRoOwoJCWJveF9kaW1bMV0gPSBoZWlnaHQ7CgkJYm94X2RpbVsyXSA9IGxlbmd0aDsKCX0KCgl2b2lkIHBvcHVsYXRlTmVpZ2hib3JzKFBhcnRpY2xlSW5mbyYgc3lzdGVtKSB7CgkJbmVpZ2hib3JzLmNsZWFyKCk7Ci8vCQlzeXN0ZW0ucGFydGljbGVTZWFyY2hTdHJ1Y3R1cmUuZm9yZWFjaFBhcnRpY2xlTmVhcigKLy8JCQkJc3lzdGVtLnBvc2l0aW9ucy5yb3coaWQpLCAxLjAsIFt0aGlzXShpbnQgbmVpZ2hib3IpewovLwkJCQkJbmVpZ2hib3JzLnB1c2hfYmFjayhuZWlnaGJvcik7Ci8vCQkJCX0pOwoJCWZvciAoaW50IGkgPSAwOyBpIDwgc3lzdGVtLnNpemUoKTsgaSsrKSB7CgkJCW5laWdoYm9ycy5wdXNoX2JhY2soaSk7CgkJfQoJfQoKCXZvaWQgY2FsY3VsYXRlTGFtYmRhKFBhcnRpY2xlSW5mbyYgc3lzdGVtLCBjb25zdCBTY2VuZUNvbnRleHQmKSB7CiAgICBpbnQgc2l6ZSA9IG5laWdoYm9ycy5zaXplKCk7CgkJLy8gY2FjaGUgaW5mbwoJCWRpc3RhbmNlcy5yZXNpemUoc2l6ZSk7CgkJZ3JhZGllbnRzLnJlc2l6ZShzaXplKTsKCQlzcGhFc3RpbWF0b3JzLnJlc2l6ZShzaXplKTsKCgkJcmVhbCBjdXJEZW5zaXR5ID0gMC47CgkJZm9yIChpbnQgaiA9IDA7IGogPCBzaXplOyBqICsrKSB7CgkJCUVpZ2VuOjpWZWN0b3IzZiBkaXN0ID0gc3lzdGVtLnByb2pfcG9zaXRpb25zLnJvdyhpZCkgLSBzeXN0ZW0ucHJval9wb3NpdGlvbnMucm93KG5laWdoYm9yc1tqXSk7CgkJCWRpc3RhbmNlc1tqXSA9IGRpc3Q7CgoJCQkvLyBlc3RpbWF0b3IKCQkJcmVhbCBlc3RpbWF0ZSA9IEtlcm5lbFBvbHk2OjprZXJuZWwoZGlzdCwgaCk7CgkJCXNwaEVzdGltYXRvcnNbal0gPSBlc3RpbWF0ZTsKCQkJY3VyRGVuc2l0eSArPSBzeXN0ZW0ubWFzcyAqIGVzdGltYXRlOwoJCX0KCgkJcmVhbCBjb25zdHJhaW50ID0gKGN1ckRlbnNpdHkgLyByZXN0RGVuc2l0eSkgLSAxLjsKCgkJcmVhbCBqX3N1bUdyYWRpZW50cyA9IDAuOwogICAgRWlnZW46OlZlY3RvcjNmIGlfc3VtR3JhZGllbnRzID0gRWlnZW46OlZlY3RvcjNmOjpaZXJvKCk7CgkJZm9yIChpbnQgaiA9IDA7IGogPCBzaXplOyBqKyspIHsKCQkJLy8gbmVpZ2hib3IgZ3JhZGllbnQKCQkJRWlnZW46OlZlY3RvcjNmIG5fZ3JhZCA9IC1LZXJuZWxQb2x5Njo6Z3JhZGllbnRQaihkaXN0YW5jZXNbal0sIGgpOwoJCQlncmFkaWVudHNbal0gPSBuX2dyYWQ7CgkJCWpfc3VtR3JhZGllbnRzICs9IChuX2dyYWQgLyByZXN0RGVuc2l0eSkuc3F1YXJlZE5vcm0oKTsKCgkJCS8vIGkgZ3JhZGllbnQKCQkJaV9zdW1HcmFkaWVudHMgKz0gS2VybmVsUG9seTY6OmdyYWRpZW50UGkoZGlzdGFuY2VzW2pdLCBoKSAvIHJlc3REZW5zaXR5OwoJCX0KCgkJc3lzdGVtLmxhbWJkYXNbaWRdID0gLWNvbnN0cmFpbnQgLyAoal9zdW1HcmFkaWVudHMgKyBpX3N1bUdyYWRpZW50cy5zcXVhcmVkTm9ybSgpICsgZXBzKTsKCX0KCgl2b2lkIHByb2plY3RDb25zdHJhaW50KFBhcnRpY2xlSW5mbyYgc3lzdGVtLCBjb25zdCBTY2VuZUNvbnRleHQmLCBpbnQgbnMpIHsKCQlyZWFsIHNwaERlbHRhX3EgPSBLZXJuZWxQb2x5Njo6a2VybmVsKGRlbHRhX3EsIGgpOwogICAgRWlnZW46OlZlY3RvcjNmIGFjY3VtID0gRWlnZW46OlZlY3RvcjNmOjpaZXJvKCk7CgkJZm9yIChpbnQgaiA9IDA7IGogPCBuZWlnaGJvcnMuc2l6ZSgpOyBqKyspIHsKCQkJcmVhbCBsYW1iZGFfaSA9IHN5c3RlbS5sYW1iZGFzW2lkXTsKCQkJcmVhbCBsYW1iZGFfaiA9IHN5c3RlbS5sYW1iZGFzW25laWdoYm9yc1tqXV07CgkJCXJlYWwgc19jb3JyID0gLWsqcG93KHNwaEVzdGltYXRvcnNbal0gLyBzcGhEZWx0YV9xLCBuKTsKCgkJCXJlYWwgY29lZmYgPSBsYW1iZGFfaSArIGxhbWJkYV9qICsgc19jb3JyOwoJCQlhY2N1bSArPSBjb2VmZiAqIGdyYWRpZW50c1tqXTsKCQl9CgkJYXV0byBkaWZmID0gYWNjdW0uYXJyYXkoKSAvIHJlc3REZW5zaXR5OwovLwkJaWYgKEVpZ2VuOjpWZWN0b3IzZihkaWZmKS5ub3JtKCkgPiAwLjUpIHsKLy8JCQlzdGQ6OmNvdXQgPDwgImFzZCAiIDw8IEVpZ2VuOjpWZWN0b3IzZihkaWZmKS5ub3JtKCkgPDwgc3RkOjplbmRsOwovLwkJfQogICAgc3lzdGVtLnByb2pfcG9zaXRpb25zLnJvdyhpZCkgKz0gZGlmZjsKCX0KCiAgdm9pZCBjb2xsaXNpb25EZXRlY3Rpb24oUGFydGljbGVJbmZvJiBzeXN0ZW0pIHsKICAgIGZvciAoaW50IGQgPSAwOyBkIDwgMzsgZCArKykgewogICAgICBpZiAoc3lzdGVtLnByb2pfcG9zaXRpb25zKGlkLCBkKSA8IDAuIHx8IHN5c3RlbS5wcm9qX3Bvc2l0aW9ucyhpZCwgZCkgPiBib3hfZGltW2RdKSB7CiAgICAgICAgc3lzdGVtLnByb2pfcG9zaXRpb25zKGlkLCBkKSA9IHN0ZDo6bWluKHN0ZDo6bWF4KHN5c3RlbS5wcm9qX3Bvc2l0aW9ucyhpZCwgZCksIDAuMGYpLCBib3hfZGltW2RdKTsKICAgICAgICBzeXN0ZW0udmVsb2NpdGllcyhpZCwgZCkgPSAwLjsKICAgICAgfQogICAgfQogIH0KCiAgdm9pZCBjYWxjdWxhdGVWb3J0aWNpdHkoUGFydGljbGVJbmZvJiBzeXN0ZW0pIHsKICAgIEVpZ2VuOjpWZWN0b3IzZiBhY2N1bSA9IEVpZ2VuOjpWZWN0b3IzZjo6WmVybygpOwogICAgZm9yIChpbnQgaiA9IDA7IGogPCBuZWlnaGJvcnMuc2l6ZSgpOyBqICsrKSB7CiAgICAgIEVpZ2VuOjpWZWN0b3IzZiB2ZWxfZGlmZiA9IHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhqKSAtIHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhpZCk7CiAgICAgIGFjY3VtICs9IHZlbF9kaWZmLmNyb3NzKGdyYWRpZW50c1tqXSk7CiAgICB9CgogICAgc3lzdGVtLnZvcnRpY2l0aWVzLnJvdyhpZCkgPSBhY2N1bTsKICB9CgogIHZvaWQgdm9ydGljaXR5Q29uZmluZW1lbnQoUGFydGljbGVJbmZvJiBzeXN0ZW0pIHsKICAgIEVpZ2VuOjpWZWN0b3IzZiBncmFkX29tZWdhID0gRWlnZW46OlZlY3RvcjNmOjpaZXJvKCk7CiAgICBmb3IgKGludCBqID0gMDsgaiA8IG5laWdoYm9ycy5zaXplKCk7IGogKyspIHsKICAgICAgcmVhbCBsZW5ndGggPSBzeXN0ZW0udm9ydGljaXRpZXMucm93KGlkKS5tYXRyaXgoKS5ub3JtKCk7CiAgICAgIGdyYWRfb21lZ2EgKz0gbGVuZ3RoICogZ3JhZGllbnRzW2pdOwogICAgfQoKICAgIGlmIChncmFkX29tZWdhLm5vcm0oKSA8IGVwcykgewogICAgICByZXR1cm47CiAgICB9CiAgICBzeXN0ZW0udmVsb2NpdGllcy5yb3coaWQpICs9IChlcHMgKiBncmFkX29tZWdhLmNyb3NzKHN5c3RlbS52b3J0aWNpdGllcy5yb3coaWQpLm1hdHJpeCgpKSkuYXJyYXkoKTsKICB9CgogIHZvaWQgdmlzY29zaXR5KFBhcnRpY2xlSW5mbyYgc3lzdGVtKSB7CgkgIEVpZ2VuOjpWZWN0b3IzZiBhY2N1bSA9IEVpZ2VuOjpWZWN0b3IzZjo6WmVybygpOwoJICBmb3IgKGludCBqID0gMDsgaiA8IG5laWdoYm9ycy5zaXplKCk7IGorKykgewoJCSAgRWlnZW46OlZlY3RvcjNmIHZlbF9kaWZmID0gc3lzdGVtLnZlbG9jaXRpZXMucm93KGopIC0gc3lzdGVtLnZlbG9jaXRpZXMucm93KGlkKTsKCQkgIGFjY3VtICs9IHNwaEVzdGltYXRvcnNbaWRdICogdmVsX2RpZmY7CgkgIH0KCSAgc3lzdGVtLnZlbG9jaXRpZXMucm93KGlkKSArPSAoYyAqIGFjY3VtKS5hcnJheSgpOwogIH0KCnByaXZhdGU6CiAgaW50IGlkOyAvL2luZGV4IG9mIHBhcnRpY2xlIG9mIGludGVyZXN0CiAgc3RkOjp2ZWN0b3I8aW50PiBuZWlnaGJvcnM7CiAgcmVhbCByZXN0RGVuc2l0eSA9IDEuOwoKICByZWFsIGggPSAxLjsKCiAgLy9jYWNoZSBpbmZvCiAgc3RkOjp2ZWN0b3I8RWlnZW46OlZlY3RvcjNmPiBkaXN0YW5jZXM7CiAgc3RkOjp2ZWN0b3I8cmVhbD4gc3BoRXN0aW1hdG9yczsKICBzdGQ6OnZlY3RvcjxFaWdlbjo6VmVjdG9yM2Y+IGdyYWRpZW50czsKCiAgLy9jb2xsaXNpb24gZGV0ZWN0aW9uCiAgZmxvYXQgYm94X2RpbVszXTsKCiAgLy90ZW5zaWxlIGluc3RhYmlsaXR5CiAgRWlnZW46OlZlY3RvcjNmIGRlbHRhX3EgPSB7LjEqaCwgLjIqaCwgLjMqaH07CiAgcmVhbCBrID0gLjE7CiAgcmVhbCBuID0gNDsKCiAgLy92aXNjb3NpdHkgYW5kIHZvcnRpY2l0eQogIHJlYWwgYyA9IC4wMTsKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgV2F0ZXJDb25zdHJhaW50IHsKcHVibGljOgoJV2F0ZXJDb25zdHJhaW50KGNvbnN0IGludCBpZCwgY29uc3QgZmxvYXQgd2lkdGgsIGNvbnN0IGZsb2F0IGxlbmd0aCwgY29uc3QgZmxvYXQgaGVpZ2h0KQoJCTogaWQoaWQpIHsKCQlib3hfZGltWzBdID0gd2lkdGg7CgkJYm94X2RpbVsxXSA9IGhlaWdodDsKCQlib3hfZGltWzJdID0gbGVuZ3RoOwoJfQoKCXZvaWQgcG9wdWxhdGVOZWlnaGJvcnMoUGFydGljbGVTeXN0ZW0mIHN5c3RlbSkgewoJCW5laWdoYm9ycy5jbGVhcigpOwovLwkJc3lzdGVtLnBhcnRpY2xlU2VhcmNoU3RydWN0dXJlLmZvcmVhY2hQYXJ0aWNsZU5lYXIoCi8vCQkJCXN5c3RlbS5wb3NpdGlvbnMucm93KGlkKSwgMS4wLCBbdGhpc10oaW50IG5laWdoYm9yKXsKLy8JCQkJCW5laWdoYm9ycy5wdXNoX2JhY2sobmVpZ2hib3IpOwovLwkJCQl9KTsKCQlmb3IgKGludCBpID0gMDsgaSA8IHN5c3RlbS5zaXplKCk7IGkrKykgewoJCQluZWlnaGJvcnMucHVzaF9iYWNrKGkpOwoJCX0KCX0KCgl2b2lkIGNhbGN1bGF0ZUxhbWJkYShQYXJ0aWNsZVN5c3RlbSYgc3lzdGVtLCBjb25zdCBTY2VuZUNvbnRleHQmKSB7CiAgICBpbnQgc2l6ZSA9IG5laWdoYm9ycy5zaXplKCk7CgkJLy8gY2FjaGUgaW5mbwoJCWRpc3RhbmNlcy5yZXNpemUoc2l6ZSk7CgkJZ3JhZGllbnRzLnJlc2l6ZShzaXplKTsKCQlzcGhFc3RpbWF0b3JzLnJlc2l6ZShzaXplKTsKCgkJcmVhbCBjdXJEZW5zaXR5ID0gMC47CgkJZm9yIChpbnQgaiA9IDA7IGogPCBzaXplOyBqICsrKSB7CgkJCUVpZ2VuOjpWZWN0b3IzZiBkaXN0ID0gc3lzdGVtLnByb2pfcG9zaXRpb25zLnJvdyhpZCkgLSBzeXN0ZW0ucHJval9wb3NpdGlvbnMucm93KG5laWdoYm9yc1tqXSk7CgkJCWRpc3RhbmNlc1tqXSA9IGRpc3Q7CgoJCQkvLyBlc3RpbWF0b3IKCQkJcmVhbCBlc3RpbWF0ZSA9IEtlcm5lbFBvbHk2OjprZXJuZWwoZGlzdCwgaCk7CgkJCXNwaEVzdGltYXRvcnNbal0gPSBlc3RpbWF0ZTsKCQkJY3VyRGVuc2l0eSArPSBzeXN0ZW0ubWFzcyAqIGVzdGltYXRlOwoJCX0KCgkJcmVhbCBjb25zdHJhaW50ID0gKGN1ckRlbnNpdHkgLyByZXN0RGVuc2l0eSkgLSAxLjsKCgkJcmVhbCBqX3N1bUdyYWRpZW50cyA9IDAuOwogICAgRWlnZW46OlZlY3RvcjNmIGlfc3VtR3JhZGllbnRzID0gRWlnZW46OlZlY3RvcjNmOjpaZXJvKCk7CgkJZm9yIChpbnQgaiA9IDA7IGogPCBzaXplOyBqKyspIHsKCQkJLy8gbmVpZ2hib3IgZ3JhZGllbnQKCQkJRWlnZW46OlZlY3RvcjNmIG5fZ3JhZCA9IC1LZXJuZWxQb2x5Njo6Z3JhZGllbnRQaihkaXN0YW5jZXNbal0sIGgpOwoJCQlncmFkaWVudHNbal0gPSBuX2dyYWQ7CgkJCWpfc3VtR3JhZGllbnRzICs9IChuX2dyYWQgLyByZXN0RGVuc2l0eSkuc3F1YXJlZE5vcm0oKTsKCgkJCS8vIGkgZ3JhZGllbnQKCQkJaV9zdW1HcmFkaWVudHMgKz0gS2VybmVsUG9seTY6OmdyYWRpZW50UGkoZGlzdGFuY2VzW2pdLCBoKSAvIHJlc3REZW5zaXR5OwoJCX0KCgkJc3lzdGVtLmxhbWJkYXNbaWRdID0gLWNvbnN0cmFpbnQgLyAoal9zdW1HcmFkaWVudHMgKyBpX3N1bUdyYWRpZW50cy5zcXVhcmVkTm9ybSgpICsgZXBzKTsKCX0KCgl2b2lkIHByb2plY3RDb25zdHJhaW50KFBhcnRpY2xlU3lzdGVtJiBzeXN0ZW0sIGNvbnN0IFNjZW5lQ29udGV4dCYsIGludCBucykgewoJCXJlYWwgc3BoRGVsdGFfcSA9IEtlcm5lbFBvbHk2OjprZXJuZWwoZGVsdGFfcSwgaCk7CiAgICBFaWdlbjo6VmVjdG9yM2YgYWNjdW0gPSBFaWdlbjo6VmVjdG9yM2Y6Olplcm8oKTsKCQlmb3IgKGludCBqID0gMDsgaiA8IG5laWdoYm9ycy5zaXplKCk7IGorKykgewoJCQlyZWFsIGxhbWJkYV9pID0gc3lzdGVtLmxhbWJkYXNbaWRdOwoJCQlyZWFsIGxhbWJkYV9qID0gc3lzdGVtLmxhbWJkYXNbbmVpZ2hib3JzW2pdXTsKCQkJcmVhbCBzX2NvcnIgPSAtaypwb3coc3BoRXN0aW1hdG9yc1tqXSAvIHNwaERlbHRhX3EsIG4pOwoKCQkJcmVhbCBjb2VmZiA9IGxhbWJkYV9pICsgbGFtYmRhX2ogKyBzX2NvcnI7CgkJCWFjY3VtICs9IGNvZWZmICogZ3JhZGllbnRzW2pdOwoJCX0KCQlhdXRvIGRpZmYgPSBhY2N1bS5hcnJheSgpIC8gcmVzdERlbnNpdHk7Ci8vCQlpZiAoRWlnZW46OlZlY3RvcjNmKGRpZmYpLm5vcm0oKSA+IDAuNSkgewovLwkJCXN0ZDo6Y291dCA8PCAiYXNkICIgPDwgRWlnZW46OlZlY3RvcjNmKGRpZmYpLm5vcm0oKSA8PCBzdGQ6OmVuZGw7Ci8vCQl9CiAgICBzeXN0ZW0ucHJval9wb3NpdGlvbnMucm93KGlkKSArPSBkaWZmOwoJfQoKICB2b2lkIGNvbGxpc2lvbkRldGVjdGlvbihQYXJ0aWNsZVN5c3RlbSYgc3lzdGVtKSB7CiAgICBmb3IgKGludCBkID0gMDsgZCA8IDM7IGQgKyspIHsKICAgICAgaWYgKHN5c3RlbS5wcm9qX3Bvc2l0aW9ucyhpZCwgZCkgPCAwLiB8fCBzeXN0ZW0ucHJval9wb3NpdGlvbnMoaWQsIGQpID4gYm94X2RpbVtkXSkgewogICAgICAgIHN5c3RlbS5wcm9qX3Bvc2l0aW9ucyhpZCwgZCkgPSBzdGQ6Om1pbihzdGQ6Om1heChzeXN0ZW0ucHJval9wb3NpdGlvbnMoaWQsIGQpLCAwLjBmKSwgYm94X2RpbVtkXSk7CiAgICAgICAgc3lzdGVtLnZlbG9jaXRpZXMoaWQsIGQpID0gMC47CiAgICAgIH0KICAgIH0KICB9CgogIHZvaWQgY2FsY3VsYXRlVm9ydGljaXR5KFBhcnRpY2xlU3lzdGVtJiBzeXN0ZW0pIHsKICAgIEVpZ2VuOjpWZWN0b3IzZiBhY2N1bSA9IEVpZ2VuOjpWZWN0b3IzZjo6WmVybygpOwogICAgZm9yIChpbnQgaiA9IDA7IGogPCBuZWlnaGJvcnMuc2l6ZSgpOyBqICsrKSB7CiAgICAgIEVpZ2VuOjpWZWN0b3IzZiB2ZWxfZGlmZiA9IHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhqKSAtIHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhpZCk7CiAgICAgIGFjY3VtICs9IHZlbF9kaWZmLmNyb3NzKGdyYWRpZW50c1tqXSk7CiAgICB9CgogICAgc3lzdGVtLnZvcnRpY2l0aWVzLnJvdyhpZCkgPSBhY2N1bTsKICB9CgogIHZvaWQgdm9ydGljaXR5Q29uZmluZW1lbnQoUGFydGljbGVTeXN0ZW0mIHN5c3RlbSkgewogICAgRWlnZW46OlZlY3RvcjNmIGdyYWRfb21lZ2EgPSBFaWdlbjo6VmVjdG9yM2Y6Olplcm8oKTsKICAgIGZvciAoaW50IGogPSAwOyBqIDwgbmVpZ2hib3JzLnNpemUoKTsgaiArKykgewogICAgICByZWFsIGxlbmd0aCA9IHN5c3RlbS52b3J0aWNpdGllcy5yb3coaWQpLm1hdHJpeCgpLm5vcm0oKTsKICAgICAgZ3JhZF9vbWVnYSArPSBsZW5ndGggKiBncmFkaWVudHNbal07CiAgICB9CgogICAgaWYgKGdyYWRfb21lZ2Eubm9ybSgpIDwgZXBzKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhpZCkgKz0gKGVwcyAqIGdyYWRfb21lZ2EuY3Jvc3Moc3lzdGVtLnZvcnRpY2l0aWVzLnJvdyhpZCkubWF0cml4KCkpKS5hcnJheSgpOwogIH0KCiAgdm9pZCB2aXNjb3NpdHkoUGFydGljbGVTeXN0ZW0mIHN5c3RlbSkgewoJICBFaWdlbjo6VmVjdG9yM2YgYWNjdW0gPSBFaWdlbjo6VmVjdG9yM2Y6Olplcm8oKTsKCSAgZm9yIChpbnQgaiA9IDA7IGogPCBuZWlnaGJvcnMuc2l6ZSgpOyBqKyspIHsKCQkgIEVpZ2VuOjpWZWN0b3IzZiB2ZWxfZGlmZiA9IHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhqKSAtIHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhpZCk7CgkJICBhY2N1bSArPSBzcGhFc3RpbWF0b3JzW2lkXSAqIHZlbF9kaWZmOwoJICB9CgkgIHN5c3RlbS52ZWxvY2l0aWVzLnJvdyhpZCkgKz0gKGMgKiBhY2N1bSkuYXJyYXkoKTsKICB9Cgpwcml2YXRlOgogIGludCBpZDsgLy9pbmRleCBvZiBwYXJ0aWNsZSBvZiBpbnRlcmVzdAogIHN0ZDo6dmVjdG9yPGludD4gbmVpZ2hib3JzOwogIHJlYWwgcmVzdERlbnNpdHkgPSAxLjsKCiAgcmVhbCBoID0gMS47CgogIC8vY2FjaGUgaW5mbwogIHN0ZDo6dmVjdG9yPEVpZ2VuOjpWZWN0b3IzZj4gZGlzdGFuY2VzOwogIHN0ZDo6dmVjdG9yPHJlYWw+IHNwaEVzdGltYXRvcnM7CiAgc3RkOjp2ZWN0b3I8RWlnZW46OlZlY3RvcjNmPiBncmFkaWVudHM7CgogIC8vY29sbGlzaW9uIGRldGVjdGlvbgogIGZsb2F0IGJveF9kaW1bM107CgogIC8vdGVuc2lsZSBpbnN0YWJpbGl0eQogIEVpZ2VuOjpWZWN0b3IzZiBkZWx0YV9xID0gey4xKmgsIC4yKmgsIC4zKmh9OwogIHJlYWwgayA9IC4xOwogIHJlYWwgbiA9IDQ7CgogIC8vdmlzY29zaXR5IGFuZCB2b3J0aWNpdHkKICByZWFsIGMgPSAuMDE7Cn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc3RkOjpjb3V0IDw8ICJhc2QgIiA8PCBFaWdlbjo6VmVjdG9yM2YoZGlmZikubm9ybSgpIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICBzdGQ6OnNldDxzdGQ6OnNoYXJlZF9wdHI8Rm9yY2U+PiBmb3JjZXM7CiAgc3RkOjpzZXQ8c3RkOjpzaGFyZWRfcHRyPFdhdGVyQ29uc3RyYWludD4+IGNvbnN0cmFpbnRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoc3RkOjphYnMoY29uc3RyYWludCkgPCBlcHMpIHsKCQkJcmV0dXJuOwoJCX0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asd</last-search>
+      <last-search>::kernel</last-search>
       <last-offset />
-      <last-pattern>asd</last-pattern>
+      <last-pattern>::kernel</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -599,8 +607,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kernel</entry>
-        <entry>width</entry>
         <entry>neighbors</entry>
         <entry>lambdas</entry>
         <entry>flags</entry>
@@ -619,9 +625,10 @@
         <entry>addWater</entry>
         <entry>restDensity</entry>
         <entry>asd</entry>
+        <entry>kernel</entry>
+        <entry>::kernel</entry>
       </history-search>
       <history-cmd>
-        <entry>sw</entry>
         <entry encoding="base64">JzwsJz5zL2RpZmZ1c2VfdGVybS9kaWZmdXNlX2NvbG9yL2c=</entry>
         <entry>w3</entry>
         <entry>w'</entry>
@@ -640,6 +647,7 @@
         <entry>s/spotlight/spotLight/g</entry>
         <entry encoding="base64">JzwsJz5zL01hdHJpeC9BcnJheS9n</entry>
         <entry>ew</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
