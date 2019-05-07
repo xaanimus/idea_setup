@@ -52,12 +52,12 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1557262820613">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="^" line="197" column="7" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1557263405727">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="79" />
+        <mark key="." line="49" column="79" />
+        <mark key="^" line="49" column="79" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSPersistanceStore.cpp" timestamp="1556120100650">
         <mark key="[" line="4" column="28" />
@@ -537,8 +537,8 @@
       <jump line="114" column="30" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -547,7 +547,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>fields</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>posInte</text>
@@ -556,7 +556,7 @@
         <text encoding="base64">ICAgICAgICAvLyBUT0RPIGltcGxlbWVudAogICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigidGV4dHVyZSBlbmNvZGluZyBub3QgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW51bSBDcmVhdGVpb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,28 +569,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCB0ZXN0aGVsbG8oKSB7Cn0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnZvaWQgdGVzdGhlbGxvKCkgewp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEFJUGF0dGVybihmaWVsZExpc3QsIHBhdHRlcm4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnZvaWQgdGVzdGhlbGxvKCkgewp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEFjdGlvblR5cGUoZmllbGRMaXN0LCB0eXBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UgCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdExpbmVhclBhdGgoZmllbGRMaXN0LCBwYXRoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdExhYmVsZWRPYnN0YWNsZShmaWVsZExpc3QsIHB0cik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGltcGxlbWVudAogICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigidGV4dHVyZSBlbmNvZGluZyBub3QgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdFZlYzIoZmllbGRMaXN0LCB2ZWMyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aEpzbwo=</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdFRleHR1cmUoZmllbGRMaXN0LCBwdHIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRWaXNpdG9yOjp2aXNpdEZsb2F0KGZpZWxkTGlzdCwgZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
