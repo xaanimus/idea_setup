@@ -71,7 +71,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557429096272">
+      <file name="/LLDB" timestamp="1557437349883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -170,19 +170,6 @@
         <mark key="]" line="62" column="56" />
         <mark key="^" line="62" column="56" />
         <mark key="." line="62" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.h" timestamp="1557434998470">
-        <mark key="[" line="38" column="63" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="63" />
-        <mark key="^" line="38" column="63" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1557435222729">
-        <mark key="'" line="426" column="0" />
-        <mark key="[" line="430" column="0" />
-        <mark key="]" line="497" column="58" />
-        <mark key="." line="430" column="0" />
-        <mark key="^" line="428" column="3" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
@@ -365,13 +352,6 @@
         <mark key="^" line="84" column="38" />
         <mark key="." line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1557428465125">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="103" column="4" />
-        <mark key="]" line="103" column="4" />
-        <mark key="." line="103" column="4" />
-        <mark key="^" line="103" column="4" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional.h" timestamp="1554481404427">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="5" />
@@ -381,9 +361,6 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.h" timestamp="1557429068244">
         <mark key="'" line="111" column="3" />
         <mark key="[" line="14" column="27" />
-        <mark key="]" line="15" column="36" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Main.cpp" timestamp="1556683109384">
         <mark key="[" line="0" column="19" />
@@ -439,20 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="241" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="249" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="254" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="263" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="268" column="1" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="266" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="261" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="258" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="253" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="251" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="246" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="237" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="231" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="224" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="221" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="214" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
@@ -525,10 +488,7 @@
       <jump line="356" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="358" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="360" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="363" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="365" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="369" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="372" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="380" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="385" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="391" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -536,13 +496,30 @@
       <jump line="404" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="407" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="412" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="426" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="352" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="363" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="365" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="367" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="370" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="372" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="376" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="379" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="387" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="392" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="398" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="402" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="411" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="414" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="419" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="426" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="421" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="377" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="451" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="467" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNpemUgZGlzcGxheVNpemUgPSBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5nZXREaXNwbGF5U2l6ZSgpOwogICAgU2NlbmU6OmluaXQoZGlzcGxheVNpemUpOwogICAgX3Jvb3ROb2RlID0gTm9kZTo6YWxsb2NXaXRoQm91bmRzKGRpc3BsYXlTaXplKTsKICAgIF9yb290Tm9kZS0+c2V0QW5jaG9yKFZlYzI6OkFOQ0hPUl9DRU5URVIpOwogICAgX3Jvb3ROb2RlLT5zZXRQb3NpdGlvbihkaXNwbGF5U2l6ZS53aWR0aCAvIDIuMGYsIGRpc3BsYXlTaXplLmhlaWdodCAvIDIuMGYpOwogICAgX3Jvb3ROb2RlLT5zZXROYW1lKCJzY2VuZVJvb3ROb2RlIik7CgogICAgYXV0byB3b3JsZFJvb3QgPSBzdGQ6Om1ha2Vfc2hhcmVkPE5vZGU+KCk7CgogICAgYWRkQ2hpbGQoX3Jvb3ROb2RlKTsKCiAgICBhdXRvIHBsYXllclNoaXBMb2NhdGlvblBhaXJzID0KICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPHN0ZDo6dmVjdG9yPFBsYXllclNoaXBMb2NhdGlvblBhaXI+PigpOwoKICAgIC8vIEluaXRpYWxpemUgaW5wdXQKCiAgICBfYWN0aW9uU3RhdHVzTGlzdGVuZXIgPSBzdGQ6Om1ha2Vfc2hhcmVkPEFjdGlvblN0YXR1c0xpc3RlbmVyPigpOwogICAgX2lucHV0UHJvY2Vzc29yID0gc3RkOjptYWtlX3VuaXF1ZTxJbnB1dFByb2Nlc3Nvcj4oCiAgICAgICAgX3Jvb3ROb2RlLCB3b3JsZFJvb3QsIF9hY3Rpb25TdGF0dXNMaXN0ZW5lciwgcGxheWVyU2hpcExvY2F0aW9uUGFpcnMpOwoKICAgIGF1dG8gcGF0aEJ1aWxkU3lzdGVtID0gc3RkOjptYWtlX3NoYXJlZDxQYXRoQnVpbGRTeXN0ZW0+KAogICAgICAgIF9pbnB1dFByb2Nlc3Nvci0+aW5wdXRTdGF0dXNWaWV3ZXIoKSwgX2FjdGlvblN0YXR1c0xpc3RlbmVyLCB3b3JsZFJvb3QpOwoKICAgIC8vICAgIGF1dG8gbWFwSWNvbiA9IGFzc2V0cy0+Z2V0PFRleHR1cmU+KEdBTUVfU0NFTkVfQVNTRVRTLm1hcEljb25LZXkpOwogICAgLy8gICAgc3RkOjpzaGFyZWRfcHRyPFBvbHlnb25Ob2RlPiBtYXBOb2RlID0KICAgIC8vICAgIFBvbHlnb25Ob2RlOjphbGxvY1dpdGhUZXh0dXJlKG1hcEljb24pOyBtYXBOb2RlLT5zZXRTY2FsZSgwLjFmKTsKICAgIC8vICAgIG1hcE5vZGUtPnNldEFuY2hvcihWZWMyOjpBTkNIT1JfVE9QX0NFTlRFUik7CiAgICAvLyAgICBtYXBOb2RlLT5zZXRQb3NpdGlvbihsZXZlbFNwZWMuc2l6ZS54LzIsIGxldmVsU3BlYy5zaXplLnkvMik7CiAgICAvLyAgICBtYXBCdXR0b24gPSBCdXR0b246OmFsbG9jKG1hcE5vZGUpOwogICAgLy8vLyAgICB3b3JsZFJvb3QtPnJlbW92ZUNoaWxkKG1hcEJ1dHRvbik7CgogICAgYXV0byByZW5kZXJlclN5c3RlbSA9IHN0ZDo6bWFrZV9zaGFyZWQ8UmVuZGVyZXJTeXN0ZW0+KAogICAgICAgIF9yb290Tm9kZSwgd29ybGRSb290LCBfaW5wdXRQcm9jZXNzb3ItPmlucHV0U3RhdHVzVmlld2VyKCksCiAgICAgICAgX2FjdGlvblN0YXR1c0xpc3RlbmVyLCBhc3NldHMsIHBsYXllclNoaXBMb2NhdGlvblBhaXJzLCBwYXRoQnVpbGRTeXN0ZW0sCiAgICAgICAgbGV2ZWxTcGVjLnNpemUsIEdhbWVDb25zdGFudHMuREVCVUdfVklTSUJMRSk7CgogICAgLy8gSW5pdGlhbGl6ZSBFQ1Mgc3lzdGVtcwogICAgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEVDUzo6U3lzdGVtPj4gc3lzdGVtcyA9IHsKICAgICAgICAvLyBzeXN0ZW1zIHRoYXQgY3JlYXRlIGFjdGlvbnMgdG8gYmUgZGVwZW5kZWQgb24gYnkgb3RoZXIgc3lzdGVtczoKICAgICAgICBwYXRoQnVpbGRTeXN0ZW0sCiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxBY3Rpb25DcmVhdGlvblN5c3RlbT4oX2FjdGlvblN0YXR1c0xpc3RlbmVyKSwKCiAgICAgICAgLy8gICAgICAgIEdhbWVDb25zdGFudHMuSU5QVVRfVVNFUl9TSE9VTERfQ09OVFJPTF9FTkVNWV9TSElQUwogICAgICAgIC8vICAgICAgICA/IG51bGxwdHIKICAgICAgICAvLyAgICAgICAgOiBzdGQ6Om1ha2Vfc2hhcmVkPEFJU3lzdGVtPihfYWN0aW9uU3RhdHVzTGlzdGVuZXIpLAoKICAgICAgICAvLyBtb2RlbC9jb250cm9sbGVyIHN5c3RlbXM6CiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxIZWFsdGhTeXN0ZW0+KCksIHN0ZDo6bWFrZV9zaGFyZWQ8SGVhbEFjdGlvblN5c3RlbT4oKSwKICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPEZyZWV6ZUFjdGlvblN5c3RlbT4oKSwKICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPEJsaXR6QWN0aW9uU3lzdGVtPigpLAogICAgICAgIC8vICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPE1vdmluZ09ic3RhY2xlU3lzdGVtPigpLAogICAgICAgIHN0ZDo6bWFrZV9zaGFyZWQ8UHJvamVjdGlsZVNwYXduZXJTeXN0ZW0+KCksCiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxQaHlzaWNzU3lzdGVtPihSZWN0KFZlYzI6OlpFUk8sIGxldmVsU3BlYy5zaXplKSksCiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxWaWN0b3J5U3lzdGVtPihhc3NldHMpLAoKICAgICAgICAvLyByZW5kZXJpbmcKICAgICAgICByZW5kZXJlclN5c3RlbX07CgogICAgYXV0byBlY3NJbml0aWFsaXplciA9IFt0aGlzLCAmbGV2ZWxTcGVjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAmYXNzZXRzXShFQ1M6OkdhbWVSZWdpc3RyeSYgcmVnaXN0cnkpIHsKICAgICAgICBpbml0aWFsaXplV29ybGQobGV2ZWxTcGVjLCByZWdpc3RyeSwgX3dvcmxkU2l6ZSwgYXNzZXRzKTsKICAgIH07CgogICAgX2VjcyA9IHN0ZDo6bWFrZV91bmlxdWU8RUNTPihzeXN0ZW1zLCBlY3NJbml0aWFsaXplcik7CgogICAgYXV0byYgc291bmRQbGF5ZXIgPSBTb3VuZFBsYXllcjo6Z2V0KCk7CiAgICBzb3VuZFBsYXllci5wbGF5QmFja2dyb3VuZE11c2ljKFNvdW5kUGxheWVyOjpNVVNJQ19LSU5EX0xFVkVMKTsKICAgIHNvdW5kUGxheWVyLnBsYXlBbWJpZW5jZShTb3VuZFBsYXllcjo6QU1CSUVOQ0VfT0NFQU4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -551,13 +528,13 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>assetDirectories</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNpemUgZGlzcGxheVNpemUgPSBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5nZXREaXNwbGF5U2l6ZSgpOwogICAgU2NlbmU6OmluaXQoZGlzcGxheVNpemUpOwogICAgX3Jvb3ROb2RlID0gTm9kZTo6YWxsb2NXaXRoQm91bmRzKGRpc3BsYXlTaXplKTsKICAgIF9yb290Tm9kZS0+c2V0QW5jaG9yKFZlYzI6OkFOQ0hPUl9DRU5URVIpOwogICAgX3Jvb3ROb2RlLT5zZXRQb3NpdGlvbihkaXNwbGF5U2l6ZS53aWR0aCAvIDIuMGYsIGRpc3BsYXlTaXplLmhlaWdodCAvIDIuMGYpOwogICAgX3Jvb3ROb2RlLT5zZXROYW1lKCJzY2VuZVJvb3ROb2RlIik7CgogICAgYXV0byB3b3JsZFJvb3QgPSBzdGQ6Om1ha2Vfc2hhcmVkPE5vZGU+KCk7CgogICAgYWRkQ2hpbGQoX3Jvb3ROb2RlKTsKCiAgICBhdXRvIHBsYXllclNoaXBMb2NhdGlvblBhaXJzID0KICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPHN0ZDo6dmVjdG9yPFBsYXllclNoaXBMb2NhdGlvblBhaXI+PigpOwoKICAgIC8vIEluaXRpYWxpemUgaW5wdXQKCiAgICBfYWN0aW9uU3RhdHVzTGlzdGVuZXIgPSBzdGQ6Om1ha2Vfc2hhcmVkPEFjdGlvblN0YXR1c0xpc3RlbmVyPigpOwogICAgX2lucHV0UHJvY2Vzc29yID0gc3RkOjptYWtlX3VuaXF1ZTxJbnB1dFByb2Nlc3Nvcj4oCiAgICAgICAgX3Jvb3ROb2RlLCB3b3JsZFJvb3QsIF9hY3Rpb25TdGF0dXNMaXN0ZW5lciwgcGxheWVyU2hpcExvY2F0aW9uUGFpcnMpOwoKICAgIGF1dG8gcGF0aEJ1aWxkU3lzdGVtID0gc3RkOjptYWtlX3NoYXJlZDxQYXRoQnVpbGRTeXN0ZW0+KAogICAgICAgIF9pbnB1dFByb2Nlc3Nvci0+aW5wdXRTdGF0dXNWaWV3ZXIoKSwgX2FjdGlvblN0YXR1c0xpc3RlbmVyLCB3b3JsZFJvb3QpOwoKICAgIC8vICAgIGF1dG8gbWFwSWNvbiA9IGFzc2V0cy0+Z2V0PFRleHR1cmU+KEdBTUVfU0NFTkVfQVNTRVRTLm1hcEljb25LZXkpOwogICAgLy8gICAgc3RkOjpzaGFyZWRfcHRyPFBvbHlnb25Ob2RlPiBtYXBOb2RlID0KICAgIC8vICAgIFBvbHlnb25Ob2RlOjphbGxvY1dpdGhUZXh0dXJlKG1hcEljb24pOyBtYXBOb2RlLT5zZXRTY2FsZSgwLjFmKTsKICAgIC8vICAgIG1hcE5vZGUtPnNldEFuY2hvcihWZWMyOjpBTkNIT1JfVE9QX0NFTlRFUik7CiAgICAvLyAgICBtYXBOb2RlLT5zZXRQb3NpdGlvbihsZXZlbFNwZWMuc2l6ZS54LzIsIGxldmVsU3BlYy5zaXplLnkvMik7CiAgICAvLyAgICBtYXBCdXR0b24gPSBCdXR0b246OmFsbG9jKG1hcE5vZGUpOwogICAgLy8vLyAgICB3b3JsZFJvb3QtPnJlbW92ZUNoaWxkKG1hcEJ1dHRvbik7CgogICAgYXV0byByZW5kZXJlclN5c3RlbSA9IHN0ZDo6bWFrZV9zaGFyZWQ8UmVuZGVyZXJTeXN0ZW0+KAogICAgICAgIF9yb290Tm9kZSwgd29ybGRSb290LCBfaW5wdXRQcm9jZXNzb3ItPmlucHV0U3RhdHVzVmlld2VyKCksCiAgICAgICAgX2FjdGlvblN0YXR1c0xpc3RlbmVyLCBhc3NldHMsIHBsYXllclNoaXBMb2NhdGlvblBhaXJzLCBwYXRoQnVpbGRTeXN0ZW0sCiAgICAgICAgbGV2ZWxTcGVjLnNpemUsIEdhbWVDb25zdGFudHMuREVCVUdfVklTSUJMRSk7CgogICAgLy8gSW5pdGlhbGl6ZSBFQ1Mgc3lzdGVtcwogICAgc3RkOjp2ZWN0b3I8c3RkOjpzaGFyZWRfcHRyPEVDUzo6U3lzdGVtPj4gc3lzdGVtcyA9IHsKICAgICAgICAvLyBzeXN0ZW1zIHRoYXQgY3JlYXRlIGFjdGlvbnMgdG8gYmUgZGVwZW5kZWQgb24gYnkgb3RoZXIgc3lzdGVtczoKICAgICAgICBwYXRoQnVpbGRTeXN0ZW0sCiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxBY3Rpb25DcmVhdGlvblN5c3RlbT4oX2FjdGlvblN0YXR1c0xpc3RlbmVyKSwKCiAgICAgICAgLy8gICAgICAgIEdhbWVDb25zdGFudHMuSU5QVVRfVVNFUl9TSE9VTERfQ09OVFJPTF9FTkVNWV9TSElQUwogICAgICAgIC8vICAgICAgICA/IG51bGxwdHIKICAgICAgICAvLyAgICAgICAgOiBzdGQ6Om1ha2Vfc2hhcmVkPEFJU3lzdGVtPihfYWN0aW9uU3RhdHVzTGlzdGVuZXIpLAoKICAgICAgICAvLyBtb2RlbC9jb250cm9sbGVyIHN5c3RlbXM6CiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxIZWFsdGhTeXN0ZW0+KCksIHN0ZDo6bWFrZV9zaGFyZWQ8SGVhbEFjdGlvblN5c3RlbT4oKSwKICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPEZyZWV6ZUFjdGlvblN5c3RlbT4oKSwKICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPEJsaXR6QWN0aW9uU3lzdGVtPigpLAogICAgICAgIC8vICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPE1vdmluZ09ic3RhY2xlU3lzdGVtPigpLAogICAgICAgIHN0ZDo6bWFrZV9zaGFyZWQ8UHJvamVjdGlsZVNwYXduZXJTeXN0ZW0+KCksCiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxQaHlzaWNzU3lzdGVtPihSZWN0KFZlYzI6OlpFUk8sIGxldmVsU3BlYy5zaXplKSksCiAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxWaWN0b3J5U3lzdGVtPihhc3NldHMpLAoKICAgICAgICAvLyByZW5kZXJpbmcKICAgICAgICByZW5kZXJlclN5c3RlbX07CgogICAgYXV0byBlY3NJbml0aWFsaXplciA9IFt0aGlzLCAmbGV2ZWxTcGVjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAmYXNzZXRzXShFQ1M6OkdhbWVSZWdpc3RyeSYgcmVnaXN0cnkpIHsKICAgICAgICBpbml0aWFsaXplV29ybGQobGV2ZWxTcGVjLCByZWdpc3RyeSwgX3dvcmxkU2l6ZSwgYXNzZXRzKTsKICAgIH07CgogICAgX2VjcyA9IHN0ZDo6bWFrZV91bmlxdWU8RUNTPihzeXN0ZW1zLCBlY3NJbml0aWFsaXplcik7CgogICAgYXV0byYgc291bmRQbGF5ZXIgPSBTb3VuZFBsYXllcjo6Z2V0KCk7CiAgICBzb3VuZFBsYXllci5wbGF5QmFja2dyb3VuZE11c2ljKFNvdW5kUGxheWVyOjpNVVNJQ19LSU5EX0xFVkVMKTsKICAgIHNvdW5kUGxheWVyLnBsYXlBbWJpZW5jZShTb3VuZFBsYXllcjo6QU1CSUVOQ0VfT0NFQU4pOwo=</text>
+        <text encoding="base64">V29ybGRMZXZlbFNjZW5lOjpXb3JsZExldmVsU2NlbmUoCiAgICBzdGQ6OnNoYXJlZF9wdHI8Y3VnbDo6QXNzZXRNYW5hZ2VyPiBhc3NldHMsCiAgICBjb25zdCBHYW1lUGVyc2lzdGFuY2VNYW5hZ2VyOjpQZXJzaXN0ZW50R2FtZVN0YXRlSW5mbyYgc3RhdGVJbmZvCikgewogICAgLy8gVE9ETyBpbXBsZW1lbnQKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -573,28 +550,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9Xb3JsZExldmVsU2NlbmU6OldvcmxkTGV2ZWxTY2VuZShzdGQ6OnNoYXJlZF9wdHI8QXNzZXRNYW5hZ2VyPiBhc3NldHMsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgTGV2ZWxTcGVjJiBsZXZlbFNwZWMsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IGFzc2V0RGlyZWN0b3JpZXMpIDoKLy8gICAgX2Fzc2V0RGlyZWN0b3JpZXMoYXNzZXREaXJlY3RvcmllcykKLy97Ci8vICAgIFNpemUgZGlzcGxheVNpemUgPSBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5nZXREaXNwbGF5U2l6ZSgpOwovLyAgICBTY2VuZTo6aW5pdChkaXNwbGF5U2l6ZSk7Ci8vICAgIF9yb290Tm9kZSA9IE5vZGU6OmFsbG9jV2l0aEJvdW5kcyhkaXNwbGF5U2l6ZSk7Ci8vICAgIF9yb290Tm9kZS0+c2V0QW5jaG9yKFZlYzI6OkFOQ0hPUl9DRU5URVIpOwovLyAgICBfcm9vdE5vZGUtPnNldFBvc2l0aW9uKGRpc3BsYXlTaXplLndpZHRoIC8gMi4wZiwgZGlzcGxheVNpemUuaGVpZ2h0IC8gMi4wZik7Ci8vICAgIF9yb290Tm9kZS0+c2V0TmFtZSgic2NlbmVSb290Tm9kZSIpOwovLwovLyAgICBhdXRvIHdvcmxkUm9vdCA9IHN0ZDo6bWFrZV9zaGFyZWQ8Tm9kZT4oKTsKLy8KLy8gICAgYWRkQ2hpbGQoX3Jvb3ROb2RlKTsKLy8KLy8gICAgYXV0byBwbGF5ZXJTaGlwTG9jYXRpb25QYWlycyA9Ci8vICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPHN0ZDo6dmVjdG9yPFBsYXllclNoaXBMb2NhdGlvblBhaXI+PigpOwovLwovLyAgICAvLyBJbml0aWFsaXplIGlucHV0Ci8vCi8vICAgIF9hY3Rpb25TdGF0dXNMaXN0ZW5lciA9IHN0ZDo6bWFrZV9zaGFyZWQ8QWN0aW9uU3RhdHVzTGlzdGVuZXI+KCk7Ci8vICAgIF9pbnB1dFByb2Nlc3NvciA9IHN0ZDo6bWFrZV91bmlxdWU8SW5wdXRQcm9jZXNzb3I+KAovLyAgICAgICAgX3Jvb3ROb2RlLCB3b3JsZFJvb3QsIF9hY3Rpb25TdGF0dXNMaXN0ZW5lciwgcGxheWVyU2hpcExvY2F0aW9uUGFpcnMpOwovLwovLyAgICBhdXRvIHBhdGhCdWlsZFN5c3RlbSA9IHN0ZDo6bWFrZV9zaGFyZWQ8UGF0aEJ1aWxkU3lzdGVtPigKLy8gICAgICAgIF9pbnB1dFByb2Nlc3Nvci0+aW5wdXRTdGF0dXNWaWV3ZXIoKSwgX2FjdGlvblN0YXR1c0xpc3RlbmVyLCB3b3JsZFJvb3QpOwovLwovLyAgICAvLyAgICBhdXRvIG1hcEljb24gPSBhc3NldHMtPmdldDxUZXh0dXJlPihHQU1FX1NDRU5FX0FTU0VUUy5tYXBJY29uS2V5KTsKLy8gICAgLy8gICAgc3RkOjpzaGFyZWRfcHRyPFBvbHlnb25Ob2RlPiBtYXBOb2RlID0KLy8gICAgLy8gICAgUG9seWdvbk5vZGU6OmFsbG9jV2l0aFRleHR1cmUobWFwSWNvbik7IG1hcE5vZGUtPnNldFNjYWxlKDAuMWYpOwovLyAgICAvLyAgICBtYXBOb2RlLT5zZXRBbmNob3IoVmVjMjo6QU5DSE9SX1RPUF9DRU5URVIpOwovLyAgICAvLyAgICBtYXBOb2RlLT5zZXRQb3NpdGlvbihsZXZlbFNwZWMuc2l6ZS54LzIsIGxldmVsU3BlYy5zaXplLnkvMik7Ci8vICAgIC8vICAgIG1hcEJ1dHRvbiA9IEJ1dHRvbjo6YWxsb2MobWFwTm9kZSk7Ci8vICAgIC8vLy8gICAgd29ybGRSb290LT5yZW1vdmVDaGlsZChtYXBCdXR0b24pOwovLwovLyAgICBhdXRvIHJlbmRlcmVyU3lzdGVtID0gc3RkOjptYWtlX3NoYXJlZDxSZW5kZXJlclN5c3RlbT4oCi8vICAgICAgICBfcm9vdE5vZGUsIHdvcmxkUm9vdCwgX2lucHV0UHJvY2Vzc29yLT5pbnB1dFN0YXR1c1ZpZXdlcigpLAovLyAgICAgICAgX2FjdGlvblN0YXR1c0xpc3RlbmVyLCBhc3NldHMsIHBsYXllclNoaXBMb2NhdGlvblBhaXJzLCBwYXRoQnVpbGRTeXN0ZW0sCi8vICAgICAgICBsZXZlbFNwZWMuc2l6ZSwgR2FtZUNvbnN0YW50cy5ERUJVR19WSVNJQkxFKTsKLy8KLy8gICAgLy8gSW5pdGlhbGl6ZSBFQ1Mgc3lzdGVtcwovLyAgICBzdGQ6OnZlY3RvcjxzdGQ6OnNoYXJlZF9wdHI8RUNTOjpTeXN0ZW0+PiBzeXN0ZW1zID0gewovLyAgICAgICAgLy8gc3lzdGVtcyB0aGF0IGNyZWF0ZSBhY3Rpb25zIHRvIGJlIGRlcGVuZGVkIG9uIGJ5IG90aGVyIHN5c3RlbXM6Ci8vICAgICAgICBwYXRoQnVpbGRTeXN0ZW0sCi8vICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPEFjdGlvbkNyZWF0aW9uU3lzdGVtPihfYWN0aW9uU3RhdHVzTGlzdGVuZXIpLAovLwovLyAgICAgICAgLy8gICAgICAgIEdhbWVDb25zdGFudHMuSU5QVVRfVVNFUl9TSE9VTERfQ09OVFJPTF9FTkVNWV9TSElQUwovLyAgICAgICAgLy8gICAgICAgID8gbnVsbHB0cgovLyAgICAgICAgLy8gICAgICAgIDogc3RkOjptYWtlX3NoYXJlZDxBSVN5c3RlbT4oX2FjdGlvblN0YXR1c0xpc3RlbmVyKSwKLy8KLy8gICAgICAgIC8vIG1vZGVsL2NvbnRyb2xsZXIgc3lzdGVtczoKLy8gICAgICAgIHN0ZDo6bWFrZV9zaGFyZWQ8SGVhbHRoU3lzdGVtPigpLCBzdGQ6Om1ha2Vfc2hhcmVkPEhlYWxBY3Rpb25TeXN0ZW0+KCksCi8vICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPEZyZWV6ZUFjdGlvblN5c3RlbT4oKSwKLy8gICAgICAgIHN0ZDo6bWFrZV9zaGFyZWQ8QmxpdHpBY3Rpb25TeXN0ZW0+KCksCi8vICAgICAgICAvLyAgICAgICAgc3RkOjptYWtlX3NoYXJlZDxNb3ZpbmdPYnN0YWNsZVN5c3RlbT4oKSwKLy8gICAgICAgIHN0ZDo6bWFrZV9zaGFyZWQ8UHJvamVjdGlsZVNwYXduZXJTeXN0ZW0+KCksCi8vICAgICAgICBzdGQ6Om1ha2Vfc2hhcmVkPFBoeXNpY3NTeXN0ZW0+KFJlY3QoVmVjMjo6WkVSTywgbGV2ZWxTcGVjLnNpemUpKSwKLy8gICAgICAgIHN0ZDo6bWFrZV9zaGFyZWQ8VmljdG9yeVN5c3RlbT4oYXNzZXRzKSwKLy8KLy8gICAgICAgIC8vIHJlbmRlcmluZwovLyAgICAgICAgcmVuZGVyZXJTeXN0ZW19OwovLwovLyAgICBhdXRvIGVjc0luaXRpYWxpemVyID0gW3RoaXMsICZsZXZlbFNwZWMsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgJmFzc2V0c10oRUNTOjpHYW1lUmVnaXN0cnkmIHJlZ2lzdHJ5KSB7Ci8vICAgICAgICBpbml0aWFsaXplV29ybGQobGV2ZWxTcGVjLCByZWdpc3RyeSwgX3dvcmxkU2l6ZSwgYXNzZXRzKTsKLy8gICAgfTsKLy8KLy8gICAgX2VjcyA9IHN0ZDo6bWFrZV91bmlxdWU8RUNTPihzeXN0ZW1zLCBlY3NJbml0aWFsaXplcik7Ci8vCi8vICAgIGF1dG8mIHNvdW5kUGxheWVyID0gU291bmRQbGF5ZXI6OmdldCgpOwovLyAgICBzb3VuZFBsYXllci5wbGF5QmFja2dyb3VuZE11c2ljKFNvdW5kUGxheWVyOjpNVVNJQ19LSU5EX0xFVkVMKTsKLy8gICAgc291bmRQbGF5ZXIucGxheUFtYmllbmNlKFNvdW5kUGxheWVyOjpBTUJJRU5DRV9PQ0VBTik7Ci8vfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9hc3NldHMK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">V29ybGRMZXZlbFNjZW5lOjpXb3JsZExldmVsU2NlbmUoCiAgICBzdGQ6OnNoYXJlZF9wdHI8Y3VnbDo6QXNzZXRNYW5hZ2VyPiBhc3NldHMsCiAgICBjb25zdCBHYW1lUGVyc2lzdGFuY2VNYW5hZ2VyOjpQZXJzaXN0ZW50R2FtZVN0YXRlSW5mbyYgc3RhdGVJbmZvCikgewogICAgLy8gVE9ETyBpbXBsZW1lbnQKfQoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9hc3NldERpcmVjdG9yaWVzKGFzc2V0RGlyZWN0b3JpZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
