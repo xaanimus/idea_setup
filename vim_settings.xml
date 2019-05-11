@@ -206,10 +206,12 @@
         <mark key="^" line="39" column="49" />
         <mark key="." line="39" column="49" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" timestamp="1557596294412">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" timestamp="1557597809250">
+        <mark key="'" line="164" column="10" />
+        <mark key="[" line="164" column="8" />
+        <mark key="]" line="164" column="9" />
+        <mark key="." line="164" column="9" />
+        <mark key="^" line="164" column="9" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.h" timestamp="1557427411770">
         <mark key="[" line="11" column="36" />
@@ -370,6 +372,12 @@
         <mark key="'" line="111" column="3" />
         <mark key="[" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/Depth/depth.frag" timestamp="1557597865473">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+      </file>
       <file name="/fragment.mm" timestamp="1557444365013">
         <mark key="[" line="0" column="0" />
       </file>
@@ -427,8 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="61" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="371" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="389" column="67" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="45" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="429" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -527,6 +533,8 @@
       <jump line="46" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="118" column="30" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="255" column="3" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
+      <jump line="119" column="39" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" />
+      <jump line="164" column="10" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -542,7 +550,7 @@
         <text encoding="base64">IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk=</text>
       </register>
       <register name="/" type="4">
-        <text>addWater</text>
+        <text>gl_Frag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk7Cg==</text>
@@ -589,9 +597,9 @@
       </register>
     </registers>
     <search>
-      <last-search>addWater</last-search>
+      <last-search>gl_Frag</last-search>
       <last-offset />
-      <last-pattern>addWater</last-pattern>
+      <last-pattern>gl_Frag</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -599,9 +607,6 @@
     </search>
     <history>
       <history-search>
-        <entry>box</entry>
-        <entry>dim</entry>
-        <entry>gravi</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>HEAD</entry>
         <entry>CMAKE_C_FLAGS</entry>
@@ -619,6 +624,9 @@
         <entry>addBunn</entry>
         <entry>addBunny</entry>
         <entry>addWater</entry>
+        <entry>fragsize</entry>
+        <entry>size</entry>
+        <entry>gl_Frag</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
