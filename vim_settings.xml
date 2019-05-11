@@ -59,7 +59,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557592355456">
+      <file name="/LLDB" timestamp="1557596027993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -107,12 +107,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" timestamp="1557592558136">
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" timestamp="1557595680911">
         <mark key="'" line="118" column="30" />
-        <mark key="[" line="260" column="86" />
-        <mark key="]" line="260" column="86" />
-        <mark key="^" line="260" column="88" />
-        <mark key="." line="260" column="86" />
+        <mark key="[" line="248" column="18" />
+        <mark key="]" line="235" column="51" />
+        <mark key="^" line="235" column="51" />
+        <mark key="." line="235" column="51" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1557428691356">
         <mark key="'" line="28" column="0" />
@@ -149,10 +149,6 @@
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/Kernels.h" timestamp="1557589250915">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="131" column="8" />
-        <mark key="]" line="131" column="40" />
-        <mark key="." line="131" column="40" />
-        <mark key="^" line="131" column="40" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleMesh.cpp" timestamp="1557545890560">
         <mark key="'" line="30" column="0" />
@@ -160,6 +156,12 @@
         <mark key="]" line="15" column="48" />
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleRenderer.cpp" timestamp="1557595946093">
+        <mark key="[" line="214" column="26" />
+        <mark key="]" line="214" column="26" />
+        <mark key="." line="214" column="26" />
+        <mark key="^" line="214" column="26" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
@@ -203,6 +205,11 @@
         <mark key="]" line="39" column="49" />
         <mark key="^" line="39" column="49" />
         <mark key="." line="39" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" timestamp="1557596294412">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.h" timestamp="1557427411770">
         <mark key="[" line="11" column="36" />
@@ -248,7 +255,7 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/ext/nanogui/src/screen.cpp" timestamp="1557084203357">
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/ext/nanogui/src/screen.cpp" timestamp="1557596045978">
         <mark key="[" line="535" column="12" />
         <mark key="]" line="535" column="20" />
         <mark key="^" line="535" column="20" />
@@ -319,9 +326,9 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.hpp" timestamp="1557542148867">
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.hpp" timestamp="1557594040956">
         <mark key="'" line="22" column="6" />
-        <mark key="[" line="129" column="26" />
+        <mark key="[" line="101" column="19" />
         <mark key="]" line="129" column="35" />
         <mark key="." line="129" column="35" />
         <mark key="^" line="129" column="35" />
@@ -379,12 +386,12 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" timestamp="1557588936936">
+      <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" timestamp="1557594841745">
         <mark key="'" line="20" column="25" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="1" />
-        <mark key="." line="37" column="1" />
-        <mark key="^" line="37" column="1" />
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="2" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/SceneLoader.cpp" timestamp="1556242034522">
         <mark key="'" line="12" column="39" />
@@ -420,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="60" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="364" column="61" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="371" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="389" column="67" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -520,10 +526,11 @@
       <jump line="41" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="46" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="118" column="30" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
+      <jump line="255" column="3" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -532,16 +539,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk=</text>
       </register>
       <register name="/" type="4">
         <text>addWater</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbSA9IFBhcnRpY2xlU3lzdGVtKE4qTipOLCB3aWR0aCwgaGVpZ2h0LCBsZW5ndGgpOyAvLyBDbGVhciBwcmV2aW91cyBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -554,28 +561,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
+        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RydWN0IFBhcnRpY2xlSW5mbzsK</text>
+        <text encoding="base64">CQlnbEVuYWJsZShHZEwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlcy52ZWxvY2l0aWVzLnJvdyhpUG9zKS5zZXRaZXJvKCk7Cg==</text>
+        <text encoding="base64">ICAgIGludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlcy5wb3NpdGlvbnMucm93KGlQb3MpID0gcG9zOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnN0YXRpYyB2b2lkIGFkZEJ1bm55KFBhcnRpY2xlSW5mbyYgcGFydGljbGVzLCBjb25zdCBzdGQ6OnN0cmluZyYgYnVubnlQYXRoKSB7Cn0K</text>
+        <text encoding="base64">c3RydWN0IFBhcnRpY2xlSW5mbzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlcy5wcm9qX3Bvc2l0aW9ucy5yb3coaVBvcykuc2V0WmVybygpOwogICAgcGFydGljbGVzLmZvcmNlX2FjY3Vtcy5yb3coaVBvcykuc2V0WmVybygpOwogICAgcGFydGljbGVzLnZvcnRpY2l0aWVzLnJvdyhpUG9zKS5zZXRaZXJvKCk7CiAgICBwYXJ0aWNsZXMubGFtYmRhc1tpUG9zXSA9IDAuMDsK</text>
+        <text encoding="base64">ICAgIHBhcnRpY2xlcy52ZWxvY2l0aWVzLnJvdyhpUG9zKS5zZXRaZXJvKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbSA9IFBhcnRpY2xlU3lzdGVtKE4qTipOLCB3aWR0aCwgaGVpZ2h0LCBsZW5ndGgpOyAvLyBDbGVhciBwcmV2aW91cyBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgIHBhcnRpY2xlcy5wb3NpdGlvbnMucm93KGlQb3MpID0gcG9zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzeXN0ZW0gPSBQYXJ0aWNsZVN5c3RlbShOKk4qTiwgd2lkdGgsIGhlaWdodCwgbGVuZ3RoKTsgLy8gQ2xlYXIgcHJldmlvdXMgc3RhdGUK</text>
+        <text encoding="base64">CnN0YXRpYyB2b2lkIGFkZEJ1bm55KFBhcnRpY2xlSW5mbyYgcGFydGljbGVzLCBjb25zdCBzdGQ6OnN0cmluZyYgYnVubnlQYXRoKSB7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -614,7 +621,6 @@
         <entry>addWater</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RpZmZ1c2VfdGVybS9kaWZmdXNlX2NvbG9yL2c=</entry>
         <entry>w3</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5zL21hdFdvcmxkVG9DYW1lcmEvbWF0Q2FtZXJhVG9Xb3JsZC9n</entry>
@@ -633,6 +639,7 @@
         <entry>q</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>i</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
