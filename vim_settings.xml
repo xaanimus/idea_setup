@@ -59,7 +59,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557682891009">
+      <file name="/LLDB" timestamp="1557683631539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -76,13 +76,6 @@
         <mark key="]" line="38" column="57" />
         <mark key="^" line="38" column="57" />
         <mark key="." line="38" column="57" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" timestamp="1557682881871">
-        <mark key="'" line="13" column="25" />
-        <mark key="[" line="137" column="55" />
-        <mark key="]" line="138" column="32" />
-        <mark key="." line="138" column="32" />
-        <mark key="^" line="138" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1554503393279">
         <mark key="[" line="5" column="0" />
