@@ -59,7 +59,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557596027993">
+      <file name="/LLDB" timestamp="1557682891009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -77,11 +77,12 @@
         <mark key="^" line="38" column="57" />
         <mark key="." line="38" column="57" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" timestamp="1557021591607">
-        <mark key="[" line="175" column="51" />
-        <mark key="]" line="175" column="60" />
-        <mark key="." line="175" column="60" />
-        <mark key="^" line="175" column="60" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" timestamp="1557682881871">
+        <mark key="'" line="13" column="25" />
+        <mark key="[" line="137" column="55" />
+        <mark key="]" line="138" column="32" />
+        <mark key="." line="138" column="32" />
+        <mark key="^" line="138" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1554503393279">
         <mark key="[" line="5" column="0" />
@@ -435,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="67" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="45" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="429" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="141" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="87" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -535,10 +534,12 @@
       <jump line="255" column="3" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="119" column="39" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" />
       <jump line="164" column="10" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" />
+      <jump line="39" column="39" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="13" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -556,7 +557,7 @@
         <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,28 +570,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmxvZygic2FtZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlnbEVuYWJsZShHZEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc291cmNlRW50aXR5ID09IHRhcmdldEVudGl0eSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIubG9nKCJzYW1lIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
+        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RydWN0IFBhcnRpY2xlSW5mbzsK</text>
+        <text encoding="base64">CQlnbEVuYWJsZShHZEwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlcy52ZWxvY2l0aWVzLnJvdyhpUG9zKS5zZXRaZXJvKCk7Cg==</text>
+        <text encoding="base64">ICAgIGludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlcy5wb3NpdGlvbnMucm93KGlQb3MpID0gcG9zOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnN0YXRpYyB2b2lkIGFkZEJ1bm55KFBhcnRpY2xlSW5mbyYgcGFydGljbGVzLCBjb25zdCBzdGQ6OnN0cmluZyYgYnVubnlQYXRoKSB7Cn0K</text>
+        <text encoding="base64">c3RydWN0IFBhcnRpY2xlSW5mbzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
