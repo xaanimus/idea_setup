@@ -79,7 +79,7 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="/LLDB" timestamp="1557787101878">
+      <file name="/LLDB" timestamp="1557789745785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -378,7 +378,7 @@
         <mark key="^" line="1075" column="37" />
         <mark key="." line="1075" column="37" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1557787073558">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1557789735670">
         <mark key="'" line="49" column="4" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="55" />
