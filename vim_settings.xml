@@ -65,6 +65,9 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/math/CUVec2.cpp" timestamp="1557708199076">
+        <mark key="'" line="293" column="34" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/resources/Animation/shaders/skeletal_mesh.vert" timestamp="1553811802149">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
@@ -76,6 +79,13 @@
         <mark key="]" line="38" column="57" />
         <mark key="^" line="38" column="57" />
         <mark key="." line="38" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" timestamp="1557708246276">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="142" column="41" />
+        <mark key="]" line="142" column="56" />
+        <mark key="." line="142" column="56" />
+        <mark key="^" line="142" column="56" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/MovementActionSystem.cpp" timestamp="1554503393279">
         <mark key="[" line="5" column="0" />
@@ -362,10 +372,6 @@
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Common/Scene.cpp" timestamp="1557542634800">
         <mark key="'" line="95" column="7" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.h" timestamp="1557429068244">
-        <mark key="'" line="111" column="3" />
-        <mark key="[" line="14" column="27" />
-      </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/Depth/depth.frag" timestamp="1557597865473">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="5" />
@@ -429,28 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="141" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="87" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="96" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="88" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="222" column="34" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
-      <jump line="347" column="15" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="394" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
-      <jump line="346" column="42" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="350" column="35" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="356" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="358" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="360" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="369" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="380" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="385" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="391" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="395" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="404" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="407" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="412" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="426" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="352" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
       <jump line="363" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
@@ -529,10 +513,32 @@
       <jump line="164" column="10" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/resources/Demo/shaders/composite.frag" />
       <jump line="39" column="39" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
       <jump line="13" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="60" column="40" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="62" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="88" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="87" column="46" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="112" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="108" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="102" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="82" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.cpp" />
+      <jump line="233" column="2" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/math/CUVec2.cpp" />
+      <jump line="286" column="3" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/math/CUVec2.cpp" />
+      <jump line="288" column="15" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/math/CUVec2.cpp" />
+      <jump line="293" column="34" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/math/CUVec2.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>normalize</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -541,16 +547,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk=</text>
+        <text>normalize</text>
       </register>
       <register name="/" type="4">
-        <text>gl_Frag</text>
+        <text>normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56IC0gc3FydCgxIC0gcl9zcXIpLyAobm9ybV9wb3MueioxMDAuMCk7Cg==</text>
+        <text encoding="base64">dm9pZCBQcm9qZWN0aWxlU3Bhd25lclN5c3RlbTo6bWFrZVByb2plY3RpbGUoCiAgICBFQ1M6OkdhbWVSZWdpc3RyeSYgcmVnaXN0cnksIGNvbnN0IFBoeXNpY2FsQ29tcG9uZW50JiBzb3VyY2UsCiAgICBjb25zdCBQaHlzaWNhbENvbXBvbmVudCYgdGFyZ2V0LAogICAgY29uc3QgUHJvamVjdGlsZVNwYXduZXJDb21wb25lbnQmIHNwYXduZXJJbmZvLAogICAgY29uc3QgRmlyaW5nT3JpZW50YXRpb24gb3JpZW50YXRpb24sIGNvbnN0IFRlYW1Db21wb25lbnQmIHRlYW0pIHsKCiAgICBhdXRvIHByb2plY3RpbGUgPSByZWdpc3RyeS5jcmVhdGUoKTsKCiAgICBsb2dnZXIubG9nKCJsYXVuY2hpbmcgJXUiLCBwcm9qZWN0aWxlKTsKCiAgICAvLyBTZXQgcGh5c2ljYWwgcHJvcGVydGllcwogICAgUGh5c2ljYWxDb21wb25lbnQgcGh5c2ljYWw7CgogICAgLy8gVE9ETzogc2V0IHRoZXNlIHRvIG1vcmUgc2FuZSB2YWx1ZXMgYW5kIGFkZCB0byBsZXZlbCBsb2FkaW5nPwogICAgUG9seTIgYm9keSA9IFBvbHkyOjpjcmVhdGVFbGxpcHNlKFZlYzI6OlpFUk8sIFNpemUoMC41LCAwLjUpLCAyMCk7CiAgICBwaHlzaWNhbC5vYnN0YWNsZSA9CiAgICAgICAgTGFiZWxlZE9ic3RhY2xlOjphbGxvYyhib2R5LCBWZWMyOjpBTkNIT1JfQ0VOVEVSLCBwcm9qZWN0aWxlKTsKICAgIHBoeXNpY2FsLm9ic3RhY2xlLT5zZXRBbmNob3IoMC41LCAwLjUpOwogICAgcGh5c2ljYWwub2JzdGFjbGUtPnNldEJvZHlUeXBlKGIyQm9keVR5cGU6OmIyX2R5bmFtaWNCb2R5KTsKICAgIHBoeXNpY2FsLm9ic3RhY2xlLT5zZXREZW5zaXR5KDAuMDFmKTsKICAgIHBoeXNpY2FsLm9ic3RhY2xlLT5zZXRGcmljdGlvbigwLjBmKTsKICAgIHBoeXNpY2FsLm9ic3RhY2xlLT5zZXRSZXN0aXR1dGlvbigwLjBmKTsKCiAgICAvLyBDdXJyZW50bHkgc3Bhd24gb24gc2lkZSBvZiBzaGlwIHdpdGggb2Zmc2V0CiAgICBhdXRvIGNlbnRlciA9IHNvdXJjZS5nZXRQb3NpdGlvbigpICsgY2Fubm9uT2Zmc2V0KHNvdXJjZSwgb3JpZW50YXRpb24pOwogICAgcGh5c2ljYWwub2JzdGFjbGUtPnNldFBvc2l0aW9uKGNlbnRlcik7CgogICAgLy8gQ3VycmVudGx5IGFpbSBpbiBzdHJhaWdodCBsaW5lIHRvd2FyZHMgdGFyZ2V0CiAgICBWZWMyIHRhcmdldFZlYyA9IHRhcmdldC5nZXRQb3NpdGlvbigpIC0gc291cmNlLmdldFBvc2l0aW9uKCk7CiAgICBwaHlzaWNhbC5zZXRMaW5lYXJWZWxvY2l0eSh0YXJnZXRWZWMubm9ybWFsaXplKCkgKgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Bhd25lckluZm8ucHJvamVjdGlsZVNwZWVkKTsKCiAgICByZWdpc3RyeS5hc3NpZ248UGh5c2ljYWxDb21wb25lbnQ+KHByb2plY3RpbGUsIHBoeXNpY2FsKTsKCiAgICAvLyBTZXQgcHJvamVjdGlsZSBwcm9wZXJ0aWVzCiAgICBQcm9qZWN0aWxlSW5mb0NvbXBvbmVudCYgcHJvakluZm8gPQogICAgICAgIHJlZ2lzdHJ5LmFzc2lnbjxQcm9qZWN0aWxlSW5mb0NvbXBvbmVudD4ocHJvamVjdGlsZSk7CiAgICBwcm9qSW5mby5vcmlnaW4gPSBjZW50ZXI7CiAgICBwcm9qSW5mby5yYW5nZSA9IHNwYXduZXJJbmZvLnJhbmdlOwoKICAgIERhbWFnZUNvbXBvbmVudCYgZGFtYWdlID0gcmVnaXN0cnkuYXNzaWduPERhbWFnZUNvbXBvbmVudD4ocHJvamVjdGlsZSk7CiAgICBkYW1hZ2UuZGFtYWdlID0gc3Bhd25lckluZm8uZGFtYWdlOwoKICAgIC8vIHNldCBzcHJpdGUKICAgIFJlbmRlcmFibGVQb2x5Z29uQ29tcG9uZW50JiBwb2x5ID0KICAgICAgICByZWdpc3RyeS5hc3NpZ248UmVuZGVyYWJsZVBvbHlnb25Db21wb25lbnQ+KHByb2plY3RpbGUpOwogICAgcG9seS5zY2FsZSA9IDEuMDsKICAgIHBvbHkudmVydGljZXMgPSBib2R5LmdldFZlcnRpY2VzKCk7CgogICAgLy8gc2V0IHRlYW0KICAgIFRlYW1Db21wb25lbnQmIHQgPSByZWdpc3RyeS5hc3NpZ248VGVhbUNvbXBvbmVudD4ocHJvamVjdGlsZSk7CiAgICB0LnRlYW0gPSB0ZWFtLnRlYW07Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIFZlYzIgdGFyZ2V0VmVjID0gdGFyZ2V0LmdldFBvc2l0aW9uKCkgLSBzb3VyY2UuZ2V0UG9zaXRpb24oKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -563,37 +569,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmxvZygic2FtZSIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IFBoeXNpY2FsQ29tcG9uZW50JiB0YXJnZXQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc291cmNlRW50aXR5ID09IHRhcmdldEVudGl0eSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIubG9nKCJzYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgLmVhY2goW3RoaXMsICZyZWdpc3RyeSwgdGFyZ2V0c10oY29uc3QgYXV0byBzb3VyY2VFbnRpdHksCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBoeXNpY2FsQ29tcG9uZW50JiBzb3VyY2UsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RpbGVTcGF3bmVyQ29tcG9uZW50JiBzcGF3bmVySW5mbywKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGVhbUNvbXBvbmVudCYgc291cmNlVGVhbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnbEVuYWJsZShHZEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmxvZygic2FtZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc291cmNlRW50aXR5ID09IHRhcmdldEVudGl0eSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIubG9nKCJzYW1lIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RydWN0IFBhcnRpY2xlSW5mbzsK</text>
+        <text encoding="base64">ICAgICAgICBnbF9GcmFnRGVwdGggPSBub3JtX3Bvcy56Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gl_Frag</last-search>
+      <last-search>normal</last-search>
       <last-offset />
-      <last-pattern>gl_Frag</last-pattern>
+      <last-pattern>normal</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -601,8 +607,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
-        <entry>HEAD</entry>
         <entry>CMAKE_C_FLAGS</entry>
         <entry>DEFS</entry>
         <entry>projectConstraint</entry>
@@ -621,6 +625,8 @@
         <entry>fragsize</entry>
         <entry>size</entry>
         <entry>gl_Frag</entry>
+        <entry>target</entry>
+        <entry>normal</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
