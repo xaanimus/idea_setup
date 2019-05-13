@@ -166,6 +166,7 @@
         <mark key="." line="214" column="26" />
         <mark key="^" line="214" column="26" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1557775607975" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="47" />
@@ -362,6 +363,7 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="14" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1557775633161" />
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional.h" timestamp="1554481404427">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="5" />
@@ -376,9 +378,6 @@
         <mark key="]" line="12" column="5" />
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
-      </file>
-      <file name="/fragment.mm" timestamp="1557444365013">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Main.cpp" timestamp="1556683109384">
         <mark key="[" line="0" column="19" />
