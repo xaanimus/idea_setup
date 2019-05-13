@@ -555,7 +555,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>normal</text>
+        <text>draw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgbWFrZVByb2plY3RpbGUoCiAgICAgICAgRUNTOjpHYW1lUmVnaXN0cnkmIHJlZ2lzdHJ5LAogICAgICAgIGNvbnN0IFBoeXNpY2FsQ29tcG9uZW50JiBzb3VyY2UsCiAgICAgICAgY29uc3QgUGh5c2ljYWxDb21wb25lbnQmIHRhcmdldCwKICAgICAgICBjb25zdCBQcm9qZWN0aWxlU3Bhd25lckNvbXBvbmVudCYgc3Bhd25lckluZm8sCiAgICAgICAgY29uc3QgRmlyaW5nT3JpZW50YXRpb24gb3JpZW50YXRpb24sCiAgICAgICAgY29uc3QgVGVhbUNvbXBvbmVudCYgdGVhbQogICAgKTsK</text>
@@ -602,9 +602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>normal</last-search>
+      <last-search>draw</last-search>
       <last-offset />
-      <last-pattern>normal</last-pattern>
+      <last-pattern>draw</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CMAKE_C_FLAGS</entry>
         <entry>DEFS</entry>
         <entry>projectConstraint</entry>
         <entry>Relax E</entry>
@@ -632,6 +631,7 @@
         <entry>gl_Frag</entry>
         <entry>target</entry>
         <entry>normal</entry>
+        <entry>draw</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
