@@ -22,7 +22,8 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" timestamp="1557020320105">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" timestamp="1557786974389">
+        <mark key="'" line="76" column="0" />
         <mark key="[" line="367" column="69" />
         <mark key="]" line="367" column="67" />
         <mark key="^" line="367" column="67" />
@@ -33,6 +34,12 @@
         <mark key="]" line="139" column="60" />
         <mark key="." line="139" column="60" />
         <mark key="^" line="139" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1557786209940">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="23" />
+        <mark key="^" line="54" column="23" />
+        <mark key="." line="54" column="23" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioWaveform.cpp" timestamp="1554739088672">
         <mark key="[" line="929" column="25" />
@@ -46,7 +53,13 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1557783135009" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1557786552768">
+        <mark key="'" line="156" column="24" />
+        <mark key="[" line="163" column="45" />
+        <mark key="]" line="163" column="45" />
+        <mark key="^" line="163" column="45" />
+        <mark key="." line="163" column="45" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1557358362863">
         <mark key="'" line="176" column="22" />
         <mark key="[" line="193" column="24" />
@@ -60,7 +73,13 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1557784774541">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECS.h" timestamp="1557785976334">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+        <mark key="^" line="35" column="10" />
+      </file>
+      <file name="/LLDB" timestamp="1557787101878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -74,6 +93,9 @@
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" timestamp="1557785809993">
+        <mark key="'" line="975" column="20" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Math.h" timestamp="1555545281448">
         <mark key="[" line="38" column="48" />
@@ -185,6 +207,12 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1557786165996">
+        <mark key="[" line="65" column="88" />
+        <mark key="]" line="65" column="92" />
+        <mark key="^" line="65" column="92" />
+        <mark key="." line="65" column="92" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" timestamp="1557589493832">
         <mark key="[" line="113" column="37" />
         <mark key="]" line="113" column="41" />
@@ -235,6 +263,11 @@
         <mark key="]" line="231" column="4" />
         <mark key="." line="231" column="4" />
         <mark key="^" line="168" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.h" timestamp="1557786431859">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleOctree.h" timestamp="1557172917122">
         <mark key="[" line="18" column="20" />
@@ -345,10 +378,12 @@
         <mark key="^" line="1075" column="37" />
         <mark key="." line="1075" column="37" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1557784750517">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1557787073558">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="55" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="86" column="20" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.cpp" timestamp="1553522461343">
         <mark key="[" line="84" column="38" />
@@ -438,41 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="414" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="419" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="421" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="377" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="451" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="467" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
-      <jump line="105" column="10" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="130" column="4" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="141" column="45" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="144" column="3" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="9" column="18" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="145" column="32" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="319" column="37" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="37" column="22" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="40" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="150" column="60" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="293" column="14" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="18" column="25" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.cpp" />
-      <jump line="171" column="19" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="221" column="50" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="222" column="38" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="135" column="30" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="145" column="7" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="52" column="4" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="69" column="39" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="202" column="2" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
-      <jump line="219" column="40" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
-      <jump line="110" column="10" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="111" column="9" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="96" column="43" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="123" column="50" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="70" column="35" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
-      <jump line="8" column="4" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
       <jump line="30" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
       <jump line="107" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="115" column="25" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
@@ -538,10 +538,45 @@
       <jump line="12" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.h" />
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.h" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/ProjectileSpawnerSystem.h" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="225" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="231" column="31" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="242" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="157" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="158" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="162" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="163" column="39" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="165" column="44" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="170" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="172" column="58" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="176" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="177" column="36" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="181" column="54" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="191" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="195" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="146" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="209" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="247" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="201" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="156" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
+      <jump line="53" column="39" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
+      <jump line="101" column="19" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
+      <jump line="64" column="60" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
+      <jump line="61" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
+      <jump line="54" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
+      <jump line="49" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
+      <jump line="991" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
+      <jump line="993" column="16" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
+      <jump line="760" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
+      <jump line="912" column="46" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
+      <jump line="967" column="14" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
+      <jump line="975" column="20" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfaW1wbC0+X2luQ29hc3RNb2RlLmluc2VydChmaXJlZEV2ZW50LnRvdWNoSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aEJ1aWxkZXIudXBkYXRlRW5kKHBhdGgsIHdvcmxkUG9zaXRpb24pOwo=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -550,59 +585,52 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>, ship, worldPosition.x, worldPosition.y</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>draw</text>
+        <text>remove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJzZXQgcGF0aCBmb3IgJXUgdG8gKCVmLCAlZikiLCBzaGlwLCB3b3JsZFBvc2l0aW9uLngsIHdvcmxkUG9zaXRpb24ueSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aEJ1aWxkZXIudXBkYXRlRW5kKHBhdGgsIHdvcmxkUG9zaXRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfaW1wbC0+X2luQ29hc3RNb2RlLmluc2VydChmaXJlZEV2ZW50LnRvdWNoSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="123" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>eldldl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJkZWxldCBwYXRoIik7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPExpbmVhclBhdGg+IGdldFBhdGhzKCkgY29uc3Q7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfaW1wbC0+X2luQ29hc3RNb2RlLmVyYXNlKGlkKTsK</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8TGluZWFyUGF0aD4gUGF0aEJ1aWxkU3lzdGVtOjpnZXRQYXRocygpIGNvbnN0IHsKICAgIHN0ZDo6dmVjdG9yPExpbmVhclBhdGg+IHJlc3VsdDsKICAgIGZvciAoY29uc3QgYXV0byYgcGF0aFBhaXIgOiBfaW1wbC0+X3BhdGhCdWlsZGVycykgewogICAgICAgIHJlc3VsdC5wdXNoX2JhY2socGF0aFBhaXIuc2Vjb25kLmdldFBhdGgoKSk7CiAgICB9CiAgICByZXR1cm4gcmVzdWx0Owp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dW5vcmRlcmVkX3NldDxUb3VjaElEPiBfaW5Db2FzdE1vZGU7Cg==</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8TGluZWFyUGF0aD4gUGF0aEJ1aWxkU3lzdGVtOjpnZXRQYXRocygpIGNvbnN0IHsKICAgIHN0ZDo6dmVjdG9yPExpbmVhclBhdGg+IHJlc3VsdDsKICAgIGZvciAoY29uc3QgYXV0byYgcGF0aFBhaXIgOiBfaW1wbC0+X3BhdGhCdWlsZGVycykgewogICAgICAgIHJlc3VsdC5wdXNoX2JhY2socGF0aFBhaXIuc2Vjb25kLmdldFBhdGgoKSk7CiAgICB9CiAgICByZXR1cm4gcmVzdWx0Owp9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCJkZWxldCBwYXRoIik7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byBmaXJlZEV2ZW50IDogX2lucHV0U3RhdHVzVmlld2VyLT5zbGluZ3Nob3RGaXJlZCkgewogICAgICAgIEVudGl0eUlEIHNoaXAgPSBmaXJlZEV2ZW50LnNoaXBFbnRpdHk7CiAgICAgICAgCiAgICAgICAgTWF0NCBzY3JlZW5Ub1dvcmxkID0gX3dvcmxkUm9vdC0+Z2V0UGFyZW50VG9Ob2RlVHJhbnNmb3JtKCk7CiAgICAgICAgVmVjMiBmaW5nZXJQb3NpdGlvbk9uU2NyZWVuID0gZmlyZWRFdmVudC5maW5nZXJQb3NpdGlvbk9uU2NyZWVuOwogICAgICAgIFZlYzIgd29ybGRQb3NpdGlvbiA9IHNjcmVlblRvV29ybGQudHJhbnNmb3JtKGZpbmdlclBvc2l0aW9uT25TY3JlZW4pOwoKLy8gICAgICAgIGNvbnN0IGF1dG8mIHBoeXNpY2FsID0gcmVnaXN0cnkuZ2V0PFBoeXNpY2FsQ29tcG9uZW50PihzaGlwKTsKLy8gICAgICAgIGF1dG8gaXRQYXRoID0gX2ltcGwtPl9wYXRoQnVpbGRlcnMuZmluZChmaXJlZEV2ZW50LnRvdWNoSWQpOwovLyAgICAgICAgaWYgKGl0UGF0aCA9PSBfaW1wbC0+X3BhdGhCdWlsZGVycy5lbmQoKSkgewovLyAgICAgICAgICAgIHJldHVybjsKLy8gICAgICAgIH0KLy8gICAgICAgIGF1dG8gcGF0aEJ1aWxkZXIgPSBpdFBhdGgtPnNlY29uZDsKICAgICAgICAKICAgICAgICBsb2dnZXIubG9nKCJzZXQgcGF0aCBmb3IgJXUgdG8gKCVmLCAlZikiLCBzaGlwLCB3b3JsZFBvc2l0aW9uLngsIHdvcmxkUG9zaXRpb24ueSk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfaW1wbC0+X2luQ29hc3RNb2RlLmluc2VydChwYXRoUGFpci5maXJzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wYXRoQnVpbGRlci51cGRhdGVFbmQod29ybGRQb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRlbGV0ZSB1bnVzZWQgcGF0aHMKLy8gICAgc3RkOjp2ZWN0b3I8VG91Y2hJRD4gcGF0aHNUb0RlbGV0ZTsKLy8gICAgZm9yIChhdXRvIHBhdGhQYWlyIDogX2ltcGwtPl9wYXRoQnVpbGRlcnMpIHsKLy8gICAgICAgIGlmIChfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdENoYXJnaW5nLmZpbmQocGF0aFBhaXIuZmlyc3QpICE9IF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90Q2hhcmdpbmcuZW5kKCkpIHsKLy8gICAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIHBhdGhzVG9EZWxldGUucHVzaF9iYWNrKHBhdGhQYWlyLmZpcnN0KTsKLy8gICAgfQovLwovLyAgICBmb3IgKGF1dG8gaWQgOiBwYXRoc1RvRGVsZXRlKSB7Ci8vICAgICAgICBfaW1wbC0+X3BhdGhCdWlsZGVycy5lcmFzZShpZCk7Ci8vICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wYXRoQnVpbGRlci51cGRhdGVFbmQocG9zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>draw</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>draw</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -610,19 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DEFS</entry>
-        <entry>projectConstraint</entry>
-        <entry>Relax E</entry>
-        <entry>rest</entry>
-        <entry>obj</entry>
-        <entry>Assimp</entry>
-        <entry>aiMesh</entry>
-        <entry>mesh</entry>
-        <entry>O3</entry>
-        <entry>trans</entry>
-        <entry>form</entry>
-        <entry>addBunn</entry>
-        <entry>addBunny</entry>
         <entry>addWater</entry>
         <entry>fragsize</entry>
         <entry>size</entry>
@@ -630,6 +645,19 @@
         <entry>target</entry>
         <entry>normal</entry>
         <entry>draw</entry>
+        <entry>verts</entry>
+        <entry>updateEnd</entry>
+        <entry>resetPath</entry>
+        <entry>updateStart</entry>
+        <entry>event</entry>
+        <entry>pathBuilder</entry>
+        <entry>accomodate</entry>
+        <entry>accomo</entry>
+        <entry>acc</entry>
+        <entry>accommo</entry>
+        <entry>assign</entry>
+        <entry>PathComponent</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
