@@ -53,13 +53,6 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" timestamp="1557786552768">
-        <mark key="'" line="156" column="24" />
-        <mark key="[" line="163" column="45" />
-        <mark key="]" line="163" column="45" />
-        <mark key="^" line="163" column="45" />
-        <mark key="." line="163" column="45" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1557358362863">
         <mark key="'" line="176" column="22" />
         <mark key="[" line="193" column="24" />
@@ -79,7 +72,7 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="/LLDB" timestamp="1557789745785">
+      <file name="/LLDB" timestamp="1557863297154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -206,12 +199,6 @@
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.h" timestamp="1557786165996">
-        <mark key="[" line="65" column="88" />
-        <mark key="]" line="65" column="92" />
-        <mark key="^" line="65" column="92" />
-        <mark key="." line="65" column="92" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" timestamp="1557589493832">
         <mark key="[" line="113" column="37" />
@@ -378,13 +365,6 @@
         <mark key="^" line="1075" column="37" />
         <mark key="." line="1075" column="37" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" timestamp="1557789735670">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="55" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="86" column="20" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/AISystem.cpp" timestamp="1553522461343">
         <mark key="[" line="84" column="38" />
         <mark key="]" line="84" column="38" />
@@ -446,13 +426,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1557424125086">
-        <mark key="'" line="222" column="34" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="^" line="207" column="91" />
-        <mark key="." line="186" column="0" />
-      </file>
       <file name="$USER_HOME$/code/interactive_g/Spring19Framework/CMakeLists.txt" timestamp="1556660452390">
         <mark key="[" line="8" column="38" />
         <mark key="]" line="8" column="33" />
@@ -473,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/CMakeLists.txt" />
       <jump line="107" column="20" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
       <jump line="115" column="25" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" />
       <jump line="210" column="31" filename="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticlesApp.cpp" />
@@ -573,10 +545,11 @@
       <jump line="975" column="20" filename="$USER_HOME$/code/apps/stranger-seas/deps/entt/src/entt/entity/registry.hpp" />
       <jump line="32" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
       <jump line="76" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" />
+      <jump line="41" column="31" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PathBuildSystem.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aEJ1aWxkZXIudXBkYXRlRW5kKHBhdGgsIHdvcmxkUG9zaXRpb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aVNlZ21lbnQgPD0gaUVuZCAmJiA=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -585,40 +558,40 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">aVNlZ21lbnQgPD0gaUVuZCAmJiA=</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>touch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGF0aEJ1aWxkZXIudXBkYXRlRW5kKHBhdGgsIHdvcmxkUG9zaXRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>eldldl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPExpbmVhclBhdGg+IGdldFBhdGhzKCkgY29uc3Q7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8TGluZWFyUGF0aD4gUGF0aEJ1aWxkU3lzdGVtOjpnZXRQYXRocygpIGNvbnN0IHsKICAgIHN0ZDo6dmVjdG9yPExpbmVhclBhdGg+IHJlc3VsdDsKICAgIGZvciAoY29uc3QgYXV0byYgcGF0aFBhaXIgOiBfaW1wbC0+X3BhdGhCdWlsZGVycykgewogICAgICAgIHJlc3VsdC5wdXNoX2JhY2socGF0aFBhaXIuc2Vjb25kLmdldFBhdGgoKSk7CiAgICB9CiAgICByZXR1cm4gcmVzdWx0Owp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aC5qawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8TGluZWFyUGF0aD4gUGF0aEJ1aWxkU3lzdGVtOjpnZXRQYXRocygpIGNvbnN0IHsKICAgIHN0ZDo6dmVjdG9yPExpbmVhclBhdGg+IHJlc3VsdDsKICAgIGZvciAoY29uc3QgYXV0byYgcGF0aFBhaXIgOiBfaW1wbC0+X3BhdGhCdWlsZGVycykgewogICAgICAgIHJlc3VsdC5wdXNoX2JhY2socGF0aFBhaXIuc2Vjb25kLmdldFBhdGgoKSk7CiAgICB9CiAgICByZXR1cm4gcmVzdWx0Owp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoYXV0byBmaXJlZEV2ZW50IDogX2lucHV0U3RhdHVzVmlld2VyLT5zbGluZ3Nob3RGaXJlZCkgewogICAgICAgIEVudGl0eUlEIHNoaXAgPSBmaXJlZEV2ZW50LnNoaXBFbnRpdHk7CiAgICAgICAgCiAgICAgICAgTWF0NCBzY3JlZW5Ub1dvcmxkID0gX3dvcmxkUm9vdC0+Z2V0UGFyZW50VG9Ob2RlVHJhbnNmb3JtKCk7CiAgICAgICAgVmVjMiBmaW5nZXJQb3NpdGlvbk9uU2NyZWVuID0gZmlyZWRFdmVudC5maW5nZXJQb3NpdGlvbk9uU2NyZWVuOwogICAgICAgIFZlYzIgd29ybGRQb3NpdGlvbiA9IHNjcmVlblRvV29ybGQudHJhbnNmb3JtKGZpbmdlclBvc2l0aW9uT25TY3JlZW4pOwoKLy8gICAgICAgIGNvbnN0IGF1dG8mIHBoeXNpY2FsID0gcmVnaXN0cnkuZ2V0PFBoeXNpY2FsQ29tcG9uZW50PihzaGlwKTsKLy8gICAgICAgIGF1dG8gaXRQYXRoID0gX2ltcGwtPl9wYXRoQnVpbGRlcnMuZmluZChmaXJlZEV2ZW50LnRvdWNoSWQpOwovLyAgICAgICAgaWYgKGl0UGF0aCA9PSBfaW1wbC0+X3BhdGhCdWlsZGVycy5lbmQoKSkgewovLyAgICAgICAgICAgIHJldHVybjsKLy8gICAgICAgIH0KLy8gICAgICAgIGF1dG8gcGF0aEJ1aWxkZXIgPSBpdFBhdGgtPnNlY29uZDsKICAgICAgICAKICAgICAgICBsb2dnZXIubG9nKCJzZXQgcGF0aCBmb3IgJXUgdG8gKCVmLCAlZikiLCBzaGlwLCB3b3JsZFBvc2l0aW9uLngsIHdvcmxkUG9zaXRpb24ueSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRvdWNoZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGRlbGV0ZSB1bnVzZWQgcGF0aHMKLy8gICAgc3RkOjp2ZWN0b3I8VG91Y2hJRD4gcGF0aHNUb0RlbGV0ZTsKLy8gICAgZm9yIChhdXRvIHBhdGhQYWlyIDogX2ltcGwtPl9wYXRoQnVpbGRlcnMpIHsKLy8gICAgICAgIGlmIChfaW5wdXRTdGF0dXNWaWV3ZXItPnNsaW5nc2hvdENoYXJnaW5nLmZpbmQocGF0aFBhaXIuZmlyc3QpICE9IF9pbnB1dFN0YXR1c1ZpZXdlci0+c2xpbmdzaG90Q2hhcmdpbmcuZW5kKCkpIHsKLy8gICAgICAgICAgICBjb250aW51ZTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIHBhdGhzVG9EZWxldGUucHVzaF9iYWNrKHBhdGhQYWlyLmZpcnN0KTsKLy8gICAgfQovLwovLyAgICBmb3IgKGF1dG8gaWQgOiBwYXRoc1RvRGVsZXRlKSB7Ci8vICAgICAgICBfaW1wbC0+X3BhdGhCdWlsZGVycy5lcmFzZShpZCk7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -628,9 +601,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>touch</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>touch</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addWater</entry>
         <entry>fragsize</entry>
         <entry>size</entry>
         <entry>gl_Frag</entry>
@@ -658,6 +630,7 @@
         <entry>assign</entry>
         <entry>PathComponent</entry>
         <entry>remove</entry>
+        <entry>touch</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
