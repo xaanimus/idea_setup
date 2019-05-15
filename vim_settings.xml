@@ -176,6 +176,13 @@
         <mark key="^" line="31" column="47" />
         <mark key="." line="31" column="47" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" timestamp="1557944548453">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/TestModalScene.h" timestamp="1557873612755">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="11" column="6" />
@@ -308,6 +315,13 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.h" timestamp="1557944523757">
+        <mark key="'" line="3" column="16" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+      </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Main.cpp" timestamp="1556683109384">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="19" />
@@ -334,10 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
-      <jump line="158" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
-      <jump line="162" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
-      <jump line="163" column="39" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
       <jump line="165" column="44" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
       <jump line="170" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
       <jump line="172" column="58" filename="$USER_HOME$/code/apps/stranger-seas/source/util/LinearPath.cpp" />
@@ -434,10 +444,14 @@
       <jump line="252" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="324" column="19" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="254" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="22" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.h" />
+      <jump line="3" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>j</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -446,16 +460,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>closeButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyYW5nZXJTZWFzQXBwOjpnZXQoKS0+ZXhlY3V0ZU9uTmV4dFVwZGF0ZUVuZChbdGhpc117CiAgICAgICAgICAgICAgICB0aGlzLT5fb25SZXN0YXJ0SGFuZGxlcigpOwogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIFVzZXJTZXR0aW5ncyYgZ2V0U2hhcmVkU2V0dGluZ3MoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWFrCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -480,28 +494,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyYW5nZXJTZWFzQXBwOjpnZXQoKS0+ZXhlY3V0ZU9uTmV4dFVwZGF0ZUVuZChbdGhpc117CiAgICAgICAgICAgICAgICB0aGlzLT5fb25SZXN0YXJ0SGFuZGxlcigpOwogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBqc29uID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy0+X29uUmVzdGFydEhhbmRsZXIoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1lbW9yeT4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1aV90b29sczo6cmVtb3ZlRnJvbU93bmVyKHNoYXJlZF9mcm9tX3RoaXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
