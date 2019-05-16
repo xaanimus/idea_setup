@@ -21,24 +21,17 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/PhysicsSystem.cpp" timestamp="1557864594665">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="367" column="69" />
-        <mark key="]" line="367" column="67" />
-        <mark key="^" line="367" column="67" />
-        <mark key="." line="367" column="67" />
-      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/LoadingScene.cpp" timestamp="1557429236916">
         <mark key="[" line="139" column="60" />
         <mark key="]" line="139" column="60" />
         <mark key="." line="139" column="60" />
         <mark key="^" line="139" column="60" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1558038275977">
-        <mark key="[" line="90" column="34" />
-        <mark key="]" line="90" column="33" />
-        <mark key="." line="90" column="33" />
-        <mark key="^" line="90" column="33" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" timestamp="1558039986394">
+        <mark key="[" line="119" column="22" />
+        <mark key="]" line="119" column="33" />
+        <mark key="." line="119" column="33" />
+        <mark key="^" line="119" column="33" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/audio/CUAudioWaveform.cpp" timestamp="1554739088672">
         <mark key="[" line="929" column="25" />
@@ -52,6 +45,12 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.cpp" timestamp="1558039107706">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="41" />
+        <mark key="." line="38" column="41" />
+        <mark key="^" line="38" column="41" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSPersistanceStore.cpp" timestamp="1556120100650">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -64,7 +63,7 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="68" />
       </file>
-      <file name="/LLDB" timestamp="1558035990776">
+      <file name="/LLDB" timestamp="1558040998107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -143,11 +142,12 @@
         <mark key="." line="44" column="68" />
         <mark key="^" line="44" column="68" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1558037142585">
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
-        <mark key="^" line="52" column="27" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1558040908835">
+        <mark key="'" line="266" column="21" />
+        <mark key="[" line="279" column="52" />
+        <mark key="]" line="280" column="46" />
+        <mark key="." line="280" column="46" />
+        <mark key="^" line="280" column="46" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
@@ -295,6 +295,12 @@
         <mark key="^" line="31" column="58" />
         <mark key="." line="31" column="58" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ComponentVisitor.h" timestamp="1558040100960">
+        <mark key="[" line="124" column="78" />
+        <mark key="]" line="124" column="78" />
+        <mark key="." line="124" column="78" />
+        <mark key="^" line="124" column="78" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/LevelDirectory.h" timestamp="1556662251157">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="9" />
@@ -319,12 +325,12 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1558035977831">
-        <mark key="'" line="85" column="24" />
-        <mark key="[" line="63" column="61" />
-        <mark key="]" line="63" column="83" />
-        <mark key="." line="63" column="83" />
-        <mark key="^" line="63" column="83" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1558040265224">
+        <mark key="'" line="86" column="24" />
+        <mark key="[" line="61" column="88" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional.h" timestamp="1554481404427">
         <mark key="[" line="8" column="0" />
@@ -337,13 +343,6 @@
         <mark key="]" line="12" column="5" />
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.h" timestamp="1557945595789">
-        <mark key="'" line="3" column="16" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
       </file>
       <file name="/fragment.mm" timestamp="1558025312268">
         <mark key="[" line="0" column="0" />
@@ -381,50 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="5" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" />
-      <jump line="105" column="17" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" />
-      <jump line="100" column="5" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" />
-      <jump line="575" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" />
-      <jump line="83" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" />
-      <jump line="338" column="9" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" />
-      <jump line="340" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" />
-      <jump line="192" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="260" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="185" column="71" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="284" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="307" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="282" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="190" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="235" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="105" column="27" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="257" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="140" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
-      <jump line="209" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
-      <jump line="130" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
-      <jump line="125" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
-      <jump line="129" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
-      <jump line="53" column="20" filename="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" />
-      <jump line="133" column="40" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="227" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="63" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="84" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="101" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="186" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="234" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="241" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="263" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="288" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="292" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="291" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="184" column="20" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="183" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
@@ -481,10 +436,54 @@
       <jump line="40" column="21" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
       <jump line="69" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
       <jump line="76" column="24" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSComponents.h" />
+      <jump line="133" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="128" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="123" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="8" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="279" column="30" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="288" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="50" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="45" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="491" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="490" column="27" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="461" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="376" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="374" column="48" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="369" column="38" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="368" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="354" column="37" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="23" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="51" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="52" column="47" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="53" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="54" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="55" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="57" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="60" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="61" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="62" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="63" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="65" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="66" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="67" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="68" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="94" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="103" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="176" column="55" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="220" column="54" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="221" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="223" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="224" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="225" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="277" column="7" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="236" column="63" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="266" column="21" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cG9seWdvbi0+dmVydGljZXMoKQ==</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -493,16 +492,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gR2FtZUNvbnN0YW50cy5ERUZBVUxUX1JFU1RJVFVUSU9O</text>
+        <text encoding="base64">cG9seWdvbi0+dmVydGljZXMoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>GameCon</text>
+        <text>phys</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvYnN0YWNsZS0+c2V0UmVzdGl0dXRpb24oaW5pdFBhcmFtcy0+cmVzdGl0dXRpb24pOwo=</text>
+      <register name="0" type="4">
+        <text>Polygons::shipCollision;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -527,37 +526,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHBvbHlnb24gPSBhc3NldHMtPmdldDxQb2x5MmRBc3NldD4ocGh5c2ljcy5pbml0UGFyYW1zLT5hc3NldEtleSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBoeXNpY2FsQ29tcG9uZW50KCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQaAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uL3V0aWwvQ29uc3RhbnRzLmgiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBQb2x5Z29uczo6c2hpcENvbGxpc2lvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwb2x5Z29uICogCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBzdHJ1Y3QgSW5pdFBhcmFtcyB7CiAgICAgICAgc3RkOjpzdHJpbmcgYXNzZXRLZXk7CiAgICAgICAgY3VnbDo6VmVjMiBwb3NpdGlvbjsKICAgICAgICBmbG9hdCBhbmdsZVJhZGlhbnM7CiAgICAgICAgYjJCb2R5VHlwZSBib2R5VHlwZTsKCiAgICAgICAgZmxvYXQgZGVuc2l0eSA9IEdhbWVDb25zdGFudHMuREVGQVVMVF9ERU5TSVRZOwogICAgICAgIGZsb2F0IGZyaWN0aW9uID0gR2FtZUNvbnN0YW50cy5ERUZBVUxUX0ZSSUNUSU9OOwogICAgICAgIGZsb2F0IHJlc3RpdHV0aW9uID0gR2FtZUNvbnN0YW50cy5ERUZBVUxUX1JFU1RJVFVUSU9OOwogICAgICAgIGZsb2F0IGFuZ3VsYXJEYW1waW5nID0gR2FtZUNvbnN0YW50cy5ERUZBVUxUX1JFU1RJVFVUSU9OOwogICAgfTsK</text>
+        <text encoding="base64">Ly8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GameCon</last-search>
+      <last-search>phys</last-search>
       <last-offset />
-      <last-pattern>GameCon</last-pattern>
+      <last-pattern>phys</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -565,10 +564,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setDown</entry>
-        <entry>setUp</entry>
-        <entry>upnode</entry>
-        <entry>setT</entry>
         <entry>options</entry>
         <entry>op</entry>
         <entry>logoOcto</entry>
@@ -585,6 +580,10 @@
         <entry>_newScene</entry>
         <entry>key</entry>
         <entry>GameCon</entry>
+        <entry>assetKey</entry>
+        <entry>Poly2d</entry>
+        <entry>ship</entry>
+        <entry>phys</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
