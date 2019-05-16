@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" timestamp="1557949007579">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" timestamp="1558018505285">
         <mark key="[" line="35" column="37" />
         <mark key="]" line="35" column="37" />
         <mark key="." line="35" column="37" />
@@ -64,7 +64,7 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="/LLDB" timestamp="1557955965542">
+      <file name="/LLDB" timestamp="1558018646268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -191,12 +191,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUTexturedNode.h" timestamp="1557945419229">
         <mark key="'" line="340" column="8" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" timestamp="1557946231955">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" timestamp="1558018668556">
         <mark key="'" line="81" column="13" />
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-        <mark key="^" line="60" column="23" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="35" />
+        <mark key="." line="44" column="35" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/TestModalScene.h" timestamp="1557873612755">
         <mark key="[" line="10" column="43" />
@@ -216,12 +216,12 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" timestamp="1557950226163">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" timestamp="1558018469830">
         <mark key="'" line="129" column="26" />
-        <mark key="[" line="176" column="75" />
-        <mark key="]" line="177" column="25" />
-        <mark key="." line="177" column="25" />
-        <mark key="^" line="177" column="25" />
+        <mark key="[" line="208" column="7" />
+        <mark key="]" line="210" column="14" />
+        <mark key="." line="210" column="14" />
+        <mark key="^" line="210" column="14" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1557877042881">
         <mark key="[" line="38" column="21" />
@@ -460,8 +460,8 @@
       <jump line="295" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMtPl9vblJlc3RhcnRIYW5kbGVyKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -470,7 +470,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>_onRestartHandler</text>
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="/" type="4">
         <text>activate</text>
