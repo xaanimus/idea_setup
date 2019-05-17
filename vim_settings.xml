@@ -67,7 +67,7 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1558111165680">
+      <file name="/LLDB" timestamp="1558112923578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -163,13 +163,6 @@
         <mark key="]" line="43" column="68" />
         <mark key="." line="43" column="68" />
         <mark key="^" line="43" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" timestamp="1558058270972">
-        <mark key="'" line="403" column="0" />
-        <mark key="[" line="446" column="46" />
-        <mark key="]" line="446" column="59" />
-        <mark key="." line="446" column="59" />
-        <mark key="^" line="446" column="59" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
