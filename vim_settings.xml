@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" timestamp="1558060658588">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="31" column="61" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" timestamp="1558091000689">
+        <mark key="'" line="51" column="15" />
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="34" column="16" />
+        <mark key="." line="34" column="16" />
+        <mark key="^" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/Math.cpp" timestamp="1554404244162">
         <mark key="[" line="0" column="0" />
@@ -265,6 +265,12 @@
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" timestamp="1558091357625">
+        <mark key="[" line="336" column="77" />
+        <mark key="]" line="336" column="77" />
+        <mark key="." line="336" column="77" />
+        <mark key="^" line="336" column="77" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1558054941717">
         <mark key="'" line="45" column="23" />
@@ -544,7 +550,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>attempting to load game state</text>
+        <text encoding="base64">c2hpcEluc3RydWN0aW9uVGV4dHVyZSA=</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -553,7 +559,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>attempting to load game state</text>
+        <text encoding="base64">c2hpcEluc3RydWN0aW9uVGV4dHVyZSA=</text>
       </register>
       <register name="/" type="4">
         <text>center</text>
@@ -587,28 +593,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXR0aW5nczo6Z2V0U2hhcmVkU2V0dGluZ3MoKS5zZXRTaG91bGRMb2FkRnJvbURpc2soVXNlclNldHRpbmdzOjpPRkYpOwogICAgVXNlclNldHRpbmdzOjpnZXRTaGFyZWRTZXR0aW5ncygpLndyaXRlVG9EaXNrKCk7CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIG9uQ2xvc2UgPSB0aGlzLT5fb25DbG9zZU1lbnVIYW5kbGVyOwogICAgICAgIFN0cmFuZ2VyU2Vhc0FwcDo6Z2V0KCktPmV4ZWN1dGVPbk5leHRVcGRhdGVFbmQoW3RoaXMsIG9uQ2xvc2VdewogICAgICAgICAgICB1aV90b29sczo6cmVtb3ZlRnJvbU93bmVyKHNoYXJlZF9mcm9tX3RoaXMoKSk7CiAgICAgICAgICAgIG9uQ2xvc2UoKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci0+amsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDaGlsZAo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Q2xvc2VCdXR0b25WaXNpYmxlKGJvb2wgdmlzaWJpbGUpOwo=</text>
+        <text encoding="base64">ICAgIFVzZXJTZXR0aW5nczo6Z2V0U2hhcmVkU2V0dGluZ3MoKS5zZXRTaG91bGRMb2FkRnJvbURpc2soVXNlclNldHRpbmdzOjpPRkYpOwogICAgVXNlclNldHRpbmdzOjpnZXRTaGFyZWRTZXR0aW5ncygpLndyaXRlVG9EaXNrKCk7CiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
