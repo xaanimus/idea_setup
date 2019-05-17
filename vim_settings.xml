@@ -67,7 +67,7 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1558112923578">
+      <file name="/LLDB" timestamp="1558117946342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -121,11 +121,11 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1558064161428">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1558114953669">
         <mark key="'" line="121" column="34" />
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
         <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
@@ -254,6 +254,12 @@
         <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.hpp" timestamp="1558098236480" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" timestamp="1558117921374">
+        <mark key="[" line="377" column="29" />
+        <mark key="]" line="377" column="35" />
+        <mark key="." line="377" column="35" />
+        <mark key="^" line="377" column="35" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/asset/AssetInfo.h" timestamp="1558054941717">
         <mark key="'" line="45" column="23" />
         <mark key="[" line="48" column="58" />
@@ -361,12 +367,11 @@
         <mark key="]" line="1709" column="0" />
         <mark key="." line="1709" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1558066930123">
-        <mark key="'" line="86" column="24" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="3" />
-        <mark key="." line="61" column="3" />
-        <mark key="^" line="61" column="3" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/StrangerSeasApp.cpp" timestamp="1558114928303">
+        <mark key="'" line="81" column="24" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/util/optional.h" timestamp="1554481404427">
         <mark key="[" line="8" column="0" />
@@ -418,6 +423,13 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" timestamp="1558116701404">
+        <mark key="'" line="679" column="20" />
+        <mark key="[" line="941" column="0" />
+        <mark key="]" line="941" column="0" />
+        <mark key="." line="941" column="0" />
+        <mark key="^" line="833" column="63" />
+      </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MainMenuScene.cpp" timestamp="1558106033714">
         <mark key="'" line="71" column="20" />
         <mark key="[" line="78" column="6" />
@@ -439,51 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="300" column="6" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="324" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="159" column="30" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="164" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="178" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="189" column="54" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="191" column="43" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="194" column="60" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="206" column="43" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="221" column="35" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="231" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="239" column="56" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="241" column="59" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="247" column="35" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="253" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="267" column="57" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="269" column="55" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="271" column="51" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="199" column="6" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="252" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="109" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="225" column="40" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="117" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="121" column="39" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="127" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="133" column="50" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="201" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="232" column="21" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="233" column="70" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="255" column="69" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="13" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="229" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="226" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="322" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="315" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="291" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="290" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="260" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="262" column="26" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="285" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="286" column="8" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="82" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUButton.h" />
-      <jump line="153" column="19" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" />
-      <jump line="146" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="144" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="175" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="142" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
@@ -539,10 +506,55 @@
       <jump line="22" column="1" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="173" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="316" column="5" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="341" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="195" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="196" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="352" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/WorldLevelScene.cpp" />
+      <jump line="27" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="192" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="265" column="6" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="248" column="21" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="241" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="263" column="7" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="274" column="15" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="267" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="463" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="25" column="23" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="213" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="172" column="3" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="173" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="210" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="222" column="40" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="407" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="390" column="10" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="299" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="291" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="230" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="492" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="427" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="484" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="235" column="29" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="359" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="329" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="243" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="262" column="32" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="432" column="7" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="446" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="604" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="833" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="835" column="63" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="233" column="9" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="417" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="643" column="23" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="646" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="670" column="11" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="680" column="20" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51U2NlbmVzLnB1c2hfYmFjayhzaGFyZWRfZnJvbV90aGlzKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -551,16 +563,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHRycyA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>menuSc</text>
+        <text>ships and obstacles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haW5EaW1lbiA9IFNpemUobWFpblNhZmVBcmVhLnNpemUpOwogICAgQ1VMb2coImluIG1haW4gbWVudSBzY2VuZSIpOwo=</text>
+        <text encoding="base64">I3ByYWdtYSBtYXJrIC0gUmVuZGVyIGFuaW1hdGlvbnMKICAgIGZvciAoYXV0byBlbnRpdHkgOiB2aWV3QW5pbWF0aW9uKSB7CiAgICAgICAgLy8gaWYgZW50aXR5IGhhcyBhbiBhbmltYXRpb24KICAgICAgICBhdXRvJiBhbmltID0gdmlld0FuaW1hdGlvbi5nZXQoZW50aXR5KTsKICAgICAgICBmbG9hdCBpbmNyZW1lbnQgPSAxLjsKICAgICAgICBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMuY2Fubm9uRXhwbG9zaW9uS2V5KSB7CiAgICAgICAgICAgIGFuaW0uZmlsbVN0cmlwID0KICAgICAgICAgICAgICAgIF9hc3NldHMtPmdldDxUZXh0dXJlPihHQU1FX1NDRU5FX0FTU0VUUy5jYW5ub25FeHBsb3Npb25LZXkpOwogICAgICAgICAgICBhbmltLmNvbHMgPSAyOwogICAgICAgICAgICBhbmltLnJvd3MgPSAyOwogICAgICAgICAgICBhbmltLm51bUZyYW1lcyA9IDQ7CiAgICAgICAgICAgIGluY3JlbWVudCA9IDAuMjsKICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLmNhbm5vblNwbGFzaEtleSkgewogICAgICAgICAgICBhbmltLmZpbG1TdHJpcCA9CiAgICAgICAgICAgICAgICBfYXNzZXRzLT5nZXQ8VGV4dHVyZT4oR0FNRV9TQ0VORV9BU1NFVFMuY2Fubm9uU3BsYXNoS2V5KTsKICAgICAgICAgICAgYW5pbS5jb2xzID0gMzsKICAgICAgICAgICAgYW5pbS5yb3dzID0gMzsKICAgICAgICAgICAgYW5pbS5udW1GcmFtZXMgPSA5OwogICAgICAgICAgICBpbmNyZW1lbnQgPSAwLjI7CiAgICAgICAgfSBlbHNlIGlmIChhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy5hYmlsaXR5SGVhbEtleSkgewogICAgICAgICAgICBhbmltLmZpbG1TdHJpcCA9CiAgICAgICAgICAgICAgICBfYXNzZXRzLT5nZXQ8VGV4dHVyZT4oR0FNRV9TQ0VORV9BU1NFVFMuYWJpbGl0eUhlYWxLZXkpOwogICAgICAgICAgICBhbmltLmNvbHMgPSA4OwogICAgICAgICAgICBhbmltLnJvd3MgPSA0OwogICAgICAgICAgICAvLyBhbmltLmFjdGl2ZUZyYW1lID0gMDsKICAgICAgICAgICAgYW5pbS5udW1GcmFtZXMgPSAzMjsKICAgICAgICAgICAgaW5jcmVtZW50ID0gLjU7CiAgICAgICAgICAgIGFuaW0ucG9zaXRpb24gPSB2aWV3UmVuZGVyYWJsZS5nZXQ8UGh5c2ljYWxDb21wb25lbnQ+KGVudGl0eSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAub2JzdGFjbGUtPmdldFBvc2l0aW9uKCk7CiAgICAgICAgfSBlbHNlIGlmIChhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy5hYmlsaXR5QmxpdHpLZXkpIHsKICAgICAgICAgICAgYW5pbS5maWxtU3RyaXAgPQogICAgICAgICAgICAgICAgX2Fzc2V0cy0+Z2V0PFRleHR1cmU+KEdBTUVfU0NFTkVfQVNTRVRTLmFiaWxpdHlCbGl0ektleSk7CiAgICAgICAgICAgIGFuaW0uY29scyA9IDY7CiAgICAgICAgICAgIGFuaW0ucm93cyA9IDU7CiAgICAgICAgICAgIC8vIGFuaW0uYWN0aXZlRnJhbWUgPSAwOwogICAgICAgICAgICBhbmltLm51bUZyYW1lcyA9IDMwOwogICAgICAgICAgICBpbmNyZW1lbnQgPSAuNTsKICAgICAgICAgICAgYW5pbS5wb3NpdGlvbiA9IHZpZXdSZW5kZXJhYmxlLmdldDxQaHlzaWNhbENvbXBvbmVudD4oZW50aXR5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vYnN0YWNsZS0+Z2V0UG9zaXRpb24oKTsKICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLnNoaXBEZWF0aEtleSkgewogICAgICAgICAgICBhbmltLmZpbG1TdHJpcCA9CiAgICAgICAgICAgICAgICBfYXNzZXRzLT5nZXQ8VGV4dHVyZT4oR0FNRV9TQ0VORV9BU1NFVFMuc2hpcERlYXRoS2V5KTsKICAgICAgICAgICAgYW5pbS5jb2xzID0gNjsKICAgICAgICAgICAgYW5pbS5yb3dzID0gNTsKICAgICAgICAgICAgLy8gYW5pbS5hY3RpdmVGcmFtZSA9IDA7CiAgICAgICAgICAgIGFuaW0ubnVtRnJhbWVzID0gMzA7CiAgICAgICAgICAgIGluY3JlbWVudCA9IC41OwogICAgICAgICAgICAvLyAgICAgICAgICAgIGFuaW0ucG9zaXRpb24gPQogICAgICAgICAgICAvLyAgICAgICAgICAgIHZpZXcuZ2V0PFBoeXNpY2FsQ29tcG9uZW50PihlbnRpdHkpLm9ic3RhY2xlLT5nZXRQb3NpdGlvbigpOwogICAgICAgIH0gZWxzZSBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMua3Jha2VuQXJtS2V5KSB7CiAgICAgICAgICAgIGFuaW0uZmlsbVN0cmlwID0KICAgICAgICAgICAgICAgIF9hc3NldHMtPmdldDxUZXh0dXJlPihHQU1FX1NDRU5FX0FTU0VUUy5rcmFrZW5Bcm1LZXkpOwogICAgICAgICAgICBhbmltLmNvbHMgPSA4OwogICAgICAgICAgICBhbmltLnJvd3MgPSA0OwogICAgICAgICAgICBhbmltLm51bUZyYW1lcyA9IDMyOwogICAgICAgICAgICBpbmNyZW1lbnQgPSAxLjsKICAgICAgICAgICAgYW5pbS5wb3NpdGlvbiA9IHZpZXdQaHlzaWNhbC5nZXQoZW50aXR5KS5vYnN0YWNsZS0+Z2V0UG9zaXRpb24oKTsKICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLmtyYWtlbktleSkgewogICAgICAgICAgICBhbmltLmZpbG1TdHJpcCA9CiAgICAgICAgICAgICAgICBfYXNzZXRzLT5nZXQ8VGV4dHVyZT4oR0FNRV9TQ0VORV9BU1NFVFMua3Jha2VuQXJtS2V5KTsKICAgICAgICAgICAgYW5pbS5jb2xzID0gMTsKICAgICAgICAgICAgYW5pbS5yb3dzID0gMTsKICAgICAgICAgICAgYW5pbS5udW1GcmFtZXMgPSAxOwogICAgICAgICAgICBpbmNyZW1lbnQgPSAxLjsKICAgICAgICAgICAgYW5pbS5wb3NpdGlvbiA9IHZpZXdQaHlzaWNhbC5nZXQoZW50aXR5KS5vYnN0YWNsZS0+Z2V0UG9zaXRpb24oKTsKICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLnVyY2hpbkVudGVyUm9sbEtleSkgewogICAgICAgICAgICBhbmltLmZpbG1TdHJpcCA9CiAgICAgICAgICAgICAgICBfYXNzZXRzLT5nZXQ8VGV4dHVyZT4oR0FNRV9TQ0VORV9BU1NFVFMudXJjaGluRW50ZXJSb2xsS2V5KTsKICAgICAgICAgICAgYW5pbS5jb2xzID0gMjsKICAgICAgICAgICAgYW5pbS5yb3dzID0gMjsKICAgICAgICAgICAgYW5pbS5udW1GcmFtZXMgPSA0OwogICAgICAgICAgICBpbmNyZW1lbnQgPSAxOwogICAgICAgIH0gZWxzZSBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMudXJjaGluRXhpdFJvbGxLZXkpIHsKICAgICAgICAgICAgYW5pbS5maWxtU3RyaXAgPQogICAgICAgICAgICAgICAgX2Fzc2V0cy0+Z2V0PFRleHR1cmU+KEdBTUVfU0NFTkVfQVNTRVRTLnVyY2hpbkV4aXRSb2xsS2V5KTsKICAgICAgICAgICAgYW5pbS5jb2xzID0gMjsKICAgICAgICAgICAgYW5pbS5yb3dzID0gMjsKICAgICAgICAgICAgYW5pbS5udW1GcmFtZXMgPSA0OwogICAgICAgICAgICBpbmNyZW1lbnQgPSAxOwogICAgICAgIH0gZWxzZSBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMudXJjaGluUm9sbEtleSkgewogICAgICAgICAgICBhbmltLmZpbG1TdHJpcCA9CiAgICAgICAgICAgICAgICBfYXNzZXRzLT5nZXQ8VGV4dHVyZT4oR0FNRV9TQ0VORV9BU1NFVFMudXJjaGluUm9sbEtleSk7CiAgICAgICAgICAgIGFuaW0uY29scyA9IDQ7CiAgICAgICAgICAgIGFuaW0ucm93cyA9IDM7CiAgICAgICAgICAgIGFuaW0ubnVtRnJhbWVzID0gMTI7CiAgICAgICAgICAgIGluY3JlbWVudCA9IDE7CiAgICAgICAgfSBlbHNlIGlmIChhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy51cmNoaW5TdGF0aWNLZXkpIHsKICAgICAgICAgICAgYW5pbS5maWxtU3RyaXAgPQogICAgICAgICAgICAgICAgX2Fzc2V0cy0+Z2V0PFRleHR1cmU+KEdBTUVfU0NFTkVfQVNTRVRTLnVyY2hpblN0YXRpY0tleSk7CiAgICAgICAgICAgIGFuaW0uY29scyA9IDE7CiAgICAgICAgICAgIGFuaW0ucm93cyA9IDE7CiAgICAgICAgICAgIGFuaW0ubnVtRnJhbWVzID0gMTsKICAgICAgICAgICAgaW5jcmVtZW50ID0gMC4xOwogICAgICAgIH0KCiAgICAgICAgaWYgKGFuaW0uaXNPbiAmJiBhbmltLmFjdGl2ZUZyYW1lIDw9IGFuaW0ubnVtRnJhbWVzIC0gMSkgewogICAgICAgICAgICBzdGQ6OnNoYXJlZF9wdHI8Y3VnbDo6QW5pbWF0aW9uTm9kZT4gYW5pbU5vZGUgPQogICAgICAgICAgICAgICAgY3VnbDo6QW5pbWF0aW9uTm9kZTo6YWxsb2MoYW5pbS5maWxtU3RyaXAsIGFuaW0ucm93cywgYW5pbS5jb2xzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5pbS5udW1GcmFtZXMpOwogICAgICAgICAgICBhbmltTm9kZS0+c2V0RnJhbWUoaW50KGFuaW0uYWN0aXZlRnJhbWUpKTsKICAgICAgICAgICAgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLmNhbm5vbkV4cGxvc2lvbktleSkgewogICAgICAgICAgICAgICAgYW5pbU5vZGUtPnNldENvbnRlbnRTaXplKDEsIDEpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLmNhbm5vblNwbGFzaEtleSkgewogICAgICAgICAgICAgICAgYW5pbU5vZGUtPnNldENvbnRlbnRTaXplKDMsIDMpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLmFiaWxpdHlIZWFsS2V5KSB7CiAgICAgICAgICAgICAgICBjdWdsOjpWZWMyIHJhbmdlID0KICAgICAgICAgICAgICAgICAgICBfZ2FtZU9iamVjdENvbnRhaW5lci0+Z2V0Tm9kZVRvUGFyZW50VHJhbnNmb3JtKCkudHJhbnNmb3JtKAogICAgICAgICAgICAgICAgICAgICAgICBjdWdsOjpWZWMyKEdhbWVDb25zdGFudHMuSEVBTF9BQ1RJT05fUkFOR0UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR2FtZUNvbnN0YW50cy5IRUFMX0FDVElPTl9SQU5HRSkpOwogICAgICAgICAgICAgICAgYW5pbU5vZGUtPnNldENvbnRlbnRTaXplKHJhbmdlICogMi41Zik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMuYWJpbGl0eUJsaXR6S2V5KSB7CiAgICAgICAgICAgICAgICBhbmltTm9kZS0+c2V0Q29udGVudFNpemUoOCwgOCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMuc2hpcERlYXRoS2V5KSB7CiAgICAgICAgICAgICAgICBhbmltTm9kZS0+c2V0Q29udGVudFNpemUoMTEsIDExKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy5rcmFrZW5Bcm1LZXkpIHsKICAgICAgICAgICAgICAgIGFuaW1Ob2RlLT5zZXRDb250ZW50U2l6ZSgyNywgMjcpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLnVyY2hpblJvbGxLZXkgfHwKICAgICAgICAgICAgICAgICAgICAgICBhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy51cmNoaW5FbnRlclJvbGxLZXkgfHwKICAgICAgICAgICAgICAgICAgICAgICBhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy51cmNoaW5FeGl0Um9sbEtleSB8fAogICAgICAgICAgICAgICAgICAgICAgIGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLnVyY2hpblN0YXRpY0tleSkgewogICAgICAgICAgICAgICAgQ1VMb2coInVwZGF0aW5nIHVyY2hpbiBhbmltIik7CiAgICAgICAgICAgICAgICBhbmltTm9kZS0+c2V0Q29udGVudFNpemUoMjcsIDI3KTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIHZpZXdSZW5kZXJhYmxlLmdldDxTcHJpdGVDb21wb25lbnQ+KGVudGl0eSkuc3ByaXRlCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGFuaW1Ob2RlLT5zZXRQb3NpdGlvbihhbmltLnBvc2l0aW9uKTsKICAgICAgICAgICAgX2dhbWVPYmplY3RDb250YWluZXItPmFkZENoaWxkKGFuaW1Ob2RlKTsKICAgICAgICAgICAgYW5pbS5hY3RpdmVGcmFtZSArPSBpbmNyZW1lbnQ7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgYW5pbS5hY3RpdmVGcmFtZSA9IC0xOwogICAgICAgICAgICBpZiAoYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMudXJjaGluUm9sbEtleSB8fAogICAgICAgICAgICAgICAgYW5pbS50ZXh0dXJlSUQgPT0gR0FNRV9TQ0VORV9BU1NFVFMudXJjaGluU3RhdGljS2V5IHx8CiAgICAgICAgICAgICAgICBhbmltLnRleHR1cmVJRCA9PSBHQU1FX1NDRU5FX0FTU0VUUy5rcmFrZW5LZXkpIHsKICAgICAgICAgICAgICAgIGFuaW0uYWN0aXZlRnJhbWUgPSAwOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFuaW0uaXNPbiA9IGZhbHNlOwogICAgICAgICAgICAvLyAgICAgICAgICAgIHJlZ2lzdHJ5LmRlc3Ryb3koZW50aXR5KTsKICAgICAgICAgICAgaWYgKGFuaW0udGV4dHVyZUlEID09IEdBTUVfU0NFTkVfQVNTRVRTLnNoaXBEZWF0aEtleSkgewogICAgICAgICAgICAgICAgcmVnaXN0cnkuZGVzdHJveShlbnRpdHkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51U2NlbmVzLnB1c2hfYmFjayhzaGFyZWRfZnJvbV90aGlzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXdlYWspCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -572,37 +584,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB0cnMucHVzaF9iYWNrKGJnQ2FudmFzKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6d2Vha19wdHI8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3B0YXRpYyBzdGQ6OnZlY3RvcjxzdGQ6OndlYWtfcHRyPE1lbnVTY2VuZT4+IG1lbnVTY2VuZXMgPSB7fTsKc3RhdGljIHN0ZDo6dmVjdG9yPHN0ZDo6d2Vha19wdHI8Tm9kZT4+IHB0cnMgPSB7fTsKCg==</text>
+        <text encoding="base64">ICAgIHN0ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vX2xheWVyID0gX2Fzc2V0cy0+Z2V0PE5vZGU+KCJtZW51Iik7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgIC8vICAgICAgICBfZ2FtZU9iamVjdENvbnRhaW5lci0+cmVtb3ZlQ2hpbGQoX21hcEJ1dHRvbik7CiAgICAvLyAgICBfZ2FtZU9iamVjdENvbnRhaW5lci0+YWRkQ2hpbGQoX21hcEJ1dHRvbik7CiAgICAvLyAgICBfbWFwQnV0dG9uLT5hY3RpdmF0ZSgxMDUpOwo+Pj4+Pj4+IEZpeCBTeW50YXggRXJyb3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51U2NlbmVzLnB1c2hfYmFjayhzaGFyZWRfZnJvbV90aGlzKCkpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lbnVTY2VuZXMucHVzaF9iYWNrKHNoYXJlZF9mcm9tX3RoaXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gdmlld1JlbmRlcmFibGUgPSByZWdpc3RyeS52aWV3PFNwcml0ZUNvbXBvbmVudCwgUGh5c2ljYWxDb21wb25lbnQ+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIGF1dG8gdmlld1NoaXBJbmZvID0gcmVnaXN0cnkudmlldzxQaHlzaWNhbENvbXBvbmVudCwgU2hpcEluZm9Db21wb25lbnQ+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF3ZWFrQmdDYW52YXMpCg==</text>
+        <text encoding="base64">ICAgIC8vIE11c3QgcmVuZGVyIGJlZm9yZSBzaGlwcyBzbyBwYXRocyBnbyB1bmRlciBzaGlwcwogICAgcmVnaXN0cnkudmlldzxQYXRoQ29tcG9uZW50PigpLmVhY2goCiAgICAgICAgW3RoaXMsICZyZWdpc3RyeV0oY29uc3QgYXV0byBlbnQsIFBhdGhDb21wb25lbnQmIHBhdGhDb21wKSB7CiAgICAgICAgICAgIGF1dG8gdmVydGljZXMgPSBwYXRoQ29tcC5wYXRoLmdldFZlcnRpY2VzKHBhdGhDb21wLnRQYXRoKTsKICAgICAgICAgICAgaWYgKHZlcnRpY2VzLnNpemUoKSA8PSAxKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYXV0byBwYXRoTm9kZSA9CiAgICAgICAgICAgICAgICBXaXJlTm9kZTo6YWxsb2NXaXRoVmVydGljZXModmVydGljZXMsIFBhdGhUcmF2ZXJzYWw6Ok9QRU4pOwogICAgICAgICAgICBfZ2FtZU9iamVjdENvbnRhaW5lci0+YWRkQ2hpbGQocGF0aE5vZGUpOwogICAgICAgICAgICBwYXRoTm9kZS0+c2V0QWJzb2x1dGUodHJ1ZSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6d2Vha19wdHI8Tm9kZT4gd2Vha0JnQ2FudmFzID0gYmdDYW52YXM7Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBtYXJrIFJlbmRlciBpbnB1dCBVSQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>menuSc</last-search>
+      <last-search>ships and obstacles</last-search>
       <last-offset />
-      <last-pattern>menuSc</last-pattern>
+      <last-pattern>ships and obstacles</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -610,26 +622,26 @@
     </search>
     <history>
       <history-search>
-        <entry>displayLevels</entry>
-        <entry>levelGroup</entry>
-        <entry>_scrollLeftButton</entry>
-        <entry>~</entry>
-        <entry>\~</entry>
-        <entry>dispose</entry>
-        <entry>levelLayer</entry>
-        <entry>_levelButtons</entry>
-        <entry>_levelLayer</entry>
-        <entry>_scrollLeft</entry>
-        <entry>background</entry>
-        <entry>shared_from</entry>
-        <entry>bgCanvas</entry>
-        <entry>clone</entry>
-        <entry>copy</entry>
-        <entry>_layer</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
         <entry>ptrs</entry>
         <entry>menus</entry>
         <entry>menuSc</entry>
+        <entry>initializeObstacles</entry>
+        <entry>viewAnimation</entry>
+        <entry>render input</entry>
+        <entry>viewRenderable</entry>
+        <entry encoding="base64">PDw=</entry>
+        <entry>HEAD</entry>
+        <entry>out physics</entry>
+        <entry>viewPhysical</entry>
+        <entry>render anima</entry>
+        <entry>Render</entry>
+        <entry>Render Anim</entry>
+        <entry>render ani</entry>
+        <entry>viewShipInfo</entry>
+        <entry encoding="base64">PDw8</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry>ships and obstacles</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
