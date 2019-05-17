@@ -73,7 +73,7 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1558124356133">
+      <file name="/LLDB" timestamp="1558129727750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -197,8 +197,12 @@
         <mark key="^" line="25" column="62" />
         <mark key="." line="25" column="62" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1558106078672">
-        <mark key="^" line="22" column="1" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" timestamp="1558129680264">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="209" column="45" />
+        <mark key="]" line="210" column="17" />
+        <mark key="^" line="210" column="17" />
+        <mark key="." line="210" column="17" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Particles/ParticleSystem.hpp" timestamp="1557589493832">
         <mark key="[" line="113" column="37" />
@@ -438,14 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="116" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="111" column="44" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="112" column="49" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="124" column="16" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="135" column="12" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="153" column="28" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="78" column="34" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="186" column="23" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="195" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="224" column="65" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
@@ -467,7 +463,6 @@
       <jump line="182" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="177" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="185" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="375" column="18" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="371" column="32" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="365" column="26" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
@@ -538,6 +533,15 @@
       <jump line="665" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
       <jump line="666" column="23" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="277" column="35" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="304" column="97" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="76" column="30" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="140" column="72" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="70" column="17" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="207" column="47" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="206" column="27" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
+      <jump line="50" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -553,7 +557,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>_childOffset</text>
+        <text>createLevelButton</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9leGl0QnV0dG9uID0gY3JlYXRlQnV0dG9uRnJvbVRleHR1cmUoYXNzZXRzLCBHQU1FX1NDRU5FX0FTU0VUUy5leGl0S2V5KTsK</text>
@@ -599,9 +603,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_childOffset</last-search>
+      <last-search>createLevelButton</last-search>
       <last-offset />
-      <last-pattern>_childOffset</last-pattern>
+      <last-pattern>createLevelButton</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -609,10 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>menuSc</entry>
-        <entry>initializeObstacles</entry>
-        <entry>viewAnimation</entry>
-        <entry>render input</entry>
         <entry>viewRenderable</entry>
         <entry encoding="base64">PDw=</entry>
         <entry>HEAD</entry>
@@ -629,6 +629,10 @@
         <entry>EXIT_MAIN</entry>
         <entry>set up settings</entry>
         <entry>_childOffset</entry>
+        <entry>intent</entry>
+        <entry>boss</entry>
+        <entry>LoadGameIntent</entry>
+        <entry>createLevelButton</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
