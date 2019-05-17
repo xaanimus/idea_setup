@@ -74,7 +74,7 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1558062409707">
+      <file name="/LLDB" timestamp="1558064254106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -128,10 +128,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1558062616755">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" timestamp="1558064161428">
+        <mark key="'" line="121" column="34" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/user_interface/Camera2d.h" timestamp="1555343153777">
         <mark key="[" line="4" column="47" />
@@ -245,12 +247,12 @@
         <mark key="^" line="43" column="30" />
         <mark key="." line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" timestamp="1558018668556">
-        <mark key="'" line="81" column="13" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="35" />
-        <mark key="." line="44" column="35" />
-        <mark key="^" line="44" column="35" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" timestamp="1558063874662">
+        <mark key="'" line="12" column="61" />
+        <mark key="[" line="97" column="59" />
+        <mark key="]" line="97" column="59" />
+        <mark key="." line="97" column="59" />
+        <mark key="^" line="97" column="59" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/scenes/TestModalScene.h" timestamp="1557873612755">
         <mark key="[" line="10" column="43" />
@@ -392,12 +394,12 @@
       <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CULabel.h" timestamp="1558055107206">
         <mark key="'" line="734" column="4" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.h" timestamp="1557945595789">
+      <file name="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.h" timestamp="1558063793513">
         <mark key="'" line="3" column="16" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="49" />
+        <mark key="." line="26" column="49" />
+        <mark key="^" line="26" column="49" />
       </file>
       <file name="$USER_HOME$/code/interactive_g/CS-5625-Final/Demo/Main.cpp" timestamp="1556683109384">
         <mark key="[" line="0" column="19" />
@@ -435,8 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" />
       <jump line="147" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
       <jump line="57" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.h" />
       <jump line="256" column="6" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
@@ -535,10 +535,12 @@
       <jump line="127" column="3" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
       <jump line="144" column="14" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
       <jump line="129" column="41" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
+      <jump line="12" column="61" filename="$USER_HOME$/code/apps/stranger-seas/source/UserSettings.cpp" />
+      <jump line="117" column="34" filename="$USER_HOME$/code/apps/stranger-seas/source/GamePersistanceManager.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci0+amsK</text>
+      <register name="&quot;" type="4">
+        <text>attempting to load game state</text>
       </register>
       <register name="d" type="4">
         <text>lhdldf)</text>
@@ -547,16 +549,16 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>attempting to load game state</text>
       </register>
       <register name="/" type="4">
         <text>center</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zUGFuZWwtPmdldEJ1dHRvbnMoKS0+c2V0T25FeGl0KFthc3NldHNdewogICAgICAgICAgICBhdXRvIGxvYWRpbmdTY2VuZSA9IHN0ZDo6bWFrZV9zaGFyZWQ8TG9hZGluZ1NjZW5lPigKICAgICAgICAgICAgICAgIGFzc2V0cywKICAgICAgICAgICAgICAgIExvYWRpbmdTY2VuZTo6TG9hZE1lbnVJbnRlbnR7fQogICAgICAgICAgICApOwogICAgICAgICAgICBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5zZXRTY2VuZShsb2FkaW5nU2NlbmUpOwogICAgICAgIH0pOwoKICAgICAgICBvcHRpb25zUGFuZWwtPmdldEJ1dHRvbnMoKS0+c2V0T25SZXN0YXJ0KFt0aGlzXXsKICAgICAgICAgICAgKl9zaG91bGRSZXN0YXJ0R2FtZSA9IHRydWU7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5sb2coImF0dGVtcHRpbmcgdG8gbG9hZCBnYW1lIHN0YXRlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci0+amsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -581,28 +583,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDaGlsZAo=</text>
+        <text encoding="base64">ICAgIFVzZXJTZXR0aW5nczo6Z2V0U2hhcmVkU2V0dGluZ3MoKS5zZXRTaG91bGRMb2FkRnJvbURpc2soVXNlclNldHRpbmdzOjpPRkYpOwogICAgVXNlclNldHRpbmdzOjpnZXRTaGFyZWRTZXR0aW5ncygpLndyaXRlVG9EaXNrKCk7CiAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Q2xvc2VCdXR0b25WaXNpYmxlKGJvb2wgdmlzaWJpbGUpOwo=</text>
+        <text encoding="base64">ICAgIHJlYWRlci0+amsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRDaGlsZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zUGFuZWwtPmdldEJ1dHRvbnMoKS0+c2V0T25FeGl0KFthc3NldHNdewogICAgICAgICAgICBhdXRvIGxvYWRpbmdTY2VuZSA9IHN0ZDo6bWFrZV9zaGFyZWQ8TG9hZGluZ1NjZW5lPigKICAgICAgICAgICAgICAgIGFzc2V0cywKICAgICAgICAgICAgICAgIExvYWRpbmdTY2VuZTo6TG9hZE1lbnVJbnRlbnR7fQogICAgICAgICAgICApOwogICAgICAgICAgICBTdHJhbmdlclNlYXNBcHA6OmdldCgpLT5zZXRTY2VuZShsb2FkaW5nU2NlbmUpOwogICAgICAgIH0pOwoKICAgICAgICBvcHRpb25zUGFuZWwtPmdldEJ1dHRvbnMoKS0+c2V0T25SZXN0YXJ0KFt0aGlzXXsKICAgICAgICAgICAgKl9zaG91bGRSZXN0YXJ0R2FtZSA9IHRydWU7CiAgICAgICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgIHZvaWQgc2V0Q2xvc2VCdXR0b25WaXNpYmxlKGJvb2wgdmlzaWJpbGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
