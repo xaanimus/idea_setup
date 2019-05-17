@@ -161,8 +161,11 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" timestamp="1558110152818">
-        <mark key="'" line="153" column="19" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" timestamp="1558125695541">
+        <mark key="'" line="492" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" timestamp="1558125709519">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/stranger-seas/source/ecs/ECSCoding.h" timestamp="1556233325071">
         <mark key="[" line="6" column="4" />
@@ -351,8 +354,8 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1558105740972">
-        <mark key="'" line="1931" column="16" />
+      <file name="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" timestamp="1558125706661">
+        <mark key="'" line="1708" column="66" />
         <mark key="[" line="1709" column="0" />
         <mark key="]" line="1709" column="0" />
         <mark key="." line="1709" column="0" />
@@ -435,12 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="155" column="25" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="166" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="167" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="168" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="331" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="174" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="116" column="13" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="111" column="44" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
@@ -471,7 +468,6 @@
       <jump line="177" column="22" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="185" column="4" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/source/scenes/MenuScene.cpp" />
-      <jump line="91" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="375" column="18" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="371" column="32" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
       <jump line="365" column="26" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
@@ -535,6 +531,13 @@
       <jump line="292" column="113" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
       <jump line="227" column="33" filename="$USER_HOME$/code/apps/stranger-seas/source/user_interface/UIElements.cpp" />
       <jump line="416" column="18" filename="$USER_HOME$/code/apps/stranger-seas/source/ecs/systems/RendererSystem.cpp" />
+      <jump line="492" column="4" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUButton.cpp" />
+      <jump line="91" column="6" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="171" column="8" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="1708" column="66" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/include/cugl/2d/CUNode.h" />
+      <jump line="665" column="33" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="666" column="23" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/stranger-seas/deps/cugl/lib/2d/CUNode.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -550,7 +553,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>set up settings</text>
+        <text>_childOffset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9leGl0QnV0dG9uID0gY3JlYXRlQnV0dG9uRnJvbVRleHR1cmUoYXNzZXRzLCBHQU1FX1NDRU5FX0FTU0VUUy5leGl0S2V5KTsK</text>
@@ -596,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set up settings</last-search>
+      <last-search>_childOffset</last-search>
       <last-offset />
-      <last-pattern>set up settings</last-pattern>
+      <last-pattern>_childOffset</last-pattern>
       <last-replace>Array</last-replace>
       <last-substitute>Matrix</last-substitute>
       <last-dir>1</last-dir>
@@ -606,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>menus</entry>
         <entry>menuSc</entry>
         <entry>initializeObstacles</entry>
         <entry>viewAnimation</entry>
@@ -626,6 +628,7 @@
         <entry>ships and obstacles</entry>
         <entry>EXIT_MAIN</entry>
         <entry>set up settings</entry>
+        <entry>_childOffset</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
