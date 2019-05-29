@@ -2,14 +2,92 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1559164331546">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/main.rs" timestamp="1559163989419">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" timestamp="1559164296862">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="25" />
+      </file>
+      <file name="/LLDB" timestamp="1559164425278">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/monkey.yaml" timestamp="1559164318802">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559165947319">
+        <mark key="[" line="82" column="63" />
+        <mark key="]" line="82" column="63" />
+        <mark key="." line="82" column="63" />
+        <mark key="^" line="82" column="63" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="2" filename="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic2.yaml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>usize</text>
+      </register>
+      <register name="-" type="4">
+        <text>usize</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">LS0tCnBvc3RfcHJvY2VzczoKICAgIGdhbW1hOiAyLjIKICAgIGV4cG9zdXJlOiAxLjAKc2V0dGluZ3M6CiAgICByZXNvbHV0aW9uX3dpZHRoOiAxMDI0CiAgICByZXNvbHV0aW9uX2hlaWdodDogMTAyNAppbnRlZ3JhdG9yOgogICAga2luZDogUGF0aFRyYWNlcgogICAgbWF4X2JvdW5jZXM6IDEKICAgIG51bWJlcl9vZl9zYW1wbGVzOiA0CiAgICBzYW1wbGVyOgogICAgICBraW5kOiBQc2V1ZG9yYW5kb20Kc2NlbmU6CiAgICBiYWNrZ3JvdW5kX2NvbG9yOiBbMCwgMCwgMC4wMV0KICAgIGNhbWVyYToKICAgICAgICBwb3NpdGlvbjogWzAsIDEsIDEwXQogICAgICAgIGRpcmVjdGlvbjogWzAsIDAsIC0xXQogICAgICAgIHVwOiBbMCwgMSwgMF0KICAgICAgICBwbGFuZV9kaXN0YW5jZTogMTUKICAgICAgICBwbGFuZV93aWR0aDogNQogICAgICAgIHBsYW5lX2hlaWdodDogNQogICAgc2hhZGVyczoKICAgICAgICB3aGl0ZV9kaWZmdXNlOgogICAgICAgICAgICBraW5kOiBEaWZmdXNlCiAgICAgICAgICAgIGNvbG9yOiBbMC44LCAwLjgsIDEuMF0KICAgIG1lc2hlczoKICAgICAgICAtIHNyYzogJy4vLi4vbW9kZWxzL2hlbGlvcy5vYmonCiAgICAgICAgICBzaGFkZXI6ICd3aGl0ZV9kaWZmdXNlJwogICAgbGlnaHRzOgogICAgICAgIC0gcG9zaXRpb246IFsyLjUsIDIuNSwgNC41XQogICAgICAgICAgaW50ZW5zaXR5OiA0NS4wCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBHZW5lcmljU3RhdGlzdGljczo6ZnJvbSh0cmVlLCB8dnwgdi4pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezojP30iLCB0cmVlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1lZGlhbjogZjMyLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZuIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
