@@ -2,63 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559159671687" />
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/mod.rs" timestamp="1559159677089" />
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/shader.rs" timestamp="1559158992709" />
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" timestamp="1559161069985">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/material.rs" timestamp="1559159669899" />
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1559159156629">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559159675458" />
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559161046649">
-        <mark key="[" line="105" column="47" />
-        <mark key="]" line="105" column="46" />
-        <mark key="^" line="105" column="46" />
-        <mark key="." line="105" column="46" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>0</text>
-      </register>
-      <register name="/" type="4">
-        <text>chi</text>
-      </register>
-    </registers>
+    <registers />
     <search>
-      <last-search>chi</last-search>
-      <last-offset />
-      <last-pattern>chi</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>children</entry>
-        <entry>chi</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
