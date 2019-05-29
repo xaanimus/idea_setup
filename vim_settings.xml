@@ -2,14 +2,32 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1559162233276">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" timestamp="1559162382551" />
+      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1559162435555" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559162006127" />
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz53</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
