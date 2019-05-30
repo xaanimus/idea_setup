@@ -6,24 +6,64 @@
       <file name="/Dummy.txt" timestamp="1559162233276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" timestamp="1559162382551" />
-      <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1559162435555" />
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559162006127" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/bsdfSampling/bunny-norms.xml" timestamp="1559233442624" />
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" timestamp="1559233701477">
+        <mark key="'" line="124" column="44" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/RayTracer.java" timestamp="1559233611461">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="40" />
+        <mark key="^" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+      </file>
+      <file name="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/data/scenes/bsdfSampling/monkey.xml" timestamp="1559233706644">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1559233518358">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="56" column="24" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" />
+      <jump line="124" column="44" filename="$USER_HOME$/Work/sp18/graphics_cs/solns/code/solution/a7/src/ray2/integrator/BSDFSamplingIntegrator.java" />
+    </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICA8YnNkZiBuYW1lPSJidW5ueSIgdHlwZT0iTWljcm9mYWNldEJTREYiPgogICAgPGRpZmZ1c2VDb2xvcj4wLjggMC40IDAuMTwvZGlmZnVzZUNvbG9yPgogICAgPHNwZWN1bGFyQ29sb3I+MC45IDAuNyAwLjM8L3NwZWN1bGFyQ29sb3I+CiAgPC9ic2RmPgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>1</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDQ1MCA0NTAK</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text>depth</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>depth</last-search>
+      <last-offset />
+      <last-pattern>depth</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>depth</entry>
+      </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
