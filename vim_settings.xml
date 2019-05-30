@@ -31,14 +31,14 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="/LLDB" timestamp="1559255940322">
+      <file name="/LLDB" timestamp="1559258101932">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/monkey.yaml" timestamp="1559249892788">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/monkey.yaml" timestamp="1559257978885">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="52" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1559251571965">
         <mark key="[" line="236" column="0" />
@@ -46,13 +46,13 @@
         <mark key="." line="236" column="0" />
         <mark key="^" line="233" column="14" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559256063734">
-        <mark key="[" line="128" column="44" />
-        <mark key="]" line="128" column="44" />
-        <mark key="^" line="128" column="44" />
-        <mark key="." line="128" column="44" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559258084396">
+        <mark key="[" line="128" column="38" />
+        <mark key="]" line="128" column="45" />
+        <mark key="^" line="128" column="45" />
+        <mark key="." line="128" column="45" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559254668024">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559258114013">
         <mark key="'" line="301" column="0" />
         <mark key="[" line="304" column="0" />
         <mark key="]" line="304" column="0" />
@@ -89,10 +89,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>85, 169</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>85, 169</text>
       </register>
       <register name="/" type="4">
         <text>vn_vec</text>
