@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1559254866007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559250398487">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559258755988">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="^" line="118" column="90" />
@@ -31,7 +31,7 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="/LLDB" timestamp="1559258101932">
+      <file name="/LLDB" timestamp="1559258729487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/monkey.yaml" timestamp="1559257978885">
@@ -52,7 +52,7 @@
         <mark key="^" line="128" column="45" />
         <mark key="." line="128" column="45" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559258114013">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559258748126">
         <mark key="'" line="301" column="0" />
         <mark key="[" line="304" column="0" />
         <mark key="]" line="304" column="0" />
