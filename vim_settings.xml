@@ -5,15 +5,79 @@
     <filemarks>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1559234732272" />
       <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559237599704" />
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559237674495" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559248322055">
+        <mark key="'" line="314" column="3" />
+        <mark key="[" line="239" column="19" />
+        <mark key="]" line="239" column="19" />
+        <mark key="." line="239" column="19" />
+        <mark key="^" line="239" column="19" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="184" column="34" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="320" column="21" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="176" column="3" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="256" column="31" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="264" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="268" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="281" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="303" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="236" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+      <jump line="304" column="3" filename="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgZm4gc2hhZGVfcmF5KCZzZWxmLCByYXk6ICZSYXlVbml0LCBzY2VuZTogJlNjZW5lLCBzYW1wbGVyOiAmbXV0IE51bWJlclNlcXVlbmNlU2FtcGxlcikgLT4gQ29sb3IzIHsKLy8KLy8gICAgICAgIGxldCBudW1fYm91bmNlcyA9IGlmIHNlbGYubWF4X2JvdW5jZXMgPT0gMCB7Ci8vICAgICAgICAgICAgMAovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICByYW5kOjpyYW5kb206Ojx1MzI+KCkgJSBzZWxmLm1heF9ib3VuY2VzCi8vICAgICAgICB9OwovLwovLyAgICAgICAgbGV0IG11dCBwYXRoX2FjY3VtdWxhdGlvbl9tdWx0aXBsaWVyID0gQ29sb3IzOjpuZXcoMS4wLCAxLjAsIDEuMCk7Ci8vICAgICAgICBsZXQgbXV0IGFjY3VtdWxhdGVkX2NvbG9yID0gQ29sb3IzOjpuZXcoMC4wLCAwLjAsIDAuMCk7Ci8vICAgICAgICBsZXQgbXV0IGN1cnJlbnRfcmF5ID0gcmF5LmNsb25lKCk7Ci8vICAgICAgICBmb3IgXyBpbiAwLi4oc2VsZi5tYXhfYm91bmNlcyArIDEpIHsKLy8gICAgICAgICAgICBsZXQgb3V0Z29pbmdfbGlnaHRfZGlyZWN0aW9uID0gY3VycmVudF9yYXkuZGlyZWN0aW9uLmNsb25lKCkubmVnKCk7Ci8vCi8vICAgICAgICAgICAgbGV0IGludGVyc2VjdGlvbl9yZWNvcmQgPSBzY2VuZS5pbnRlcnNlY3QoJmN1cnJlbnRfcmF5KTsKLy8gICAgICAgICAgICBpZiBpbnRlcnNlY3Rpb25fcmVjb3JkLmludGVyc2VjdGVkKCkgewovLyAgICAgICAgICAgICAgICBsZXQgc2hhZGVyID0gaW50ZXJzZWN0aW9uX3JlY29yZC5zaGFkZXIKLy8gICAgICAgICAgICAgICAgICAgIC51bndyYXBfb3JfZWxzZSh8fCBSYzo6bmV3KGRlZmF1bHRfc2hhZGVyKCkpKTsKLy8gICAgICAgICAgICAgICAgbGV0IG5vcm1hbDogVW5pdFZlYzMgPSBpbnRlcnNlY3Rpb25fcmVjb3JkLm5vcm1hbC51bml0KCk7Ci8vCi8vICAgICAgICAgICAgICAgIC8vIGFkZCBzY2VuZSBsaWdodCBjb250cmlidXRpb24KLy8gICAgICAgICAgICAgICAgbGV0IG11dCBsaWdodF9jb250cmlidXRpb24gPSBDb2xvcjM6Om5ldygwLjAsIDAuMCwgMC4wKTsKLy8gICAgICAgICAgICAgICAgZm9yIGxpZ2h0IGluICZzY2VuZS5saWdodHMgewovLyAgICAgICAgICAgICAgICAgICAgbGV0IGxpZ2h0X29ic3RydWN0aW9uX2ludGVyc2VjdGlvbiA9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmUuaW50ZXJzZWN0X2Zvcl9vYnN0cnVjdGlvbigKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJzZWN0aW9uX3JlY29yZC5wb3NpdGlvbiwgbGlnaHQucG9zaXRpb24uZ2V0KCkpOwovLyAgICAgICAgICAgICAgICAgICAgaWYgbGlnaHRfb2JzdHJ1Y3Rpb25faW50ZXJzZWN0aW9uLmludGVyc2VjdGVkKCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgICAgICAgICAgbGV0IGluY29taW5nX2xpZ2h0X3ZlY3RvcjogVmVjMyA9IGxpZ2h0LnBvc2l0aW9uLmdldCgpIC0gaW50ZXJzZWN0aW9uX3JlY29yZC5wb3NpdGlvbjsKLy8gICAgICAgICAgICAgICAgICAgIGxldCBpbmNvbWluZ19saWdodF9kaXJlY3Rpb24gPSBVbml0VmVjMzo6bmV3KCZpbmNvbWluZ19saWdodF92ZWN0b3IpOwovLyAgICAgICAgICAgICAgICAgICAgbGV0IGRpc3RhbmNlX3RvX2xpZ2h0OiBmMzIgPSBpbmNvbWluZ19saWdodF92ZWN0b3IubWFnbml0dWRlKCk7Ci8vCi8vICAgICAgICAgICAgICAgICAgICBsZXQgbGlnaHRfcmFkaWFuY2Vfb25fc3VyZmFjZSA9IGxpZ2h0LmludGVuc2l0eSAvIGRpc3RhbmNlX3RvX2xpZ2h0LnBvd2koMik7Ci8vICAgICAgICAgICAgICAgICAgICBsZXQgYnJkZl9jb3NfdmFsdWUgPSBzaGFkZXIuYnJkZl9jb3NpbmVfdGVybSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAmbm9ybWFsLAovLyAgICAgICAgICAgICAgICAgICAgICAgICZMaWdodERpcmVjdGlvblBhaXIgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmNvbWluZzogJmluY29taW5nX2xpZ2h0X2RpcmVjdGlvbiwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0Z29pbmc6ICZvdXRnb2luZ19saWdodF9kaXJlY3Rpb24KLy8gICAgICAgICAgICAgICAgICAgICAgICB9KTsKLy8gICAgICAgICAgICAgICAgICAgIGxldCB0aGlzX2xpZ2h0X2NvbnRyaWJ0aW9uID0gYnJkZl9jb3NfdmFsdWUgKiBsaWdodF9yYWRpYW5jZV9vbl9zdXJmYWNlOwovLyAgICAgICAgICAgICAgICAgICAgbGlnaHRfY29udHJpYnV0aW9uICs9IHRoaXNfbGlnaHRfY29udHJpYnRpb247Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgYWNjdW11bGF0ZWRfY29sb3IgKz0KLy8gICAgICAgICAgICAgICAgICAgIHBhdGhfYWNjdW11bGF0aW9uX211bHRpcGxpZXIubXVsX2VsZW1lbnRfd2lzZShsaWdodF9jb250cmlidXRpb24pOwovLwovLyAgICAgICAgICAgICAgICAvLyBhZGQgYnJkZiBsaWdodCBjb250cmlidXRpb24KLy8gICAgICAgICAgICAgICAgbGV0IHNhbXBsZWRfaW5jb21pbmdfZGlyZWN0aW9uID0gc2hhZGVyLnNhbXBsZV9ib3VuY2UoJm5vcm1hbCwgJm91dGdvaW5nX2xpZ2h0X2RpcmVjdGlvbiwgc2FtcGxlcik7Ci8vICAgICAgICAgICAgICAgIHsgLy8gbGlnaHRfZGlyZWN0aW9ucyBib3Jyb3cgc2NvcGUKLy8gICAgICAgICAgICAgICAgICAgIGxldCBsaWdodF9kaXJlY3Rpb25zID0gJkxpZ2h0RGlyZWN0aW9uUGFpciB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgaW5jb21pbmc6ICZzYW1wbGVkX2luY29taW5nX2RpcmVjdGlvbiwKLy8gICAgICAgICAgICAgICAgICAgICAgICBvdXRnb2luZzogJm91dGdvaW5nX2xpZ2h0X2RpcmVjdGlvbgovLyAgICAgICAgICAgICAgICAgICAgfTsKLy8gICAgICAgICAgICAgICAgICAgIGxldCBicmRmX3NhbXBsZV9wZGYgPSBzaGFkZXIucHJvYmFiaWxpdHlfb2Zfc2FtcGxlKCZub3JtYWwsIGxpZ2h0X2RpcmVjdGlvbnMpOwovLyAgICAgICAgICAgICAgICAgICAgbGV0IGJyZGZfY29zX3ZhbHVlID0gc2hhZGVyLmJyZGZfY29zaW5lX3Rlcm0oJm5vcm1hbCwgbGlnaHRfZGlyZWN0aW9ucyk7Ci8vICAgICAgICAgICAgICAgICAgICBwYXRoX2FjY3VtdWxhdGlvbl9tdWx0aXBsaWVyCi8vICAgICAgICAgICAgICAgICAgICAgICAgLm11bF9hc3NpZ25fZWxlbWVudF93aXNlKGJyZGZfY29zX3ZhbHVlIC8gYnJkZl9zYW1wbGVfcGRmKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBjdXJyZW50X3JheSA9IFJheVVuaXQ6Om5ld19lcHNpbG9uX29mZnNldCgKLy8gICAgICAgICAgICAgICAgICAgIGludGVyc2VjdGlvbl9yZWNvcmQucG9zaXRpb24sCi8vICAgICAgICAgICAgICAgICAgICBzYW1wbGVkX2luY29taW5nX2RpcmVjdGlvbik7Ci8vICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgYWNjdW11bGF0ZWRfY29sb3IgKz0KLy8gICAgICAgICAgICAgICAgICAgIHBhdGhfYWNjdW11bGF0aW9uX211bHRpcGxpZXIubXVsX2VsZW1lbnRfd2lzZShzY2VuZS5iYWNrZ3JvdW5kX2NvbG9yKTsKLy8gICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfQovLwovLyAgICAgICAgYWNjdW11bGF0ZWRfY29sb3IKLy8gICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZuIHNoYWRlX3JheV9pbnRlcm4oJnNlbGYsIHJheTogJlJheVVuaXQsIHNjZW5lOiAmU2NlbmUsIHNhbXBsZXI6ICZtdXQgTnVtYmVyU2VxdWVuY2VTYW1wbGVyLCBkZXB0aDogdTMyKSAtPiBDb2xvcjMgewogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>trace_path</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>trace_path</last-search>
+      <last-offset />
+      <last-pattern>trace_path</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>trace_path</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
