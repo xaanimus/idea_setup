@@ -4,6 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1559234732272" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559237599704" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559237674495" />
     </filemarks>
     <jumps />
     <registers />
