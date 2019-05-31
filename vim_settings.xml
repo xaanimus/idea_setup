@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559263177624">
+      <file name="/Dummy.txt" timestamp="1559309531651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1559260253191">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="59" />
-        <mark key="." line="201" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1559309213265">
+        <mark key="[" line="174" column="27" />
+        <mark key="]" line="174" column="27" />
+        <mark key="." line="174" column="27" />
+        <mark key="^" line="174" column="27" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" timestamp="1559255500340">
         <mark key="'" line="45" column="13" />
@@ -18,11 +19,11 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1559263195197">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1559309567215">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1559262796566">
         <mark key="'" line="143" column="4" />
@@ -31,24 +32,24 @@
         <mark key="." line="234" column="61" />
         <mark key="^" line="234" column="61" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559259500185">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559308525294">
         <mark key="'" line="301" column="0" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="^" line="283" column="99" />
-        <mark key="." line="304" column="0" />
+        <mark key="[" line="299" column="53" />
+        <mark key="]" line="299" column="57" />
+        <mark key="^" line="299" column="57" />
+        <mark key="." line="299" column="57" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/.cargo/config" timestamp="1559260195348">
+      <file name="$USER_HOME$/code/apps/xsray/.cargo/config" timestamp="1559309426482">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559263072141">
-        <mark key="[" line="139" column="30" />
-        <mark key="]" line="139" column="30" />
-        <mark key="^" line="139" column="30" />
-        <mark key="." line="139" column="30" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559307544441">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559259509896">
         <mark key="[" line="119" column="0" />
@@ -71,16 +72,24 @@
       <file name="/LLDB" timestamp="1559259487747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/monkey.yaml" timestamp="1559263107939">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny2.yaml" timestamp="1559310739562">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559263171240">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/sampler.rs" timestamp="1559307200539" />
+      <file name="$USER_HOME$/code/apps/xsray/assets/scenes/monkey.yaml" timestamp="1559308289428">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559310048137">
+        <mark key="[" line="197" column="11" />
+        <mark key="]" line="197" column="31" />
+        <mark key="." line="197" column="31" />
+        <mark key="^" line="197" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -115,46 +124,45 @@
       <jump line="143" column="4" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHgsIHkpID09ICg0MDksIDUwMykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoImVlZWUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>_problematic_triangles</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>position_0</text>
       </register>
-      <register name="0" type="8">
-        <text>.accurate_subtraction(
-.accurate_subtraction(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNhbXBsZXI6CiAgICAgIGtpbmQ6IFBzZXVkb3JhbmRvbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHgsIHkpID09ICg0MDksIDUwMykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoImVlZWUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmN1cnJlbnRfcGl4ZWxfeCA9PSAwICYmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9hc2RmOiBWZWMzCg==</text>
+        <text encoding="base64">ICAgICAgICB1bnNhZmUgeyB9Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">LSAKLSA=</text>
-      </register>
-      <register name="5" type="8">
-        <text>(
-(</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHgsIHkpID09ICg0MDksIDUwMykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoImVlZWUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5vcm1hbAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW52ZXJzZV9kaXJlY3Rpb24gPSByYXkuCg==</text>
+        <text encoding="base64">ICAgIF9hc2RmOiBWZWMzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIG1ha2UgdGhpcyBsZXNzIHVnbHkK</text>
+      <register name="8" type="8">
+        <text encoding="base64">LSAKLSA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJm9iajo6cmF3OjpvYmplY3Q6OlBvbHlnb246OlBOKHJlZiB2bl92ZWMpIGlmIHZuX3ZlYy5sZW4oKSAhPSAzID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiBFcnIoU2NlbmVFcnJvcigiRmF0YWwgZXJyb3I6IHBvbHlnb25zIG11c3QgYmUgdHJpYW5nbGVzISIuaW50bygpKSk7CiAgICAgICAgICAgIH0sCg==</text>
+      <register name="9" type="8">
+        <text>(
+(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -191,6 +199,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
