@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1559309531651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1559336275188">
-        <mark key="'" line="43" column="37" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="59" />
-        <mark key="." line="174" column="27" />
-        <mark key="^" line="174" column="27" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1559404115520">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="262" column="24" />
+        <mark key="]" line="262" column="24" />
+        <mark key="." line="262" column="24" />
+        <mark key="^" line="105" column="69" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" timestamp="1559335794747">
         <mark key="'" line="45" column="13" />
@@ -33,19 +33,19 @@
         <mark key="." line="284" column="0" />
         <mark key="^" line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559308525294">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559404334131">
         <mark key="'" line="301" column="0" />
-        <mark key="[" line="299" column="53" />
-        <mark key="]" line="299" column="57" />
+        <mark key="[" line="176" column="23" />
+        <mark key="]" line="176" column="23" />
         <mark key="^" line="299" column="57" />
-        <mark key="." line="299" column="57" />
+        <mark key="." line="176" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559339181472">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="38" />
-        <mark key="^" line="23" column="38" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559404463064">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559336400445">
         <mark key="[" line="5" column="3" />
@@ -53,23 +53,29 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559404315512">
+        <mark key="[" line="252" column="43" />
+        <mark key="]" line="252" column="43" />
+        <mark key="." line="252" column="43" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/.cargo/config" timestamp="1559309426482">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559339023287">
-        <mark key="[" line="143" column="86" />
-        <mark key="]" line="143" column="86" />
-        <mark key="." line="143" column="86" />
-        <mark key="^" line="143" column="86" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559404552322">
+        <mark key="'" line="154" column="19" />
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="5" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559259509896">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559404248823">
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="118" column="29" />
         <mark key="^" line="118" column="90" />
-        <mark key="." line="119" column="0" />
+        <mark key="." line="118" column="29" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/two_tri.yaml" timestamp="1559255855671">
         <mark key="[" line="32" column="17" />
@@ -77,14 +83,17 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1559260495687">
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="48" column="34" />
-        <mark key="." line="48" column="34" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1559404326097">
+        <mark key="'" line="131" column="21" />
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="24" />
+        <mark key="." line="131" column="24" />
         <mark key="^" line="47" column="18" />
       </file>
-      <file name="/LLDB" timestamp="1559259487747">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/camera.rs" timestamp="1559404137632">
+        <mark key="[" line="102" column="11" />
+        <mark key="]" line="102" column="11" />
+        <mark key="." line="102" column="11" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny2.yaml" timestamp="1559310739562">
         <mark key="[" line="10" column="24" />
@@ -157,57 +166,70 @@
       <jump line="33" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="43" column="37" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="12" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="43" column="20" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="44" column="4" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="45" column="4" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="134" column="29" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="135" column="73" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="136" column="14" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="143" column="82" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="144" column="28" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="150" column="29" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="17" column="9" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="154" column="19" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
+      <jump line="5" column="21" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
+      <jump line="131" column="21" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl9iaWdfZXBzaWxvbigpIC0+IFNjYWxhcjsK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>Align</text>
+        <text>RayUnit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl96ZXJvKCkgLT4gU2NhbGFyOwogICAgZm4gc2NhbGFyX2luZigpIC0+IFNjYWxhcjsKICAgIGZuIHNjYWxhcl9iaWdfZXBzaWxvbigpIC0+IFNjYWxhcjsK</text>
+        <text encoding="base64">ICAgIHR5cGUgVmVjdG9yMyA9IGNnbWF0aDo6VmVjdG9yMzxTZWxmOjpTY2FsYXI+OwogICAgdHlwZSBVbml0VmVjdG9yMyA9IG1hdGg6OlVuaXRWZWN0b3IzPFNlbGY6OlNjYWxhcj47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl9iaWdfZXBzaWxvbigpIC0+IFNjYWxhcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIE46IE11bHRpTnVtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl9pbmYoKSAtPiBTY2FsYXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBmbiBzY2FsYXJfemVybygpIC0+IFNjYWxhcjsKICAgIGZuIHNjYWxhcl9pbmYoKSAtPiBTY2FsYXI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBmbiBzY2FsYXJfemVybygpIC0+IGYzMiB7CiAgICAgICAgZjMyOjpaRVJPCiAgICB9CgogICAgZm4gc2NhbGFyX2luZigpIC0+IGYzMiB7CiAgICAgICAgZjMyOjpJTkZJTklUWQogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHR5cGUgU2NhbGFyID0gZjMyOwoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBmbiBzY2FsYXJfemVybygpIC0+IGYzMiB7CiAgICAgICAgZjMyOjpaRVJPCiAgICB9CgogICAgZm4gc2NhbGFyX2luZigpIC0+IGYzMiB7CiAgICAgICAgZjMyOjpJTkZJTklUWQogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Zm4gYnJvYWRjYXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFNDQUxBUl9aRVJPOiBTY2FsYXIgPSBTaW1kRmxvYXQ0OjpuZXcoMC4wLjAsIDAuMCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl96ZXJvKCkgLT4gU2ltZEZsb2F0NCB7CiAgICAgICAgU2ltZEZsb2F0NDo6CiAgICB9CgogICAgZm4gc2NhbGFyX2luZigpIC0+IFNpbWRGbG9hdDQgewogICAgICAgIHVuaW1wbGVtZW50ZWQhKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIGZuIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Align</last-search>
+      <last-search>RayUnit</last-search>
       <last-offset />
-      <last-pattern>Align</last-pattern>
-      <last-replace>pn_vec</last-replace>
-      <last-substitute>vn_vec</last-substitute>
+      <last-pattern>RayUnit</last-pattern>
+      <last-replace>Float8</last-replace>
+      <last-substitute>Float4</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -217,12 +239,16 @@
         <entry>vn_vec</entry>
         <entry>position_0</entry>
         <entry>Align</entry>
+        <entry>Float4</entry>
+        <entry>Ray</entry>
+        <entry>RayUnit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZuX3ZlYy9wbl92ZWMvZw==</entry>
         <entry>we</entry>
         <entry>qw</entry>
         <entry>&quot;w</entry>
+        <entry>s/Float4/Float8/g</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
