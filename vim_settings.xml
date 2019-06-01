@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1559309531651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1559404115520">
-        <mark key="'" line="5" column="21" />
-        <mark key="[" line="262" column="24" />
-        <mark key="]" line="262" column="24" />
-        <mark key="." line="262" column="24" />
-        <mark key="^" line="105" column="69" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" timestamp="1559421821792">
+        <mark key="'" line="183" column="11" />
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" timestamp="1559335794747">
         <mark key="'" line="45" column="13" />
@@ -40,11 +40,12 @@
         <mark key="^" line="299" column="57" />
         <mark key="." line="176" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559418167972">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="40" column="56" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559420763341">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559336400445">
         <mark key="[" line="5" column="3" />
@@ -63,12 +64,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559418051061">
-        <mark key="'" line="154" column="19" />
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="54" column="36" />
-        <mark key="." line="54" column="36" />
-        <mark key="^" line="54" column="36" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559420639644">
+        <mark key="'" line="157" column="19" />
+        <mark key="[" line="153" column="36" />
+        <mark key="]" line="154" column="20" />
+        <mark key="." line="154" column="20" />
+        <mark key="^" line="154" column="20" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559404248823">
         <mark key="[" line="118" column="29" />
@@ -164,7 +165,6 @@
       <jump line="49" column="25" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="33" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="43" column="37" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
-      <jump line="12" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="43" column="20" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="44" column="4" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="45" column="4" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
@@ -179,55 +179,74 @@
       <jump line="5" column="21" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
       <jump line="131" column="21" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" />
       <jump line="25" column="4" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="167" column="11" filename="$USER_HOME$/code/apps/xsray/src/utilities/simd.rs" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="8" column="10" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="12" column="5" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="122" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="97" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>$output_tn</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>$output_tn</text>
       </register>
       <register name="/" type="4">
-        <text>RayUnit</text>
+        <text>Sqrt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIEVsZW0gOiBNdWw8T3V0cHV0ID0gRWxlbT4gKyBBZGQ8T3V0cHV0ID0gRWxlbT4gKyBTcXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAjW2NmZyhhbGwodGFyZ2V0X2FyY2ggPSAieDg2XzY0IiwgdGFyZ2V0X2ZlYXR1cmUgPSAic3NlMiIpKV0KICAgICAgICBpbXBsICR0biBmb3IgU2ltZEZsb2F0NCB7CiAgICAgICAgICAgIHR5cGUgT3V0cHV0ID0gJG91dHB1dF90bjsKICAgICAgICAgICAgZm4gJGZubmFtZShzZWxmLCByaHM6IFNpbWRGbG9hdDQpIC0+IHsgJGJpbm9wNCB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIEVsZW0gOiBNdWw8T3V0cHV0ID0gRWxlbT4gKyBBZGQ8T3V0cHV0ID0gRWxlbT4gKyBTcXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wbCBTcXJ0IGZvciBmCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">I1tjZmcoYWxsKHRhcmdldF9hcmNoID0gIng4Nl82NCIsIHRhcmdldF9mZWF0dXJlID0gImF2eCIpKV0KaW1wbCBEaXYgZm9yIFNpbWRGbG9hdDggewogICAgdHlwZSBPdXRwdXQgPSBTaW1kRmxvYXQ4OwoKICAgIGZuIG11bChzZWxmLCByaHM6IFNpbWRGbG9hdDgpIC0+IFNpbWRGbG9hdDggewogICAgICAgIHVuc2FmZSB7IGludHJpbjo6X21tMjU2X211bF9wcyhzZWxmLjAsIHJocy4wKS5pbnRvKCkgfQogICAgfQp9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZWxmOjpjcmVhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RWxlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHR5cGUgRWxlbTogQWRkICsgTXVsOwo=</text>
+        <text encoding="base64">CmltcGw8VD4gTmVnIGZvciBjZ21hdGg6OlZlY3RvcjM8VD4KICAgIHdoZXJlIGNnbWF0aDo6VmVjdG9yMzxUPjogVmVjM09wczxUPgp7CiAgICB0eXBlIE91dHB1dCA9IFNlbGY7CgogICAgZm4gbmVnKHNlbGYpIC0+IFNlbGY6Ok91dHB1dCB7CiAgICAgICAgU2VsZjo6Y3JlYXRlKC1zZWxmLngsIC1zZWxmLnksIC1zZWxmLnopCiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RayUnit</last-search>
+      <last-search>Sqrt</last-search>
       <last-offset />
-      <last-pattern>RayUnit</last-pattern>
+      <last-pattern>Sqrt</last-pattern>
       <last-replace>Float8</last-replace>
       <last-substitute>Float4</last-substitute>
       <last-dir>1</last-dir>
@@ -242,6 +261,7 @@
         <entry>Float4</entry>
         <entry>Ray</entry>
         <entry>RayUnit</entry>
+        <entry>Sqrt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZuX3ZlYy9wbl92ZWMvZw==</entry>
