@@ -33,19 +33,19 @@
         <mark key="." line="284" column="0" />
         <mark key="^" line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559519163198">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559521971425">
         <mark key="'" line="301" column="0" />
         <mark key="[" line="183" column="33" />
         <mark key="]" line="183" column="30" />
         <mark key="^" line="183" column="30" />
         <mark key="." line="183" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559521046656">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559521798024">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="141" column="7" />
-        <mark key="]" line="141" column="7" />
-        <mark key="." line="141" column="7" />
-        <mark key="^" line="151" column="32" />
+        <mark key="[" line="153" column="38" />
+        <mark key="]" line="153" column="47" />
+        <mark key="." line="153" column="47" />
+        <mark key="^" line="153" column="47" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559336400445">
         <mark key="[" line="5" column="3" />
@@ -64,12 +64,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559519647905">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559521160123">
         <mark key="'" line="166" column="19" />
-        <mark key="[" line="154" column="31" />
-        <mark key="]" line="154" column="50" />
-        <mark key="." line="154" column="50" />
-        <mark key="^" line="154" column="50" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="29" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559404248823">
         <mark key="[" line="118" column="29" />
@@ -95,7 +95,7 @@
         <mark key="]" line="102" column="11" />
         <mark key="." line="102" column="11" />
       </file>
-      <file name="/LLDB" timestamp="1559519864307">
+      <file name="/LLDB" timestamp="1559521982397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny2.yaml" timestamp="1559310739562">
@@ -116,11 +116,11 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559310048137">
-        <mark key="[" line="197" column="11" />
-        <mark key="]" line="197" column="31" />
-        <mark key="." line="197" column="31" />
-        <mark key="^" line="197" column="31" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559522079601">
+        <mark key="[" line="128" column="32" />
+        <mark key="]" line="128" column="42" />
+        <mark key="." line="128" column="42" />
+        <mark key="^" line="128" column="42" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/multi_triangle.rs" timestamp="1559338889992">
         <mark key="[" line="2" column="0" />
@@ -203,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>Sqrt</text>
@@ -215,7 +215,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBmOiBGbihTaW1kRmxvYXQ0LCBTaW1kRmxvYXQ0KSAtPiBTaW1kRmxvYXQ0ID0gJGJpbm9wNDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNxcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -264,22 +264,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmMzI6OnNxcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHRlc3RfYyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8U2VsZiBhcyBmMzI+LnNxcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmMzI6OkVQCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNDQUxBUl9aRVJPOiBTZWxmOjpTY2FsYXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8jW2Rlcml2ZShDbG9uZSldCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNxcnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmMzI6OnNxcnQoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -291,10 +291,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBmOiBGbihTaW1kRmxvYXQ4LCBTaW1kRmxvYXQ4KSAtPiBTaW1kRmxvYXQ4ID0gJGJpbm9wODsK</text>
+        <text encoding="base64">ICAgICAgICA8U2VsZiBhcyBmMzI+LnNxcnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBmOiBGbihTaW1kRmxvYXQ0LCBTaW1kRmxvYXQ0KSAtPiBTaW1kRmxvYXQ0ID0gJGJpbm9wNDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFNDQUxBUl9aRVJPOiBTZWxmOjpTY2FsYXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
