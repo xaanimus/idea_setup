@@ -20,10 +20,11 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/cmp_util.rs" timestamp="1559601074105">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/cmp_util.rs" timestamp="1559602008189">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1559309567215">
         <mark key="[" line="11" column="0" />
@@ -209,11 +210,11 @@
       <jump line="57" column="58" filename="$USER_HOME$/code/apps/xsray/src/engine/multi_triangle.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGYzMg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IGYzMg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Jg==</text>
@@ -245,19 +246,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">Jgom</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZuIGJvb2xfYW5kKGE6IFNlbGY6OkJvb2wsIGI6IFNlbGY6OkJvb2wpIC0+IFNlbGY6OkJvb2w7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIE46OmJvb2xfYW5kKHVfb3V0KQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVfb3V0Cg==</text>
+        <text encoding="base64">ICAgIE46OmJvb2xfYW5kKHVfb3V0KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -269,10 +270,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVfb3V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBpc192YWxpZF9pbnRlcnNlY3Rpb24gPQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
