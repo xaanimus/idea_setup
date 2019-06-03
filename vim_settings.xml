@@ -26,14 +26,14 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1559336355759">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" timestamp="1559522737853">
         <mark key="'" line="143" column="4" />
         <mark key="[" line="285" column="0" />
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
         <mark key="^" line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559521971425">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559522527754">
         <mark key="'" line="301" column="0" />
         <mark key="[" line="183" column="33" />
         <mark key="]" line="183" column="30" />
@@ -90,12 +90,12 @@
         <mark key="." line="131" column="24" />
         <mark key="^" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/camera.rs" timestamp="1559404137632">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/camera.rs" timestamp="1559522479063">
         <mark key="[" line="102" column="11" />
         <mark key="]" line="102" column="11" />
         <mark key="." line="102" column="11" />
       </file>
-      <file name="/LLDB" timestamp="1559521982397">
+      <file name="/LLDB" timestamp="1559522102606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny2.yaml" timestamp="1559310739562">
@@ -116,11 +116,11 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559522079601">
-        <mark key="[" line="128" column="32" />
-        <mark key="]" line="128" column="42" />
-        <mark key="." line="128" column="42" />
-        <mark key="^" line="128" column="42" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/renderer.rs" timestamp="1559522153315">
+        <mark key="[" line="129" column="43" />
+        <mark key="]" line="129" column="43" />
+        <mark key="." line="129" column="43" />
+        <mark key="^" line="129" column="43" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/multi_triangle.rs" timestamp="1559338889992">
         <mark key="[" line="2" column="0" />
