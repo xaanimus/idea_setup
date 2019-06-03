@@ -40,12 +40,12 @@
         <mark key="^" line="183" column="30" />
         <mark key="." line="183" column="30" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559519983221">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559521046656">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="136" column="81" />
-        <mark key="]" line="136" column="100" />
-        <mark key="." line="136" column="100" />
-        <mark key="^" line="136" column="100" />
+        <mark key="[" line="141" column="7" />
+        <mark key="]" line="141" column="7" />
+        <mark key="." line="141" column="7" />
+        <mark key="^" line="151" column="32" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559336400445">
         <mark key="[" line="5" column="3" />
@@ -203,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SCALAR_BIG_EPSILON</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>SCALAR_BIG_EPSILON</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Sqrt</text>
