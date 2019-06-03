@@ -33,15 +33,15 @@
         <mark key="." line="284" column="0" />
         <mark key="^" line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559530761783">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559575838508">
         <mark key="'" line="301" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559531399669">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559576351263">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="56" column="68" />
-        <mark key="]" line="56" column="68" />
-        <mark key="." line="56" column="68" />
-        <mark key="^" line="56" column="68" />
+        <mark key="[" line="95" column="21" />
+        <mark key="]" line="95" column="26" />
+        <mark key="." line="95" column="26" />
+        <mark key="^" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559336400445">
         <mark key="[" line="5" column="3" />
@@ -49,7 +49,7 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559532564726">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559575731067">
         <mark key="[" line="252" column="43" />
         <mark key="]" line="252" column="43" />
         <mark key="." line="252" column="43" />
@@ -60,7 +60,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559404248823">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559576636699">
+        <mark key="[" line="64" column="6" />
+        <mark key="]" line="64" column="11" />
+        <mark key="." line="64" column="11" />
+        <mark key="^" line="64" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559575943407">
         <mark key="[" line="118" column="29" />
         <mark key="]" line="118" column="29" />
         <mark key="^" line="118" column="90" />
@@ -106,10 +112,11 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/multi_triangle.rs" timestamp="1559338889992">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/multi_triangle.rs" timestamp="1559576647253">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="25" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -187,19 +194,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHgseSkgPT0gKDI0NCwyNykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoImVlZSIpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Sqrt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBmOiBGbihTaW1kRmxvYXQ0LCBTaW1kRmxvYXQ0KSAtPiBTaW1kRmxvYXQ0ID0gJGJpbm9wNDsK</text>
+        <text encoding="base64">ICAgIGZuIHNjYWxhcl9vbmUoKSAtPiBTaW1kRmxvYXQ0IHsgU2ltZEZsb2F0NDo6bmV3X3JlcGVhdGluZyhNdWx0aU51bTE6OnNjYWxhcl9vbmUoKSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHgseSkgPT0gKDI0NCwyNykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoImVlZSIpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -248,22 +255,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YiBmbiB2YWx1ZSgmc2VsZikgLT4gJlZlY3RvcjM8VD4gewogICAgICAgICZzZWxmLnZhbAogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHRlc3RfYyk7Cg==</text>
+        <text encoding="base64">ICAgIHRyaWFuZ2xlX2VkZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmMzI6OkVQCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YiBwb3NpdGlvbjogTjo6VmVjdG9yMywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZuIHNjYWxhcl9vbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNxcnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -275,10 +282,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmMzI6OnNxcnQoKQo=</text>
+        <text encoding="base64">ICAgIHB1YiBhbHBoYTogTjo6U2NhbGFyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8U2VsZiBhcyBmMzI+LnNxcnQoKQo=</text>
+        <text encoding="base64">ICAgIHB1YiBub3JtYWw6IE46OlVuaXRWZWN0b3IzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
