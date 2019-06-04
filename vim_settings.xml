@@ -86,10 +86,10 @@
         <mark key="^" line="242" column="3" />
         <mark key="." line="242" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559575731067">
-        <mark key="[" line="252" column="43" />
-        <mark key="]" line="252" column="43" />
-        <mark key="." line="252" column="43" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559671060695">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559600740033">
         <mark key="[" line="76" column="26" />
@@ -233,8 +233,8 @@
       <jump line="246" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ion</text>
@@ -246,7 +246,7 @@
         <text encoding="base64">ICAgIGZuIHNjYWxhcl9jb25kaXRpb25hbF9zZXQoCiAgICAgICAgY29uZDogU2VsZjo6Qm9vbCwgdmFsdWVfdHJ1ZTogU2VsZjo6U2NhbGFyLCB2YWx1ZV9mYWxzZTogU2VsZjo6U2NhbGFyCiAgICApIC0+IFNlbGY6OlNjYWxhciB7CiAgICAgICAgY29uZC5jb25kaXRpb25hbF9zZXQodmFsdWVfdHJ1ZSwgdmFsdWVfZmFsc2UpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICZtdXQgaW50ZXJzZWN0X3Jlc3VsdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -278,22 +278,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGludGVyc2VjdF9yZXN1bHQgPSBJbnRlcnNlY3Rpb25SZXN1bHQ6Om5ld19ub19pbnRlcnNlY3Rpb24oKTsK</text>
+        <text encoding="base64">c3RydWN0IFByaW1pdGl2ZVRyaWFuZ2xlIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE46OmJvb2xfbm90KGlzX2ludmFsaWRfaW50ZXJzZWN0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBsZXQgaXNfaW52YWxpZF9pbnRlcnNlY3Rpb24gPQogICAgICAgIE46OmJvb2xfb3IodF9vdXRfb2ZfYm91bmRzLAogICAgICAgICAgICAgICAgICAgTjo6Ym9vbF9vcih1X291dF9vZl9ib3VuZHMsIHV2X291dF9vZl9ib3VuZHMpKTsK</text>
+        <text encoding="base64">c3RydWN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzZWN0X3Jlc3VsdC50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3RydWN0IFRyaQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -305,10 +305,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl9jb25kaXRpb25hbF9zZXQoY29uZDogU2VsZjo6Qm9vbCwgdmFsdWVfdHJ1ZTogU2VsZjo6U2NhbGFyLCB2YWx1ZV9mYWxzZTogU2VsZjo6U2NhbGFyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBmbiBzY2FsYXJfY29uZGl0aW9uYWxfc2V0KGNvbmQ6IFNlbGY6OkJvb2wsIHZhbHVlX3RydWU6IFNlbGY6OlNjYWxhciwgdmFsdWVfZmFsc2U6IFNlbGY6OlNjYWxhcik7Cg==</text>
+        <text encoding="base64">c3RydWN0IFRyaWFuZ2xlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
