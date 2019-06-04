@@ -9,17 +9,29 @@
         <mark key="." line="319" column="61" />
         <mark key="^" line="319" column="61" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/mod.rs" timestamp="1559671539855">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" timestamp="1559673135631">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1559665226099">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersect_util.rs" timestamp="1559668370256">
-        <mark key="[" line="86" column="5" />
-        <mark key="]" line="86" column="5" />
-        <mark key="." line="86" column="5" />
-        <mark key="^" line="83" column="79" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/intersect_util.rs" timestamp="1559672324668">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+        <mark key="^" line="6" column="61" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/mod.rs" timestamp="1559658117553">
         <mark key="[" line="5" column="13" />
@@ -40,7 +52,6 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/camera.rs" timestamp="1559531598700" />
       <file name="/LLDB" timestamp="1559664404957">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,12 +90,11 @@
       <file name="$USER_HOME$/code/apps/xsray/src/engine/integrator.rs" timestamp="1559575838508">
         <mark key="'" line="301" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559668274937">
-        <mark key="'" line="252" column="0" />
-        <mark key="[" line="241" column="5" />
-        <mark key="]" line="242" column="3" />
-        <mark key="^" line="242" column="3" />
-        <mark key="." line="242" column="3" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559673235274">
+        <mark key="'" line="260" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559671060695">
         <mark key="[" line="17" column="0" />
@@ -129,9 +139,9 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/ops/range.rs" timestamp="1559671767883" />
     </filemarks>
     <jumps>
-      <jump line="135" column="73" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="136" column="14" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="143" column="82" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
       <jump line="144" column="28" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
@@ -231,13 +241,14 @@
       <jump line="242" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="250" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="246" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="7" column="7" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ion</text>
+        <text encoding="base64">b2sg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Jg==</text>
@@ -278,22 +289,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RydWN0IFByaW1pdGl2ZVRyaWFuZ2xlIHsKfQo=</text>
+        <text encoding="base64">Zm4gYnVpbGRfbXVsdGl2ZWMzX2Zyb21faXRlcjxUOiBJdGVyYXRvcjw+Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRyaWFuZ2xlcyA9IHBhcmVudF9pZHhzLml0ZXIoKS5tYXAofGlkeHwgcHJpbWl0aXZlc1tpZHhdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGhlbGxvID0gcHJpbWl0aXZlc1twYXJlbnRfaWR4c1swXV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RydWN0IAo=</text>
+        <text encoding="base64">ICAgIHR5cGUgQXJyYXk8VD47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGUgQXJyYXk8VD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RydWN0IFRyaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -305,10 +316,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGEgPSBbMHUzMjsgTjo6U0laRV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RydWN0IFRyaWFuZ2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
