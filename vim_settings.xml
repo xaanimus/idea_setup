@@ -52,6 +52,13 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" timestamp="1559749255766">
+        <mark key="'" line="76" column="35" />
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="55" column="43" />
+        <mark key="^" line="55" column="43" />
+        <mark key="." line="55" column="43" />
+      </file>
       <file name="/LLDB" timestamp="1559664404957">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,12 +101,12 @@
         <mark key="." line="290" column="0" />
         <mark key="^" line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559748626329">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559749321266">
         <mark key="'" line="110" column="17" />
-        <mark key="[" line="134" column="40" />
-        <mark key="]" line="134" column="40" />
-        <mark key="^" line="134" column="40" />
-        <mark key="." line="134" column="40" />
+        <mark key="[" line="174" column="37" />
+        <mark key="]" line="174" column="37" />
+        <mark key="^" line="174" column="37" />
+        <mark key="." line="174" column="37" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559745959816">
         <mark key="'" line="26" column="0" />
@@ -141,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="204" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="208" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="212" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
@@ -241,43 +247,44 @@
       <jump line="314" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="307" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="297" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
+      <jump line="76" column="35" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>objects</text>
+        <text>box</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LngpOwo=</text>
+        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxULCBGR2V0Qm91bmRpbmdCb3gsIEZHZXRTdXJmYWNlQXJlYT4oCiAgICAgICAgJnNlbGYsIHNvcnRlZF9vYmplY3RzOiAmW1RdLAogICAgICAgIGdldF9iYm94OiAmRkdldEJvdW5kaW5nQm94LAogICAgICAgIGdldF9zdXJmYWNlX2FyZWE6ICZGR2V0U3VyZmFjZUFyZWEKICAgICkgLT4gdXNpemUKICAgICAgICB3aGVyZSBGR2V0Qm91bmRpbmdCb3g6IEZuKCZUKSAtPiBBQUJvdW5kaW5nQm94LAogICAgICAgICAgICAgIEZHZXRTdXJmYWNlQXJlYTogRm4oJlQpIC0+IGYzMjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0cy5zb3J0X2J5X2tleSh8YTogJlR8IGdldF9ib3VuZGluZ19ib3goYSkuZ2V0X2JvdW5kaW5nX2JveF9jZW50ZXIoKS56KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">bGRsZGxkbGRsZjxmJmR0Vg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0cy5zb3J0X2J5X2tleSh8YTogJlR8IGdldF9ib3VuZGluZ19ib3goYSkuZ2V0X2JvdW5kaW5nX2JveF9jZW50ZXIoKS55KTsK</text>
+        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0cy5zb3J0X2J5X2tleSh8YTogJlR8IGdldF9ib3VuZGluZ19ib3goYSkuZ2V0X2JvdW5kaW5nX2JveF9jZW50ZXIoKS54KTsK</text>
+        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbiBzb3J0X2J5X2NlbnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LnopOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbiBnZXRfYmJveF9jZW50ZXJfY29vcmQ8RkNvb3JkPihmY29vcmQ6IEZDb29yZDogRm4oVmVjMykgLT4gZjMyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LngpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHViIGZuIGdldF9hYV9ib3VuZGluZ19ib3g8VDogSGFzQUFCb3VuZGluZ0JveD4oZWxlbXM6ICZbVF0pIC0+IEFBQm91bmRpbmdCb3ggewogICAgbGV0IG11dCBmdWxsX2JvdW5kaW5nX2JveCA9IEFBQm91bmRpbmdCb3g6OmVtcHR5KCk7CiAgICBmb3IgcmVmIGVsZW0gaW4gZWxlbXMgewogICAgICAgIGxldCBiYm94OiAmQUFCb3VuZGluZ0JveCA9ICgqZWxlbSkuYWFfYm91bmRpbmdfYm94X3JlZigpOwogICAgICAgIGZ1bGxfYm91bmRpbmdfYm94Lmxvd2VyID0gZnVsbF9ib3VuZGluZ19ib3gubG93ZXIubWluX2VsZW1fd2lzZSgmYmJveC5sb3dlcik7CiAgICAgICAgZnVsbF9ib3VuZGluZ19ib3gudXBwZXIgPSBmdWxsX2JvdW5kaW5nX2JveC51cHBlci5tYXhfZWxlbV93aXNlKCZiYm94LnVwcGVyKTsKICAgIH0KICAgIGZ1bGxfYm91bmRpbmdfYm94Cn0KCg==</text>
+        <text encoding="base64">CiAgICAgICAgZm4gc29ydF9vYmplY3RzX2J5X2Nvb3JkPEZDb29yZDogRm4oVmVjMykgLT4gZjMyPihmY29vcmQ6IEZDb29yZCkgewogICAgICAgICAgICBvYmplY3RzLnNvcnRfYnlfa2V5KHxhOiAmVHwgewogICAgICAgICAgICAgICAgbGV0IGJiX2NlbnRlciA9IGdldF9ib3VuZGluZ19ib3goYSkuZ2V0X2JvdW5kaW5nX2JveF9jZW50ZXIoKTsKICAgICAgICAgICAgICAgIGZjb29yZChiYl9jZW50ZXIpCiAgICAgICAgICAgIH0pOwogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -289,19 +296,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBnZXRfY29vcmQoY2VudGVyKSA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYmJveDogJkFBQm91bmRpbmdCb3ggPSAoKmVsZW0pLmFhX2JvdW5kaW5nX2JveF9yZWYoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>objects</last-search>
+      <last-search>box</last-search>
       <last-offset />
-      <last-pattern>objects</last-pattern>
+      <last-pattern>box</last-pattern>
       <last-replace>Float8</last-replace>
       <last-substitute>Float4</last-substitute>
       <last-dir>1</last-dir>
@@ -323,6 +330,7 @@
         <entry>num_nodes</entry>
         <entry>start_index</entry>
         <entry>objects</entry>
+        <entry>box</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZuX3ZlYy9wbl92ZWMvZw==</entry>
