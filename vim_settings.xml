@@ -52,12 +52,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" timestamp="1559749255766">
-        <mark key="'" line="76" column="35" />
-        <mark key="[" line="55" column="45" />
-        <mark key="]" line="55" column="43" />
-        <mark key="^" line="55" column="43" />
-        <mark key="." line="55" column="43" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" timestamp="1559753022846">
+        <mark key="'" line="80" column="35" />
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="29" column="80" />
+        <mark key="." line="29" column="80" />
+        <mark key="^" line="29" column="80" />
       </file>
       <file name="/LLDB" timestamp="1559664404957">
         <mark key="[" line="0" column="0" />
@@ -101,12 +101,12 @@
         <mark key="." line="290" column="0" />
         <mark key="^" line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559749321266">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559753939682">
         <mark key="'" line="110" column="17" />
-        <mark key="[" line="174" column="37" />
-        <mark key="]" line="174" column="37" />
-        <mark key="^" line="174" column="37" />
-        <mark key="." line="174" column="37" />
+        <mark key="[" line="122" column="27" />
+        <mark key="]" line="122" column="33" />
+        <mark key="^" line="122" column="33" />
+        <mark key="." line="122" column="33" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559745959816">
         <mark key="'" line="26" column="0" />
@@ -121,12 +121,12 @@
         <mark key="^" line="118" column="90" />
         <mark key="." line="118" column="29" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1559747837696">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/aabb.rs" timestamp="1559753178360">
         <mark key="'" line="131" column="21" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="225" column="0" />
+        <mark key="[" line="223" column="61" />
+        <mark key="]" line="223" column="68" />
+        <mark key="." line="223" column="68" />
+        <mark key="^" line="223" column="68" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/shiny2.yaml" timestamp="1559310739562">
         <mark key="[" line="10" column="24" />
@@ -250,41 +250,41 @@
       <jump line="76" column="35" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>box</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxULCBGR2V0Qm91bmRpbmdCb3gsIEZHZXRTdXJmYWNlQXJlYT4oCiAgICAgICAgJnNlbGYsIHNvcnRlZF9vYmplY3RzOiAmW1RdLAogICAgICAgIGdldF9iYm94OiAmRkdldEJvdW5kaW5nQm94LAogICAgICAgIGdldF9zdXJmYWNlX2FyZWE6ICZGR2V0U3VyZmFjZUFyZWEKICAgICkgLT4gdXNpemUKICAgICAgICB3aGVyZSBGR2V0Qm91bmRpbmdCb3g6IEZuKCZUKSAtPiBBQUJvdW5kaW5nQm94LAogICAgICAgICAgICAgIEZHZXRTdXJmYWNlQXJlYTogRm4oJlQpIC0+IGYzMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAogICAgICAgICAgICB8b2JqZWN0fCBvYmplY3Quc3VyZmFjZV9hcmVhKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">bGRsZGxkbGRsZjxmJmR0Vg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X3N1cmZhY2VfYXJlYSA9IHxvYmplY3R8IG9iamVjdC5zdXJmYWNlX2FyZWEoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X2FhYmIgPSB8b2JqZWN0fCBvYmplY3QuYWFfYm91bmRpbmdfYm94X3JlZigpLmNsb25lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LnopOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAogICAgICAgICAgICB8b2JqZWN0fCBvYmplY3Quc3VyZmFjZV9hcmVhKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LnkpOwo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIEZHZXRTdXJmYWNlQXJlYTogRm4oJlQpIC0+IGYzMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydF9vYmplY3RzX2J5X2Nvb3JkKHx2fCB2LngpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgZm4gc29ydF9vYmplY3RzX2J5X2Nvb3JkPEZDb29yZDogRm4oVmVjMykgLT4gZjMyPihmY29vcmQ6IEZDb29yZCkgewogICAgICAgICAgICBvYmplY3RzLnNvcnRfYnlfa2V5KHxhOiAmVHwgewogICAgICAgICAgICAgICAgbGV0IGJiX2NlbnRlciA9IGdldF9ib3VuZGluZ19ib3goYSkuZ2V0X2JvdW5kaW5nX2JveF9jZW50ZXIoKTsKICAgICAgICAgICAgICAgIGZjb29yZChiYl9jZW50ZXIpCiAgICAgICAgICAgIH0pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -296,10 +296,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnZXRfY29vcmQoY2VudGVyKSA+Cg==</text>
+        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
