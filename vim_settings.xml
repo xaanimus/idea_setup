@@ -15,7 +15,12 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" timestamp="1559705713655" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" timestamp="1559746002274">
+        <mark key="[" line="64" column="81" />
+        <mark key="]" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+        <mark key="^" line="65" column="7" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/aesthetic_cornell_box.yaml" timestamp="1559665226099">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
@@ -97,11 +102,12 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559600740033">
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="76" column="26" />
-        <mark key="." line="76" column="26" />
-        <mark key="^" line="76" column="26" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559745959816">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="58" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="28" column="58" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559668653087">
         <mark key="[" line="118" column="29" />
@@ -136,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/cmp_util.rs" />
       <jump line="143" column="48" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="187" column="4" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
       <jump line="276" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/intersectable.rs" />
@@ -236,43 +241,44 @@
       <jump line="32" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
       <jump line="8" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
       <jump line="12" column="22" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF0aDo6aW50ZWdyYWxfY2VpbGluZ19kaXZpZGUoYnZoX2luZGV4X3JhbmdlLnN0YXJ0LCBOOjpTSVpFIGFzIHVzaXplKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">YnZoX2luZGV4X3JhbmdlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Jg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBmbiBzY2FsYXJfYXJnbWluKGE6IFNlbGY6OlNjYWxhcikgLT4gdXNpemUgewogICAgICAgIGxldCBhcnIgPSBhLnRvX2FycmF5KCk7CiAgICAgICAgbGV0IG11dCBtaW5faWR4X3ZhbHVlID0gKDAsIGFyclswXSk7CiAgICAgICAgZm9yIGlkeCBpbiAxLi40IHsKICAgICAgICAgICAgbWluX2lkeF92YWx1ZSA9IChpZHgsIGFycltpZHhdKQogICAgICAgIH0KICAgICAgICBtaW5faWR4X3ZhbHVlLjAKICAgIH0KCiAgICBmbiBnZXRfc2NhbGFyX2FyZyhhOiBTZWxmOjpTY2FsYXIsIGlkeDogdXNpemUpIC0+IGYzMiB7CiAgICAgICAgYS50b19hcnJheSgpW2lkeF0KICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">VDogc3RkOjpvcHM6OkRpdjxPdXRwdXQ9VD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVyc2VjdG9yOiBUcmlhbmdsZUludGVyc2VjdG9yamsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0aDo6aW50ZWdyYWxfY2VpbGluZ19kaXZpZGUoYnZoX2luZGV4X3JhbmdlLnN0YXJ0LCBOOjpTSVpFIGFzIHVzaXplKTsK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">bGRsZGxkbGRsZjxmJmR0Vg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">ICAgIHdoZXJlIFQ6IEFkZDxPdXRwdXQ9VD4gKyBTdWI8T3V0cHV0PVQ+ICsgRGl2PE91dHB1dD1UPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnRfYmluID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtaW5faWR4X3ZhbHVlLjEgPCBhcnJbMV0gewogICAgICAgICAgICBtaW5faWR4X3ZhbHVlID0gKDEsIGFyclsxXSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cHViIGZuIGNlaWxpbmdfZGl2KHg6IHVzaXplLCB5OiB1c2l6ZSkgLT4gdXNpemUgewogICAgCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGludGVyc2VjdG9yOiBUcmlhbmdsZUludGVyc2VjdG9yamsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -284,10 +290,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbiBtaW5fdmFsdWUoZTA6ICh1c2l6ZSwgZjMyKSwgZTE6ICh1c2l6ZSwgZjMyKSkgLT4gKHVzaXplLCBmMzIpIHsKICAgICAgICAgICAgaWYgZTAuMSA8IGUxLjEgewogICAgICAgICAgICAgICAgZTAKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGUxCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtaW5faWR4X3ZhbHVlLjEgPCBhcnJbMV0gewogICAgICAgICAgICBtaW5faWR4X3ZhbHVlID0gKDEsIGFyclsxXSkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
