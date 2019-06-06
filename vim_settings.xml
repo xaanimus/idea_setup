@@ -101,12 +101,12 @@
         <mark key="." line="290" column="0" />
         <mark key="^" line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559784720654">
-        <mark key="'" line="110" column="17" />
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="83" column="55" />
-        <mark key="^" line="83" column="55" />
-        <mark key="." line="83" column="55" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559785404248">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="93" column="57" />
+        <mark key="]" line="93" column="56" />
+        <mark key="^" line="93" column="56" />
+        <mark key="." line="93" column="56" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559745959816">
         <mark key="'" line="26" column="0" />
@@ -148,9 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
-      <jump line="208" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
-      <jump line="212" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="216" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="250" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="7" column="7" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
@@ -202,7 +199,6 @@
       <jump line="163" column="16" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="73" column="12" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="174" column="19" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
-      <jump line="96" column="27" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="108" column="0" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="116" column="15" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="118" column="12" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
@@ -248,43 +244,47 @@
       <jump line="307" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="297" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="76" column="35" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" />
+      <jump line="84" column="38" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
+      <jump line="89" column="22" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
+      <jump line="96" column="12" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
+      <jump line="122" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>objects</text>
       </register>
       <register name="/" type="4">
-        <text>box</text>
+        <text>objects</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAogICAgICAgICAgICB8b2JqZWN0fCBvYmplY3Quc3VyZmFjZV9hcmVhKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">bGRsZGxkbGRsZjxmJmR0Vg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIHV0aWxpdGllczo6bXVsdGlfbWF0aDo6TXVsdGlOdW04Owo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaW5kaWNlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vaW50ZXJzZWN0b3I6IGJ2aF9pbnRlcnNlY3Rvcjo6VHJpYW5nbGVJbnRlcnNlY3RvcjxNdWx0aU51bTg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LnN1cmZhY2VfYXJlYSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X3N1cmZhY2VfYXJlYSA9IHxvYmplY3R8IG9iamVjdC5zdXJmYWNlX2FyZWEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X2FhYmIgPSB8b2JqZWN0fCBvYmplY3QuYWFfYm91bmRpbmdfYm94X3JlZigpLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgIHdoZXJlIFRJbnRlcnNlY3RvcjogYnZoX2ludGVyc2VjdG9yOjpJbnRlcnNlY3RvcjxQcmltaXRpdmUsIE4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAogICAgICAgICAgICB8b2JqZWN0fCBvYmplY3Quc3VyZmFjZV9hcmVhKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -296,19 +296,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIEZHZXRTdXJmYWNlQXJlYTogRm4oJlQpIC0+IGYzMgo=</text>
+        <text encoding="base64">dXNlIHV0aWxpdGllczo6bXVsdGlfbWF0aDo6TXVsdGlOdW04Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vaW50ZXJzZWN0b3I6IGJ2aF9pbnRlcnNlY3Rvcjo6VHJpYW5nbGVJbnRlcnNlY3RvcjxNdWx0aU51bTg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>box</last-search>
+      <last-search>objects</last-search>
       <last-offset />
-      <last-pattern>box</last-pattern>
+      <last-pattern>objects</last-pattern>
       <last-replace>Float8</last-replace>
       <last-substitute>Float4</last-substitute>
       <last-dir>1</last-dir>
@@ -329,8 +329,8 @@
         <entry encoding="base64">Jg==</entry>
         <entry>num_nodes</entry>
         <entry>start_index</entry>
-        <entry>objects</entry>
         <entry>box</entry>
+        <entry>objects</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZuX3ZlYy9wbl92ZWMvZw==</entry>
