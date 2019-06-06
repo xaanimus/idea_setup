@@ -101,12 +101,12 @@
         <mark key="." line="290" column="0" />
         <mark key="^" line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559753939682">
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559784720654">
         <mark key="'" line="110" column="17" />
-        <mark key="[" line="122" column="27" />
-        <mark key="]" line="122" column="33" />
-        <mark key="^" line="122" column="33" />
-        <mark key="." line="122" column="33" />
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="83" column="55" />
+        <mark key="^" line="83" column="55" />
+        <mark key="." line="83" column="55" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559745959816">
         <mark key="'" line="26" column="0" />
@@ -250,8 +250,8 @@
       <jump line="76" column="35" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/splitter.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -269,22 +269,22 @@
         <text encoding="base64">bGRsZGxkbGRsZjxmJmR0Vg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X3N1cmZhY2VfYXJlYSA9IHxvYmplY3R8IG9iamVjdC5zdXJmYWNlX2FyZWEoKTsK</text>
+        <text encoding="base64">dXNlIHV0aWxpdGllczo6bXVsdGlfbWF0aDo6TXVsdGlOdW04Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X2FhYmIgPSB8b2JqZWN0fCBvYmplY3QuYWFfYm91bmRpbmdfYm94X3JlZigpLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vaW50ZXJzZWN0b3I6IGJ2aF9pbnRlcnNlY3Rvcjo6VHJpYW5nbGVJbnRlcnNlY3RvcjxNdWx0aU51bTg+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAogICAgICAgICAgICB8b2JqZWN0fCBvYmplY3Quc3VyZmFjZV9hcmVhKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIEZHZXRTdXJmYWNlQXJlYTogRm4oJlQpIC0+IGYzMgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X3N1cmZhY2VfYXJlYSA9IHxvYmplY3R8IG9iamVjdC5zdXJmYWNlX2FyZWEoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgZ2V0X2FhYmIgPSB8b2JqZWN0fCBvYmplY3QuYWFfYm91bmRpbmdfYm94X3JlZigpLmNsb25lKCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfG9iamVjdHwgb2JqZWN0LmFhX2JvdW5kaW5nX2JveF9yZWYoKS5jbG9uZSgpLAogICAgICAgICAgICB8b2JqZWN0fCBvYmplY3Quc3VyZmFjZV9hcmVhKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -296,10 +296,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhCg==</text>
+        <text encoding="base64">ICAgIHdoZXJlIEZHZXRTdXJmYWNlQXJlYTogRm4oJlQpIC0+IGYzMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZuIGdldF9zcGxpdGluZ19pbmRleDxUPigmc2VsZiwgc29ydGVkX29iamVjdHM6ICZbVF0pIC0+IHVzaXplCiAgICAgICAgd2hlcmUgVDogSGFzQUFCb3VuZGluZ0JveCArIEhhc1N1cmZhY2VBcmVhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
