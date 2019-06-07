@@ -15,12 +15,12 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" timestamp="1559935189994">
-        <mark key="'" line="81" column="21" />
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="78" column="48" />
-        <mark key="." line="78" column="48" />
-        <mark key="^" line="78" column="48" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" timestamp="1559936816176">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="87" column="26" />
+        <mark key="." line="87" column="26" />
+        <mark key="^" line="87" column="26" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/src/engine/scene_builder.rs" timestamp="1559335794747">
         <mark key="'" line="45" column="13" />
@@ -60,19 +60,19 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559923598635">
-        <mark key="'" line="304" column="0" />
-        <mark key="[" line="133" column="4" />
-        <mark key="]" line="133" column="10" />
-        <mark key="." line="133" column="10" />
-        <mark key="^" line="133" column="10" />
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" timestamp="1559936761807">
+        <mark key="'" line="318" column="0" />
+        <mark key="[" line="143" column="54" />
+        <mark key="]" line="143" column="55" />
+        <mark key="." line="143" column="55" />
+        <mark key="^" line="143" column="55" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559921698242">
-        <mark key="'" line="122" column="8" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="199" column="91" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" timestamp="1559936868235">
+        <mark key="'" line="126" column="8" />
+        <mark key="[" line="120" column="86" />
+        <mark key="]" line="121" column="36" />
+        <mark key="." line="121" column="36" />
+        <mark key="^" line="121" column="36" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/.cargo/config" timestamp="1559309426482">
         <mark key="[" line="1" column="0" />
@@ -80,18 +80,18 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559745959816">
+      <file name="$USER_HOME$/code/apps/xsray/src/utilities/math.rs" timestamp="1559936731255">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
-        <mark key="^" line="28" column="58" />
+        <mark key="[" line="173" column="43" />
+        <mark key="]" line="173" column="43" />
+        <mark key="." line="173" column="43" />
+        <mark key="^" line="173" column="43" />
       </file>
-      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559668653087">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="118" column="29" />
-        <mark key="^" line="118" column="90" />
-        <mark key="." line="118" column="29" />
+      <file name="$USER_HOME$/code/apps/xsray/src/engine/scene.rs" timestamp="1559936579381">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/assets/scenes/two_tri.yaml" timestamp="1559255855671">
         <mark key="[" line="32" column="17" />
@@ -148,9 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
-      <jump line="7" column="7" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
-      <jump line="144" column="24" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="142" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="135" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
       <jump line="130" column="0" filename="$USER_HOME$/code/apps/xsray/src/utilities/multi_math.rs" />
@@ -248,43 +245,46 @@
       <jump line="96" column="12" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="122" column="8" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_accelerator.rs" />
       <jump line="79" column="21" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
+      <jump line="56" column="20" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
+      <jump line="73" column="12" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
+      <jump line="55" column="11" filename="$USER_HOME$/code/apps/xsray/src/engine/bvh/bvh_intersector.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>get_surface_area()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get_surface_area()</text>
       </register>
       <register name="/" type="4">
-        <text>scalar_re</text>
+        <text>bvh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Ugc2VsZjo6QlZIVHJlZTo6KjsKICAgICAgICBsZXQgbXV0IGlfbm9kZSA9IDA7CiAgICAgICAgd2hpbGUgaV9ub2RlIDwgc2VsZi5ub2Rlcy5sZW4oKSB7CiAgICAgICAgICAgIGxldCBub2RlOiAmQlZIVHJlZSA9ICZzZWxmLm5vZGVzW2lfbm9kZV07CiAgICAgICAgICAgIG1hdGNoIG5vZGUgewogICAgICAgICAgICAgICAgJk5vZGUge251bWJlcl9vZl9ub2RlcywgcmVmIHdyYXBwZXJ9ID0+IHsKICAgICAgICAgICAgICAgICAgICBpZiB3cmFwcGVyLmludGVyc2VjdHNfd2l0aF9ib3VuZGluZ19ib3gocmF5KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlfbm9kZSArPSAxOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vc2tpcCBjdXJyZW50IHN1YnRyZWUKICAgICAgICAgICAgICAgICAgICAgICAgaV9ub2RlICs9IG51bWJlcl9vZl9ub2RlczsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgJkxlYWYge3N0YXJ0LCBlbmQsIHJlZiB3cmFwcGVyfSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgd3JhcHBlci5pbnRlcnNlY3RzX3dpdGhfYm91bmRpbmdfYm94KHJheSkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnNlY3Rpb25faW5kaWNlcy5wdXNoKHN0YXJ0Li5lbmQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpX25vZGUgKz0gMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHdoZXJlIFRJbnRlcnNlY3RvcjogYnZoX2ludGVyc2VjdG9yOjpJbnRlcnNlY3RvcjxQcmltaXRpdmUsIE4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">bGRsZGxkbGRsZjxmJmR0Vg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
+        <text encoding="base64">ICAgIGZuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0X2lkeDogbWluX2lkeCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3X2ludGVyc2VjdGlvbi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgbWluX2lkeDsK</text>
+        <text encoding="base64">ICAgICAgICBUSW50ZXJzZWN0b3I6OkludGVyc2VjdGlvbk91dHB1dDo6bm9faW50ZXJzZWN0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3Nlc3RfaW50ZXJzZWN0aW9uX2J2aF9pZHgsCg==</text>
+        <text encoding="base64">ICAgICAgICBUSW50ZXJzZWN0b3I6OkludGVyc2VjdGlvbk91dHB1dDo6bm9faW50ZXJzZWN0aW9uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVuc2FmZSBmbiBzY2FsYXJfcmVwZWF0aW5nX3UzMih2YWx1ZTogdTMyKSAtPiBTZWxmOjpTY2FsYXIgewogICAgICAgIHN0ZDo6bWVtOjp0cmFuc211dGU6Ojx1MzIsIGYzMj4odmFsdWUpCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZuIHNjYWxhcl9yZXBlYXRpbmdfdTMyKHZhbHVlOiB1MzIpIC0+IFNlbGY6OlNjYWxhcjsK</text>
+        <text encoding="base64">ICAgICAgICB1bmltcGxlbWVudGVkISgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -296,19 +296,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgb2JqZWN0X2lkeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGNsb3Nlc3RfaW50ZXJzZWN0aW9uX2lkeCA9Cg==</text>
+        <text encoding="base64">ICAgIHVuc2FmZSBmbiBzY2FsYXJfcmVwZWF0aW5nX3UzMih2YWx1ZTogdTMyKSAtPiBTZWxmOjpTY2FsYXIgewogICAgICAgIHVuaW1wbGVtZW50ZWQhKCkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scalar_re</last-search>
+      <last-search>bvh</last-search>
       <last-offset />
-      <last-pattern>scalar_re</last-pattern>
+      <last-pattern>bvh</last-pattern>
       <last-replace>Float8</last-replace>
       <last-substitute>Float4</last-substitute>
       <last-dir>1</last-dir>
@@ -332,6 +332,7 @@
         <entry>box</entry>
         <entry>objects</entry>
         <entry>scalar_re</entry>
+        <entry>bvh</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZuX3ZlYy9wbl92ZWMvZw==</entry>
