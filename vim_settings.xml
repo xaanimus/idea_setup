@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1560551764808">
+      <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
@@ -30,9 +30,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
