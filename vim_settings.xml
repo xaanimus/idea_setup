@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1560551764808">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="10" />
