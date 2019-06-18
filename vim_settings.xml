@@ -18,50 +18,50 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560893362795">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560894667723">
+        <mark key="[" line="36" column="75" />
+        <mark key="]" line="36" column="75" />
+        <mark key="." line="36" column="75" />
+        <mark key="^" line="36" column="75" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vY3JlYXRlIHZ1bGthbiBpbnN0YW5jZQo=</text>
+        <text encoding="base64">ICAgIGdsZncK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdsZncK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY3JlYXRlSW5zdGFuY2UgPSBbXXt9Owo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnbGZ3SW5pdCgpOwoKICBnbGZ3V2luZG93SGludChHTEZXX0NMSUVOVF9BUEksIEdMRldfTk9fQVBJKTsKICBHTEZXd2luZG93KiB3aW5kb3cgPSBnbGZ3Q3JlYXRlV2luZG93KDcwMCwgNzAwLCAidnVsa2FuIGV4YW1wbGUgYXBwIiwgbnVsbHB0ciwgbnVsbHB0cik7CgogIHdoaWxlKCFnbGZ3V2luZG93U2hvdWxkQ2xvc2Uod2luZG93KSkgewogICAgZ2xmd1BvbGxFdmVudHMoKTsKICB9CgogIGdsZndEZXN0cm95V2luZG93KHdpbmRvdyk7CiAgZ2xmd1Rlcm1pbmF0ZSgpOwoK</text>
+        <text encoding="base64">ICAgIC8vY3JlYXRlIHZ1bGthbiBpbnN0YW5jZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF1dG8gY3JlYXRlSW5zdGFuY2UgPSBbXXt9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBnbGZ3SW5pdCgpOwoKICBnbGZ3V2luZG93SGludChHTEZXX0NMSUVOVF9BUEksIEdMRldfTk9fQVBJKTsKICBHTEZXd2luZG93KiB3aW5kb3cgPSBnbGZ3Q3JlYXRlV2luZG93KDcwMCwgNzAwLCAidnVsa2FuIGV4YW1wbGUgYXBwIiwgbnVsbHB0ciwgbnVsbHB0cik7CgogIHdoaWxlKCFnbGZ3V2luZG93U2hvdWxkQ2xvc2Uod2luZG93KSkgewogICAgZ2xmd1BvbGxFdmVudHMoKTsKICB9CgogIGdsZndEZXN0cm95V2luZG93KHdpbmRvdyk7CiAgZ2xmd1Rlcm1pbmF0ZSgpOwoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>appInfo</text>
       </register>
     </registers>
     <search>
