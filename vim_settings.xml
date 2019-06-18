@@ -6,11 +6,14 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560892347736">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="64" />
-        <mark key="." line="17" column="64" />
-        <mark key="^" line="17" column="64" />
+      <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560900547808">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+      </file>
+      <file name="/LLDB" timestamp="1560900673982">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
         <mark key="[" line="12" column="17" />
@@ -18,12 +21,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560897604998">
-        <mark key="'" line="85" column="83" />
-        <mark key="[" line="78" column="71" />
-        <mark key="]" line="80" column="27" />
-        <mark key="." line="80" column="27" />
-        <mark key="^" line="80" column="27" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560900427739">
+        <mark key="'" line="95" column="83" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -34,40 +36,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmtHZXREZXZpY2VQcm9jCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>vulkan_sdk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfAo=</text>
+        <text encoding="base64">Ly8gICAgVmtSZXN1bHQgcmVzdWx0ID0gdmtDcmVhdGVEZWJ1Z1V0aWxzTWVzc2VuZ2VyRVhUKG1faW5zdGFuY2UsICZjcmVhdGVJbmZvLCBudWxscHRyLCAmbURlYnVnTWVzc2VuZ2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZrRGVidWdVdGlsc01lc3NlbmdlckVYVCBjcmVhdGVJbmZvID0gewogICAgfTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZrQ3JlYXRlRGVidWdVdGlsc01lc3NlbmdlckVYVCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2VyciA8PCAidmFsaWRhdGlvbiBsYXllcjogIiA8PCBwQ2FsbGJhY2tEYXRhLT5wTWVzc2FnZSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIFZrRGVidWdVdGlsc01lc3NlbmdlckVYVCBjcmVhdGVJbmZvID0gewogICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>std::string</text>
+        <text>vulkan_sdk</text>
       </register>
     </registers>
     <search>
