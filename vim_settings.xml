@@ -22,67 +22,85 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560964571879">
-        <mark key="'" line="122" column="83" />
-        <mark key="[" line="207" column="29" />
-        <mark key="]" line="207" column="36" />
-        <mark key="." line="207" column="36" />
-        <mark key="^" line="207" column="36" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560969496765">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="244" column="5" />
+        <mark key="]" line="246" column="82" />
+        <mark key="." line="246" column="82" />
+        <mark key="^" line="246" column="82" />
       </file>
     </filemarks>
     <jumps>
       <jump line="69" column="2" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="65" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="59" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="39" column="83" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="275" column="28" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="35" column="32" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="38" column="30" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="39" column="28" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="40" column="33" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="271" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="269" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="262" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="259" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="253" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="246" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHF1ZXVlRmFtaWx5SW5mbw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBWa0RldmljZSBtRGV2aWNlID0gVktfTlVMTF9IQU5ETEU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHF1ZXVlRmFtaWx5SW5mbw==</text>
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>validation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIGlmICghcXVldWVGYW1pbHlJbmZvKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgZmluZCBhIHN1aXRhYmxlIGRldmljZS4iKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBWa0RldmljZSBtRGV2aWNlID0gVktfTlVMTF9IQU5ETEU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlRmEK</text>
+        <text encoding="base64">ICAgICAgICAvLy5lbmFibGVkTGF5ZXJDb3VudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHF1ZXVlRmFtaWx5SW5mbyA9IFF1ZXVlRmFtaWx5SW5mbzo6Y3JlYXRlKGRldmljZSk7Cg==</text>
+        <text encoding="base64">ICAgIFZrUGh5c2ljYWxEZXZpY2VGZWF0dXJlcyBmZWF0dXJlcyA9IHt9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuamsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvb2wgZm91bgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6Om51bGxvcHQ7Cg==</text>
+        <text encoding="base64">CiAgICBWa1BoeXNpY2FsRGV2aWNlRmVhdHVyZXMgZmVhdHVyZXMgPSB7fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>validation</last-search>
+      <last-offset />
+      <last-pattern>validation</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>validation</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
