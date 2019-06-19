@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sdks/vulkansdk-macos-1.1.108.0/macOS/include/vulkan/vulkan_core.h" timestamp="1560962696897" />
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560900547808">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560962989408">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
-      <file name="/LLDB" timestamp="1560900673982">
+      <file name="/LLDB" timestamp="1560964562643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
@@ -21,12 +22,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560960455737">
-        <mark key="'" line="118" column="83" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="77" column="3" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1560964571879">
+        <mark key="'" line="122" column="83" />
+        <mark key="[" line="207" column="29" />
+        <mark key="]" line="207" column="36" />
+        <mark key="." line="207" column="36" />
+        <mark key="^" line="207" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -36,41 +37,41 @@
       <jump line="39" column="83" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHF1ZXVlRmFtaWx5SW5mbw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">InZhbGlkYXRpb24gbGF5ZXI6ICIgPDwgcENhbGxiYWNrRGF0YS0+cE1lc3NhZ2UgPDwgc3RkOjplbmRs</text>
+        <text encoding="base64">IHF1ZXVlRmFtaWx5SW5mbw==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBpZiAobWVzc2FnZVNldiA+PSBWS19ERUJVR19VVElMU19NRVNTQUdFX1NFVkVSSVRZX1dBUk5JTkdfQklUX0VYVCkgewogICAgICBzdGQ6OmNlcnIgPDwgInZhbGlkYXRpb24gbGF5ZXI6ICIgPDwgcENhbGxiYWNrRGF0YS0+cE1lc3NhZ2UgPDwgc3RkOjplbmRsOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAgIGlmICghcXVldWVGYW1pbHlJbmZvKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgZmluZCBhIHN1aXRhYmxlIGRldmljZS4iKTsKICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBWS19ERUJVR19VVElMU19NRVNTQUdFX1NFVkVSSVRZX1ZFUkJPU0VfQklUX0VYVDoKICAgICAgICBzcyA8PCAiW1ZFUkJPU0VdICI7CiAgICAgIGNhc2UgVktfREVCVUdfVVRJTFNfTUVTU0FHRV9TRVZFUklUWV9JTkZPX0JJVF9FWFQ6CiAgICAgICAgc3MgPDwgIltJTkZPXSAiOwogICAgICBjYXNlIFZLX0RFQlVHX1VUSUxTX01FU1NBR0VfU0VWRVJJVFlfV0FSTklOR19CSVRfRVhUOgogICAgICAgIHNzIDw8ICJbV0FSTl0gIjsKICAgICAgY2FzZSBWS19ERUJVR19VVElMU19NRVNTQUdFX1NFVkVSSVRZX0VSUk9SX0JJVF9FWFQ6CiAgICAgIGRlZmF1bHQ6CiAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2VyciA8PCAiaGVubG8iIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIHF1ZXVlRmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCBWS19ERUJVR19VVElMU19NRVNTQUdFX1RZUEVfUEVSRk9STUFOQ0VfQklUX0VYVAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2VyciA8PCAiaGVsbG8iIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZnVuYygpCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHF1ZXVlRmFtaWx5SW5mbyA9IFF1ZXVlRmFtaWx5SW5mbzo6Y3JlYXRlKGRldmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5lbmFibGVkRXh0ZW5zaW9uQ291bnQgPSBnbGZ3RXh0ZW5zaW9uQ291bnQsCi8vICAgICAgICAucHBFbmFibGVkRXh0ZW5zaW9uTmFtZXMgPSBnbGZ3RXh0ZW5zaW9ucywK</text>
+        <text encoding="base64">ICAgIGJvb2wgZm91bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgVmtSZXN1bHQgcmVzdWx0ID0gdmtDcmVhdGVEZWJ1Z1V0aWxzTWVzc2VuZ2VyRVhUKG1faW5zdGFuY2UsICZjcmVhdGVJbmZvLCBudWxscHRyLCAmbURlYnVnTWVzc2VuZ2VyKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6Om51bGxvcHQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
