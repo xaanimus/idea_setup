@@ -12,7 +12,7 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/LLDB" timestamp="1561661433223">
+      <file name="/LLDB" timestamp="1561662624484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
@@ -21,12 +21,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561661914428">
-        <mark key="'" line="30" column="21" />
-        <mark key="[" line="248" column="8" />
-        <mark key="]" line="248" column="31" />
-        <mark key="." line="248" column="31" />
-        <mark key="^" line="248" column="31" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561666304785">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="408" column="98" />
+        <mark key="]" line="408" column="107" />
+        <mark key="^" line="408" column="107" />
+        <mark key="." line="408" column="107" />
       </file>
     </filemarks>
     <jumps>
@@ -50,55 +50,57 @@
       <jump line="237" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="10" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="30" column="21" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="432" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="31" column="21" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">bVN3YXBjaGFpbkltYWdlcyA=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">bVN3YXBjaGFpbkltYWdlcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>exten</text>
+        <text>oldSwapchain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0RFVklDRV9RVUVVRV9DUkVBVEVfSU5GTywKICAgICAgICAgICAgLnF1ZXVlRmFtaWx5SW5kZXggPSBtUXVldWVGYW1pbHlJbmZvLmdyYXBoaWNzRmFtaWx5LAogICAgICAgICAgICAucXVldWVDb3VudCA9IDEsCiAgICAgICAgICAgIC5wUXVldWVQcmlvcml0aWVzID0gJnF1ZXVlUHJpb3JpdHksCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFZrRGV2aWNlUXVldWVDcmVhdGVJbmZvIHF1ZXVlQ3JlYXRlSW5mbyA9IHsKICAgICAgICAuc1R5cGUgPSBWS19TVFJVQ1RVUkVfVFlQRV9ERVZJQ0VfUVVFVUVfQ1JFQVRFX0lORk8sCiAgICAgICAgLnF1ZXVlRmFtaWx5SW5kZXggPSBtUXVldWVGYW1pbHlJbmZvLmdyYXBoaWNzRmFtaWx5LAogICAgICAgIC5xdWV1ZUNvdW50ID0gMSwKICAgICAgICAucFF1ZXVlUHJpb3JpdGllcyA9ICZxdWV1ZVByaW9yaXR5LAogICAgfTsK</text>
+        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxWa0ltYWdlPiBtU3dhcGNoYWluSW1hZ2VzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IHF1ZXVlUHJpb3JpdHkgPSAxLjBmOwo=</text>
+        <text encoding="base64">ICBWa1N3YXBjaGFpbktIUiBtU3dhcGNoYWluOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHF1ZXVlRmFtLnF1ZXVlQ291bnQgPiAwICYmIHF1ZXVlRmFtLnF1ZXVlRmxhZ3MgJiBWS19RVSkK</text>
+        <text encoding="base64">ICAgIHZrRGVzdHJveVN3YXBjaGFpbktIUihtRGV2aWNlLCBtU3dhcGNoYWluLCBudWxscHRyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBWa0RldmljZSBtRGV2aWNlID0gVktfTlVMTF9IQU5ETEU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy5lbmFibGVkTGF5ZXJDb3VudAo=</text>
+        <text encoding="base64">ICAgIFZrU3VyZmFjZUZvcm1hdEtIUgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFjdHVhbEV4dGVudCA9IHN0ZDo6bWF4KGNhcGFiaWxpdGllcy5taW5JbWFnZUV4dGVudC53aWR0aCwgc3RkOjptaW4oY2FwYWJpbGl0aWVzLm1heEltYWprKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exten</last-search>
+      <last-search>oldSwapchain</last-search>
       <last-offset />
-      <last-pattern>exten</last-pattern>
+      <last-pattern>oldSwapchain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -108,8 +110,9 @@
         <entry>initVulkan</entry>
         <entry>QueueFamilyInfo</entry>
         <entry>mGraphics</entry>
-        <entry>deviceExtensions</entry>
         <entry>exten</entry>
+        <entry>deviceExtensions</entry>
+        <entry>oldSwapchain</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
