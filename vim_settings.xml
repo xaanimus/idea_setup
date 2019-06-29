@@ -21,12 +21,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561666304785">
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561764037351">
         <mark key="'" line="31" column="21" />
-        <mark key="[" line="408" column="98" />
-        <mark key="]" line="408" column="107" />
-        <mark key="^" line="408" column="107" />
-        <mark key="." line="408" column="107" />
+        <mark key="[" line="457" column="53" />
+        <mark key="]" line="457" column="53" />
+        <mark key="^" line="457" column="53" />
+        <mark key="." line="457" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -55,43 +55,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bVN3YXBjaGFpbkltYWdlcyA=</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bVN3YXBjaGFpbkltYWdlcyA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>oldSwapchain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIC5zVHlwZSA9IFZLX1NUUlVDVFVSRV9UWVBFX0RFVklDRV9RVUVVRV9DUkVBVEVfSU5GTywKICAgICAgICAgICAgLnF1ZXVlRmFtaWx5SW5kZXggPSBtUXVldWVGYW1pbHlJbmZvLmdyYXBoaWNzRmFtaWx5LAogICAgICAgICAgICAucXVldWVDb3VudCA9IDEsCiAgICAgICAgICAgIC5wUXVldWVQcmlvcml0aWVzID0gJnF1ZXVlUHJpb3JpdHksCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuciA9IFZLX0NPTVBPTkVOVF9TV0laWkxFX0lERU5USVRZLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxWa0ltYWdlPiBtU3dhcGNoYWluSW1hZ2VzOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBWa1N3YXBjaGFpbktIUiBtU3dhcGNoYWluOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZrRGVzdHJveVN3YXBjaGFpbktIUihtRGV2aWNlLCBtU3dhcGNoYWluLCBudWxscHRyKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxWa0ltYWdlPiBtU3dhcGNoYWluSW1hZ2VzOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBWa1N3YXBjaGFpbktIUiBtU3dhcGNoYWluOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZrRGVzdHJveVN3YXBjaGFpbktIUihtRGV2aWNlLCBtU3dhcGNoYWluLCBudWxscHRyKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFZrU3VyZmFjZUZvcm1hdEtIUgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjdHVhbEV4dGVudCA9IHN0ZDo6bWF4KGNhcGFiaWxpdGllcy5taW5JbWFnZUV4dGVudC53aWR0aCwgc3RkOjptaW4oY2FwYWJpbGl0aWVzLm1heEltYWprKSkK</text>
+        <text encoding="base64">ICAgIFZrU3VyZmFjZUZvcm1hdEtIUgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
