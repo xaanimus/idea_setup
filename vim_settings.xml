@@ -6,14 +6,33 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/apps/vk_app/shader/main.vert" timestamp="1561995003090">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="19" column="34" />
+      </file>
       <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560962989408">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/code/apps/vk_app/shader/compile.sh" timestamp="1561995042074">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1561662624484">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/vk_app/shader/main.frag" timestamp="1561995021071">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
         <mark key="[" line="12" column="17" />
@@ -21,12 +40,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561994016034">
-        <mark key="'" line="449" column="24" />
-        <mark key="[" line="450" column="4" />
-        <mark key="]" line="450" column="5" />
-        <mark key="." line="450" column="5" />
-        <mark key="^" line="450" column="5" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561994428467">
+        <mark key="'" line="443" column="0" />
+        <mark key="[" line="395" column="40" />
+        <mark key="]" line="395" column="40" />
+        <mark key="." line="395" column="40" />
+        <mark key="^" line="395" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -53,46 +72,50 @@
       <jump line="432" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="31" column="21" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="446" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="408" column="39" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="440" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="443" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="13" column="22" filename="$USER_HOME$/code/apps/vk_app/shader/main.vert" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>imageViews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuciA9IFZLX0NPTVBPTkVOVF9TV0laWkxFX0lERU5USVRZLAo=</text>
+        <text encoding="base64">I2V4dGVuc2lvbiBHTF9BUkJfc2VwYXJhdGVfc2hhZGVyX29iamVjdHMgOiBlbmFibGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CW91dENvbG9yID0gdmVjNCgxLjAsIDAuMCwgMC4wLCAxLjApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxWa0ltYWdlPiBtU3dhcGNoYWluSW1hZ2VzOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBWa1N3YXBjaGFpbktIUiBtU3dhcGNoYWluOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGF5b3UK</text>
+      </register>
+      <register name="4" type="4">
+        <text>vec4(vec3(0.0), 1.0)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZrRGVzdHJveVN3YXBjaGFpbktIUihtRGV2aWNlLCBtU3dhcGNoYWluLCBudWxscHRyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxWa0ltYWdlPiBtU3dhcGNoYWluSW1hZ2VzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
