@@ -40,12 +40,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561998639299">
-        <mark key="'" line="572" column="31" />
-        <mark key="[" line="600" column="37" />
-        <mark key="]" line="600" column="38" />
-        <mark key="." line="600" column="38" />
-        <mark key="^" line="600" column="38" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561999601492">
+        <mark key="'" line="608" column="31" />
+        <mark key="[" line="658" column="58" />
+        <mark key="]" line="658" column="58" />
+        <mark key="." line="658" column="58" />
+        <mark key="^" line="658" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -122,10 +122,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">VmtHcmFwaGljcyA=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">VmtHcmFwaGljcyA=</text>
       </register>
       <register name="/" type="4">
         <text>pipelineLayout</text>
@@ -134,28 +134,28 @@
         <text encoding="base64">ICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtRGV2aWNlLCB2ZXJ0TW9kdWxlLCBudWxscHRyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFZrUGlwZWxpbmVMYXlvdXQgcGlwZWxpbmVMYXlvdXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuYmFzZVBpcGVsaW5lSGFuZGxlID0gVktfTlVMTEpLCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmxheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0TGF5b3V0Q291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgIHZrRGVzdHJveVJlbmRlclBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAubG9naWNPcCA9IFZLX0xPR0lDXwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb2xvckF0dGFjaG1lbnRSZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbG9yQXR0YWNoZW1lbnQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAubWluU2FtcGxlCg==</text>
+        <text encoding="base64">ICAgIFZrUGlwZWxpbmVMYXlvdXQgcGlwZWxpbmVMYXlvdXQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -196,6 +196,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
