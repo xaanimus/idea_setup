@@ -19,11 +19,11 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/shader/compile.sh" timestamp="1561995042074">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/apps/vk_app/shader/compile.sh" timestamp="1561995132715">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="/LLDB" timestamp="1561662624484">
         <mark key="[" line="0" column="0" />
@@ -40,19 +40,18 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561994428467">
-        <mark key="'" line="443" column="0" />
-        <mark key="[" line="395" column="40" />
-        <mark key="]" line="395" column="40" />
-        <mark key="." line="395" column="40" />
-        <mark key="^" line="395" column="40" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561997271934">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="534" column="25" />
+        <mark key="]" line="536" column="43" />
+        <mark key="." line="536" column="43" />
+        <mark key="^" line="536" column="43" />
       </file>
     </filemarks>
     <jumps>
       <jump line="69" column="2" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="59" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="275" column="28" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="35" column="32" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="38" column="30" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="39" column="28" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="40" column="33" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -64,7 +63,6 @@
       <jump line="246" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="55" column="60" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="76" column="4" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="65" column="40" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="75" column="12" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="237" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="10" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -76,46 +74,66 @@
       <jump line="440" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="443" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="13" column="22" filename="$USER_HOME$/code/apps/vk_app/shader/main.vert" />
+      <jump line="66" column="1" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="52" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="12" column="17" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>imageViews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2V4dGVuc2lvbiBHTF9BUkJfc2VwYXJhdGVfc2hhZGVyX29iamVjdHMgOiBlbmFibGUK</text>
+        <text encoding="base64">ICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtRGV2aWNlLCB2ZXJ0TW9kdWxlLCBudWxscHRyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW91dENvbG9yID0gdmVjNCgxLjAsIDAuMCwgMC4wLCAxLjApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGF5b3UK</text>
-      </register>
-      <register name="4" type="4">
-        <text>vec4(vec3(0.0), 1.0)</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxjaGFyPiByZXN1bHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxWa0ltYWdlPiBtU3dhcGNoYWluSW1hZ2VzOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -140,6 +158,7 @@
         <entry>imageViews</entry>
       </history-search>
       <history-cmd>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
