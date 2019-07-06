@@ -40,20 +40,15 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1561999601492">
-        <mark key="'" line="608" column="31" />
-        <mark key="[" line="658" column="58" />
-        <mark key="]" line="658" column="58" />
-        <mark key="." line="658" column="58" />
-        <mark key="^" line="658" column="58" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1562439723949">
+        <mark key="'" line="698" column="0" />
+        <mark key="[" line="695" column="24" />
+        <mark key="]" line="696" column="26" />
+        <mark key="." line="696" column="26" />
+        <mark key="^" line="696" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="2" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="275" column="28" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="38" column="30" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="39" column="28" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="40" column="33" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="271" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="269" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -103,7 +98,6 @@
       <jump line="592" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="598" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="605" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="607" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="609" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="616" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="618" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -119,55 +113,91 @@
       <jump line="600" column="38" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="575" column="41" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="572" column="31" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="687" column="3" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="720" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="733" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="730" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="724" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="719" column="22" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="717" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="713" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="710" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="696" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="694" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="692" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="684" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="679" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="673" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="661" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="668" column="2" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="716" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="714" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="707" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="705" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="703" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="699" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="695" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="691" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="688" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="607" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="614" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="631" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="635" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="639" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="652" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="658" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="664" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="669" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="682" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VmtHcmFwaGljcyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VmtHcmFwaGljcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>pipelineLayout</text>
+        <text>cleanup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtRGV2aWNlLCB2ZXJ0TW9kdWxlLCBudWxscHRyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuYmFzZVBpcGVsaW5lSGFuZGxlID0gVktfTlVMTEpLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmxheQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZrRGVzdHJveVJlbmRlclBhc3MK</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvckF0dGFjaG1lbnRSZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yQXR0YWNoZW1lbnQuCg==</text>
+        <text encoding="base64">ICAgIG1RdWV1ZUZhbWlseUluZm8uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFZrUGlwZWxpbmVMYXlvdXQgcGlwZWxpbmVMYXlvdXQ7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pipelineLayout</last-search>
+      <last-search>cleanup</last-search>
       <last-offset />
-      <last-pattern>pipelineLayout</last-pattern>
+      <last-pattern>cleanup</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -182,6 +212,7 @@
         <entry>oldSwapchain</entry>
         <entry>imageViews</entry>
         <entry>pipelineLayout</entry>
+        <entry>cleanup</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
