@@ -40,8 +40,8 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1562439723949">
-        <mark key="'" line="698" column="0" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1562733365652">
+        <mark key="'" line="749" column="17" />
         <mark key="[" line="695" column="24" />
         <mark key="]" line="696" column="26" />
         <mark key="." line="696" column="26" />
@@ -49,8 +49,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="33" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="271" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="269" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="262" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="259" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -149,6 +147,8 @@
       <jump line="664" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="669" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="682" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="740" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="749" column="17" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -158,7 +158,7 @@
         <text encoding="base64">VmtHcmFwaGljcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>cleanup</text>
+        <text>mCommandPool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZrRGVzdHJveVNoYWRlck1vZHVsZShtRGV2aWNlLCB2ZXJ0TW9kdWxlLCBudWxscHRyKTsK</text>
@@ -195,9 +195,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cleanup</last-search>
+      <last-search>mCommandPool</last-search>
       <last-offset />
-      <last-pattern>cleanup</last-pattern>
+      <last-pattern>mCommandPool</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -213,6 +213,8 @@
         <entry>imageViews</entry>
         <entry>pipelineLayout</entry>
         <entry>cleanup</entry>
+        <entry>command</entry>
+        <entry>mCommandPool</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
