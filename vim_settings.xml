@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/shader/main.vert" timestamp="1562901091288">
+      <file name="$USER_HOME$/code/apps/vk_app/shader/main.vert" timestamp="1563436139635">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="52" />
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
       </file>
       <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560962989408">
         <mark key="[" line="2" column="27" />
@@ -19,20 +19,20 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/shader/compile.sh" timestamp="1561995132715">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
+      <file name="$USER_HOME$/code/apps/vk_app/shader/compile.sh" timestamp="1563435768333">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/LLDB" timestamp="1562958533256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/shader/main.frag" timestamp="1562901029879">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/code/apps/vk_app/shader/main.frag" timestamp="1563435810086">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/code/apps/xsray/Cargo.toml" timestamp="1560551132475">
         <mark key="[" line="12" column="17" />
@@ -40,23 +40,15 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1562958739843">
-        <mark key="'" line="561" column="12" />
-        <mark key="[" line="776" column="34" />
-        <mark key="]" line="776" column="34" />
-        <mark key="." line="776" column="34" />
-        <mark key="^" line="776" column="34" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563436954680">
+        <mark key="'" line="629" column="19" />
+        <mark key="[" line="584" column="44" />
+        <mark key="]" line="584" column="51" />
+        <mark key="." line="584" column="51" />
+        <mark key="^" line="584" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="446" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="408" column="39" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="440" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="443" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="13" column="22" filename="$USER_HOME$/code/apps/vk_app/shader/main.vert" />
-      <jump line="66" column="1" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="61" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -104,7 +96,6 @@
       <jump line="733" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="730" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="724" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="719" column="22" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="717" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="713" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="710" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -149,16 +140,25 @@
       <jump line="562" column="12" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="6" column="18" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="561" column="12" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="643" column="87" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="719" column="77" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="812" column="31" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="844" column="13" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="66" column="18" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="530" column="25" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="527" column="36" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="629" column="19" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="82" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>color</text>
+        <text encoding="base64">IC8gMg==</text>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text encoding="base64">IC8gMg==</text>
       </register>
       <register name="/" type="4">
-        <text>CLOCK</text>
+        <text>shaderStages</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
@@ -195,9 +195,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CLOCK</last-search>
+      <last-search>shaderStages</last-search>
       <last-offset />
-      <last-pattern>CLOCK</last-pattern>
+      <last-pattern>shaderStages</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -220,6 +220,9 @@
         <entry>drawFrame</entry>
         <entry>depth</entry>
         <entry>CLOCK</entry>
+        <entry>mGraphicsPipeline</entry>
+        <entry>readFile</entry>
+        <entry>shaderStages</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
