@@ -40,16 +40,15 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563436954680">
-        <mark key="'" line="629" column="19" />
-        <mark key="[" line="584" column="44" />
-        <mark key="]" line="584" column="51" />
-        <mark key="." line="584" column="51" />
-        <mark key="^" line="584" column="51" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563741797945">
+        <mark key="'" line="720" column="0" />
+        <mark key="[" line="722" column="52" />
+        <mark key="]" line="722" column="52" />
+        <mark key="." line="722" column="52" />
+        <mark key="^" line="722" column="52" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="44" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -92,11 +91,9 @@
       <jump line="575" column="41" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="572" column="31" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="687" column="3" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="720" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="733" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="730" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="724" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="717" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="713" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="710" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="696" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -149,61 +146,63 @@
       <jump line="527" column="36" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="629" column="19" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="82" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="717" column="45" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="720" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="832" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8gMg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF1dG8gZGVzdHJveU1lc3NlbmdlckZ1bmMgPSAoUEZOX3ZrRGVzdHJveURlYnVnVXRpbHNNZXNzZW5nZXJFWFQpIHZrR2V0SW5zdGFuY2VQcm9jQWRkcigKICAgICAgICBtSW5zdGFuY2UsICJ2a0Rlc3Ryb3lEZWJ1Z1V0aWxzTWVzc2VuZ2VyRVhUIik7CiAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICBkZXN0cm95TWVzc2VuZ2VyRnVuYyhtSW5zdGFuY2UsIG1EZWJ1Z01lc3NlbmdlciwgbnVsbHB0cik7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC8gMg==</text>
       </register>
       <register name="/" type="4">
-        <text>shaderStages</text>
+        <text>func</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZGVzdHJveU1lc3NlbmdlckZ1bmMgPSAoUEZOX3ZrRGVzdHJveURlYnVnVXRpbHNNZXNzZW5nZXJFWFQpIHZrR2V0SW5zdGFuY2VQcm9jQWRkcigKICAgICAgICBtSW5zdGFuY2UsICJ2a0Rlc3Ryb3lEZWJ1Z1V0aWxzTWVzc2VuZ2VyRVhUIik7CiAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICBkZXN0cm95TWVzc2VuZ2VyRnVuYyhtSW5zdGFuY2UsIG1EZWJ1Z01lc3NlbmdlciwgbnVsbHB0cik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5wTmV4dCA9IG4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5wTmV4dCA9IG4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucFdhaXRTZW1hcGhvcmVzID0gJm1TZW1hcGhvcmVJbWFnZUF2YWlsYWJsZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHZrQ3JlYXRlU2VtYXBob3JlKG1EZXZpY2UsICZjcmVhdGVJbmZvLCBudWxscHRyLCBzZW1hcGhvcmUpICE9IFZLX1NVQ0NFU1MpIHsKICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3IoImNvdWxkIG5vdCBjcmVhdGUgc2VtYXBob3JlIik7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAucFdhaXRTZW1hcGhvcmVzID0gJm1TZW1hcGhvcmVJbWFnZUF2YWlsYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shaderStages</last-search>
+      <last-search>func</last-search>
       <last-offset />
-      <last-pattern>shaderStages</last-pattern>
+      <last-pattern>func</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validation</entry>
         <entry>initVulkan</entry>
         <entry>QueueFamilyInfo</entry>
         <entry>mGraphics</entry>
@@ -223,6 +222,7 @@
         <entry>mGraphicsPipeline</entry>
         <entry>readFile</entry>
         <entry>shaderStages</entry>
+        <entry>func</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
