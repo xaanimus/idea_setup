@@ -40,15 +40,15 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563743471745">
-        <mark key="'" line="275" column="32" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563746558830">
+        <mark key="'" line="122" column="4" />
+        <mark key="[" line="772" column="40" />
+        <mark key="]" line="772" column="44" />
+        <mark key="." line="772" column="44" />
+        <mark key="^" line="772" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="49" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="53" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="62" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -148,61 +148,61 @@
       <jump line="274" column="22" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="222" column="40" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="275" column="32" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="122" column="4" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3VjY2VzcyIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text encoding="base64">ZHJhd0xhYmVsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>debugCallback</text>
+        <text>debugCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXV0byBiZWdpbkxhYmVsRnVuYyA9IChQRk5fdmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVCkgdmtHZXRJbnN0YW5jZVByb2NBZGRyKAogICAgICAgICAgbUluc3RhbmNlLCAidmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVCIpOwogICAgICBpZiAoYmVnaW5MYWJlbEZ1bmMgPT0gbnVsbHB0cikgewogICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigiY291bGQgbm90IGNhbGwgZnVuY3Rpb24iKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGF1dG8gYmVnaW5MYWJlbCA9IGluc3RhbmNlRnVuY3Rpb248UEZOX3ZrUXVldWVCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVD4oCiAgICAgICAgbUluc3RhbmNlLCAidmtRdWV1ZUJlZ2luRGVidWdVdGlsc0VYVCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3VjY2VzcyIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmtDbWRFbmREZWJ1Z1V0aWxzTGFiZWxFWFQobUNvbW1hbmRCdWZmZXJzW2ldKTsK</text>
+        <text encoding="base64">ICAgIGJlZ2luTGFiZWwobUdyYXBoaWNzUXVldWUsICZzdWJtaXRMYWJlbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVChtQ29tbWFuZEJ1ZmZlcnNbaV0sICZkcmF3TGFiZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGF1dG8gYmVnaW5MYWJlbEZ1bmMgPSBpbnN0YW5jZUZ1bmN0aW9uPFBGTl92a0NtZEJlZ2luRGVidWdVdGlsc0xhYmVsRVhUPgogICAgICAgICAgKG1JbnN0YW5jZSwgInZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQiKTsKICAgICAgYmVnaW5MYWJlbEZ1bmMobUNvbW1hbmRCdWZmZXJzW2ldLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXV0byBkZXN0cm95TWVzc2VuZ2VyRnVuYyA9IChQRk5fdmtEZXN0cm95RGVidWdVdGlsc01lc3NlbmdlckVYVCkgdmtHZXRJbnN0YW5jZVByb2NBZGRyKAogICAgICAgICAgbUluc3RhbmNlLCAidmtEZXN0cm95RGVidWdVdGlsc01lc3NlbmdlckVYVCIpOwogICAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICAgIGRlc3Ryb3lNZXNzZW5nZXJGdW5jKG1JbnN0YW5jZSwgbURlYnVnTWVzc2VuZ2VyLCBudWxscHRyKTsKICAgICAgfQoK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3VjY2VzcyIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmtDbWRFbmREZWJ1Z1V0aWxzTGFiZWxFWFQobUNvbW1hbmRCdWZmZXJzW2ldKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGF1dG8gYmVnaW5MYWJlbEZ1bmMgPSAoUEZOX3ZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQpIHZrR2V0SW5zdGFuY2VQcm9jQWRkcigKICAgICAgICAgIG1JbnN0YW5jZSwgInZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQiKTsKICAgICAgaWYgKGJlZ2luTGFiZWxGdW5jID09IG51bGxwdHIpIHsKICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3IoImNvdWxkIG5vdCBjYWxsIGZ1bmN0aW9uIik7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVChtQ29tbWFuZEJ1ZmZlcnNbaV0sICZkcmF3TGFiZWwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmVnaW5MYWJlbEZ1bmMoKQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGF1dG8gYmVnaW5MYWJlbEZ1bmMgPSBpbnN0YW5jZUZ1bmN0aW9uPFBGTl92a0NtZEJlZ2luRGVidWdVdGlsc0xhYmVsRVhUPgogICAgICAgICAgKG1JbnN0YW5jZSwgInZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQiKTsKICAgICAgYmVnaW5MYWJlbEZ1bmMobUNvbW1hbmRCdWZmZXJzW2ldLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vdGhyb3cgc3RkOjpydW4K</text>
+        <text encoding="base64">ICAgICAgYXV0byBkZXN0cm95TWVzc2VuZ2VyRnVuYyA9IChQRk5fdmtEZXN0cm95RGVidWdVdGlsc01lc3NlbmdlckVYVCkgdmtHZXRJbnN0YW5jZVByb2NBZGRyKAogICAgICAgICAgbUluc3RhbmNlLCAidmtEZXN0cm95RGVidWdVdGlsc01lc3NlbmdlckVYVCIpOwogICAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICAgIGRlc3Ryb3lNZXNzZW5nZXJGdW5jKG1JbnN0YW5jZSwgbURlYnVnTWVzc2VuZ2VyLCBudWxscHRyKTsKICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debugCallback</last-search>
+      <last-search>debugCall</last-search>
       <last-offset />
-      <last-pattern>debugCallback</last-pattern>
+      <last-pattern>debugCall</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mGraphics</entry>
         <entry>exten</entry>
         <entry>deviceExtensions</entry>
         <entry>oldSwapchain</entry>
@@ -222,6 +222,7 @@
         <entry>func</entry>
         <entry>debug</entry>
         <entry>debugCallback</entry>
+        <entry>debugCall</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
