@@ -40,27 +40,14 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563741797945">
-        <mark key="'" line="720" column="0" />
-        <mark key="[" line="722" column="52" />
-        <mark key="]" line="722" column="52" />
-        <mark key="." line="722" column="52" />
-        <mark key="^" line="722" column="52" />
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563743471745">
+        <mark key="'" line="275" column="32" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="12" column="17" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="45" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="49" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="53" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -91,9 +78,6 @@
       <jump line="575" column="41" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="572" column="31" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="687" column="3" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="733" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="730" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="724" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="713" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="710" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="696" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -149,62 +133,75 @@
       <jump line="717" column="45" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="720" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="832" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="191" column="27" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="849" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="847" column="25" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="733" column="24" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="732" column="26" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="730" column="27" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="727" column="49" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="726" column="20" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="724" column="21" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="316" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="315" column="8" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="313" column="9" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="274" column="22" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="222" column="40" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="275" column="32" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGVzdHJveU1lc3NlbmdlckZ1bmMgPSAoUEZOX3ZrRGVzdHJveURlYnVnVXRpbHNNZXNzZW5nZXJFWFQpIHZrR2V0SW5zdGFuY2VQcm9jQWRkcigKICAgICAgICBtSW5zdGFuY2UsICJ2a0Rlc3Ryb3lEZWJ1Z1V0aWxzTWVzc2VuZ2VyRVhUIik7CiAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICBkZXN0cm95TWVzc2VuZ2VyRnVuYyhtSW5zdGFuY2UsIG1EZWJ1Z01lc3NlbmdlciwgbnVsbHB0cik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3VjY2VzcyIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gMg==</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
-        <text>func</text>
+        <text>debugCallback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGVzdHJveU1lc3NlbmdlckZ1bmMgPSAoUEZOX3ZrRGVzdHJveURlYnVnVXRpbHNNZXNzZW5nZXJFWFQpIHZrR2V0SW5zdGFuY2VQcm9jQWRkcigKICAgICAgICBtSW5zdGFuY2UsICJ2a0Rlc3Ryb3lEZWJ1Z1V0aWxzTWVzc2VuZ2VyRVhUIik7CiAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICBkZXN0cm95TWVzc2VuZ2VyRnVuYyhtSW5zdGFuY2UsIG1EZWJ1Z01lc3NlbmdlciwgbnVsbHB0cik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYXV0byBiZWdpbkxhYmVsRnVuYyA9IChQRk5fdmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVCkgdmtHZXRJbnN0YW5jZVByb2NBZGRyKAogICAgICAgICAgbUluc3RhbmNlLCAidmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVCIpOwogICAgICBpZiAoYmVnaW5MYWJlbEZ1bmMgPT0gbnVsbHB0cikgewogICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigiY291bGQgbm90IGNhbGwgZnVuY3Rpb24iKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wTmV4dCA9IG4K</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3VjY2VzcyIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wTmV4dCA9IG4K</text>
+        <text encoding="base64">ICAgICAgdmtDbWRFbmREZWJ1Z1V0aWxzTGFiZWxFWFQobUNvbW1hbmRCdWZmZXJzW2ldKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmtDbWRCZWdpbkRlYnVnVXRpbHNMYWJlbEVYVChtQ29tbWFuZEJ1ZmZlcnNbaV0sICZkcmF3TGFiZWwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGF1dG8gYmVnaW5MYWJlbEZ1bmMgPSBpbnN0YW5jZUZ1bmN0aW9uPFBGTl92a0NtZEJlZ2luRGVidWdVdGlsc0xhYmVsRVhUPgogICAgICAgICAgKG1JbnN0YW5jZSwgInZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQiKTsKICAgICAgYmVnaW5MYWJlbEZ1bmMobUNvbW1hbmRCdWZmZXJzW2ldLCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYXV0byBkZXN0cm95TWVzc2VuZ2VyRnVuYyA9IChQRk5fdmtEZXN0cm95RGVidWdVdGlsc01lc3NlbmdlckVYVCkgdmtHZXRJbnN0YW5jZVByb2NBZGRyKAogICAgICAgICAgbUluc3RhbmNlLCAidmtEZXN0cm95RGVidWdVdGlsc01lc3NlbmdlckVYVCIpOwogICAgICBpZiAoZGVzdHJveU1lc3NlbmdlckZ1bmMgIT0gbnVsbHB0cikgewogICAgICAgIGRlc3Ryb3lNZXNzZW5nZXJGdW5jKG1JbnN0YW5jZSwgbURlYnVnTWVzc2VuZ2VyLCBudWxscHRyKTsKICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgIGF1dG8gYmVnaW5MYWJlbEZ1bmMgPSAoUEZOX3ZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQpIHZrR2V0SW5zdGFuY2VQcm9jQWRkcigKICAgICAgICAgIG1JbnN0YW5jZSwgInZrQ21kQmVnaW5EZWJ1Z1V0aWxzTGFiZWxFWFQiKTsKICAgICAgaWYgKGJlZ2luTGFiZWxGdW5jID09IG51bGxwdHIpIHsKICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3IoImNvdWxkIG5vdCBjYWxsIGZ1bmN0aW9uIik7CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmVnaW5MYWJlbEZ1bmMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucFdhaXRTZW1hcGhvcmVzID0gJm1TZW1hcGhvcmVJbWFnZUF2YWlsYWJsZQo=</text>
+        <text encoding="base64">ICAgIC8vdGhyb3cgc3RkOjpydW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>func</last-search>
+      <last-search>debugCallback</last-search>
       <last-offset />
-      <last-pattern>func</last-pattern>
+      <last-pattern>debugCallback</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initVulkan</entry>
-        <entry>QueueFamilyInfo</entry>
         <entry>mGraphics</entry>
         <entry>exten</entry>
         <entry>deviceExtensions</entry>
@@ -223,6 +220,8 @@
         <entry>readFile</entry>
         <entry>shaderStages</entry>
         <entry>func</entry>
+        <entry>debug</entry>
+        <entry>debugCallback</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
