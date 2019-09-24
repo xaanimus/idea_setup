@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/apps/projection/example_project_folder/PROJECT_DEPS_INFO" timestamp="1569300987529">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,11 +19,12 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569296979847">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569301545613">
+        <mark key="'" line="17" column="88" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560962989408">
         <mark key="[" line="2" column="27" />
@@ -55,7 +62,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="44" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -155,13 +161,14 @@
       <jump line="527" column="36" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="629" column="19" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="82" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
+      <jump line="18" column="88" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbGxlY3QgYXJncwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgcHJvamVjdF9kZXBzX2luZm9fc291cmNlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF0aCA=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>shaderStages</text>
@@ -170,16 +177,16 @@
         <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbGxlY3QgYXJncwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgcHJvamVjdF9kZXBzX2luZm9fc291cmNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpcmVjdG9yeTogcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW52Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZ2xvYmFscyA9IGN0eC5nbG9iYWxzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -194,7 +201,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucFdhaXRTZW1hcGhvcmVzID0gJm1TZW1hcGhvcmVJbWFnZUF2YWlsYWJsZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -232,6 +239,7 @@
       </history-search>
       <history-cmd>
         <entry>qw</entry>
+        <entry>w3</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
