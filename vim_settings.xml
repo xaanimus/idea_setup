@@ -12,12 +12,12 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569395591875">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569396306981">
+        <mark key="'" line="26" column="53" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="59" />
       </file>
       <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
         <mark key="[" line="10" column="0" />
@@ -74,7 +74,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="618" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="623" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="626" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="644" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -174,61 +173,61 @@
       <jump line="1631" column="11" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="1645" column="4" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
+      <jump line="26" column="53" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmc19leHRyYTo6Y29weV9pdGVtcygmdmVjIVtkZXBlbmRlbmN5LmZ1bGxfcGF0aCgpXSwgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>dependency.module_path.join(dependency.module_relative_path)</text>
       </register>
       <register name="/" type="4">
-        <text>fs_imp</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmc19leHRyYTo6Y29weV9pdGVtcygmdmVjIVtkZXBlbmRlbmN5LmZ1bGxfcGF0aCgpXSwgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZnVsbF9kZXBlbmRlbmN5X3BhdGggPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGguCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZzX2V4dHJhOjpjb3B5X2l0ZW1zKCZkZXBlbmRlbmNpZXMudG9fdmVjKCksIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGgsICZDb3B5T3B0aW9uczo6bmV3KCkpCiAgICAgICAgLmV4cGVjdCgiY291bGQgbm90IGNvcHkgaXRlbXMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMubG9jaygpLnVud3JhcCgpLmFzX3NsaWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29weSBhbGwgZmlsZXMgZnJvbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RydWN0IERlcGVuZGVuY3lTcGVjIHsKICAgIG1vZHVsZV9uYW1lOiBTdHJpbmcsCiAgICBwYXRoOiAKfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMubG9jaygpLnVud3JhcCgpLmFzX3NsaWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fs_imp</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>fs_imp</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mGraphics</entry>
         <entry>exten</entry>
         <entry>deviceExtensions</entry>
         <entry>oldSwapchain</entry>
@@ -248,6 +247,7 @@
         <entry>copy</entry>
         <entry>fn copy</entry>
         <entry>fs_imp</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
