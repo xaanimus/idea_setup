@@ -12,12 +12,12 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569396306981">
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569559587673">
         <mark key="'" line="26" column="53" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="59" />
+        <mark key="[" line="35" column="65" />
+        <mark key="]" line="35" column="65" />
+        <mark key="." line="35" column="65" />
+        <mark key="^" line="35" column="65" />
       </file>
       <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
         <mark key="[" line="10" column="0" />
@@ -177,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmc19leHRyYTo6Y29weV9pdGVtcygmdmVjIVtkZXBlbmRlbmN5LmZ1bGxfcGF0aCgpXSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>dependency.module_path.join(dependency.module_relative_path)</text>
+        <text>dependency_directory_path.join(dependency.module_name)</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -189,31 +189,31 @@
         <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmc19leHRyYTo6Y29weV9pdGVtcygmdmVjIVtkZXBlbmRlbmN5LmZ1bGxfcGF0aCgpXSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZnVsbF9kZXBlbmRlbmN5X3BhdGggPQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZnJvbV9kaXJlY3RvcnkgPSBkZXBlbmRlbmN5Lm1vZHVsZV9wYXRoLmpvaW4oZGVwZW5kZW5jeS5tb2R1bGVfcmVsYXRpdmVfcGF0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGguCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdG9fZGlyZWN0b3J5IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZzX2V4dHJhOjpjb3B5X2l0ZW1zKCZkZXBlbmRlbmNpZXMudG9fdmVjKCksIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGgsICZDb3B5T3B0aW9uczo6bmV3KCkpCiAgICAgICAgLmV4cGVjdCgiY291bGQgbm90IGNvcHkgaXRlbXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZnJvbV9kaXJlY3RvcnkgPSBkZXBlbmRlbmN5Lm1vZHVsZV9wYXRoLmpvaW4oZGVwZW5kZW5jeS5tb2R1bGVfcmVsYXRpdmVfcGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdG9fZGlyZWN0b3J5ID0gZGVwZW5kZW5jeS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmc19leHRyYTo6Y29weV9pdGVtcygmdmVjIVtkZXBlbmRlbmN5LmZ1bGxfcGF0aCgpXSwgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZnVsbF9kZXBlbmRlbmN5X3BhdGggPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGguCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMubG9jaygpLnVud3JhcCgpLmFzX3NsaWNlKCkK</text>
+        <text encoding="base64">ICAgIGZzX2V4dHJhOjpjb3B5X2l0ZW1zKCZkZXBlbmRlbmNpZXMudG9fdmVjKCksIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGgsICZDb3B5T3B0aW9uczo6bmV3KCkpCiAgICAgICAgLmV4cGVjdCgiY291bGQgbm90IGNvcHkgaXRlbXMiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
