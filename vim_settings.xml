@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569559587673">
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1569980771249">
         <mark key="'" line="26" column="53" />
         <mark key="[" line="35" column="65" />
         <mark key="]" line="35" column="65" />
@@ -25,7 +25,6 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/sys/mod.rs" timestamp="1569394576792" />
       <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563436954680">
         <mark key="'" line="629" column="19" />
         <mark key="[" line="584" column="44" />
@@ -33,7 +32,6 @@
         <mark key="." line="584" column="51" />
         <mark key="^" line="584" column="51" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rlua-0.16.3/src/context.rs" timestamp="1569383259215" />
       <file name="$USER_HOME$/code/apps/vk_app/shader/main.vert" timestamp="1563436139635">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="18" column="51" />
@@ -41,7 +39,6 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/io/mod.rs" timestamp="1569393568602" />
       <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" timestamp="1569394556388">
         <mark key="'" line="0" column="0" />
       </file>
