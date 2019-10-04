@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/projection/example_project_folder/PROJECT_DEPS_INFO" timestamp="1569300987529">
+      <file name="$USER_HOME$/code/apps/projection/example_project_folder/PROJECT_DEPS_INFO" timestamp="1570153696400">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
@@ -12,12 +12,12 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570151638623">
-        <mark key="'" line="26" column="53" />
-        <mark key="[" line="35" column="65" />
-        <mark key="]" line="35" column="65" />
-        <mark key="." line="35" column="65" />
-        <mark key="^" line="35" column="65" />
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570154696616">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
         <mark key="[" line="10" column="0" />
@@ -32,6 +32,7 @@
         <mark key="." line="584" column="51" />
         <mark key="^" line="584" column="51" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/convert.rs" timestamp="1570154157900" />
       <file name="$USER_HOME$/code/apps/vk_app/shader/main.vert" timestamp="1563436139635">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="18" column="51" />
@@ -71,8 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="626" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="644" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="641" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="638" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -141,10 +140,8 @@
       <jump line="527" column="36" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="629" column="19" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="82" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="33" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="10" column="17" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="18" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="31" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
@@ -152,9 +149,7 @@
       <jump line="45" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="39" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="34" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="24" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="12" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="9" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
@@ -171,13 +166,19 @@
       <jump line="1645" column="4" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="26" column="53" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="40" column="60" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;could not find dependency seperator '//'.&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>dependency_directory_path.join(dependency.module_name)</text>
+        <text>&quot;could not find dependency seperator '//'.&quot;</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -186,31 +187,31 @@
         <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZnJvbV9kaXJlY3RvcnkgPSBkZXBlbmRlbmN5Lm1vZHVsZV9wYXRoLmpvaW4oZGVwZW5kZW5jeS5tb2R1bGVfcmVsYXRpdmVfcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA6dwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdG9fZGlyZWN0b3J5IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZnJvbV9kaXJlY3RvcnkgPSBkZXBlbmRlbmN5Lm1vZHVsZV9wYXRoLmpvaW4oZGVwZW5kZW5jeS5tb2R1bGVfcmVsYXRpdmVfcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdG9fZGlyZWN0b3J5ID0gZGVwZW5kZW5jeS4K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc2VwZXJhdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmc19leHRyYTo6Y29weV9pdGVtcygmdmVjIVtkZXBlbmRlbmN5LmZ1bGxfcGF0aCgpXSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZnVsbF9kZXBlbmRlbmN5X3BhdGggPQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaV9tb2R1bGVfc2VwZXJhdG9yLm9rX29yKCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGguCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29tcG9uZW50czogVmVjPCZzdHI+ID0gcy5zcGxpdCgiLyIpLmNvbGxlY3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZzX2V4dHJhOjpjb3B5X2l0ZW1zKCZkZXBlbmRlbmNpZXMudG9fdmVjKCksIGRlcGVuZGVuY3lfZGlyZWN0b3J5X3BhdGgsICZDb3B5T3B0aW9uczo6bmV3KCkpCiAgICAgICAgLmV4cGVjdCgiY291bGQgbm90IGNvcHkgaXRlbXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
