@@ -12,12 +12,12 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570164003019">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="149" column="37" />
-        <mark key="]" line="150" column="19" />
-        <mark key="." line="150" column="19" />
-        <mark key="^" line="150" column="19" />
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570164336071">
+        <mark key="'" line="148" column="20" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="148" column="19" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
         <mark key="[" line="10" column="0" />
@@ -72,7 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="844" column="13" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="66" column="18" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="530" column="25" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="527" column="36" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -172,61 +171,61 @@
       <jump line="138" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="133" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="124" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="150" column="20" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiEoImFkZGVkOiB7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>henlo</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiEoImFkZGVkOiB7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiEoImRlcHM6IHs6P30iLCBuZXdfZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsKICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzX3JlZik7Cgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsKICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzX3JlZik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB8czogU3RyaW5nfCBwcmludGxuISgie30iLCBzKQogICAgKTsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsKICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzX3JlZik7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deviceExtensions</entry>
         <entry>oldSwapchain</entry>
         <entry>imageViews</entry>
         <entry>pipelineLayout</entry>
@@ -246,6 +245,7 @@
         <entry>fs_imp</entry>
         <entry>path</entry>
         <entry>env</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
