@@ -12,12 +12,10 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570154696616">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570157031814">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
         <mark key="[" line="10" column="0" />
@@ -72,11 +70,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="644" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="641" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="638" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="632" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="628" column="0" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="627" column="20" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="576" column="66" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
       <jump line="600" column="38" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
@@ -148,7 +141,6 @@
       <jump line="47" column="3" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="45" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="39" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="24" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="12" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="9" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
@@ -172,13 +164,19 @@
       <jump line="21" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="27" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="30" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="34" column="8" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;could not find dependency seperator '//'.&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;could not find dependency seperator '//'.&quot;</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -187,31 +185,31 @@
         <text encoding="base64">ICAgIGZvciAoYXV0byogc2VtYXBob3JlIDogeyZtU2VtYXBob3JlSW1hZ2VBdmFpbGFibGUsICZtU2VtYXBob3JlUmVuZGVyRmluaXNoZWR9KSB7CiAgICAgIGlmICh2a0NyZWF0ZVNlbWFwaG9yZShtRGV2aWNlLCAmY3JlYXRlSW5mbywgbnVsbHB0ciwgc2VtYXBob3JlKSAhPSBWS19TVUNDRVNTKSB7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJjb3VsZCBub3QgY3JlYXRlIHNlbWFwaG9yZSIpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6dwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Zm4gYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2VwZXJhdG9yCg==</text>
+        <text encoding="base64">aW1wbCBzdGQ6OnN0cjo6RnJvbVN0ciBmb3IgRGVwZW5kZW5jeVNwZWMgewogICAgdHlwZSBFcnIgPSBEZXBlbmRlbmN5UGFyc2VFcnJvcjsKICAgIGZuIGZyb21fc3RyKHM6ICZzdHIpIC0+IFJlc3VsdDxTZWxmLCBTZWxmOjpFcnI+IHsKICAgIH0KfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaV9tb2R1bGVfc2VwZXJhdG9yLm9rX29yKCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29tcG9uZW50czogVmVjPCZzdHI+ID0gcy5zcGxpdCgiLyIpLmNvbGxlY3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaV9tb2R1bGVfc2VwZXJhdG9yID0gcwogICAgICAgICAgICAuZmluZCgiLy8iKQogICAgICAgICAgICAub2tfb3IoRGVwZW5kZW5jeVBhcnNlRXJyb3IoCiAgICAgICAgICAgICAgICBmb3JtYXQhKCJjb3VsZCBub3QgZmluZCBtb2R1bGUgc2VwYXJhdG9yICcvLycgaW4gcGF0aCBzcGVjIHt9IiwgcykKICAgICAgICAgICAgKSk/OwoKICAgICAgICBsZXQgbW9kdWxlX25hbWUgPSBzWzAuLmlfbW9kdWxlX3NlcGVyYXRvcl0uaW50bygpOwogICAgICAgIGxldCBtb2R1bGVfcGF0aF9zdHIgPSAmc1tpX21vZHVsZV9zZXBlcmF0b3IrMi4ucy5sZW4oKV07CiAgICAgICAgbGV0IG1vZHVsZV9wYXRoID0gUGF0aEJ1Zjo6ZnJvbV9zdHIobW9kdWxlX3BhdGhfc3RyKQogICAgICAgICAgICAub3IoRXJyKERlcGVuZGVuY3lQYXJzZUVycm9yKCkpKT87CgogICAgICAgIE9rKERlcGVuZGVuY3lTcGVjewogICAgICAgICAgICBtb2R1bGVfbmFtZSwKICAgICAgICAgICAgbW9kdWxlX3BhdGgsCiAgICAgICAgICAgIG1vZHVsZV9yZWxhdGl2ZV9wYXRoOiBQYXRoQnVmOjpuZXcoKQogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -264,6 +262,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
