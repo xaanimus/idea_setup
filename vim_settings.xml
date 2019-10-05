@@ -3,21 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/apps/projection/example_project_folder/PROJECT_DEPS_INFO" timestamp="1570163058874">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/code/apps/projection/example_project_folder/PROJECT_DEPS_INFO" timestamp="1570248179642">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="53" />
+        <mark key="." line="1" column="53" />
+        <mark key="^" line="1" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570164336071">
-        <mark key="'" line="148" column="20" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="148" column="19" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570248958844">
+        <mark key="'" line="191" column="11" />
+        <mark key="[" line="76" column="76" />
+        <mark key="]" line="76" column="82" />
+        <mark key="." line="76" column="82" />
+        <mark key="^" line="76" column="82" />
       </file>
       <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
         <mark key="[" line="10" column="0" />
@@ -72,26 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="18" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="530" column="25" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="527" column="36" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="629" column="19" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="82" column="15" filename="$USER_HOME$/code/apps/vk_app/src/main.cpp" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="47" column="3" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="205" column="9" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
-      <jump line="521" column="21" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
-      <jump line="537" column="25" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
-      <jump line="542" column="17" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
-      <jump line="1594" column="4" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
-      <jump line="1604" column="25" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="1605" column="42" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="1631" column="11" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
       <jump line="1645" column="4" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" />
@@ -104,7 +84,6 @@
       <jump line="38" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="46" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="51" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="12" column="53" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="81" column="4" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="111" column="24" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
@@ -119,7 +98,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="55" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="57" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="66" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="122" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="120" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
@@ -127,7 +105,6 @@
       <jump line="102" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="97" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="90" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="4" column="29" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="75" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="79" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
@@ -146,89 +123,109 @@
       <jump line="20" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="147" column="21" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="74" column="24" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="142" column="10" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="17" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="23" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="28" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="37" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="44" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="49" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="56" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="58" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="62" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="73" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="82" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="84" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="127" column="36" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="140" column="3" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="138" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="133" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
-      <jump line="124" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
       <jump line="150" column="20" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="64" column="37" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="69" column="89" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="100" column="17" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="121" column="4" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="124" column="33" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="166" column="8" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="176" column="40" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="175" column="21" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="146" column="12" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="151" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="164" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="170" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="177" column="0" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="186" column="32" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="188" column="28" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
+      <jump line="184" column="11" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiEoImFkZGVkOiB7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>henlo</text>
+        <text>: current_dir</text>
       </register>
       <register name="/" type="4">
-        <text>println</text>
+        <text>current_dir.as</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiEoImFkZGVkOiB7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiEoImRlcHM6IHs6P30iLCBuZXdfZGVwZW5kZW5jaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0b19kaXJlY3RvcnkuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgbGV0IGN1cnJlbnRfZGlyPSBlbnY6OmN1cnJlbnRfZGlyKCk/OwovLyAgICBsZXQgcGFyYW1zID0gQXBwUGFyYW1zIHsKLy8gICAgICAgIGN1cnJlbnRfZGlyCi8vICAgIH07Ci8vCi8vICAgIHJ1bl9hcHAoJnBhcmFtcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBOb25lID0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCBjdXJyZW50X2RpciA9IGVudjo6Y3VycmVudF9kaXIoKS5leHBlY3QoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzKTsKICAgIHByaW50bG4hKCJ7Oj99IiwgZGVwZW5kZW5jaWVzX3JlZik7Cgo=</text>
+        <text encoding="base64">ICAgIG1hdGNoIGFyZ3MubmV4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>println</last-search>
+      <last-search>current_dir.as</last-search>
       <last-offset />
-      <last-pattern>println</last-pattern>
+      <last-pattern>current_dir.as</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>oldSwapchain</entry>
-        <entry>imageViews</entry>
-        <entry>pipelineLayout</entry>
         <entry>cleanup</entry>
         <entry>command</entry>
         <entry>mCommandPool</entry>
@@ -246,6 +243,9 @@
         <entry>path</entry>
         <entry>env</entry>
         <entry>println</entry>
+        <entry>module_name</entry>
+        <entry>current_dir</entry>
+        <entry>current_dir.as</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
@@ -272,6 +272,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
