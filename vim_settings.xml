@@ -11,26 +11,6 @@
       <file name="/Dummy.txt" timestamp="1560551983791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1570248958844">
-        <mark key="'" line="191" column="11" />
-        <mark key="[" line="76" column="76" />
-        <mark key="]" line="76" column="82" />
-        <mark key="." line="76" column="82" />
-        <mark key="^" line="76" column="82" />
-      </file>
-      <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563436954680">
-        <mark key="'" line="629" column="19" />
-        <mark key="[" line="584" column="44" />
-        <mark key="]" line="584" column="51" />
-        <mark key="." line="584" column="51" />
-        <mark key="^" line="584" column="51" />
-      </file>
       <file name="$USER_HOME$/code/apps/vk_app/shader/main.vert" timestamp="1563436139635">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="18" column="51" />
@@ -38,8 +18,21 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
+      <file name="$USER_HOME$/code/apps/projection/src/main.rs" timestamp="1571370687250">
+        <mark key="'" line="196" column="11" />
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="93" column="77" />
+        <mark key="." line="93" column="77" />
+        <mark key="^" line="93" column="77" />
+      </file>
       <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/fs.rs" timestamp="1569394556388">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/apps/projection/Cargo.toml" timestamp="1569395328497">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/code/apps/vk_app/CMakeLists.txt" timestamp="1560962989408">
         <mark key="[" line="2" column="27" />
@@ -67,6 +60,13 @@
         <mark key="]" line="12" column="10" />
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/apps/vk_app/src/main.cpp" timestamp="1563436954680">
+        <mark key="'" line="629" column="19" />
+        <mark key="[" line="584" column="44" />
+        <mark key="]" line="584" column="51" />
+        <mark key="." line="584" column="51" />
+        <mark key="^" line="584" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -172,11 +172,11 @@
       <jump line="184" column="11" filename="$USER_HOME$/code/apps/projection/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="-" type="4">
-        <text>: current_dir</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>current_dir.as</text>
